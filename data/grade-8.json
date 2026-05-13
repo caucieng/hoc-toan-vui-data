@@ -29906,5 +29906,22 @@
       "chapter": 99,
       "lv": 3
     }
+  ],
+  "chapters": [
+    "Đa thức nhiều biến",
+    "Hằng đẳng thức đáng nhớ",
+    "Phân tích đa thức thành nhân tử",
+    "Phân thức đại số và các phép tính với phân thức",
+    "Hàm số và đồ thị",
+    "Hàm số bậc nhất y = ax + b",
+    "Phương trình bậc nhất một ẩn",
+    "Hình chóp tam giác đều và hình chóp tứ giác đều",
+    "Định lí Pythagore",
+    "Tứ giác, hình thang cân, hình bình hành, hình chữ nhật, hình thoi, hình vuông",
+    "Định lí Thalès",
+    "Tam giác đồng dạng",
+    "Thu thập, phân loại, biểu diễn và phân tích dữ liệu thống kê",
+    "Xác suất của biến cố và xác suất thực nghiệm",
+    "Tổng hợp Toán nâng cao"
   ]
 }

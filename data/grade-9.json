@@ -29906,5 +29906,22 @@
       "chapter": 99,
       "lv": 3
     }
+  ],
+  "chapters": [
+    "Căn bậc hai, căn bậc ba và căn thức",
+    "Hàm số y = ax² và đồ thị parabol",
+    "Phương trình quy về phương trình bậc nhất",
+    "Hệ phương trình bậc nhất hai ẩn",
+    "Phương trình bậc hai một ẩn",
+    "Định lí Viète và ứng dụng",
+    "Bất đẳng thức và bất phương trình bậc nhất một ẩn",
+    "Hình trụ, hình nón, hình cầu",
+    "Hệ thức lượng trong tam giác vuông",
+    "Tỉ số lượng giác: sin, cos, tan, cot",
+    "Đường tròn, tiếp tuyến, góc ở tâm, góc nội tiếp",
+    "Tứ giác nội tiếp và đa giác đều",
+    "Bảng tần số, tần số tương đối và biểu đồ histogram",
+    "Xác suất bằng phương pháp kiểm đếm",
+    "Tổng hợp Toán nâng cao"
   ]
 }

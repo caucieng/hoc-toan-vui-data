@@ -33616,5 +33616,32 @@
       "chapter": 99,
       "lv": 3
     }
+  ],
+  "chapters": [
+    "Phép cộng",
+    "Phép trừ",
+    "Phép nhân",
+    "Phép chia",
+    "So sánh số",
+    "Phân số",
+    "Hình học",
+    "Trung bình cộng",
+    "Tổng hợp Toán nâng cao",
+    "Kỹ thuật tính nhanh",
+    "Quan hệ phép tính",
+    "Viết số theo điều kiện",
+    "Lập số và quy tắc đếm",
+    "Cấu tạo số",
+    "Dấu hiệu chia hết",
+    "Phân số nâng cao",
+    "Đơn vịđo lường",
+    "Dãy số",
+    "Dãy số nâng cao",
+    "Tìm hai số",
+    "Tổng hiệu nâng cao",
+    "Toán có lời văn",
+    "Phép cộng trừ",
+    "Phép nhân chia",
+    "Toán đố"
   ]
 }

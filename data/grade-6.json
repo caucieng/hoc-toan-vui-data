@@ -29906,5 +29906,21 @@
       "chapter": 99,
       "lv": 3
     }
+  ],
+  "chapters": [
+    "Tập hợp và cách biểu diễn tập hợp",
+    "Số tự nhiên, lũy thừa với số mũ tự nhiên",
+    "Tính chia hết, ước, bội, số nguyên tố, ƯCLN, BCNN",
+    "Số nguyên và các phép tính với số nguyên",
+    "Phân số và các phép tính với phân số",
+    "Số thập phân và các phép tính với số thập phân",
+    "Tỉ số, tỉ số phần trăm và bài toán thực tế",
+    "Tam giác đều, hình vuông, lục giác đều",
+    "Hình chữ nhật, hình thoi, hình bình hành, hình thang cân",
+    "Đối xứng trục và đối xứng tâm",
+    "Điểm, đường thẳng, tia, đoạn thẳng, góc",
+    "Bảng thống kê, biểu đồ tranh, biểu đồ cột, biểu đồ cột kép",
+    "Xác suất thực nghiệm trong một số trò chơi và thí nghiệm đơn giản",
+    "Tổng hợp Toán nâng cao"
   ]
 }
