@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 9,
   "title": "Học Toán Lớp 9",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": "q9-0001",
@@ -15003,6 +15003,4506 @@
       "ch": "Xác suất bằng phương pháp kiểm đếm",
       "chapter": 14,
       "lv": 3
+    },
+    {
+      "id": "q9-adv-0001",
+      "q": "Rút gọn √486.",
+      "a": [
+        "9√6",
+        "10√6",
+        "54",
+        "9√7"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0002",
+      "q": "Phương trình x^2 + 2x - 48 = 0 có hai nghiệm là?",
+      "a": [
+        "-8 và 6",
+        "-8 và 7",
+        "8 và 6",
+        "-7 và 6"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0003",
+      "q": "Giải hệ: x + y = 4, x - y = -2. Giá trị của x là?",
+      "a": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0004",
+      "q": "Góc nội tiếp chắn cung 62° có số đo bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "30 độ",
+        "32 độ",
+        "31 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0005",
+      "q": "Hai đường thẳng y = 2x + 4 và y = 4x + 0 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0006",
+      "q": "Hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "3/5",
+        "1/2",
+        "7/15",
+        "8/15"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0007",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 58 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1452 cm2",
+        "1451 cm2",
+        "1449 cm2",
+        "1450 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0008",
+      "q": "Tính (9√8)^2.",
+      "a": [
+        "648",
+        "650",
+        "647",
+        "649"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0009",
+      "q": "Rút gọn √448.",
+      "a": [
+        "8√8",
+        "56",
+        "8√7",
+        "9√7"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0010",
+      "q": "Phương trình x^2 - 12x + 20 = 0 có hai nghiệm là?",
+      "a": [
+        "-2 và 10",
+        "2 và 11",
+        "2 và 10",
+        "3 và 10"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0011",
+      "q": "Giải hệ: x + y = -2, x - y = 0. Giá trị của x là?",
+      "a": [
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0012",
+      "q": "Góc nội tiếp chắn cung 74° có số đo bao nhiêu độ?",
+      "a": [
+        "36 độ",
+        "38 độ",
+        "37 độ",
+        "39 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0013",
+      "q": "Hai đường thẳng y = 1x + 2 và y = 5x + -26 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0014",
+      "q": "Hộp có 11 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "8/19",
+        "2/5",
+        "11/19",
+        "9/19"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0015",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 29 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "727 cm2",
+        "726 cm2",
+        "724 cm2",
+        "725 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0016",
+      "q": "Tính (4√2)^2.",
+      "a": [
+        "31",
+        "33",
+        "32",
+        "34"
+      ],
+      "c": "C",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0017",
+      "q": "Rút gọn √32.",
+      "a": [
+        "5√2",
+        "4√3",
+        "8",
+        "4√2"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0018",
+      "q": "Phương trình x^2 + 0x - 1 = 0 có hai nghiệm là?",
+      "a": [
+        "-1 và 1",
+        "0 và 1",
+        "-1 và 2",
+        "1 và 1"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0019",
+      "q": "Giải hệ: x + y = 3, x - y = 5. Giá trị của x là?",
+      "a": [
+        "5",
+        "3",
+        "6",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0020",
+      "q": "Góc nội tiếp chắn cung 128° có số đo bao nhiêu độ?",
+      "a": [
+        "66 độ",
+        "64 độ",
+        "63 độ",
+        "65 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0021",
+      "q": "Hai đường thẳng y = 2x + 4 và y = 4x + -4 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0022",
+      "q": "Hộp có 7 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "7/10",
+        "3/10",
+        "2/5",
+        "3/11"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0023",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 75 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "674 cm2",
+        "676 cm2",
+        "677 cm2",
+        "675 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0024",
+      "q": "Tính (4√2)^2.",
+      "a": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0025",
+      "q": "Rút gọn √243.",
+      "a": [
+        "9√4",
+        "9√3",
+        "10√3",
+        "27"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0026",
+      "q": "Phương trình x^2 - 4x - 21 = 0 có hai nghiệm là?",
+      "a": [
+        "-3 và 7",
+        "-2 và 7",
+        "3 và 7",
+        "-3 và 8"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0027",
+      "q": "Giải hệ: x + y = 7, x - y = -1. Giá trị của x là?",
+      "a": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0028",
+      "q": "Góc nội tiếp chắn cung 80° có số đo bao nhiêu độ?",
+      "a": [
+        "39 độ",
+        "42 độ",
+        "40 độ",
+        "41 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0029",
+      "q": "Hai đường thẳng y = 1x + -3 và y = 5x + -27 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0030",
+      "q": "Hộp có 11 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "11/21",
+        "5/11",
+        "9/21",
+        "10/21"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0031",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 46 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "183 cm2",
+        "185 cm2",
+        "184 cm2",
+        "186 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0032",
+      "q": "Tính (6√5)^2.",
+      "a": [
+        "180",
+        "181",
+        "179",
+        "182"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0033",
+      "q": "Rút gọn √448.",
+      "a": [
+        "8√8",
+        "9√7",
+        "8√7",
+        "56"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0034",
+      "q": "Phương trình x^2 - 7x - 30 = 0 có hai nghiệm là?",
+      "a": [
+        "3 và 10",
+        "-3 và 10",
+        "-2 và 10",
+        "-3 và 11"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0035",
+      "q": "Giải hệ: x + y = 3, x - y = -5. Giá trị của x là?",
+      "a": [
+        "-2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0036",
+      "q": "Góc nội tiếp chắn cung 134° có số đo bao nhiêu độ?",
+      "a": [
+        "69 độ",
+        "67 độ",
+        "66 độ",
+        "68 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0037",
+      "q": "Hai đường thẳng y = 3x + -8 và y = 4x + -14 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0038",
+      "q": "Hộp có 7 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "4/11",
+        "5/11",
+        "1/3",
+        "7/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0039",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 50 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1251 cm2",
+        "1252 cm2",
+        "1249 cm2",
+        "1250 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0040",
+      "q": "Tính (6√6)^2.",
+      "a": [
+        "215",
+        "216",
+        "218",
+        "217"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0041",
+      "q": "Rút gọn √384.",
+      "a": [
+        "9√6",
+        "8√6",
+        "8√7",
+        "48"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0042",
+      "q": "Phương trình x^2 + 5x - 24 = 0 có hai nghiệm là?",
+      "a": [
+        "-8 và 3",
+        "-7 và 3",
+        "8 và 3",
+        "-8 và 4"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0043",
+      "q": "Giải hệ: x + y = -4, x - y = 2. Giá trị của x là?",
+      "a": [
+        "1",
+        "0",
+        "-1",
+        "-2"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0044",
+      "q": "Góc nội tiếp chắn cung 144° có số đo bao nhiêu độ?",
+      "a": [
+        "73 độ",
+        "71 độ",
+        "72 độ",
+        "74 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0045",
+      "q": "Hai đường thẳng y = 1x + -4 và y = 2x + -2 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-1",
+        "-2",
+        "0",
+        "-3"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0046",
+      "q": "Hộp có 12 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "7/19",
+        "8/19",
+        "7/20",
+        "12/19"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0047",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 79 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "317 cm2",
+        "318 cm2",
+        "316 cm2",
+        "315 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0048",
+      "q": "Tính (2√6)^2.",
+      "a": [
+        "25",
+        "24",
+        "26",
+        "23"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0049",
+      "q": "Rút gọn √128.",
+      "a": [
+        "9√2",
+        "8√2",
+        "8√3",
+        "16"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0050",
+      "q": "Phương trình x^2 - 11x + 18 = 0 có hai nghiệm là?",
+      "a": [
+        "-2 và 9",
+        "2 và 10",
+        "2 và 9",
+        "3 và 9"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0051",
+      "q": "Giải hệ: x + y = 3, x - y = -13. Giá trị của x là?",
+      "a": [
+        "-5",
+        "-3",
+        "-4",
+        "-6"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0052",
+      "q": "Góc nội tiếp chắn cung 86° có số đo bao nhiêu độ?",
+      "a": [
+        "43 độ",
+        "44 độ",
+        "42 độ",
+        "45 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0053",
+      "q": "Hai đường thẳng y = 1x + -3 và y = 4x + 0 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0054",
+      "q": "Hộp có 4 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "3/5",
+        "7/10",
+        "2/5",
+        "6/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0055",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 69 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "620 cm2",
+        "623 cm2",
+        "622 cm2",
+        "621 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0056",
+      "q": "Tính (2√4)^2.",
+      "a": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0057",
+      "q": "Rút gọn √63.",
+      "a": [
+        "21",
+        "3√7",
+        "4√7",
+        "3√8"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0058",
+      "q": "Phương trình x^2 + 4x - 5 = 0 có hai nghiệm là?",
+      "a": [
+        "-5 và 2",
+        "-5 và 1",
+        "5 và 1",
+        "-4 và 1"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0059",
+      "q": "Giải hệ: x + y = 9, x - y = 5. Giá trị của x là?",
+      "a": [
+        "8",
+        "9",
+        "6",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0060",
+      "q": "Góc nội tiếp chắn cung 158° có số đo bao nhiêu độ?",
+      "a": [
+        "80 độ",
+        "81 độ",
+        "78 độ",
+        "79 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0061",
+      "q": "Hai đường thẳng y = 3x + -1 và y = 5x + 5 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-3",
+        "-2",
+        "-1",
+        "-4"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0062",
+      "q": "Hộp có 12 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/4",
+        "3/4",
+        "4/17",
+        "5/16"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0063",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 81 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "323 cm2",
+        "325 cm2",
+        "324 cm2",
+        "326 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0064",
+      "q": "Tính (4√8)^2.",
+      "a": [
+        "127",
+        "128",
+        "130",
+        "129"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0065",
+      "q": "Rút gọn √147.",
+      "a": [
+        "7√4",
+        "7√3",
+        "21",
+        "8√3"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0066",
+      "q": "Phương trình x^2 - 8x - 9 = 0 có hai nghiệm là?",
+      "a": [
+        "0 và 9",
+        "-1 và 10",
+        "-1 và 9",
+        "1 và 9"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0067",
+      "q": "Giải hệ: x + y = 6, x - y = -2. Giá trị của x là?",
+      "a": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0068",
+      "q": "Góc nội tiếp chắn cung 64° có số đo bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "31 độ",
+        "34 độ",
+        "32 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0069",
+      "q": "Hai đường thẳng y = 4x + 3 và y = 8x + 3 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "1",
+        "2",
+        "0",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0070",
+      "q": "Hộp có 4 bi đỏ và 9 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "9/13",
+        "10/13",
+        "4/13",
+        "9/14"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0071",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 62 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "559 cm2",
+        "557 cm2",
+        "558 cm2",
+        "560 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0072",
+      "q": "Tính (4√6)^2.",
+      "a": [
+        "97",
+        "96",
+        "98",
+        "95"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0073",
+      "q": "Rút gọn √125.",
+      "a": [
+        "5√6",
+        "5√5",
+        "6√5",
+        "25"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0074",
+      "q": "Phương trình x^2 - 1x - 6 = 0 có hai nghiệm là?",
+      "a": [
+        "2 và 3",
+        "-2 và 3",
+        "-2 và 4",
+        "-1 và 3"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0075",
+      "q": "Giải hệ: x + y = 2, x - y = -2. Giá trị của x là?",
+      "a": [
+        "0",
+        "1",
+        "2",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0076",
+      "q": "Góc nội tiếp chắn cung 70° có số đo bao nhiêu độ?",
+      "a": [
+        "35 độ",
+        "34 độ",
+        "37 độ",
+        "36 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0077",
+      "q": "Hai đường thẳng y = 4x + 2 và y = 7x + 2 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "2",
+        "0",
+        "5",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0078",
+      "q": "Hộp có 12 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/4",
+        "3/4",
+        "4/17",
+        "5/16"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0079",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 86 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "2150 cm2",
+        "2149 cm2",
+        "2152 cm2",
+        "2151 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0080",
+      "q": "Tính (4√2)^2.",
+      "a": [
+        "33",
+        "34",
+        "31",
+        "32"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0081",
+      "q": "Rút gọn √20.",
+      "a": [
+        "2√6",
+        "2√5",
+        "10",
+        "3√5"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0082",
+      "q": "Phương trình x^2 - 12x + 27 = 0 có hai nghiệm là?",
+      "a": [
+        "4 và 9",
+        "3 và 10",
+        "-3 và 9",
+        "3 và 9"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0083",
+      "q": "Giải hệ: x + y = 10, x - y = -8. Giá trị của x là?",
+      "a": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0084",
+      "q": "Góc nội tiếp chắn cung 52° có số đo bao nhiêu độ?",
+      "a": [
+        "28 độ",
+        "26 độ",
+        "25 độ",
+        "27 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0085",
+      "q": "Hai đường thẳng y = 4x + -1 và y = 5x + -5 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0086",
+      "q": "Hộp có 9 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "9/13",
+        "2/7",
+        "5/13",
+        "4/13"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0087",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 74 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "297 cm2",
+        "296 cm2",
+        "295 cm2",
+        "298 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0088",
+      "q": "Tính (6√8)^2.",
+      "a": [
+        "290",
+        "288",
+        "287",
+        "289"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0089",
+      "q": "Rút gọn √108.",
+      "a": [
+        "7√3",
+        "18",
+        "6√4",
+        "6√3"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0090",
+      "q": "Phương trình x^2 + 0x - 9 = 0 có hai nghiệm là?",
+      "a": [
+        "-3 và 4",
+        "3 và 3",
+        "-2 và 3",
+        "-3 và 3"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0091",
+      "q": "Giải hệ: x + y = 2, x - y = 8. Giá trị của x là?",
+      "a": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0092",
+      "q": "Góc nội tiếp chắn cung 64° có số đo bao nhiêu độ?",
+      "a": [
+        "31 độ",
+        "34 độ",
+        "33 độ",
+        "32 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0093",
+      "q": "Hai đường thẳng y = 2x + 0 và y = 6x + 12 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-2",
+        "-1",
+        "-4",
+        "-3"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0094",
+      "q": "Hộp có 7 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/2",
+        "4/7",
+        "2/2",
+        "7/15"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0095",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 50 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "199 cm2",
+        "200 cm2",
+        "202 cm2",
+        "201 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0096",
+      "q": "Tính (8√6)^2.",
+      "a": [
+        "385",
+        "386",
+        "384",
+        "383"
+      ],
+      "c": "C",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0097",
+      "q": "Rút gọn √108.",
+      "a": [
+        "6√3",
+        "7√3",
+        "6√4",
+        "18"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0098",
+      "q": "Phương trình x^2 - 4x - 45 = 0 có hai nghiệm là?",
+      "a": [
+        "-5 và 10",
+        "-4 và 9",
+        "5 và 9",
+        "-5 và 9"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0099",
+      "q": "Giải hệ: x + y = 0, x - y = -8. Giá trị của x là?",
+      "a": [
+        "-3",
+        "-5",
+        "-2",
+        "-4"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0100",
+      "q": "Góc nội tiếp chắn cung 102° có số đo bao nhiêu độ?",
+      "a": [
+        "51 độ",
+        "53 độ",
+        "50 độ",
+        "52 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0101",
+      "q": "Hai đường thẳng y = 3x + -5 và y = 6x + -17 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0102",
+      "q": "Hộp có 6 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "3/5",
+        "1/2",
+        "4/11",
+        "2/5"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0103",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 48 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1199 cm2",
+        "1202 cm2",
+        "1200 cm2",
+        "1201 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0104",
+      "q": "Tính (2√5)^2.",
+      "a": [
+        "21",
+        "19",
+        "20",
+        "22"
+      ],
+      "c": "C",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0105",
+      "q": "Rút gọn √125.",
+      "a": [
+        "5√5",
+        "6√5",
+        "5√6",
+        "25"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0106",
+      "q": "Phương trình x^2 - 2x - 15 = 0 có hai nghiệm là?",
+      "a": [
+        "-3 và 5",
+        "-3 và 6",
+        "-2 và 5",
+        "3 và 5"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0107",
+      "q": "Giải hệ: x + y = 1, x - y = 3. Giá trị của x là?",
+      "a": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0108",
+      "q": "Góc nội tiếp chắn cung 114° có số đo bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "57 độ",
+        "56 độ",
+        "59 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0109",
+      "q": "Hai đường thẳng y = 5x + -3 và y = 8x + 9 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-5",
+        "-3",
+        "-2",
+        "-4"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0110",
+      "q": "Hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/2",
+        "3/5",
+        "7/15",
+        "8/15"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0111",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 89 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "2224 cm2",
+        "2226 cm2",
+        "2227 cm2",
+        "2225 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0112",
+      "q": "Tính (7√5)^2.",
+      "a": [
+        "246",
+        "244",
+        "247",
+        "245"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0113",
+      "q": "Rút gọn √180.",
+      "a": [
+        "7√5",
+        "30",
+        "6√5",
+        "6√6"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0114",
+      "q": "Phương trình x^2 + 1x - 56 = 0 có hai nghiệm là?",
+      "a": [
+        "-8 và 7",
+        "-7 và 7",
+        "8 và 7",
+        "-8 và 8"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0115",
+      "q": "Giải hệ: x + y = 0, x - y = 4. Giá trị của x là?",
+      "a": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0116",
+      "q": "Góc nội tiếp chắn cung 44° có số đo bao nhiêu độ?",
+      "a": [
+        "23 độ",
+        "22 độ",
+        "24 độ",
+        "21 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0117",
+      "q": "Hai đường thẳng y = 1x + 2 và y = 2x + 3 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "0",
+        "-1",
+        "1",
+        "-2"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0118",
+      "q": "Hộp có 10 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "2/3",
+        "5/16",
+        "2/5",
+        "1/3"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0119",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 89 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "803 cm2",
+        "801 cm2",
+        "802 cm2",
+        "800 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0120",
+      "q": "Tính (2√2)^2.",
+      "a": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0121",
+      "q": "Rút gọn √180.",
+      "a": [
+        "6√6",
+        "7√5",
+        "6√5",
+        "30"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0122",
+      "q": "Phương trình x^2 + 3x - 18 = 0 có hai nghiệm là?",
+      "a": [
+        "6 và 3",
+        "-6 và 3",
+        "-6 và 4",
+        "-5 và 3"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0123",
+      "q": "Giải hệ: x + y = 1, x - y = -3. Giá trị của x là?",
+      "a": [
+        "-1",
+        "-2",
+        "1",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0124",
+      "q": "Góc nội tiếp chắn cung 138° có số đo bao nhiêu độ?",
+      "a": [
+        "68 độ",
+        "71 độ",
+        "69 độ",
+        "70 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0125",
+      "q": "Hai đường thẳng y = 1x + 2 và y = 3x + 0 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0126",
+      "q": "Hộp có 8 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "8/11",
+        "3/11",
+        "1/4",
+        "4/11"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0127",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 27 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "245 cm2",
+        "243 cm2",
+        "242 cm2",
+        "244 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0128",
+      "q": "Tính (10√7)^2.",
+      "a": [
+        "701",
+        "699",
+        "702",
+        "700"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0129",
+      "q": "Rút gọn √54.",
+      "a": [
+        "4√6",
+        "18",
+        "3√7",
+        "3√6"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0130",
+      "q": "Phương trình x^2 - 2x - 35 = 0 có hai nghiệm là?",
+      "a": [
+        "-4 và 7",
+        "5 và 7",
+        "-5 và 7",
+        "-5 và 8"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0131",
+      "q": "Giải hệ: x + y = 11, x - y = -3. Giá trị của x là?",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0132",
+      "q": "Góc nội tiếp chắn cung 98° có số đo bao nhiêu độ?",
+      "a": [
+        "51 độ",
+        "49 độ",
+        "50 độ",
+        "48 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0133",
+      "q": "Hai đường thẳng y = 5x + 6 và y = 6x + 3 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0134",
+      "q": "Hộp có 5 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "6/11",
+        "7/11",
+        "1/2",
+        "5/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0135",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 81 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "2025 cm2",
+        "2027 cm2",
+        "2026 cm2",
+        "2024 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0136",
+      "q": "Tính (8√1)^2.",
+      "a": [
+        "63",
+        "66",
+        "65",
+        "64"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0137",
+      "q": "Rút gọn √384.",
+      "a": [
+        "8√6",
+        "8√7",
+        "9√6",
+        "48"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0138",
+      "q": "Phương trình x^2 - 9x + 20 = 0 có hai nghiệm là?",
+      "a": [
+        "5 và 5",
+        "-5 và 4",
+        "5 và 4",
+        "6 và 4"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0139",
+      "q": "Giải hệ: x + y = -6, x - y = 2. Giá trị của x là?",
+      "a": [
+        "-2",
+        "-3",
+        "0",
+        "-1"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0140",
+      "q": "Góc nội tiếp chắn cung 82° có số đo bao nhiêu độ?",
+      "a": [
+        "40 độ",
+        "41 độ",
+        "42 độ",
+        "43 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0141",
+      "q": "Hai đường thẳng y = 2x + -1 và y = 4x + 3 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-1",
+        "-3",
+        "0",
+        "-2"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0142",
+      "q": "Hộp có 4 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "3/4",
+        "1/3",
+        "2/3",
+        "8/13"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0143",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 61 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "976 cm2",
+        "977 cm2",
+        "978 cm2",
+        "975 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0144",
+      "q": "Tính (9√2)^2.",
+      "a": [
+        "162",
+        "164",
+        "161",
+        "163"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0145",
+      "q": "Rút gọn √24.",
+      "a": [
+        "2√6",
+        "12",
+        "2√7",
+        "3√6"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0146",
+      "q": "Phương trình x^2 + 3x - 40 = 0 có hai nghiệm là?",
+      "a": [
+        "-7 và 5",
+        "-8 và 6",
+        "-8 và 5",
+        "8 và 5"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0147",
+      "q": "Giải hệ: x + y = -2, x - y = 0. Giá trị của x là?",
+      "a": [
+        "0",
+        "-1",
+        "1",
+        "-2"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0148",
+      "q": "Góc nội tiếp chắn cung 50° có số đo bao nhiêu độ?",
+      "a": [
+        "27 độ",
+        "25 độ",
+        "26 độ",
+        "24 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0149",
+      "q": "Hai đường thẳng y = 5x + 6 và y = 8x + 6 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "5",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0150",
+      "q": "Hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "8/13",
+        "7/13",
+        "6/13",
+        "1/2"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0151",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 71 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1138 cm2",
+        "1135 cm2",
+        "1137 cm2",
+        "1136 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0152",
+      "q": "Tính (3√1)^2.",
+      "a": [
+        "9",
+        "10",
+        "11",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0153",
+      "q": "Rút gọn √45.",
+      "a": [
+        "3√6",
+        "15",
+        "3√5",
+        "4√5"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0154",
+      "q": "Phương trình x^2 - 3x + 2 = 0 có hai nghiệm là?",
+      "a": [
+        "1 và 2",
+        "1 và 3",
+        "2 và 2",
+        "-1 và 2"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0155",
+      "q": "Giải hệ: x + y = -5, x - y = 3. Giá trị của x là?",
+      "a": [
+        "-2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0156",
+      "q": "Góc nội tiếp chắn cung 40° có số đo bao nhiêu độ?",
+      "a": [
+        "22 độ",
+        "20 độ",
+        "19 độ",
+        "21 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0157",
+      "q": "Hai đường thẳng y = 4x + -2 và y = 5x + -7 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0158",
+      "q": "Hộp có 8 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/4",
+        "3/11",
+        "4/11",
+        "8/11"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0159",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 27 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "107 cm2",
+        "108 cm2",
+        "109 cm2",
+        "110 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0160",
+      "q": "Tính (5√8)^2.",
+      "a": [
+        "199",
+        "202",
+        "201",
+        "200"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0161",
+      "q": "Rút gọn √320.",
+      "a": [
+        "8√5",
+        "40",
+        "9√5",
+        "8√6"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0162",
+      "q": "Phương trình x^2 - 8x + 16 = 0 có hai nghiệm là?",
+      "a": [
+        "5 và 4",
+        "4 và 4",
+        "4 và 5",
+        "-4 và 4"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0163",
+      "q": "Giải hệ: x + y = 10, x - y = 2. Giá trị của x là?",
+      "a": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0164",
+      "q": "Góc nội tiếp chắn cung 104° có số đo bao nhiêu độ?",
+      "a": [
+        "52 độ",
+        "53 độ",
+        "51 độ",
+        "54 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0165",
+      "q": "Hai đường thẳng y = 1x + -2 và y = 3x + -4 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0166",
+      "q": "Hộp có 7 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "7/10",
+        "3/11",
+        "2/5",
+        "3/10"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0167",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 42 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "379 cm2",
+        "378 cm2",
+        "377 cm2",
+        "380 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0168",
+      "q": "Tính (7√2)^2.",
+      "a": [
+        "98",
+        "100",
+        "97",
+        "99"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0169",
+      "q": "Rút gọn √12.",
+      "a": [
+        "2√3",
+        "6",
+        "3√3",
+        "2√4"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0170",
+      "q": "Phương trình x^2 - 6x + 5 = 0 có hai nghiệm là?",
+      "a": [
+        "6 và 1",
+        "-5 và 1",
+        "5 và 2",
+        "5 và 1"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0171",
+      "q": "Giải hệ: x + y = 3, x - y = -11. Giá trị của x là?",
+      "a": [
+        "-3",
+        "-4",
+        "-2",
+        "-5"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0172",
+      "q": "Góc nội tiếp chắn cung 64° có số đo bao nhiêu độ?",
+      "a": [
+        "32 độ",
+        "34 độ",
+        "31 độ",
+        "33 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0173",
+      "q": "Hai đường thẳng y = 4x + -2 và y = 8x + 10 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-1",
+        "-2",
+        "-4",
+        "-3"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0174",
+      "q": "Hộp có 5 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "6/11",
+        "5/11",
+        "1/2",
+        "7/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0175",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 63 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "252 cm2",
+        "253 cm2",
+        "254 cm2",
+        "251 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0176",
+      "q": "Tính (7√5)^2.",
+      "a": [
+        "247",
+        "246",
+        "245",
+        "244"
+      ],
+      "c": "C",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0177",
+      "q": "Rút gọn √147.",
+      "a": [
+        "21",
+        "7√4",
+        "7√3",
+        "8√3"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0178",
+      "q": "Phương trình x^2 - 1x - 56 = 0 có hai nghiệm là?",
+      "a": [
+        "7 và 8",
+        "-7 và 9",
+        "-6 và 8",
+        "-7 và 8"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0179",
+      "q": "Giải hệ: x + y = -5, x - y = -3. Giá trị của x là?",
+      "a": [
+        "-2",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0180",
+      "q": "Góc nội tiếp chắn cung 114° có số đo bao nhiêu độ?",
+      "a": [
+        "57 độ",
+        "56 độ",
+        "59 độ",
+        "58 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0181",
+      "q": "Hai đường thẳng y = 3x + -6 và y = 5x + -10 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0182",
+      "q": "Hộp có 5 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "7/13",
+        "5/12",
+        "2/3",
+        "7/12"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0183",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 66 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1649 cm2",
+        "1652 cm2",
+        "1650 cm2",
+        "1651 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0184",
+      "q": "Tính (2√6)^2.",
+      "a": [
+        "26",
+        "23",
+        "25",
+        "24"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0185",
+      "q": "Rút gọn √98.",
+      "a": [
+        "14",
+        "7√2",
+        "7√3",
+        "8√2"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0186",
+      "q": "Phương trình x^2 + 4x - 21 = 0 có hai nghiệm là?",
+      "a": [
+        "-7 và 4",
+        "7 và 3",
+        "-6 và 3",
+        "-7 và 3"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0187",
+      "q": "Giải hệ: x + y = 1, x - y = 9. Giá trị của x là?",
+      "a": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0188",
+      "q": "Góc nội tiếp chắn cung 120° có số đo bao nhiêu độ?",
+      "a": [
+        "59 độ",
+        "62 độ",
+        "60 độ",
+        "61 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0189",
+      "q": "Hai đường thẳng y = 5x + -6 và y = 7x + -18 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0190",
+      "q": "Hộp có 8 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "2/5",
+        "1/2",
+        "3/7",
+        "4/7"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0191",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 53 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1324 cm2",
+        "1326 cm2",
+        "1327 cm2",
+        "1325 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0192",
+      "q": "Tính (8√1)^2.",
+      "a": [
+        "64",
+        "65",
+        "63",
+        "66"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0193",
+      "q": "Rút gọn √150.",
+      "a": [
+        "30",
+        "5√6",
+        "6√6",
+        "5√7"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0194",
+      "q": "Phương trình x^2 - 10x + 21 = 0 có hai nghiệm là?",
+      "a": [
+        "4 và 7",
+        "-3 và 7",
+        "3 và 8",
+        "3 và 7"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0195",
+      "q": "Giải hệ: x + y = 0, x - y = -4. Giá trị của x là?",
+      "a": [
+        "-2",
+        "-3",
+        "-1",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0196",
+      "q": "Góc nội tiếp chắn cung 114° có số đo bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "57 độ",
+        "56 độ",
+        "59 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0197",
+      "q": "Hai đường thẳng y = 4x + 3 và y = 6x + 5 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "0",
+        "-2",
+        "1",
+        "-1"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0198",
+      "q": "Hộp có 9 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "3/13",
+        "3/4",
+        "1/3",
+        "1/4"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0199",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 82 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "329 cm2",
+        "328 cm2",
+        "327 cm2",
+        "330 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0200",
+      "q": "Tính (5√1)^2.",
+      "a": [
+        "24",
+        "27",
+        "26",
+        "25"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0201",
+      "q": "Rút gọn √12.",
+      "a": [
+        "3√3",
+        "2√4",
+        "2√3",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0202",
+      "q": "Phương trình x^2 + 2x - 35 = 0 có hai nghiệm là?",
+      "a": [
+        "-7 và 5",
+        "7 và 5",
+        "-7 và 6",
+        "-6 và 5"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0203",
+      "q": "Giải hệ: x + y = 3, x - y = 11. Giá trị của x là?",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0204",
+      "q": "Góc nội tiếp chắn cung 134° có số đo bao nhiêu độ?",
+      "a": [
+        "68 độ",
+        "69 độ",
+        "66 độ",
+        "67 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0205",
+      "q": "Hai đường thẳng y = 1x + 1 và y = 3x + 7 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-1",
+        "-4",
+        "-3",
+        "-2"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0206",
+      "q": "Hộp có 6 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "4/11",
+        "6/11",
+        "5/11",
+        "5/12"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0207",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 69 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "621 cm2",
+        "620 cm2",
+        "623 cm2",
+        "622 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0208",
+      "q": "Tính (9√6)^2.",
+      "a": [
+        "488",
+        "486",
+        "487",
+        "485"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0209",
+      "q": "Rút gọn √810.",
+      "a": [
+        "9√10",
+        "90",
+        "10√10",
+        "9√11"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0210",
+      "q": "Phương trình x^2 - 7x + 0 = 0 có hai nghiệm là?",
+      "a": [
+        "2 và 7",
+        "0 và 7",
+        "1 và 7",
+        "0 và 8"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0211",
+      "q": "Giải hệ: x + y = 2, x - y = -4. Giá trị của x là?",
+      "a": [
+        "0",
+        "1",
+        "-1",
+        "-2"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0212",
+      "q": "Góc nội tiếp chắn cung 154° có số đo bao nhiêu độ?",
+      "a": [
+        "76 độ",
+        "77 độ",
+        "78 độ",
+        "79 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0213",
+      "q": "Hai đường thẳng y = 4x + -3 và y = 7x + 0 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-1",
+        "1",
+        "0",
+        "-2"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0214",
+      "q": "Hộp có 10 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/3",
+        "2/5",
+        "5/16",
+        "2/3"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0215",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 32 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "289 cm2",
+        "290 cm2",
+        "288 cm2",
+        "287 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0216",
+      "q": "Tính (10√8)^2.",
+      "a": [
+        "800",
+        "802",
+        "801",
+        "799"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0217",
+      "q": "Rút gọn √90.",
+      "a": [
+        "30",
+        "3√10",
+        "3√11",
+        "4√10"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0218",
+      "q": "Phương trình x^2 - 7x + 12 = 0 có hai nghiệm là?",
+      "a": [
+        "4 và 3",
+        "-4 và 3",
+        "4 và 4",
+        "5 và 3"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0219",
+      "q": "Giải hệ: x + y = -4, x - y = 0. Giá trị của x là?",
+      "a": [
+        "0",
+        "-2",
+        "-3",
+        "-1"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0220",
+      "q": "Góc nội tiếp chắn cung 68° có số đo bao nhiêu độ?",
+      "a": [
+        "35 độ",
+        "36 độ",
+        "34 độ",
+        "33 độ"
+      ],
+      "c": "C",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0221",
+      "q": "Hai đường thẳng y = 4x + -4 và y = 8x + -16 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0222",
+      "q": "Hộp có 10 bi đỏ và 9 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "9/20",
+        "9/19",
+        "10/19",
+        "8/19"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0223",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 69 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "622 cm2",
+        "620 cm2",
+        "623 cm2",
+        "621 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0224",
+      "q": "Tính (5√5)^2.",
+      "a": [
+        "124",
+        "126",
+        "125",
+        "127"
+      ],
+      "c": "C",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0225",
+      "q": "Rút gọn √50.",
+      "a": [
+        "6√2",
+        "10",
+        "5√3",
+        "5√2"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0226",
+      "q": "Phương trình x^2 - 10x + 24 = 0 có hai nghiệm là?",
+      "a": [
+        "4 và 7",
+        "4 và 6",
+        "5 và 6",
+        "-4 và 6"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0227",
+      "q": "Giải hệ: x + y = 5, x - y = 3. Giá trị của x là?",
+      "a": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0228",
+      "q": "Góc nội tiếp chắn cung 102° có số đo bao nhiêu độ?",
+      "a": [
+        "53 độ",
+        "51 độ",
+        "50 độ",
+        "52 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0229",
+      "q": "Hai đường thẳng y = 3x + 0 và y = 7x + 16 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-2",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0230",
+      "q": "Hộp có 5 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "4/7",
+        "8/13",
+        "9/13",
+        "5/13"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0231",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 87 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1392 cm2",
+        "1394 cm2",
+        "1391 cm2",
+        "1393 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0232",
+      "q": "Tính (5√5)^2.",
+      "a": [
+        "125",
+        "127",
+        "126",
+        "124"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0233",
+      "q": "Rút gọn √112.",
+      "a": [
+        "4√8",
+        "4√7",
+        "5√7",
+        "28"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0234",
+      "q": "Phương trình x^2 - 5x - 50 = 0 có hai nghiệm là?",
+      "a": [
+        "-5 và 11",
+        "-5 và 10",
+        "5 và 10",
+        "-4 và 10"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0235",
+      "q": "Giải hệ: x + y = 6, x - y = -6. Giá trị của x là?",
+      "a": [
+        "2",
+        "1",
+        "0",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0236",
+      "q": "Góc nội tiếp chắn cung 156° có số đo bao nhiêu độ?",
+      "a": [
+        "79 độ",
+        "78 độ",
+        "77 độ",
+        "80 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0237",
+      "q": "Hai đường thẳng y = 2x + 7 và y = 4x + 13 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-4",
+        "-3",
+        "-2",
+        "-1"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0238",
+      "q": "Hộp có 12 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "12/17",
+        "5/18",
+        "5/17",
+        "6/17"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0239",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 44 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "705 cm2",
+        "703 cm2",
+        "704 cm2",
+        "706 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0240",
+      "q": "Tính (5√7)^2.",
+      "a": [
+        "175",
+        "176",
+        "174",
+        "177"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0241",
+      "q": "Rút gọn √320.",
+      "a": [
+        "8√6",
+        "9√5",
+        "8√5",
+        "40"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0242",
+      "q": "Phương trình x^2 + 4x - 21 = 0 có hai nghiệm là?",
+      "a": [
+        "7 và 3",
+        "-7 và 3",
+        "-6 và 3",
+        "-7 và 4"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0243",
+      "q": "Giải hệ: x + y = 3, x - y = 1. Giá trị của x là?",
+      "a": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0244",
+      "q": "Góc nội tiếp chắn cung 108° có số đo bao nhiêu độ?",
+      "a": [
+        "56 độ",
+        "54 độ",
+        "53 độ",
+        "55 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0245",
+      "q": "Hai đường thẳng y = 4x + -7 và y = 8x + 1 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-3",
+        "-1",
+        "0",
+        "-2"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0246",
+      "q": "Hộp có 4 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "4/7",
+        "2/7",
+        "3/7",
+        "3/8"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0247",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 49 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "1224 cm2",
+        "1226 cm2",
+        "1225 cm2",
+        "1227 cm2"
+      ],
+      "c": "C",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0248",
+      "q": "Tính (9√8)^2.",
+      "a": [
+        "650",
+        "648",
+        "647",
+        "649"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0249",
+      "q": "Rút gọn √18.",
+      "a": [
+        "3√2",
+        "4√2",
+        "6",
+        "3√3"
+      ],
+      "c": "A",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0250",
+      "q": "Phương trình x^2 - 5x - 50 = 0 có hai nghiệm là?",
+      "a": [
+        "-5 và 10",
+        "-5 và 11",
+        "-4 và 10",
+        "5 và 10"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0251",
+      "q": "Giải hệ: x + y = 7, x - y = -1. Giá trị của x là?",
+      "a": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "c": "A",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0252",
+      "q": "Góc nội tiếp chắn cung 66° có số đo bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "34 độ",
+        "35 độ",
+        "32 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0253",
+      "q": "Hai đường thẳng y = 5x + 5 và y = 7x + 9 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "0",
+        "-3",
+        "-1",
+        "-2"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0254",
+      "q": "Hộp có 10 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/3",
+        "5/16",
+        "2/3",
+        "2/5"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0255",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 41 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "658 cm2",
+        "657 cm2",
+        "655 cm2",
+        "656 cm2"
+      ],
+      "c": "D",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0256",
+      "q": "Tính (9√3)^2.",
+      "a": [
+        "245",
+        "244",
+        "242",
+        "243"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0257",
+      "q": "Rút gọn √8.",
+      "a": [
+        "2√3",
+        "4",
+        "3√2",
+        "2√2"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0258",
+      "q": "Phương trình x^2 - 2x - 24 = 0 có hai nghiệm là?",
+      "a": [
+        "4 và 6",
+        "-3 và 6",
+        "-4 và 6",
+        "-4 và 7"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0259",
+      "q": "Giải hệ: x + y = 1, x - y = -9. Giá trị của x là?",
+      "a": [
+        "-5",
+        "-4",
+        "-2",
+        "-3"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0260",
+      "q": "Góc nội tiếp chắn cung 144° có số đo bao nhiêu độ?",
+      "a": [
+        "71 độ",
+        "72 độ",
+        "74 độ",
+        "73 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0261",
+      "q": "Hai đường thẳng y = 3x + 8 và y = 7x + 20 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-2",
+        "-4",
+        "-3",
+        "-1"
+      ],
+      "c": "C",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0262",
+      "q": "Hộp có 8 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "8/17",
+        "1/2",
+        "2/2",
+        "9/16"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0263",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 61 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "245 cm2",
+        "244 cm2",
+        "246 cm2",
+        "243 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0264",
+      "q": "Tính (2√5)^2.",
+      "a": [
+        "20",
+        "19",
+        "21",
+        "22"
+      ],
+      "c": "A",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0265",
+      "q": "Rút gọn √40.",
+      "a": [
+        "20",
+        "2√10",
+        "2√11",
+        "3√10"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0266",
+      "q": "Phương trình x^2 + 5x - 6 = 0 có hai nghiệm là?",
+      "a": [
+        "6 và 1",
+        "-5 và 1",
+        "-6 và 2",
+        "-6 và 1"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0267",
+      "q": "Giải hệ: x + y = 0, x - y = 2. Giá trị của x là?",
+      "a": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0268",
+      "q": "Góc nội tiếp chắn cung 112° có số đo bao nhiêu độ?",
+      "a": [
+        "56 độ",
+        "57 độ",
+        "55 độ",
+        "58 độ"
+      ],
+      "c": "A",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0269",
+      "q": "Hai đường thẳng y = 1x + -6 và y = 4x + -12 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0270",
+      "q": "Hộp có 12 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "12/17",
+        "5/17",
+        "6/17",
+        "5/18"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0271",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 29 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "463 cm2",
+        "464 cm2",
+        "465 cm2",
+        "466 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0272",
+      "q": "Tính (3√4)^2.",
+      "a": [
+        "35",
+        "37",
+        "38",
+        "36"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0273",
+      "q": "Rút gọn √40.",
+      "a": [
+        "20",
+        "2√10",
+        "2√11",
+        "3√10"
+      ],
+      "c": "B",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0274",
+      "q": "Phương trình x^2 - 14x + 40 = 0 có hai nghiệm là?",
+      "a": [
+        "-4 và 10",
+        "4 và 10",
+        "4 và 11",
+        "5 và 10"
+      ],
+      "c": "B",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0275",
+      "q": "Giải hệ: x + y = 4, x - y = -10. Giá trị của x là?",
+      "a": [
+        "-4",
+        "-3",
+        "-2",
+        "-1"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0276",
+      "q": "Góc nội tiếp chắn cung 124° có số đo bao nhiêu độ?",
+      "a": [
+        "64 độ",
+        "62 độ",
+        "63 độ",
+        "61 độ"
+      ],
+      "c": "B",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0277",
+      "q": "Hai đường thẳng y = 5x + -5 và y = 7x + -19 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "7",
+        "6",
+        "9",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0278",
+      "q": "Hộp có 7 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "5/13",
+        "3/7",
+        "6/13",
+        "7/13"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0279",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 51 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "459 cm2",
+        "461 cm2",
+        "458 cm2",
+        "460 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0280",
+      "q": "Tính (7√5)^2.",
+      "a": [
+        "244",
+        "247",
+        "246",
+        "245"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0281",
+      "q": "Rút gọn √18.",
+      "a": [
+        "3√3",
+        "4√2",
+        "3√2",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0282",
+      "q": "Phương trình x^2 + 7x - 8 = 0 có hai nghiệm là?",
+      "a": [
+        "-8 và 1",
+        "-7 và 1",
+        "-8 và 2",
+        "8 và 1"
+      ],
+      "c": "A",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0283",
+      "q": "Giải hệ: x + y = 8, x - y = -4. Giá trị của x là?",
+      "a": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0284",
+      "q": "Góc nội tiếp chắn cung 134° có số đo bao nhiêu độ?",
+      "a": [
+        "69 độ",
+        "68 độ",
+        "66 độ",
+        "67 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0285",
+      "q": "Hai đường thẳng y = 3x + -4 và y = 5x + -18 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0286",
+      "q": "Hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "8/13",
+        "6/13",
+        "1/2",
+        "7/13"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0287",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 71 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "286 cm2",
+        "284 cm2",
+        "283 cm2",
+        "285 cm2"
+      ],
+      "c": "B",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0288",
+      "q": "Tính (10√3)^2.",
+      "a": [
+        "301",
+        "299",
+        "302",
+        "300"
+      ],
+      "c": "D",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0289",
+      "q": "Rút gọn √108.",
+      "a": [
+        "6√4",
+        "18",
+        "7√3",
+        "6√3"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0290",
+      "q": "Phương trình x^2 - 1x - 12 = 0 có hai nghiệm là?",
+      "a": [
+        "-2 và 4",
+        "-3 và 5",
+        "-3 và 4",
+        "3 và 4"
+      ],
+      "c": "C",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0291",
+      "q": "Giải hệ: x + y = 6, x - y = -2. Giá trị của x là?",
+      "a": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0292",
+      "q": "Góc nội tiếp chắn cung 62° có số đo bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "32 độ",
+        "30 độ",
+        "31 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0293",
+      "q": "Hai đường thẳng y = 1x + 8 và y = 5x + 20 cắt nhau tại điểm có hoành độ bao nhiêu?",
+      "a": [
+        "-2",
+        "-1",
+        "-4",
+        "-3"
+      ],
+      "c": "D",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0294",
+      "q": "Hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là?",
+      "a": [
+        "1/2",
+        "8/15",
+        "3/5",
+        "7/15"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0295",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 22 cm2 thì diện tích tam giác lớn là bao nhiêu?",
+      "a": [
+        "198 cm2",
+        "200 cm2",
+        "197 cm2",
+        "199 cm2"
+      ],
+      "c": "A",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0296",
+      "q": "Tính (9√1)^2.",
+      "a": [
+        "82",
+        "81",
+        "80",
+        "83"
+      ],
+      "c": "B",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0297",
+      "q": "Rút gọn √98.",
+      "a": [
+        "14",
+        "7√3",
+        "8√2",
+        "7√2"
+      ],
+      "c": "D",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0298",
+      "q": "Phương trình x^2 + 2x - 24 = 0 có hai nghiệm là?",
+      "a": [
+        "6 và 4",
+        "-6 và 5",
+        "-5 và 4",
+        "-6 và 4"
+      ],
+      "c": "D",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0299",
+      "q": "Giải hệ: x + y = 6, x - y = -8. Giá trị của x là?",
+      "a": [
+        "-2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "c": "D",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q9-adv-0300",
+      "q": "Góc nội tiếp chắn cung 40° có số đo bao nhiêu độ?",
+      "a": [
+        "21 độ",
+        "22 độ",
+        "19 độ",
+        "20 độ"
+      ],
+      "c": "D",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -23004,6 +27504,2406 @@
       "hint": "Xác suất = số trường hợp thuận lợi : tổng số trường hợp.\nĐáp án: 1/2",
       "ch": "Xác suất bằng phương pháp kiểm đếm",
       "chapter": 14,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0001",
+      "q": "Rút gọn √12. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0002",
+      "q": "Phương trình x^2 - 9x - 10 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0003",
+      "q": "Giải hệ: x + y = 8, x - y = 0. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0004",
+      "q": "Góc nội tiếp chắn cung 90° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0005",
+      "q": "Hai đường thẳng y = 4x + 4 và y = 5x + -1 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0006",
+      "q": "Hộp có 4 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0007",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 36 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0008",
+      "q": "Tính (2√7)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0009",
+      "q": "Rút gọn √245. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0010",
+      "q": "Phương trình x^2 - 12x + 27 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0011",
+      "q": "Giải hệ: x + y = -1, x - y = 7. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0012",
+      "q": "Góc nội tiếp chắn cung 118° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0013",
+      "q": "Hai đường thẳng y = 1x + 5 và y = 5x + 21 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0014",
+      "q": "Hộp có 6 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0015",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 75 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0016",
+      "q": "Tính (8√1)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0017",
+      "q": "Rút gọn √125. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0018",
+      "q": "Phương trình x^2 - 2x + 0 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0019",
+      "q": "Giải hệ: x + y = 7, x - y = -11. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0020",
+      "q": "Góc nội tiếp chắn cung 76° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0021",
+      "q": "Hai đường thẳng y = 5x + 0 và y = 8x + -3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0022",
+      "q": "Hộp có 9 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0023",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 57 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0024",
+      "q": "Tính (8√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0025",
+      "q": "Rút gọn √40. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0026",
+      "q": "Phương trình x^2 - 1x - 56 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0027",
+      "q": "Giải hệ: x + y = 4, x - y = -14. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0028",
+      "q": "Góc nội tiếp chắn cung 70° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0029",
+      "q": "Hai đường thẳng y = 3x + -7 và y = 6x + -1 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0030",
+      "q": "Hộp có 5 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0031",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 70 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0032",
+      "q": "Tính (6√8)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0033",
+      "q": "Rút gọn √54. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0034",
+      "q": "Phương trình x^2 - 5x - 14 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0035",
+      "q": "Giải hệ: x + y = 1, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0036",
+      "q": "Góc nội tiếp chắn cung 128° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0037",
+      "q": "Hai đường thẳng y = 4x + 4 và y = 5x + -2 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0038",
+      "q": "Hộp có 11 bi đỏ và 9 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0039",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 36 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0040",
+      "q": "Tính (10√4)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0041",
+      "q": "Rút gọn √448. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0042",
+      "q": "Phương trình x^2 - 12x + 27 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0043",
+      "q": "Giải hệ: x + y = -1, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0044",
+      "q": "Góc nội tiếp chắn cung 56° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0045",
+      "q": "Hai đường thẳng y = 2x + -4 và y = 6x + -16 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0046",
+      "q": "Hộp có 5 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0047",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 59 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0048",
+      "q": "Tính (3√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0049",
+      "q": "Rút gọn √63. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0050",
+      "q": "Phương trình x^2 - 10x + 24 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0051",
+      "q": "Giải hệ: x + y = 2, x - y = 0. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0052",
+      "q": "Góc nội tiếp chắn cung 140° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0053",
+      "q": "Hai đường thẳng y = 5x + -2 và y = 7x + 2 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0054",
+      "q": "Hộp có 10 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0055",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 80 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0056",
+      "q": "Tính (2√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0057",
+      "q": "Rút gọn √80. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0058",
+      "q": "Phương trình x^2 - 3x + 2 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0059",
+      "q": "Giải hệ: x + y = -3, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0060",
+      "q": "Góc nội tiếp chắn cung 80° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0061",
+      "q": "Hai đường thẳng y = 3x + -4 và y = 4x + -6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0062",
+      "q": "Hộp có 8 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0063",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 40 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0064",
+      "q": "Tính (3√3)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0065",
+      "q": "Rút gọn √27. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0066",
+      "q": "Phương trình x^2 + 5x - 14 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0067",
+      "q": "Giải hệ: x + y = 11, x - y = 5. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0068",
+      "q": "Góc nội tiếp chắn cung 150° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0069",
+      "q": "Hai đường thẳng y = 1x + -6 và y = 4x + -15 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0070",
+      "q": "Hộp có 6 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0071",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 43 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0072",
+      "q": "Tính (4√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0073",
+      "q": "Rút gọn √40. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0074",
+      "q": "Phương trình x^2 - 5x - 50 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0075",
+      "q": "Giải hệ: x + y = 3, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0076",
+      "q": "Góc nội tiếp chắn cung 72° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0077",
+      "q": "Hai đường thẳng y = 4x + 6 và y = 7x + 3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0078",
+      "q": "Hộp có 6 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0079",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 66 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0080",
+      "q": "Tính (2√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0081",
+      "q": "Rút gọn √180. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0082",
+      "q": "Phương trình x^2 - 9x + 18 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0083",
+      "q": "Giải hệ: x + y = -2, x - y = -6. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0084",
+      "q": "Góc nội tiếp chắn cung 160° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0085",
+      "q": "Hai đường thẳng y = 1x + -7 và y = 2x + -10 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0086",
+      "q": "Hộp có 5 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0087",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 45 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0088",
+      "q": "Tính (9√5)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0089",
+      "q": "Rút gọn √490. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0090",
+      "q": "Phương trình x^2 - 8x + 15 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0091",
+      "q": "Giải hệ: x + y = 1, x - y = -9. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0092",
+      "q": "Góc nội tiếp chắn cung 60° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0093",
+      "q": "Hai đường thẳng y = 1x + -2 và y = 5x + -6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0094",
+      "q": "Hộp có 7 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0095",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 29 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0096",
+      "q": "Tính (9√5)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0097",
+      "q": "Rút gọn √96. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0098",
+      "q": "Phương trình x^2 + 3x - 18 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0099",
+      "q": "Giải hệ: x + y = 13, x - y = -5. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0100",
+      "q": "Góc nội tiếp chắn cung 84° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0101",
+      "q": "Hai đường thẳng y = 4x + -7 và y = 5x + -10 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0102",
+      "q": "Hộp có 7 bi đỏ và 9 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0103",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 61 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0104",
+      "q": "Tính (4√1)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0105",
+      "q": "Rút gọn √98. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0106",
+      "q": "Phương trình x^2 - 6x - 40 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0107",
+      "q": "Giải hệ: x + y = 3, x - y = -9. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0108",
+      "q": "Góc nội tiếp chắn cung 120° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0109",
+      "q": "Hai đường thẳng y = 1x + 8 và y = 2x + 7 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0110",
+      "q": "Hộp có 6 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0111",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 88 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0112",
+      "q": "Tính (3√8)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0113",
+      "q": "Rút gọn √12. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0114",
+      "q": "Phương trình x^2 + 2x - 3 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0115",
+      "q": "Giải hệ: x + y = 0, x - y = 8. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0116",
+      "q": "Góc nội tiếp chắn cung 112° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0117",
+      "q": "Hai đường thẳng y = 4x + -8 và y = 7x + -5 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0118",
+      "q": "Hộp có 7 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0119",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 34 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0120",
+      "q": "Tính (9√8)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0121",
+      "q": "Rút gọn √54. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0122",
+      "q": "Phương trình x^2 - 3x - 70 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0123",
+      "q": "Giải hệ: x + y = -3, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0124",
+      "q": "Góc nội tiếp chắn cung 158° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0125",
+      "q": "Hai đường thẳng y = 3x + -6 và y = 4x + -6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0126",
+      "q": "Hộp có 12 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0127",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 31 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0128",
+      "q": "Tính (5√5)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0129",
+      "q": "Rút gọn √12. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0130",
+      "q": "Phương trình x^2 - 6x + 9 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0131",
+      "q": "Giải hệ: x + y = -1, x - y = -3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0132",
+      "q": "Góc nội tiếp chắn cung 96° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0133",
+      "q": "Hai đường thẳng y = 4x + 2 và y = 7x + -19 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0134",
+      "q": "Hộp có 6 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0135",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 55 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0136",
+      "q": "Tính (8√1)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0137",
+      "q": "Rút gọn √216. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0138",
+      "q": "Phương trình x^2 + 4x - 5 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0139",
+      "q": "Giải hệ: x + y = -4, x - y = 4. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0140",
+      "q": "Góc nội tiếp chắn cung 94° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0141",
+      "q": "Hai đường thẳng y = 5x + 4 và y = 6x + 6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0142",
+      "q": "Hộp có 12 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0143",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 39 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0144",
+      "q": "Tính (9√5)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0145",
+      "q": "Rút gọn √294. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0146",
+      "q": "Phương trình x^2 - 4x + 0 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0147",
+      "q": "Giải hệ: x + y = 12, x - y = -2. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0148",
+      "q": "Góc nội tiếp chắn cung 60° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0149",
+      "q": "Hai đường thẳng y = 4x + -7 và y = 6x + -9 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0150",
+      "q": "Hộp có 8 bi đỏ và 4 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0151",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 28 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0152",
+      "q": "Tính (5√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0153",
+      "q": "Rút gọn √32. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0154",
+      "q": "Phương trình x^2 - 3x - 70 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0155",
+      "q": "Giải hệ: x + y = 1, x - y = -1. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0156",
+      "q": "Góc nội tiếp chắn cung 144° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0157",
+      "q": "Hai đường thẳng y = 1x + 0 và y = 2x + -1 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0158",
+      "q": "Hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0159",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 62 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0160",
+      "q": "Tính (5√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0161",
+      "q": "Rút gọn √63. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0162",
+      "q": "Phương trình x^2 - 7x - 8 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0163",
+      "q": "Giải hệ: x + y = 2, x - y = -2. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0164",
+      "q": "Góc nội tiếp chắn cung 44° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0165",
+      "q": "Hai đường thẳng y = 1x + 5 và y = 3x + -3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0166",
+      "q": "Hộp có 11 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0167",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 61 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0168",
+      "q": "Tính (10√5)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0169",
+      "q": "Rút gọn √384. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0170",
+      "q": "Phương trình x^2 - 8x + 15 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0171",
+      "q": "Giải hệ: x + y = -2, x - y = 4. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0172",
+      "q": "Góc nội tiếp chắn cung 94° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0173",
+      "q": "Hai đường thẳng y = 4x + -3 và y = 6x + -3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0174",
+      "q": "Hộp có 7 bi đỏ và 9 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0175",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 54 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0176",
+      "q": "Tính (8√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0177",
+      "q": "Rút gọn √45. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0178",
+      "q": "Phương trình x^2 - 2x + 1 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0179",
+      "q": "Giải hệ: x + y = 15, x - y = -1. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0180",
+      "q": "Góc nội tiếp chắn cung 124° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0181",
+      "q": "Hai đường thẳng y = 5x + 6 và y = 8x + -3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0182",
+      "q": "Hộp có 7 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0183",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 39 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0184",
+      "q": "Tính (3√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0185",
+      "q": "Rút gọn √567. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0186",
+      "q": "Phương trình x^2 + 6x - 7 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0187",
+      "q": "Giải hệ: x + y = 4, x - y = 12. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0188",
+      "q": "Góc nội tiếp chắn cung 52° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0189",
+      "q": "Hai đường thẳng y = 1x + -7 và y = 3x + -15 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0190",
+      "q": "Hộp có 12 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0191",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 57 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0192",
+      "q": "Tính (9√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0193",
+      "q": "Rút gọn √50. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0194",
+      "q": "Phương trình x^2 - 3x - 10 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0195",
+      "q": "Giải hệ: x + y = 4, x - y = 8. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0196",
+      "q": "Góc nội tiếp chắn cung 142° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0197",
+      "q": "Hai đường thẳng y = 1x + 3 và y = 2x + 1 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0198",
+      "q": "Hộp có 8 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0199",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 57 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0200",
+      "q": "Tính (9√6)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0201",
+      "q": "Rút gọn √147. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0202",
+      "q": "Phương trình x^2 - 6x + 8 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0203",
+      "q": "Giải hệ: x + y = 8, x - y = 6. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0204",
+      "q": "Góc nội tiếp chắn cung 152° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0205",
+      "q": "Hai đường thẳng y = 1x + -2 và y = 4x + 1 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0206",
+      "q": "Hộp có 4 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0207",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 56 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0208",
+      "q": "Tính (5√8)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0209",
+      "q": "Rút gọn √243. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0210",
+      "q": "Phương trình x^2 - 7x + 6 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0211",
+      "q": "Giải hệ: x + y = 9, x - y = -1. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0212",
+      "q": "Góc nội tiếp chắn cung 42° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0213",
+      "q": "Hai đường thẳng y = 3x + 1 và y = 7x + -19 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0214",
+      "q": "Hộp có 12 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0215",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 80 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0216",
+      "q": "Tính (8√4)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0217",
+      "q": "Rút gọn √90. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0218",
+      "q": "Phương trình x^2 - 14x + 45 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0219",
+      "q": "Giải hệ: x + y = 12, x - y = 4. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0220",
+      "q": "Góc nội tiếp chắn cung 80° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0221",
+      "q": "Hai đường thẳng y = 3x + 2 và y = 5x + 8 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0222",
+      "q": "Hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0223",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 28 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0224",
+      "q": "Tính (2√8)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0225",
+      "q": "Rút gọn √63. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0226",
+      "q": "Phương trình x^2 + 0x - 9 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0227",
+      "q": "Giải hệ: x + y = 8, x - y = 4. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0228",
+      "q": "Góc nội tiếp chắn cung 122° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0229",
+      "q": "Hai đường thẳng y = 5x + -2 và y = 9x + 6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0230",
+      "q": "Hộp có 5 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0231",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 30 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0232",
+      "q": "Tính (4√3)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0233",
+      "q": "Rút gọn √216. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0234",
+      "q": "Phương trình x^2 - 1x - 30 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0235",
+      "q": "Giải hệ: x + y = -5, x - y = -5. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0236",
+      "q": "Góc nội tiếp chắn cung 60° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0237",
+      "q": "Hai đường thẳng y = 3x + 3 và y = 5x + 7 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0238",
+      "q": "Hộp có 5 bi đỏ và 6 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0239",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 74 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0240",
+      "q": "Tính (4√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0241",
+      "q": "Rút gọn √72. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0242",
+      "q": "Phương trình x^2 - 10x + 9 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0243",
+      "q": "Giải hệ: x + y = 5, x - y = -13. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0244",
+      "q": "Góc nội tiếp chắn cung 112° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0245",
+      "q": "Hai đường thẳng y = 3x + -6 và y = 4x + -11 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0246",
+      "q": "Hộp có 5 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0247",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 23 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0248",
+      "q": "Tính (2√7)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0249",
+      "q": "Rút gọn √90. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0250",
+      "q": "Phương trình x^2 - 10x + 0 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0251",
+      "q": "Giải hệ: x + y = 9, x - y = 7. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0252",
+      "q": "Góc nội tiếp chắn cung 122° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0253",
+      "q": "Hai đường thẳng y = 2x + -1 và y = 4x + -3 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0254",
+      "q": "Hộp có 9 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0255",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 2. Nếu diện tích tam giác nhỏ là 85 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0256",
+      "q": "Tính (3√1)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0257",
+      "q": "Rút gọn √810. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0258",
+      "q": "Phương trình x^2 - 12x + 20 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0259",
+      "q": "Giải hệ: x + y = 11, x - y = 1. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0260",
+      "q": "Góc nội tiếp chắn cung 128° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0261",
+      "q": "Hai đường thẳng y = 5x + -8 và y = 9x + -28 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0262",
+      "q": "Hộp có 12 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0263",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 3. Nếu diện tích tam giác nhỏ là 86 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0264",
+      "q": "Tính (4√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0265",
+      "q": "Rút gọn √54. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0266",
+      "q": "Phương trình x^2 - 5x - 24 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0267",
+      "q": "Giải hệ: x + y = 6, x - y = -4. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0268",
+      "q": "Góc nội tiếp chắn cung 98° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0269",
+      "q": "Hai đường thẳng y = 3x + 5 và y = 6x + 5 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0270",
+      "q": "Hộp có 11 bi đỏ và 3 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0271",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 79 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0272",
+      "q": "Tính (4√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0273",
+      "q": "Rút gọn √192. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0274",
+      "q": "Phương trình x^2 - 8x - 20 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0275",
+      "q": "Giải hệ: x + y = 4, x - y = 2. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0276",
+      "q": "Góc nội tiếp chắn cung 118° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0277",
+      "q": "Hai đường thẳng y = 3x + -8 và y = 5x + -6 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0278",
+      "q": "Hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0279",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 25 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0280",
+      "q": "Tính (3√4)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0281",
+      "q": "Rút gọn √343. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0282",
+      "q": "Phương trình x^2 - 14x + 45 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0283",
+      "q": "Giải hệ: x + y = -4, x - y = -6. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0284",
+      "q": "Góc nội tiếp chắn cung 130° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0285",
+      "q": "Hai đường thẳng y = 1x + 4 và y = 5x + -4 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0286",
+      "q": "Hộp có 12 bi đỏ và 10 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0287",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 4. Nếu diện tích tam giác nhỏ là 68 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0288",
+      "q": "Tính (5√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0289",
+      "q": "Rút gọn √294. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0290",
+      "q": "Phương trình x^2 + 3x - 10 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0291",
+      "q": "Giải hệ: x + y = 2, x - y = 2. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0292",
+      "q": "Góc nội tiếp chắn cung 52° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0293",
+      "q": "Hai đường thẳng y = 4x + -4 và y = 6x + -4 cắt nhau tại điểm có hoành độ bao nhiêu? Trình bày cách làm.",
+      "hint": "Cho hai biểu thức y bằng nhau rồi giải phương trình theo x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0294",
+      "q": "Hộp có 8 bi đỏ và 5 bi xanh. Xác suất lấy được bi xanh là? Trình bày cách làm.",
+      "hint": "Xác suất bằng số bi xanh chia cho tổng số bi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0295",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh là 5. Nếu diện tích tam giác nhỏ là 37 cm2 thì diện tích tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tỉ số diện tích bằng bình phương tỉ số cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0296",
+      "q": "Tính (8√2)^2. Trình bày cách làm.",
+      "hint": "Bình phương tích bằng bình phương hệ số nhân với số dưới dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0297",
+      "q": "Rút gọn √63. Trình bày cách làm.",
+      "hint": "Tách thừa số chính phương ra ngoài dấu căn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0298",
+      "q": "Phương trình x^2 + 0x - 49 = 0 có hai nghiệm là? Trình bày cách làm.",
+      "hint": "Nhẩm hai số có tổng bằng hệ số đối của x và tích bằng hệ số tự do.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0299",
+      "q": "Giải hệ: x + y = 13, x - y = 3. Giá trị của x là? Trình bày cách làm.",
+      "hint": "Cộng hai phương trình để khử y rồi chia đôi.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e9-adv-0300",
+      "q": "Góc nội tiếp chắn cung 160° có số đo bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Số đo góc nội tiếp bằng một nửa số đo cung bị chắn.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
       "lv": 3
     }
   ]

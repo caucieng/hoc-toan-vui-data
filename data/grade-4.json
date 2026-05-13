@@ -18677,6 +18677,4506 @@
       ],
       "c": "B",
       "ch": "Trung bình cộng"
+    },
+    {
+      "id": 2001,
+      "q": "Tìm số lớn, biết tổng hai số là 565 và hiệu hai số là 327.",
+      "a": [
+        "447",
+        "445",
+        "448",
+        "446"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2002,
+      "q": "Trung bình cộng của 172, 77, 165 là bao nhiêu?",
+      "a": [
+        "140",
+        "137",
+        "138",
+        "139"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2003,
+      "q": "Tính 4/12 + 3/12.",
+      "a": [
+        "1/2",
+        "7/12",
+        "2/3",
+        "7/13"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2004,
+      "q": "Điền chữ số vào ô trống để số 82_ chia hết cho 9.",
+      "a": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2005,
+      "q": "Một mảnh đất hình chữ nhật dài 52 m, rộng 49 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2550 m2",
+        "2549 m2",
+        "2548 m2",
+        "2547 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2006,
+      "q": "Một số khi nhân với 9 rồi bớt 40 thì được 2345. Số đó là?",
+      "a": [
+        "264",
+        "267",
+        "265",
+        "266"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2007,
+      "q": "7/9 của 423 là bao nhiêu?",
+      "a": [
+        "331",
+        "328",
+        "330",
+        "329"
+      ],
+      "c": "D",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2008,
+      "q": "Dãy số 42; 49; 56; 63; ... Số hạng thứ 8 là?",
+      "a": [
+        "91",
+        "92",
+        "93",
+        "90"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2009,
+      "q": "Tìm số lớn, biết tổng hai số là 1563 và hiệu hai số là 343.",
+      "a": [
+        "955",
+        "953",
+        "952",
+        "954"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2010,
+      "q": "Trung bình cộng của 85, 108, 158 là bao nhiêu?",
+      "a": [
+        "119",
+        "117",
+        "116",
+        "118"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2011,
+      "q": "Tính 2/11 + 7/11.",
+      "a": [
+        "8/11",
+        "9/11",
+        "3/4",
+        "10/11"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2012,
+      "q": "Điền chữ số vào ô trống để số 44_ chia hết cho 9.",
+      "a": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2013,
+      "q": "Một mảnh đất hình chữ nhật dài 63 m, rộng 45 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2836 m2",
+        "2837 m2",
+        "2834 m2",
+        "2835 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2014,
+      "q": "Một số khi nhân với 6 rồi bớt 75 thì được 135. Số đó là?",
+      "a": [
+        "36",
+        "34",
+        "37",
+        "35"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2015,
+      "q": "3/6 của 294 là bao nhiêu?",
+      "a": [
+        "146",
+        "147",
+        "149",
+        "148"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2016,
+      "q": "Dãy số 46; 50; 54; 58; ... Số hạng thứ 8 là?",
+      "a": [
+        "76",
+        "75",
+        "74",
+        "73"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2017,
+      "q": "Tìm số lớn, biết tổng hai số là 1562 và hiệu hai số là 394.",
+      "a": [
+        "980",
+        "979",
+        "977",
+        "978"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2018,
+      "q": "Trung bình cộng của 127, 149, 171 là bao nhiêu?",
+      "a": [
+        "151",
+        "150",
+        "149",
+        "148"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2019,
+      "q": "Tính 4/5 + 1/5.",
+      "a": [
+        "4/5",
+        "6/5",
+        "5/6",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2020,
+      "q": "Điền chữ số vào ô trống để số 98_ chia hết cho 9.",
+      "a": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2021,
+      "q": "Một mảnh đất hình chữ nhật dài 43 m, rộng 33 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1421 m2",
+        "1420 m2",
+        "1418 m2",
+        "1419 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2022,
+      "q": "Một số khi nhân với 9 rồi bớt 21 thì được 1473. Số đó là?",
+      "a": [
+        "165",
+        "168",
+        "167",
+        "166"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2023,
+      "q": "4/5 của 110 là bao nhiêu?",
+      "a": [
+        "90",
+        "89",
+        "88",
+        "87"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2024,
+      "q": "Dãy số 36; 41; 46; 51; ... Số hạng thứ 8 là?",
+      "a": [
+        "73",
+        "70",
+        "72",
+        "71"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2025,
+      "q": "Tìm số lớn, biết tổng hai số là 597 và hiệu hai số là 323.",
+      "a": [
+        "459",
+        "461",
+        "460",
+        "462"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2026,
+      "q": "Trung bình cộng của 164, 164, 152 là bao nhiêu?",
+      "a": [
+        "159",
+        "162",
+        "161",
+        "160"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2027,
+      "q": "Tính 1/9 + 5/9.",
+      "a": [
+        "7/9",
+        "5/9",
+        "3/5",
+        "2/3"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2028,
+      "q": "Điền chữ số vào ô trống để số 22_ chia hết cho 9.",
+      "a": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2029,
+      "q": "Một mảnh đất hình chữ nhật dài 70 m, rộng 26 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1820 m2",
+        "1819 m2",
+        "1822 m2",
+        "1821 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2030,
+      "q": "Một số khi nhân với 5 rồi bớt 173 thì được 102. Số đó là?",
+      "a": [
+        "55",
+        "54",
+        "56",
+        "57"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2031,
+      "q": "2/11 của 869 là bao nhiêu?",
+      "a": [
+        "158",
+        "157",
+        "160",
+        "159"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2032,
+      "q": "Dãy số 77; 88; 99; 110; ... Số hạng thứ 8 là?",
+      "a": [
+        "155",
+        "156",
+        "153",
+        "154"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2033,
+      "q": "Tìm số lớn, biết tổng hai số là 1717 và hiệu hai số là 133.",
+      "a": [
+        "927",
+        "926",
+        "924",
+        "925"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2034,
+      "q": "Trung bình cộng của 133, 127, 130 là bao nhiêu?",
+      "a": [
+        "131",
+        "130",
+        "132",
+        "129"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2035,
+      "q": "Tính 4/7 + 5/7.",
+      "a": [
+        "9/8",
+        "8/7",
+        "9/7",
+        "10/7"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2036,
+      "q": "Điền chữ số vào ô trống để số 59_ chia hết cho 9.",
+      "a": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2037,
+      "q": "Một mảnh đất hình chữ nhật dài 63 m, rộng 37 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2333 m2",
+        "2332 m2",
+        "2330 m2",
+        "2331 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2038,
+      "q": "Một số khi nhân với 8 rồi bớt 64 thì được 1848. Số đó là?",
+      "a": [
+        "240",
+        "238",
+        "239",
+        "241"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2039,
+      "q": "2/6 của 456 là bao nhiêu?",
+      "a": [
+        "153",
+        "151",
+        "152",
+        "154"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2040,
+      "q": "Dãy số 78; 85; 92; 99; ... Số hạng thứ 8 là?",
+      "a": [
+        "128",
+        "129",
+        "126",
+        "127"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2041,
+      "q": "Tìm số lớn, biết tổng hai số là 991 và hiệu hai số là 139.",
+      "a": [
+        "564",
+        "565",
+        "567",
+        "566"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2042,
+      "q": "Trung bình cộng của 105, 70, 50 là bao nhiêu?",
+      "a": [
+        "75",
+        "77",
+        "76",
+        "74"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2043,
+      "q": "Tính 6/8 + 3/8.",
+      "a": [
+        "10/8",
+        "1",
+        "5/4",
+        "9/8"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2044,
+      "q": "Điền chữ số vào ô trống để số 59_ chia hết cho 9.",
+      "a": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2045,
+      "q": "Một mảnh đất hình chữ nhật dài 73 m, rộng 16 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1167 m2",
+        "1170 m2",
+        "1168 m2",
+        "1169 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2046,
+      "q": "Một số khi nhân với 9 rồi bớt 78 thì được 1686. Số đó là?",
+      "a": [
+        "196",
+        "195",
+        "197",
+        "198"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2047,
+      "q": "4/10 của 740 là bao nhiêu?",
+      "a": [
+        "295",
+        "296",
+        "297",
+        "298"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2048,
+      "q": "Dãy số 60; 76; 92; 108; ... Số hạng thứ 8 là?",
+      "a": [
+        "171",
+        "173",
+        "172",
+        "174"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2049,
+      "q": "Tìm số lớn, biết tổng hai số là 584 và hiệu hai số là 190.",
+      "a": [
+        "389",
+        "386",
+        "387",
+        "388"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2050,
+      "q": "Trung bình cộng của 107, 156, 61 là bao nhiêu?",
+      "a": [
+        "108",
+        "109",
+        "107",
+        "110"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2051,
+      "q": "Tính 4/10 + 3/10.",
+      "a": [
+        "7/11",
+        "4/5",
+        "3/5",
+        "7/10"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2052,
+      "q": "Điền chữ số vào ô trống để số 93_ chia hết cho 9.",
+      "a": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2053,
+      "q": "Một mảnh đất hình chữ nhật dài 66 m, rộng 42 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2772 m2",
+        "2773 m2",
+        "2774 m2",
+        "2771 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2054,
+      "q": "Một số khi nhân với 7 rồi bớt 51 thì được 698. Số đó là?",
+      "a": [
+        "107",
+        "108",
+        "106",
+        "109"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2055,
+      "q": "6/11 của 396 là bao nhiêu?",
+      "a": [
+        "216",
+        "215",
+        "217",
+        "218"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2056,
+      "q": "Dãy số 67; 71; 75; 79; ... Số hạng thứ 8 là?",
+      "a": [
+        "96",
+        "94",
+        "95",
+        "97"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2057,
+      "q": "Tìm số lớn, biết tổng hai số là 1144 và hiệu hai số là 364.",
+      "a": [
+        "755",
+        "753",
+        "756",
+        "754"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2058,
+      "q": "Trung bình cộng của 85, 65, 72 là bao nhiêu?",
+      "a": [
+        "75",
+        "74",
+        "73",
+        "76"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2059,
+      "q": "Tính 9/10 + 9/10.",
+      "a": [
+        "9/5",
+        "18/11",
+        "17/10",
+        "19/10"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2060,
+      "q": "Điền chữ số vào ô trống để số 30_ chia hết cho 9.",
+      "a": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2061,
+      "q": "Một mảnh đất hình chữ nhật dài 33 m, rộng 57 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1880 m2",
+        "1882 m2",
+        "1881 m2",
+        "1883 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2062,
+      "q": "Một số khi nhân với 6 rồi bớt 151 thì được 455. Số đó là?",
+      "a": [
+        "101",
+        "103",
+        "102",
+        "100"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2063,
+      "q": "4/12 của 540 là bao nhiêu?",
+      "a": [
+        "179",
+        "180",
+        "181",
+        "182"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2064,
+      "q": "Dãy số 75; 84; 93; 102; ... Số hạng thứ 8 là?",
+      "a": [
+        "137",
+        "138",
+        "139",
+        "140"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2065,
+      "q": "Tìm số lớn, biết tổng hai số là 748 và hiệu hai số là 174.",
+      "a": [
+        "461",
+        "460",
+        "463",
+        "462"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2066,
+      "q": "Trung bình cộng của 105, 73, 59 là bao nhiêu?",
+      "a": [
+        "79",
+        "81",
+        "78",
+        "80"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2067,
+      "q": "Tính 2/5 + 3/5.",
+      "a": [
+        "6/5",
+        "5/6",
+        "1",
+        "4/5"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2068,
+      "q": "Điền chữ số vào ô trống để số 76_ chia hết cho 9.",
+      "a": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2069,
+      "q": "Một mảnh đất hình chữ nhật dài 43 m, rộng 31 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1335 m2",
+        "1334 m2",
+        "1333 m2",
+        "1332 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2070,
+      "q": "Một số khi nhân với 9 rồi bớt 174 thì được 1419. Số đó là?",
+      "a": [
+        "177",
+        "178",
+        "176",
+        "179"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2071,
+      "q": "8/9 của 666 là bao nhiêu?",
+      "a": [
+        "594",
+        "593",
+        "592",
+        "591"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2072,
+      "q": "Dãy số 15; 31; 47; 63; ... Số hạng thứ 8 là?",
+      "a": [
+        "127",
+        "126",
+        "128",
+        "129"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2073,
+      "q": "Tìm số lớn, biết tổng hai số là 628 và hiệu hai số là 238.",
+      "a": [
+        "432",
+        "434",
+        "435",
+        "433"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2074,
+      "q": "Trung bình cộng của 165, 160, 134 là bao nhiêu?",
+      "a": [
+        "154",
+        "152",
+        "153",
+        "155"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2075,
+      "q": "Tính 1/5 + 3/5.",
+      "a": [
+        "2/3",
+        "1",
+        "4/5",
+        "3/5"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2076,
+      "q": "Điền chữ số vào ô trống để số 40_ chia hết cho 9.",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2077,
+      "q": "Một mảnh đất hình chữ nhật dài 37 m, rộng 26 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "964 m2",
+        "963 m2",
+        "961 m2",
+        "962 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2078,
+      "q": "Một số khi nhân với 7 rồi bớt 152 thì được 1626. Số đó là?",
+      "a": [
+        "253",
+        "256",
+        "255",
+        "254"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2079,
+      "q": "5/6 của 378 là bao nhiêu?",
+      "a": [
+        "317",
+        "315",
+        "314",
+        "316"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2080,
+      "q": "Dãy số 79; 86; 93; 100; ... Số hạng thứ 8 là?",
+      "a": [
+        "127",
+        "130",
+        "128",
+        "129"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2081,
+      "q": "Tìm số lớn, biết tổng hai số là 1531 và hiệu hai số là 159.",
+      "a": [
+        "845",
+        "844",
+        "846",
+        "847"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2082,
+      "q": "Trung bình cộng của 103, 143, 135 là bao nhiêu?",
+      "a": [
+        "128",
+        "127",
+        "129",
+        "126"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2083,
+      "q": "Tính 5/7 + 3/7.",
+      "a": [
+        "1",
+        "8/7",
+        "7/7",
+        "9/7"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2084,
+      "q": "Điền chữ số vào ô trống để số 91_ chia hết cho 9.",
+      "a": [
+        "10",
+        "7",
+        "8",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2085,
+      "q": "Một mảnh đất hình chữ nhật dài 58 m, rộng 50 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2900 m2",
+        "2899 m2",
+        "2902 m2",
+        "2901 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2086,
+      "q": "Một số khi nhân với 5 rồi bớt 166 thì được 1139. Số đó là?",
+      "a": [
+        "262",
+        "261",
+        "263",
+        "260"
+      ],
+      "c": "B",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2087,
+      "q": "7/9 của 711 là bao nhiêu?",
+      "a": [
+        "554",
+        "555",
+        "553",
+        "552"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2088,
+      "q": "Dãy số 40; 56; 72; 88; ... Số hạng thứ 8 là?",
+      "a": [
+        "153",
+        "152",
+        "151",
+        "154"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2089,
+      "q": "Tìm số lớn, biết tổng hai số là 761 và hiệu hai số là 189.",
+      "a": [
+        "477",
+        "474",
+        "476",
+        "475"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2090,
+      "q": "Trung bình cộng của 179, 147, 127 là bao nhiêu?",
+      "a": [
+        "152",
+        "150",
+        "151",
+        "153"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2091,
+      "q": "Tính 11/12 + 1/12.",
+      "a": [
+        "1",
+        "11/12",
+        "13/12",
+        "12/13"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2092,
+      "q": "Điền chữ số vào ô trống để số 23_ chia hết cho 9.",
+      "a": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2093,
+      "q": "Một mảnh đất hình chữ nhật dài 80 m, rộng 53 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "4240 m2",
+        "4242 m2",
+        "4239 m2",
+        "4241 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2094,
+      "q": "Một số khi nhân với 7 rồi bớt 102 thì được 199. Số đó là?",
+      "a": [
+        "43",
+        "44",
+        "45",
+        "42"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2095,
+      "q": "3/6 của 204 là bao nhiêu?",
+      "a": [
+        "103",
+        "102",
+        "104",
+        "101"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2096,
+      "q": "Dãy số 44; 58; 72; 86; ... Số hạng thứ 8 là?",
+      "a": [
+        "141",
+        "142",
+        "144",
+        "143"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2097,
+      "q": "Tìm số lớn, biết tổng hai số là 1888 và hiệu hai số là 244.",
+      "a": [
+        "1066",
+        "1065",
+        "1068",
+        "1067"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2098,
+      "q": "Trung bình cộng của 103, 54, 128 là bao nhiêu?",
+      "a": [
+        "97",
+        "94",
+        "96",
+        "95"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2099,
+      "q": "Tính 5/11 + 2/11.",
+      "a": [
+        "7/11",
+        "7/12",
+        "6/11",
+        "8/11"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2100,
+      "q": "Điền chữ số vào ô trống để số 73_ chia hết cho 9.",
+      "a": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2101,
+      "q": "Một mảnh đất hình chữ nhật dài 63 m, rộng 23 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1449 m2",
+        "1448 m2",
+        "1450 m2",
+        "1451 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2102,
+      "q": "Một số khi nhân với 7 rồi bớt 198 thì được 320. Số đó là?",
+      "a": [
+        "76",
+        "73",
+        "75",
+        "74"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2103,
+      "q": "6/12 của 720 là bao nhiêu?",
+      "a": [
+        "360",
+        "359",
+        "362",
+        "361"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2104,
+      "q": "Dãy số 46; 56; 66; 76; ... Số hạng thứ 8 là?",
+      "a": [
+        "116",
+        "118",
+        "117",
+        "115"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2105,
+      "q": "Tìm số lớn, biết tổng hai số là 303 và hiệu hai số là 139.",
+      "a": [
+        "222",
+        "223",
+        "221",
+        "220"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2106,
+      "q": "Trung bình cộng của 44, 166, 51 là bao nhiêu?",
+      "a": [
+        "87",
+        "88",
+        "89",
+        "86"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2107,
+      "q": "Tính 10/13 + 6/13.",
+      "a": [
+        "17/13",
+        "16/13",
+        "15/13",
+        "8/7"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2108,
+      "q": "Điền chữ số vào ô trống để số 60_ chia hết cho 9.",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2109,
+      "q": "Một mảnh đất hình chữ nhật dài 66 m, rộng 48 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "3167 m2",
+        "3170 m2",
+        "3169 m2",
+        "3168 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2110,
+      "q": "Một số khi nhân với 3 rồi bớt 24 thì được 222. Số đó là?",
+      "a": [
+        "82",
+        "81",
+        "83",
+        "84"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2111,
+      "q": "3/10 của 700 là bao nhiêu?",
+      "a": [
+        "209",
+        "212",
+        "210",
+        "211"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2112,
+      "q": "Dãy số 59; 63; 67; 71; ... Số hạng thứ 8 là?",
+      "a": [
+        "88",
+        "89",
+        "87",
+        "86"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2113,
+      "q": "Tìm số lớn, biết tổng hai số là 1186 và hiệu hai số là 264.",
+      "a": [
+        "724",
+        "726",
+        "727",
+        "725"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2114,
+      "q": "Trung bình cộng của 149, 127, 66 là bao nhiêu?",
+      "a": [
+        "114",
+        "115",
+        "113",
+        "116"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2115,
+      "q": "Tính 5/6 + 1/6.",
+      "a": [
+        "6/7",
+        "5/6",
+        "1",
+        "7/6"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2116,
+      "q": "Điền chữ số vào ô trống để số 85_ chia hết cho 9.",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2117,
+      "q": "Một mảnh đất hình chữ nhật dài 78 m, rộng 19 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1482 m2",
+        "1484 m2",
+        "1483 m2",
+        "1481 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2118,
+      "q": "Một số khi nhân với 8 rồi bớt 153 thì được 2135. Số đó là?",
+      "a": [
+        "287",
+        "288",
+        "286",
+        "285"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2119,
+      "q": "3/8 của 344 là bao nhiêu?",
+      "a": [
+        "129",
+        "131",
+        "128",
+        "130"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2120,
+      "q": "Dãy số 64; 78; 92; 106; ... Số hạng thứ 8 là?",
+      "a": [
+        "163",
+        "162",
+        "164",
+        "161"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2121,
+      "q": "Tìm số lớn, biết tổng hai số là 1733 và hiệu hai số là 337.",
+      "a": [
+        "1035",
+        "1037",
+        "1034",
+        "1036"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2122,
+      "q": "Trung bình cộng của 83, 152, 149 là bao nhiêu?",
+      "a": [
+        "129",
+        "127",
+        "128",
+        "130"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2123,
+      "q": "Tính 4/10 + 6/10.",
+      "a": [
+        "9/10",
+        "11/10",
+        "10/11",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2124,
+      "q": "Điền chữ số vào ô trống để số 22_ chia hết cho 9.",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2125,
+      "q": "Một mảnh đất hình chữ nhật dài 37 m, rộng 57 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2109 m2",
+        "2110 m2",
+        "2111 m2",
+        "2108 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2126,
+      "q": "Một số khi nhân với 5 rồi bớt 116 thì được 789. Số đó là?",
+      "a": [
+        "183",
+        "180",
+        "181",
+        "182"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2127,
+      "q": "2/8 của 360 là bao nhiêu?",
+      "a": [
+        "89",
+        "90",
+        "91",
+        "92"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2128,
+      "q": "Dãy số 13; 23; 33; 43; ... Số hạng thứ 8 là?",
+      "a": [
+        "82",
+        "84",
+        "85",
+        "83"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2129,
+      "q": "Tìm số lớn, biết tổng hai số là 970 và hiệu hai số là 262.",
+      "a": [
+        "618",
+        "615",
+        "617",
+        "616"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2130,
+      "q": "Trung bình cộng của 57, 50, 124 là bao nhiêu?",
+      "a": [
+        "77",
+        "79",
+        "76",
+        "78"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2131,
+      "q": "Tính 7/9 + 1/9.",
+      "a": [
+        "1",
+        "8/9",
+        "4/5",
+        "7/9"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2132,
+      "q": "Điền chữ số vào ô trống để số 38_ chia hết cho 9.",
+      "a": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2133,
+      "q": "Một mảnh đất hình chữ nhật dài 36 m, rộng 16 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "578 m2",
+        "577 m2",
+        "576 m2",
+        "575 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2134,
+      "q": "Một số khi nhân với 5 rồi bớt 127 thì được 228. Số đó là?",
+      "a": [
+        "72",
+        "73",
+        "71",
+        "70"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2135,
+      "q": "3/9 của 486 là bao nhiêu?",
+      "a": [
+        "161",
+        "164",
+        "162",
+        "163"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2136,
+      "q": "Dãy số 59; 64; 69; 74; ... Số hạng thứ 8 là?",
+      "a": [
+        "93",
+        "96",
+        "95",
+        "94"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2137,
+      "q": "Tìm số lớn, biết tổng hai số là 652 và hiệu hai số là 74.",
+      "a": [
+        "365",
+        "363",
+        "362",
+        "364"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2138,
+      "q": "Trung bình cộng của 177, 88, 158 là bao nhiêu?",
+      "a": [
+        "140",
+        "143",
+        "141",
+        "142"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2139,
+      "q": "Tính 3/11 + 8/11.",
+      "a": [
+        "1",
+        "11/12",
+        "10/11",
+        "12/11"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2140,
+      "q": "Điền chữ số vào ô trống để số 60_ chia hết cho 9.",
+      "a": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2141,
+      "q": "Một mảnh đất hình chữ nhật dài 72 m, rộng 59 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "4249 m2",
+        "4247 m2",
+        "4250 m2",
+        "4248 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2142,
+      "q": "Một số khi nhân với 5 rồi bớt 44 thì được 916. Số đó là?",
+      "a": [
+        "193",
+        "192",
+        "191",
+        "194"
+      ],
+      "c": "B",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2143,
+      "q": "7/12 của 768 là bao nhiêu?",
+      "a": [
+        "448",
+        "449",
+        "447",
+        "450"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2144,
+      "q": "Dãy số 27; 35; 43; 51; ... Số hạng thứ 8 là?",
+      "a": [
+        "83",
+        "84",
+        "82",
+        "85"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2145,
+      "q": "Tìm số lớn, biết tổng hai số là 1008 và hiệu hai số là 128.",
+      "a": [
+        "569",
+        "567",
+        "570",
+        "568"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2146,
+      "q": "Trung bình cộng của 144, 169, 161 là bao nhiêu?",
+      "a": [
+        "157",
+        "160",
+        "158",
+        "159"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2147,
+      "q": "Tính 12/15 + 8/15.",
+      "a": [
+        "4/3",
+        "7/5",
+        "19/15",
+        "5/4"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2148,
+      "q": "Điền chữ số vào ô trống để số 85_ chia hết cho 9.",
+      "a": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2149,
+      "q": "Một mảnh đất hình chữ nhật dài 42 m, rộng 51 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2143 m2",
+        "2144 m2",
+        "2141 m2",
+        "2142 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2150,
+      "q": "Một số khi nhân với 8 rồi bớt 157 thì được 595. Số đó là?",
+      "a": [
+        "93",
+        "94",
+        "96",
+        "95"
+      ],
+      "c": "B",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2151,
+      "q": "4/10 của 210 là bao nhiêu?",
+      "a": [
+        "86",
+        "84",
+        "85",
+        "83"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2152,
+      "q": "Dãy số 54; 64; 74; 84; ... Số hạng thứ 8 là?",
+      "a": [
+        "124",
+        "123",
+        "126",
+        "125"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2153,
+      "q": "Tìm số lớn, biết tổng hai số là 397 và hiệu hai số là 327.",
+      "a": [
+        "361",
+        "364",
+        "363",
+        "362"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2154,
+      "q": "Trung bình cộng của 108, 44, 157 là bao nhiêu?",
+      "a": [
+        "103",
+        "105",
+        "102",
+        "104"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2155,
+      "q": "Tính 13/14 + 10/14.",
+      "a": [
+        "12/7",
+        "23/15",
+        "23/14",
+        "11/7"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2156,
+      "q": "Điền chữ số vào ô trống để số 15_ chia hết cho 9.",
+      "a": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2157,
+      "q": "Một mảnh đất hình chữ nhật dài 40 m, rộng 25 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1002 m2",
+        "1000 m2",
+        "1001 m2",
+        "999 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2158,
+      "q": "Một số khi nhân với 9 rồi bớt 173 thì được 1744. Số đó là?",
+      "a": [
+        "213",
+        "214",
+        "212",
+        "215"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2159,
+      "q": "2/5 của 340 là bao nhiêu?",
+      "a": [
+        "138",
+        "137",
+        "136",
+        "135"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2160,
+      "q": "Dãy số 32; 39; 46; 53; ... Số hạng thứ 8 là?",
+      "a": [
+        "82",
+        "83",
+        "81",
+        "80"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2161,
+      "q": "Tìm số lớn, biết tổng hai số là 206 và hiệu hai số là 374.",
+      "a": [
+        "289",
+        "291",
+        "292",
+        "290"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2162,
+      "q": "Trung bình cộng của 65, 105, 97 là bao nhiêu?",
+      "a": [
+        "89",
+        "88",
+        "90",
+        "91"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2163,
+      "q": "Tính 1/5 + 4/5.",
+      "a": [
+        "4/5",
+        "1",
+        "6/5",
+        "5/6"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2164,
+      "q": "Điền chữ số vào ô trống để số 89_ chia hết cho 9.",
+      "a": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2165,
+      "q": "Một mảnh đất hình chữ nhật dài 47 m, rộng 31 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1457 m2",
+        "1459 m2",
+        "1456 m2",
+        "1458 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2166,
+      "q": "Một số khi nhân với 9 rồi bớt 186 thì được 1974. Số đó là?",
+      "a": [
+        "240",
+        "239",
+        "242",
+        "241"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2167,
+      "q": "5/12 của 624 là bao nhiêu?",
+      "a": [
+        "259",
+        "260",
+        "261",
+        "262"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2168,
+      "q": "Dãy số 10; 22; 34; 46; ... Số hạng thứ 8 là?",
+      "a": [
+        "93",
+        "95",
+        "94",
+        "96"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2169,
+      "q": "Tìm số lớn, biết tổng hai số là 870 và hiệu hai số là 374.",
+      "a": [
+        "622",
+        "623",
+        "624",
+        "621"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2170,
+      "q": "Trung bình cộng của 71, 161, 83 là bao nhiêu?",
+      "a": [
+        "107",
+        "104",
+        "105",
+        "106"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2171,
+      "q": "Tính 3/11 + 1/11.",
+      "a": [
+        "4/11",
+        "5/11",
+        "3/11",
+        "1/3"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2172,
+      "q": "Điền chữ số vào ô trống để số 75_ chia hết cho 9.",
+      "a": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2173,
+      "q": "Một mảnh đất hình chữ nhật dài 40 m, rộng 48 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1922 m2",
+        "1919 m2",
+        "1920 m2",
+        "1921 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2174,
+      "q": "Một số khi nhân với 9 rồi bớt 87 thì được 1632. Số đó là?",
+      "a": [
+        "190",
+        "192",
+        "191",
+        "193"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2175,
+      "q": "5/8 của 544 là bao nhiêu?",
+      "a": [
+        "341",
+        "340",
+        "339",
+        "342"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2176,
+      "q": "Dãy số 18; 31; 44; 57; ... Số hạng thứ 8 là?",
+      "a": [
+        "110",
+        "108",
+        "109",
+        "111"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2177,
+      "q": "Tìm số lớn, biết tổng hai số là 1420 và hiệu hai số là 348.",
+      "a": [
+        "885",
+        "884",
+        "883",
+        "886"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2178,
+      "q": "Trung bình cộng của 58, 177, 110 là bao nhiêu?",
+      "a": [
+        "114",
+        "117",
+        "116",
+        "115"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2179,
+      "q": "Tính 1/5 + 3/5.",
+      "a": [
+        "1",
+        "3/5",
+        "2/3",
+        "4/5"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2180,
+      "q": "Điền chữ số vào ô trống để số 78_ chia hết cho 9.",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2181,
+      "q": "Một mảnh đất hình chữ nhật dài 45 m, rộng 41 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1844 m2",
+        "1845 m2",
+        "1846 m2",
+        "1847 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2182,
+      "q": "Một số khi nhân với 6 rồi bớt 45 thì được 909. Số đó là?",
+      "a": [
+        "160",
+        "161",
+        "159",
+        "158"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2183,
+      "q": "6/12 của 672 là bao nhiêu?",
+      "a": [
+        "338",
+        "336",
+        "335",
+        "337"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2184,
+      "q": "Dãy số 53; 58; 63; 68; ... Số hạng thứ 8 là?",
+      "a": [
+        "89",
+        "87",
+        "88",
+        "90"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2185,
+      "q": "Tìm số lớn, biết tổng hai số là 837 và hiệu hai số là 165.",
+      "a": [
+        "503",
+        "502",
+        "501",
+        "500"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2186,
+      "q": "Trung bình cộng của 102, 94, 176 là bao nhiêu?",
+      "a": [
+        "124",
+        "123",
+        "125",
+        "126"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2187,
+      "q": "Tính 7/12 + 3/12.",
+      "a": [
+        "5/6",
+        "10/13",
+        "11/12",
+        "3/4"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2188,
+      "q": "Điền chữ số vào ô trống để số 92_ chia hết cho 9.",
+      "a": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2189,
+      "q": "Một mảnh đất hình chữ nhật dài 30 m, rộng 13 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "390 m2",
+        "389 m2",
+        "391 m2",
+        "392 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2190,
+      "q": "Một số khi nhân với 6 rồi bớt 52 thì được 1058. Số đó là?",
+      "a": [
+        "186",
+        "184",
+        "187",
+        "185"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2191,
+      "q": "7/8 của 600 là bao nhiêu?",
+      "a": [
+        "524",
+        "527",
+        "525",
+        "526"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2192,
+      "q": "Dãy số 11; 26; 41; 56; ... Số hạng thứ 8 là?",
+      "a": [
+        "116",
+        "118",
+        "115",
+        "117"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2193,
+      "q": "Tìm số lớn, biết tổng hai số là 251 và hiệu hai số là 293.",
+      "a": [
+        "272",
+        "274",
+        "273",
+        "271"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2194,
+      "q": "Trung bình cộng của 101, 127, 72 là bao nhiêu?",
+      "a": [
+        "99",
+        "102",
+        "101",
+        "100"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2195,
+      "q": "Tính 4/5 + 1/5.",
+      "a": [
+        "5/6",
+        "6/5",
+        "4/5",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2196,
+      "q": "Điền chữ số vào ô trống để số 96_ chia hết cho 9.",
+      "a": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2197,
+      "q": "Một mảnh đất hình chữ nhật dài 68 m, rộng 29 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1972 m2",
+        "1973 m2",
+        "1971 m2",
+        "1974 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2198,
+      "q": "Một số khi nhân với 3 rồi bớt 136 thì được 749. Số đó là?",
+      "a": [
+        "294",
+        "296",
+        "297",
+        "295"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2199,
+      "q": "3/7 của 203 là bao nhiêu?",
+      "a": [
+        "86",
+        "88",
+        "87",
+        "89"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2200,
+      "q": "Dãy số 36; 48; 60; 72; ... Số hạng thứ 8 là?",
+      "a": [
+        "120",
+        "122",
+        "121",
+        "119"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2201,
+      "q": "Tìm số lớn, biết tổng hai số là 1958 và hiệu hai số là 28.",
+      "a": [
+        "993",
+        "994",
+        "992",
+        "995"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2202,
+      "q": "Trung bình cộng của 168, 57, 60 là bao nhiêu?",
+      "a": [
+        "94",
+        "97",
+        "96",
+        "95"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2203,
+      "q": "Tính 5/12 + 5/12.",
+      "a": [
+        "5/6",
+        "11/12",
+        "10/13",
+        "3/4"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2204,
+      "q": "Điền chữ số vào ô trống để số 56_ chia hết cho 9.",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2205,
+      "q": "Một mảnh đất hình chữ nhật dài 47 m, rộng 56 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2633 m2",
+        "2631 m2",
+        "2634 m2",
+        "2632 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2206,
+      "q": "Một số khi nhân với 9 rồi bớt 189 thì được 2394. Số đó là?",
+      "a": [
+        "286",
+        "289",
+        "288",
+        "287"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2207,
+      "q": "9/12 của 492 là bao nhiêu?",
+      "a": [
+        "371",
+        "368",
+        "370",
+        "369"
+      ],
+      "c": "D",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2208,
+      "q": "Dãy số 20; 35; 50; 65; ... Số hạng thứ 8 là?",
+      "a": [
+        "127",
+        "125",
+        "124",
+        "126"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2209,
+      "q": "Tìm số lớn, biết tổng hai số là 782 và hiệu hai số là 28.",
+      "a": [
+        "407",
+        "404",
+        "406",
+        "405"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2210,
+      "q": "Trung bình cộng của 178, 146, 51 là bao nhiêu?",
+      "a": [
+        "126",
+        "125",
+        "127",
+        "124"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2211,
+      "q": "Tính 1/6 + 2/6.",
+      "a": [
+        "3/7",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2212,
+      "q": "Điền chữ số vào ô trống để số 51_ chia hết cho 9.",
+      "a": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2213,
+      "q": "Một mảnh đất hình chữ nhật dài 71 m, rộng 13 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "925 m2",
+        "922 m2",
+        "923 m2",
+        "924 m2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2214,
+      "q": "Một số khi nhân với 9 rồi bớt 106 thì được 2072. Số đó là?",
+      "a": [
+        "242",
+        "243",
+        "241",
+        "244"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2215,
+      "q": "5/9 của 297 là bao nhiêu?",
+      "a": [
+        "165",
+        "164",
+        "166",
+        "167"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2216,
+      "q": "Dãy số 18; 29; 40; 51; ... Số hạng thứ 8 là?",
+      "a": [
+        "94",
+        "97",
+        "96",
+        "95"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2217,
+      "q": "Tìm số lớn, biết tổng hai số là 1602 và hiệu hai số là 310.",
+      "a": [
+        "956",
+        "957",
+        "955",
+        "958"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2218,
+      "q": "Trung bình cộng của 140, 68, 65 là bao nhiêu?",
+      "a": [
+        "93",
+        "90",
+        "92",
+        "91"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2219,
+      "q": "Tính 11/14 + 1/14.",
+      "a": [
+        "11/14",
+        "4/5",
+        "13/14",
+        "6/7"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2220,
+      "q": "Điền chữ số vào ô trống để số 53_ chia hết cho 9.",
+      "a": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2221,
+      "q": "Một mảnh đất hình chữ nhật dài 68 m, rộng 19 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1291 m2",
+        "1292 m2",
+        "1293 m2",
+        "1294 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2222,
+      "q": "Một số khi nhân với 5 rồi bớt 62 thì được 188. Số đó là?",
+      "a": [
+        "51",
+        "49",
+        "50",
+        "52"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2223,
+      "q": "5/8 của 216 là bao nhiêu?",
+      "a": [
+        "134",
+        "135",
+        "136",
+        "137"
+      ],
+      "c": "B",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2224,
+      "q": "Dãy số 80; 93; 106; 119; ... Số hạng thứ 8 là?",
+      "a": [
+        "170",
+        "172",
+        "171",
+        "173"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2225,
+      "q": "Tìm số lớn, biết tổng hai số là 1845 và hiệu hai số là 167.",
+      "a": [
+        "1008",
+        "1007",
+        "1005",
+        "1006"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2226,
+      "q": "Trung bình cộng của 96, 46, 47 là bao nhiêu?",
+      "a": [
+        "62",
+        "65",
+        "63",
+        "64"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2227,
+      "q": "Tính 4/5 + 2/5.",
+      "a": [
+        "1",
+        "6/5",
+        "5/5",
+        "7/5"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2228,
+      "q": "Điền chữ số vào ô trống để số 14_ chia hết cho 9.",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2229,
+      "q": "Một mảnh đất hình chữ nhật dài 53 m, rộng 22 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1165 m2",
+        "1167 m2",
+        "1168 m2",
+        "1166 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2230,
+      "q": "Một số khi nhân với 8 rồi bớt 70 thì được 922. Số đó là?",
+      "a": [
+        "123",
+        "126",
+        "124",
+        "125"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2231,
+      "q": "6/11 của 330 là bao nhiêu?",
+      "a": [
+        "181",
+        "179",
+        "182",
+        "180"
+      ],
+      "c": "D",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2232,
+      "q": "Dãy số 14; 28; 42; 56; ... Số hạng thứ 8 là?",
+      "a": [
+        "111",
+        "113",
+        "112",
+        "114"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2233,
+      "q": "Tìm số lớn, biết tổng hai số là 1926 và hiệu hai số là 236.",
+      "a": [
+        "1080",
+        "1083",
+        "1082",
+        "1081"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2234,
+      "q": "Trung bình cộng của 160, 176, 78 là bao nhiêu?",
+      "a": [
+        "139",
+        "137",
+        "138",
+        "140"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2235,
+      "q": "Tính 10/11 + 5/11.",
+      "a": [
+        "15/11",
+        "16/11",
+        "14/11",
+        "5/4"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2236,
+      "q": "Điền chữ số vào ô trống để số 15_ chia hết cho 9.",
+      "a": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2237,
+      "q": "Một mảnh đất hình chữ nhật dài 37 m, rộng 30 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1109 m2",
+        "1112 m2",
+        "1111 m2",
+        "1110 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2238,
+      "q": "Một số khi nhân với 8 rồi bớt 98 thì được 2238. Số đó là?",
+      "a": [
+        "291",
+        "292",
+        "294",
+        "293"
+      ],
+      "c": "B",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2239,
+      "q": "2/10 của 390 là bao nhiêu?",
+      "a": [
+        "80",
+        "77",
+        "78",
+        "79"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2240,
+      "q": "Dãy số 35; 47; 59; 71; ... Số hạng thứ 8 là?",
+      "a": [
+        "119",
+        "121",
+        "120",
+        "118"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2241,
+      "q": "Tìm số lớn, biết tổng hai số là 1332 và hiệu hai số là 270.",
+      "a": [
+        "802",
+        "801",
+        "803",
+        "800"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2242,
+      "q": "Trung bình cộng của 41, 48, 163 là bao nhiêu?",
+      "a": [
+        "85",
+        "83",
+        "84",
+        "86"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2243,
+      "q": "Tính 2/13 + 10/13.",
+      "a": [
+        "6/7",
+        "12/13",
+        "1",
+        "11/13"
+      ],
+      "c": "B",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2244,
+      "q": "Điền chữ số vào ô trống để số 67_ chia hết cho 9.",
+      "a": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2245,
+      "q": "Một mảnh đất hình chữ nhật dài 30 m, rộng 35 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1052 m2",
+        "1051 m2",
+        "1049 m2",
+        "1050 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2246,
+      "q": "Một số khi nhân với 4 rồi bớt 110 thì được 802. Số đó là?",
+      "a": [
+        "229",
+        "227",
+        "228",
+        "230"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2247,
+      "q": "6/11 của 264 là bao nhiêu?",
+      "a": [
+        "144",
+        "145",
+        "146",
+        "143"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2248,
+      "q": "Dãy số 74; 89; 104; 119; ... Số hạng thứ 8 là?",
+      "a": [
+        "179",
+        "180",
+        "181",
+        "178"
+      ],
+      "c": "A",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2249,
+      "q": "Tìm số lớn, biết tổng hai số là 1131 và hiệu hai số là 115.",
+      "a": [
+        "622",
+        "624",
+        "625",
+        "623"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2250,
+      "q": "Trung bình cộng của 65, 103, 96 là bao nhiêu?",
+      "a": [
+        "88",
+        "90",
+        "87",
+        "89"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2251,
+      "q": "Tính 3/9 + 5/9.",
+      "a": [
+        "7/9",
+        "1",
+        "8/9",
+        "4/5"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2252,
+      "q": "Điền chữ số vào ô trống để số 70_ chia hết cho 9.",
+      "a": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2253,
+      "q": "Một mảnh đất hình chữ nhật dài 76 m, rộng 56 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "4258 m2",
+        "4256 m2",
+        "4257 m2",
+        "4255 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2254,
+      "q": "Một số khi nhân với 5 rồi bớt 184 thì được 626. Số đó là?",
+      "a": [
+        "162",
+        "161",
+        "163",
+        "164"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2255,
+      "q": "2/11 của 693 là bao nhiêu?",
+      "a": [
+        "128",
+        "127",
+        "126",
+        "125"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2256,
+      "q": "Dãy số 47; 56; 65; 74; ... Số hạng thứ 8 là?",
+      "a": [
+        "112",
+        "110",
+        "109",
+        "111"
+      ],
+      "c": "B",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2257,
+      "q": "Tìm số lớn, biết tổng hai số là 1727 và hiệu hai số là 253.",
+      "a": [
+        "990",
+        "992",
+        "991",
+        "989"
+      ],
+      "c": "A",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2258,
+      "q": "Trung bình cộng của 143, 108, 139 là bao nhiêu?",
+      "a": [
+        "132",
+        "131",
+        "130",
+        "129"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2259,
+      "q": "Tính 8/9 + 4/9.",
+      "a": [
+        "11/9",
+        "13/9",
+        "4/3",
+        "6/5"
+      ],
+      "c": "C",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2260,
+      "q": "Điền chữ số vào ô trống để số 68_ chia hết cho 9.",
+      "a": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2261,
+      "q": "Một mảnh đất hình chữ nhật dài 76 m, rộng 30 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2282 m2",
+        "2279 m2",
+        "2281 m2",
+        "2280 m2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2262,
+      "q": "Một số khi nhân với 6 rồi bớt 58 thì được 1634. Số đó là?",
+      "a": [
+        "284",
+        "283",
+        "282",
+        "281"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2263,
+      "q": "2/5 của 215 là bao nhiêu?",
+      "a": [
+        "86",
+        "87",
+        "85",
+        "88"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2264,
+      "q": "Dãy số 14; 18; 22; 26; ... Số hạng thứ 8 là?",
+      "a": [
+        "44",
+        "43",
+        "42",
+        "41"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2265,
+      "q": "Tìm số lớn, biết tổng hai số là 1975 và hiệu hai số là 103.",
+      "a": [
+        "1040",
+        "1038",
+        "1039",
+        "1041"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2266,
+      "q": "Trung bình cộng của 163, 69, 143 là bao nhiêu?",
+      "a": [
+        "127",
+        "125",
+        "124",
+        "126"
+      ],
+      "c": "B",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2267,
+      "q": "Tính 4/9 + 8/9.",
+      "a": [
+        "4/3",
+        "6/5",
+        "11/9",
+        "13/9"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2268,
+      "q": "Điền chữ số vào ô trống để số 58_ chia hết cho 9.",
+      "a": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2269,
+      "q": "Một mảnh đất hình chữ nhật dài 45 m, rộng 47 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "2117 m2",
+        "2115 m2",
+        "2114 m2",
+        "2116 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2270,
+      "q": "Một số khi nhân với 7 rồi bớt 75 thì được 1276. Số đó là?",
+      "a": [
+        "192",
+        "194",
+        "195",
+        "193"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2271,
+      "q": "2/5 của 275 là bao nhiêu?",
+      "a": [
+        "111",
+        "112",
+        "110",
+        "109"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2272,
+      "q": "Dãy số 51; 66; 81; 96; ... Số hạng thứ 8 là?",
+      "a": [
+        "157",
+        "158",
+        "156",
+        "155"
+      ],
+      "c": "C",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2273,
+      "q": "Tìm số lớn, biết tổng hai số là 1340 và hiệu hai số là 268.",
+      "a": [
+        "803",
+        "804",
+        "805",
+        "806"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2274,
+      "q": "Trung bình cộng của 171, 143, 85 là bao nhiêu?",
+      "a": [
+        "133",
+        "135",
+        "132",
+        "134"
+      ],
+      "c": "A",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2275,
+      "q": "Tính 7/8 + 1/8.",
+      "a": [
+        "1",
+        "8/9",
+        "7/8",
+        "9/8"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2276,
+      "q": "Điền chữ số vào ô trống để số 24_ chia hết cho 9.",
+      "a": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2277,
+      "q": "Một mảnh đất hình chữ nhật dài 33 m, rộng 31 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1024 m2",
+        "1023 m2",
+        "1025 m2",
+        "1022 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2278,
+      "q": "Một số khi nhân với 6 rồi bớt 150 thì được 1374. Số đó là?",
+      "a": [
+        "256",
+        "253",
+        "255",
+        "254"
+      ],
+      "c": "D",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2279,
+      "q": "4/7 của 518 là bao nhiêu?",
+      "a": [
+        "296",
+        "297",
+        "295",
+        "298"
+      ],
+      "c": "A",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2280,
+      "q": "Dãy số 10; 14; 18; 22; ... Số hạng thứ 8 là?",
+      "a": [
+        "39",
+        "37",
+        "40",
+        "38"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2281,
+      "q": "Tìm số lớn, biết tổng hai số là 826 và hiệu hai số là 362.",
+      "a": [
+        "596",
+        "594",
+        "593",
+        "595"
+      ],
+      "c": "B",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2282,
+      "q": "Trung bình cộng của 156, 154, 101 là bao nhiêu?",
+      "a": [
+        "139",
+        "138",
+        "136",
+        "137"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2283,
+      "q": "Tính 2/5 + 3/5.",
+      "a": [
+        "4/5",
+        "6/5",
+        "5/6",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2284,
+      "q": "Điền chữ số vào ô trống để số 16_ chia hết cho 9.",
+      "a": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2285,
+      "q": "Một mảnh đất hình chữ nhật dài 62 m, rộng 22 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1364 m2",
+        "1366 m2",
+        "1363 m2",
+        "1365 m2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2286,
+      "q": "Một số khi nhân với 6 rồi bớt 108 thì được 648. Số đó là?",
+      "a": [
+        "126",
+        "128",
+        "127",
+        "125"
+      ],
+      "c": "A",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2287,
+      "q": "2/6 của 180 là bao nhiêu?",
+      "a": [
+        "61",
+        "59",
+        "60",
+        "62"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2288,
+      "q": "Dãy số 71; 83; 95; 107; ... Số hạng thứ 8 là?",
+      "a": [
+        "156",
+        "157",
+        "154",
+        "155"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2289,
+      "q": "Tìm số lớn, biết tổng hai số là 1548 và hiệu hai số là 178.",
+      "a": [
+        "865",
+        "862",
+        "864",
+        "863"
+      ],
+      "c": "D",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2290,
+      "q": "Trung bình cộng của 168, 178, 74 là bao nhiêu?",
+      "a": [
+        "139",
+        "141",
+        "142",
+        "140"
+      ],
+      "c": "D",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2291,
+      "q": "Tính 3/12 + 7/12.",
+      "a": [
+        "5/6",
+        "10/13",
+        "3/4",
+        "11/12"
+      ],
+      "c": "A",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2292,
+      "q": "Điền chữ số vào ô trống để số 52_ chia hết cho 9.",
+      "a": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2293,
+      "q": "Một mảnh đất hình chữ nhật dài 30 m, rộng 48 m. Diện tích mảnh đất là bao nhiêu?",
+      "a": [
+        "1442 m2",
+        "1440 m2",
+        "1441 m2",
+        "1439 m2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2294,
+      "q": "Một số khi nhân với 6 rồi bớt 84 thì được 1290. Số đó là?",
+      "a": [
+        "228",
+        "231",
+        "229",
+        "230"
+      ],
+      "c": "C",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2295,
+      "q": "3/7 của 210 là bao nhiêu?",
+      "a": [
+        "91",
+        "89",
+        "90",
+        "92"
+      ],
+      "c": "C",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2296,
+      "q": "Dãy số 29; 33; 37; 41; ... Số hạng thứ 8 là?",
+      "a": [
+        "56",
+        "58",
+        "59",
+        "57"
+      ],
+      "c": "D",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2297,
+      "q": "Tìm số lớn, biết tổng hai số là 1762 và hiệu hai số là 230.",
+      "a": [
+        "995",
+        "997",
+        "996",
+        "998"
+      ],
+      "c": "C",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2298,
+      "q": "Trung bình cộng của 59, 138, 64 là bao nhiêu?",
+      "a": [
+        "86",
+        "89",
+        "87",
+        "88"
+      ],
+      "c": "C",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2299,
+      "q": "Tính 1/7 + 1/7.",
+      "a": [
+        "1/7",
+        "3/7",
+        "1/4",
+        "2/7"
+      ],
+      "c": "D",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2300,
+      "q": "Điền chữ số vào ô trống để số 23_ chia hết cho 9.",
+      "a": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -26715,6 +31215,2406 @@
       "hint": "7/9+1/9=8/9",
       "ch": "Phân số",
       "lv": 2
+    },
+    {
+      "id": 2001,
+      "q": "Tìm số lớn, biết tổng hai số là 1275 và hiệu hai số là 221. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2002,
+      "q": "Trung bình cộng của 60, 81, 78 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2003,
+      "q": "Tính 9/10 + 6/10. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2004,
+      "q": "Điền chữ số vào ô trống để số 97_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2005,
+      "q": "Một mảnh đất hình chữ nhật dài 68 m, rộng 31 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2006,
+      "q": "Một số khi nhân với 7 rồi bớt 86 thì được 1874. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2007,
+      "q": "8/11 của 528 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2008,
+      "q": "Dãy số 73; 88; 103; 118; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2009,
+      "q": "Tìm số lớn, biết tổng hai số là 1699 và hiệu hai số là 317. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2010,
+      "q": "Trung bình cộng của 124, 55, 115 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2011,
+      "q": "Tính 2/13 + 1/13. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2012,
+      "q": "Điền chữ số vào ô trống để số 64_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2013,
+      "q": "Một mảnh đất hình chữ nhật dài 66 m, rộng 32 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2014,
+      "q": "Một số khi nhân với 4 rồi bớt 86 thì được 482. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2015,
+      "q": "4/7 của 266 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2016,
+      "q": "Dãy số 29; 41; 53; 65; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2017,
+      "q": "Tìm số lớn, biết tổng hai số là 1934 và hiệu hai số là 24. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2018,
+      "q": "Trung bình cộng của 68, 92, 107 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2019,
+      "q": "Tính 6/12 + 4/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2020,
+      "q": "Điền chữ số vào ô trống để số 16_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2021,
+      "q": "Một mảnh đất hình chữ nhật dài 49 m, rộng 16 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2022,
+      "q": "Một số khi nhân với 9 rồi bớt 28 thì được 2024. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2023,
+      "q": "4/9 của 135 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2024,
+      "q": "Dãy số 63; 68; 73; 78; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2025,
+      "q": "Tìm số lớn, biết tổng hai số là 1004 và hiệu hai số là 214. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2026,
+      "q": "Trung bình cộng của 101, 120, 103 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2027,
+      "q": "Tính 4/5 + 1/5. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2028,
+      "q": "Điền chữ số vào ô trống để số 77_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2029,
+      "q": "Một mảnh đất hình chữ nhật dài 27 m, rộng 20 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2030,
+      "q": "Một số khi nhân với 4 rồi bớt 103 thì được 809. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2031,
+      "q": "4/9 của 315 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2032,
+      "q": "Dãy số 35; 46; 57; 68; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2033,
+      "q": "Tìm số lớn, biết tổng hai số là 1792 và hiệu hai số là 376. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2034,
+      "q": "Trung bình cộng của 91, 43, 142 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2035,
+      "q": "Tính 1/10 + 1/10. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2036,
+      "q": "Điền chữ số vào ô trống để số 25_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2037,
+      "q": "Một mảnh đất hình chữ nhật dài 37 m, rộng 17 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2038,
+      "q": "Một số khi nhân với 4 rồi bớt 108 thì được 716. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2039,
+      "q": "2/10 của 460 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2040,
+      "q": "Dãy số 29; 42; 55; 68; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2041,
+      "q": "Tìm số lớn, biết tổng hai số là 455 và hiệu hai số là 293. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2042,
+      "q": "Trung bình cộng của 42, 154, 53 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2043,
+      "q": "Tính 9/15 + 1/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2044,
+      "q": "Điền chữ số vào ô trống để số 43_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2045,
+      "q": "Một mảnh đất hình chữ nhật dài 52 m, rộng 53 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2046,
+      "q": "Một số khi nhân với 7 rồi bớt 118 thì được 1331. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2047,
+      "q": "3/6 của 480 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2048,
+      "q": "Dãy số 68; 82; 96; 110; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2049,
+      "q": "Tìm số lớn, biết tổng hai số là 1222 và hiệu hai số là 324. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2050,
+      "q": "Trung bình cộng của 52, 64, 163 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2051,
+      "q": "Tính 7/8 + 5/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2052,
+      "q": "Điền chữ số vào ô trống để số 51_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2053,
+      "q": "Một mảnh đất hình chữ nhật dài 73 m, rộng 45 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2054,
+      "q": "Một số khi nhân với 7 rồi bớt 141 thì được 804. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2055,
+      "q": "8/10 của 640 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2056,
+      "q": "Dãy số 40; 55; 70; 85; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2057,
+      "q": "Tìm số lớn, biết tổng hai số là 1253 và hiệu hai số là 143. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2058,
+      "q": "Trung bình cộng của 86, 89, 89 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2059,
+      "q": "Tính 3/14 + 9/14. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2060,
+      "q": "Điền chữ số vào ô trống để số 49_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2061,
+      "q": "Một mảnh đất hình chữ nhật dài 42 m, rộng 19 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2062,
+      "q": "Một số khi nhân với 5 rồi bớt 93 thì được 382. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2063,
+      "q": "3/5 của 120 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2064,
+      "q": "Dãy số 12; 17; 22; 27; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2065,
+      "q": "Tìm số lớn, biết tổng hai số là 218 và hiệu hai số là 334. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2066,
+      "q": "Trung bình cộng của 104, 91, 87 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2067,
+      "q": "Tính 14/15 + 13/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2068,
+      "q": "Điền chữ số vào ô trống để số 12_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2069,
+      "q": "Một mảnh đất hình chữ nhật dài 51 m, rộng 15 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2070,
+      "q": "Một số khi nhân với 7 rồi bớt 40 thì được 282. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2071,
+      "q": "2/9 của 711 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2072,
+      "q": "Dãy số 67; 72; 77; 82; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2073,
+      "q": "Tìm số lớn, biết tổng hai số là 768 và hiệu hai số là 114. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2074,
+      "q": "Trung bình cộng của 104, 64, 159 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2075,
+      "q": "Tính 6/15 + 12/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2076,
+      "q": "Điền chữ số vào ô trống để số 44_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2077,
+      "q": "Một mảnh đất hình chữ nhật dài 29 m, rộng 13 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2078,
+      "q": "Một số khi nhân với 5 rồi bớt 125 thì được 1340. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2079,
+      "q": "3/5 của 385 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2080,
+      "q": "Dãy số 23; 31; 39; 47; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2081,
+      "q": "Tìm số lớn, biết tổng hai số là 1115 và hiệu hai số là 395. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2082,
+      "q": "Trung bình cộng của 114, 166, 113 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2083,
+      "q": "Tính 7/12 + 6/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2084,
+      "q": "Điền chữ số vào ô trống để số 96_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2085,
+      "q": "Một mảnh đất hình chữ nhật dài 71 m, rộng 47 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2086,
+      "q": "Một số khi nhân với 5 rồi bớt 53 thì được 127. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2087,
+      "q": "5/11 của 649 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2088,
+      "q": "Dãy số 25; 29; 33; 37; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2089,
+      "q": "Tìm số lớn, biết tổng hai số là 817 và hiệu hai số là 181. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2090,
+      "q": "Trung bình cộng của 75, 110, 133 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2091,
+      "q": "Tính 7/15 + 2/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2092,
+      "q": "Điền chữ số vào ô trống để số 79_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2093,
+      "q": "Một mảnh đất hình chữ nhật dài 78 m, rộng 30 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2094,
+      "q": "Một số khi nhân với 6 rồi bớt 95 thì được 547. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2095,
+      "q": "3/12 của 456 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2096,
+      "q": "Dãy số 35; 51; 67; 83; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2097,
+      "q": "Tìm số lớn, biết tổng hai số là 1936 và hiệu hai số là 108. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2098,
+      "q": "Trung bình cộng của 134, 155, 155 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2099,
+      "q": "Tính 6/15 + 7/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2100,
+      "q": "Điền chữ số vào ô trống để số 39_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2101,
+      "q": "Một mảnh đất hình chữ nhật dài 53 m, rộng 53 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2102,
+      "q": "Một số khi nhân với 5 rồi bớt 182 thì được 898. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2103,
+      "q": "3/5 của 280 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2104,
+      "q": "Dãy số 53; 63; 73; 83; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2105,
+      "q": "Tìm số lớn, biết tổng hai số là 1746 và hiệu hai số là 272. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2106,
+      "q": "Trung bình cộng của 132, 143, 124 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2107,
+      "q": "Tính 3/13 + 11/13. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2108,
+      "q": "Điền chữ số vào ô trống để số 60_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2109,
+      "q": "Một mảnh đất hình chữ nhật dài 30 m, rộng 15 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2110,
+      "q": "Một số khi nhân với 6 rồi bớt 69 thì được 933. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2111,
+      "q": "4/7 của 525 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2112,
+      "q": "Dãy số 27; 39; 51; 63; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2113,
+      "q": "Tìm số lớn, biết tổng hai số là 484 và hiệu hai số là 192. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2114,
+      "q": "Trung bình cộng của 123, 160, 113 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2115,
+      "q": "Tính 9/13 + 8/13. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2116,
+      "q": "Điền chữ số vào ô trống để số 88_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2117,
+      "q": "Một mảnh đất hình chữ nhật dài 44 m, rộng 19 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2118,
+      "q": "Một số khi nhân với 7 rồi bớt 53 thì được 255. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2119,
+      "q": "7/11 của 847 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2120,
+      "q": "Dãy số 30; 39; 48; 57; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2121,
+      "q": "Tìm số lớn, biết tổng hai số là 1665 và hiệu hai số là 385. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2122,
+      "q": "Trung bình cộng của 46, 40, 166 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2123,
+      "q": "Tính 1/10 + 8/10. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2124,
+      "q": "Điền chữ số vào ô trống để số 71_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2125,
+      "q": "Một mảnh đất hình chữ nhật dài 33 m, rộng 25 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2126,
+      "q": "Một số khi nhân với 3 rồi bớt 149 thì được 430. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2127,
+      "q": "6/7 của 532 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2128,
+      "q": "Dãy số 24; 30; 36; 42; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2129,
+      "q": "Tìm số lớn, biết tổng hai số là 806 và hiệu hai số là 194. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2130,
+      "q": "Trung bình cộng của 133, 44, 141 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2131,
+      "q": "Tính 1/11 + 10/11. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2132,
+      "q": "Điền chữ số vào ô trống để số 52_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2133,
+      "q": "Một mảnh đất hình chữ nhật dài 39 m, rộng 33 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2134,
+      "q": "Một số khi nhân với 9 rồi bớt 123 thì được 768. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2135,
+      "q": "4/6 của 90 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2136,
+      "q": "Dãy số 58; 64; 70; 76; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2137,
+      "q": "Tìm số lớn, biết tổng hai số là 465 và hiệu hai số là 325. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2138,
+      "q": "Trung bình cộng của 72, 136, 95 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2139,
+      "q": "Tính 11/12 + 9/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2140,
+      "q": "Điền chữ số vào ô trống để số 83_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2141,
+      "q": "Một mảnh đất hình chữ nhật dài 25 m, rộng 58 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2142,
+      "q": "Một số khi nhân với 4 rồi bớt 46 thì được 974. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2143,
+      "q": "4/12 của 180 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2144,
+      "q": "Dãy số 55; 60; 65; 70; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2145,
+      "q": "Tìm số lớn, biết tổng hai số là 1155 và hiệu hai số là 191. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2146,
+      "q": "Trung bình cộng của 111, 115, 74 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2147,
+      "q": "Tính 6/7 + 6/7. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2148,
+      "q": "Điền chữ số vào ô trống để số 49_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2149,
+      "q": "Một mảnh đất hình chữ nhật dài 74 m, rộng 29 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2150,
+      "q": "Một số khi nhân với 6 rồi bớt 85 thì được 1373. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2151,
+      "q": "2/6 của 408 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2152,
+      "q": "Dãy số 14; 19; 24; 29; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2153,
+      "q": "Tìm số lớn, biết tổng hai số là 1987 và hiệu hai số là 255. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2154,
+      "q": "Trung bình cộng của 54, 113, 100 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2155,
+      "q": "Tính 8/13 + 2/13. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2156,
+      "q": "Điền chữ số vào ô trống để số 64_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2157,
+      "q": "Một mảnh đất hình chữ nhật dài 80 m, rộng 48 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2158,
+      "q": "Một số khi nhân với 5 rồi bớt 113 thì được 1062. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2159,
+      "q": "7/8 của 472 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2160,
+      "q": "Dãy số 78; 82; 86; 90; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2161,
+      "q": "Tìm số lớn, biết tổng hai số là 1679 và hiệu hai số là 81. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2162,
+      "q": "Trung bình cộng của 123, 104, 109 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2163,
+      "q": "Tính 4/6 + 1/6. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2164,
+      "q": "Điền chữ số vào ô trống để số 88_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2165,
+      "q": "Một mảnh đất hình chữ nhật dài 65 m, rộng 54 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2166,
+      "q": "Một số khi nhân với 8 rồi bớt 119 thì được 953. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2167,
+      "q": "7/8 của 424 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2168,
+      "q": "Dãy số 72; 76; 80; 84; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2169,
+      "q": "Tìm số lớn, biết tổng hai số là 1795 và hiệu hai số là 371. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2170,
+      "q": "Trung bình cộng của 78, 97, 110 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2171,
+      "q": "Tính 11/12 + 5/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2172,
+      "q": "Điền chữ số vào ô trống để số 95_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2173,
+      "q": "Một mảnh đất hình chữ nhật dài 69 m, rộng 20 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2174,
+      "q": "Một số khi nhân với 9 rồi bớt 136 thì được 2537. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2175,
+      "q": "4/10 của 160 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2176,
+      "q": "Dãy số 57; 66; 75; 84; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2177,
+      "q": "Tìm số lớn, biết tổng hai số là 740 và hiệu hai số là 286. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2178,
+      "q": "Trung bình cộng của 177, 134, 121 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2179,
+      "q": "Tính 1/8 + 5/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2180,
+      "q": "Điền chữ số vào ô trống để số 52_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2181,
+      "q": "Một mảnh đất hình chữ nhật dài 51 m, rộng 24 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2182,
+      "q": "Một số khi nhân với 3 rồi bớt 93 thì được 300. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2183,
+      "q": "7/12 của 840 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2184,
+      "q": "Dãy số 65; 73; 81; 89; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2185,
+      "q": "Tìm số lớn, biết tổng hai số là 1798 và hiệu hai số là 148. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2186,
+      "q": "Trung bình cộng của 110, 145, 132 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2187,
+      "q": "Tính 7/12 + 10/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2188,
+      "q": "Điền chữ số vào ô trống để số 25_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2189,
+      "q": "Một mảnh đất hình chữ nhật dài 34 m, rộng 57 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2190,
+      "q": "Một số khi nhân với 7 rồi bớt 105 thì được 133. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2191,
+      "q": "5/9 của 495 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2192,
+      "q": "Dãy số 35; 48; 61; 74; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2193,
+      "q": "Tìm số lớn, biết tổng hai số là 533 và hiệu hai số là 71. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2194,
+      "q": "Trung bình cộng của 113, 121, 105 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2195,
+      "q": "Tính 6/8 + 6/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2196,
+      "q": "Điền chữ số vào ô trống để số 41_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2197,
+      "q": "Một mảnh đất hình chữ nhật dài 68 m, rộng 37 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2198,
+      "q": "Một số khi nhân với 6 rồi bớt 24 thì được 216. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2199,
+      "q": "2/12 của 756 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2200,
+      "q": "Dãy số 42; 54; 66; 78; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2201,
+      "q": "Tìm số lớn, biết tổng hai số là 592 và hiệu hai số là 326. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2202,
+      "q": "Trung bình cộng của 78, 102, 171 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2203,
+      "q": "Tính 7/12 + 7/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2204,
+      "q": "Điền chữ số vào ô trống để số 94_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2205,
+      "q": "Một mảnh đất hình chữ nhật dài 54 m, rộng 39 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2206,
+      "q": "Một số khi nhân với 8 rồi bớt 31 thì được 841. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2207,
+      "q": "2/5 của 185 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2208,
+      "q": "Dãy số 27; 42; 57; 72; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2209,
+      "q": "Tìm số lớn, biết tổng hai số là 1728 và hiệu hai số là 294. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2210,
+      "q": "Trung bình cộng của 140, 50, 44 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2211,
+      "q": "Tính 6/7 + 5/7. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2212,
+      "q": "Điền chữ số vào ô trống để số 64_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2213,
+      "q": "Một mảnh đất hình chữ nhật dài 66 m, rộng 54 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2214,
+      "q": "Một số khi nhân với 8 rồi bớt 166 thì được 1010. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2215,
+      "q": "7/9 của 549 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2216,
+      "q": "Dãy số 45; 50; 55; 60; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2217,
+      "q": "Tìm số lớn, biết tổng hai số là 896 và hiệu hai số là 278. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2218,
+      "q": "Trung bình cộng của 102, 96, 81 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2219,
+      "q": "Tính 8/15 + 4/15. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2220,
+      "q": "Điền chữ số vào ô trống để số 79_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2221,
+      "q": "Một mảnh đất hình chữ nhật dài 60 m, rộng 36 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2222,
+      "q": "Một số khi nhân với 7 rồi bớt 184 thì được 327. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2223,
+      "q": "4/11 của 198 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2224,
+      "q": "Dãy số 13; 22; 31; 40; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2225,
+      "q": "Tìm số lớn, biết tổng hai số là 534 và hiệu hai số là 24. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2226,
+      "q": "Trung bình cộng của 89, 102, 67 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2227,
+      "q": "Tính 4/8 + 3/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2228,
+      "q": "Điền chữ số vào ô trống để số 51_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2229,
+      "q": "Một mảnh đất hình chữ nhật dài 46 m, rộng 12 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2230,
+      "q": "Một số khi nhân với 9 rồi bớt 60 thì được 2469. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2231,
+      "q": "4/9 của 720 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2232,
+      "q": "Dãy số 23; 32; 41; 50; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2233,
+      "q": "Tìm số lớn, biết tổng hai số là 1800 và hiệu hai số là 138. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2234,
+      "q": "Trung bình cộng của 89, 104, 68 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2235,
+      "q": "Tính 9/13 + 6/13. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2236,
+      "q": "Điền chữ số vào ô trống để số 77_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2237,
+      "q": "Một mảnh đất hình chữ nhật dài 62 m, rộng 47 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2238,
+      "q": "Một số khi nhân với 7 rồi bớt 123 thì được 1767. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2239,
+      "q": "4/5 của 305 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2240,
+      "q": "Dãy số 46; 54; 62; 70; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2241,
+      "q": "Tìm số lớn, biết tổng hai số là 418 và hiệu hai số là 76. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2242,
+      "q": "Trung bình cộng của 104, 98, 62 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2243,
+      "q": "Tính 2/10 + 7/10. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2244,
+      "q": "Điền chữ số vào ô trống để số 97_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2245,
+      "q": "Một mảnh đất hình chữ nhật dài 63 m, rộng 42 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2246,
+      "q": "Một số khi nhân với 3 rồi bớt 178 thì được 449. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2247,
+      "q": "3/12 của 636 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2248,
+      "q": "Dãy số 36; 50; 64; 78; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2249,
+      "q": "Tìm số lớn, biết tổng hai số là 258 và hiệu hai số là 358. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2250,
+      "q": "Trung bình cộng của 121, 63, 104 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2251,
+      "q": "Tính 5/10 + 4/10. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2252,
+      "q": "Điền chữ số vào ô trống để số 50_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2253,
+      "q": "Một mảnh đất hình chữ nhật dài 31 m, rộng 57 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2254,
+      "q": "Một số khi nhân với 3 rồi bớt 128 thì được 580. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2255,
+      "q": "2/12 của 264 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2256,
+      "q": "Dãy số 64; 72; 80; 88; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2257,
+      "q": "Tìm số lớn, biết tổng hai số là 1828 và hiệu hai số là 148. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2258,
+      "q": "Trung bình cộng của 154, 99, 122 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2259,
+      "q": "Tính 7/14 + 5/14. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2260,
+      "q": "Điền chữ số vào ô trống để số 85_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2261,
+      "q": "Một mảnh đất hình chữ nhật dài 34 m, rộng 17 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2262,
+      "q": "Một số khi nhân với 9 rồi bớt 136 thì được 2321. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2263,
+      "q": "8/10 của 450 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2264,
+      "q": "Dãy số 74; 87; 100; 113; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2265,
+      "q": "Tìm số lớn, biết tổng hai số là 598 và hiệu hai số là 56. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2266,
+      "q": "Trung bình cộng của 166, 159, 113 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2267,
+      "q": "Tính 5/8 + 7/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2268,
+      "q": "Điền chữ số vào ô trống để số 92_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2269,
+      "q": "Một mảnh đất hình chữ nhật dài 58 m, rộng 33 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2270,
+      "q": "Một số khi nhân với 3 rồi bớt 170 thì được 697. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2271,
+      "q": "2/6 của 114 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2272,
+      "q": "Dãy số 20; 34; 48; 62; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2273,
+      "q": "Tìm số lớn, biết tổng hai số là 798 và hiệu hai số là 48. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2274,
+      "q": "Trung bình cộng của 154, 56, 120 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2275,
+      "q": "Tính 13/14 + 8/14. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2276,
+      "q": "Điền chữ số vào ô trống để số 73_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2277,
+      "q": "Một mảnh đất hình chữ nhật dài 57 m, rộng 27 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2278,
+      "q": "Một số khi nhân với 9 rồi bớt 163 thì được 1394. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2279,
+      "q": "9/10 của 240 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2280,
+      "q": "Dãy số 53; 69; 85; 101; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2281,
+      "q": "Tìm số lớn, biết tổng hai số là 1507 và hiệu hai số là 191. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2282,
+      "q": "Trung bình cộng của 151, 60, 161 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2283,
+      "q": "Tính 2/12 + 11/12. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2284,
+      "q": "Điền chữ số vào ô trống để số 95_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2285,
+      "q": "Một mảnh đất hình chữ nhật dài 71 m, rộng 56 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2286,
+      "q": "Một số khi nhân với 5 rồi bớt 175 thì được 570. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2287,
+      "q": "5/12 của 312 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2288,
+      "q": "Dãy số 66; 82; 98; 114; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2289,
+      "q": "Tìm số lớn, biết tổng hai số là 767 và hiệu hai số là 301. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2290,
+      "q": "Trung bình cộng của 128, 104, 119 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2291,
+      "q": "Tính 1/7 + 5/7. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2292,
+      "q": "Điền chữ số vào ô trống để số 48_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2293,
+      "q": "Một mảnh đất hình chữ nhật dài 65 m, rộng 23 m. Diện tích mảnh đất là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2294,
+      "q": "Một số khi nhân với 5 rồi bớt 105 thì được 885. Số đó là? Trình bày cách làm.",
+      "hint": "Làm ngược phép tính: cộng lại phần đã bớt rồi chia cho số nhân.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2295,
+      "q": "8/10 của 210 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm một phần bằng cách chia cho mẫu số, rồi nhân với tử số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2296,
+      "q": "Dãy số 69; 85; 101; 117; ... Số hạng thứ 8 là? Trình bày cách làm.",
+      "hint": "Tìm quy luật tăng đều và đếm số bước từ số hạng đầu đến số hạng cần tìm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2297,
+      "q": "Tìm số lớn, biết tổng hai số là 948 và hiệu hai số là 72. Trình bày cách làm.",
+      "hint": "Số lớn bằng tổng cộng hiệu rồi chia cho 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2298,
+      "q": "Trung bình cộng của 98, 85, 162 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Cộng các số rồi chia cho số lượng các số hạng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2299,
+      "q": "Tính 5/8 + 3/8. Trình bày cách làm.",
+      "hint": "Hai phân số cùng mẫu thì cộng các tử số và giữ nguyên mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": 2300,
+      "q": "Điền chữ số vào ô trống để số 93_ chia hết cho 9. Trình bày cách làm.",
+      "hint": "Một số chia hết cho 9 khi tổng các chữ số chia hết cho 9.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ]
 }

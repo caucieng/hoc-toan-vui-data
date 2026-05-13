@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 3,
   "title": "Học Toán Lớp 3",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": "q3-0001",
@@ -15003,6 +15003,4506 @@
       "ch": "Chu vi, diện tích hình chữ nhật và hình vuông",
       "chapter": 10,
       "lv": 3
+    },
+    {
+      "id": "q3-adv-0001",
+      "q": "120 x 7 + 78 = ?",
+      "a": [
+        "918",
+        "920",
+        "919",
+        "917"
+      ],
+      "c": "A",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0002",
+      "q": "3080 : 8 = ?",
+      "a": [
+        "384",
+        "385",
+        "386",
+        "387"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0003",
+      "q": "Hình chữ nhật dài 35 cm, rộng 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "629 cm2",
+        "631 cm2",
+        "632 cm2",
+        "630 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0004",
+      "q": "Hình vuông có cạnh 14 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "55 cm",
+        "56 cm",
+        "57 cm",
+        "58 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0005",
+      "q": "Một kho có 440 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "54 kg",
+        "57 kg",
+        "56 kg",
+        "55 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0006",
+      "q": "Có 10 hộp, mỗi hộp 19 viên phấn. Dùng hết 85 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "105 viên",
+        "104 viên",
+        "106 viên",
+        "107 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0007",
+      "q": "Tìm số cần điền: ... x 6 + 14 = 116",
+      "a": [
+        "16",
+        "18",
+        "19",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0008",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 16. Nếu số thứ nhất là 60, số thứ hai là bao nhiêu?",
+      "a": [
+        "318",
+        "315",
+        "317",
+        "316"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0009",
+      "q": "288 x 6 + 212 = ?",
+      "a": [
+        "1941",
+        "1939",
+        "1940",
+        "1942"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0010",
+      "q": "2925 : 9 = ?",
+      "a": [
+        "325",
+        "326",
+        "324",
+        "327"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0011",
+      "q": "Hình chữ nhật dài 38 cm, rộng 29 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1102 cm2",
+        "1101 cm2",
+        "1104 cm2",
+        "1103 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0012",
+      "q": "Hình vuông có cạnh 37 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "148 cm",
+        "150 cm",
+        "149 cm",
+        "147 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0013",
+      "q": "Một kho có 104 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "26 kg",
+        "27 kg",
+        "25 kg",
+        "28 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0014",
+      "q": "Có 9 hộp, mỗi hộp 14 viên phấn. Dùng hết 87 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "39 viên",
+        "40 viên",
+        "41 viên",
+        "38 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0015",
+      "q": "Tìm số cần điền: ... x 8 + 18 = 154",
+      "a": [
+        "18",
+        "16",
+        "17",
+        "19"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0016",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 26. Nếu số thứ nhất là 37, số thứ hai là bao nhiêu?",
+      "a": [
+        "211",
+        "213",
+        "212",
+        "210"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0017",
+      "q": "215 x 7 + 74 = ?",
+      "a": [
+        "1578",
+        "1579",
+        "1581",
+        "1580"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0018",
+      "q": "453 : 3 = ?",
+      "a": [
+        "151",
+        "152",
+        "150",
+        "153"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0019",
+      "q": "Hình chữ nhật dài 23 cm, rộng 30 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "690 cm2",
+        "691 cm2",
+        "692 cm2",
+        "689 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0020",
+      "q": "Hình vuông có cạnh 32 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "129 cm",
+        "130 cm",
+        "128 cm",
+        "127 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0021",
+      "q": "Một kho có 210 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "31 kg",
+        "30 kg",
+        "29 kg",
+        "32 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0022",
+      "q": "Có 8 hộp, mỗi hộp 25 viên phấn. Dùng hết 42 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "158 viên",
+        "160 viên",
+        "159 viên",
+        "157 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0023",
+      "q": "Tìm số cần điền: ... x 9 + 42 = 735",
+      "a": [
+        "79",
+        "77",
+        "78",
+        "76"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0024",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 15. Nếu số thứ nhất là 36, số thứ hai là bao nhiêu?",
+      "a": [
+        "195",
+        "196",
+        "197",
+        "194"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0025",
+      "q": "359 x 6 + 297 = ?",
+      "a": [
+        "2452",
+        "2450",
+        "2451",
+        "2453"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0026",
+      "q": "2952 : 8 = ?",
+      "a": [
+        "371",
+        "368",
+        "370",
+        "369"
+      ],
+      "c": "D",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0027",
+      "q": "Hình chữ nhật dài 20 cm, rộng 21 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "421 cm2",
+        "420 cm2",
+        "419 cm2",
+        "422 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0028",
+      "q": "Hình vuông có cạnh 55 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "219 cm",
+        "222 cm",
+        "220 cm",
+        "221 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0029",
+      "q": "Một kho có 276 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "46 kg",
+        "45 kg",
+        "48 kg",
+        "47 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0030",
+      "q": "Có 12 hộp, mỗi hộp 13 viên phấn. Dùng hết 21 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "134 viên",
+        "137 viên",
+        "136 viên",
+        "135 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0031",
+      "q": "Tìm số cần điền: ... x 3 + 77 = 245",
+      "a": [
+        "58",
+        "55",
+        "57",
+        "56"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0032",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 17. Nếu số thứ nhất là 70, số thứ hai là bao nhiêu?",
+      "a": [
+        "298",
+        "299",
+        "297",
+        "296"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0033",
+      "q": "184 x 7 + 214 = ?",
+      "a": [
+        "1503",
+        "1504",
+        "1501",
+        "1502"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0034",
+      "q": "785 : 5 = ?",
+      "a": [
+        "159",
+        "156",
+        "158",
+        "157"
+      ],
+      "c": "D",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0035",
+      "q": "Hình chữ nhật dài 22 cm, rộng 13 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "285 cm2",
+        "288 cm2",
+        "287 cm2",
+        "286 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0036",
+      "q": "Hình vuông có cạnh 60 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "240 cm",
+        "241 cm",
+        "242 cm",
+        "239 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0037",
+      "q": "Một kho có 160 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "22 kg",
+        "20 kg",
+        "19 kg",
+        "21 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0038",
+      "q": "Có 14 hộp, mỗi hộp 21 viên phấn. Dùng hết 77 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "216 viên",
+        "219 viên",
+        "217 viên",
+        "218 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0039",
+      "q": "Tìm số cần điền: ... x 6 + 25 = 199",
+      "a": [
+        "29",
+        "30",
+        "31",
+        "28"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0040",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 28. Nếu số thứ nhất là 55, số thứ hai là bao nhiêu?",
+      "a": [
+        "193",
+        "195",
+        "192",
+        "194"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0041",
+      "q": "137 x 7 + 55 = ?",
+      "a": [
+        "1015",
+        "1016",
+        "1013",
+        "1014"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0042",
+      "q": "1260 : 9 = ?",
+      "a": [
+        "139",
+        "140",
+        "142",
+        "141"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0043",
+      "q": "Hình chữ nhật dài 34 cm, rộng 20 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "679 cm2",
+        "680 cm2",
+        "681 cm2",
+        "682 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0044",
+      "q": "Hình vuông có cạnh 50 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "202 cm",
+        "199 cm",
+        "201 cm",
+        "200 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0045",
+      "q": "Một kho có 140 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "36 kg",
+        "37 kg",
+        "35 kg",
+        "34 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0046",
+      "q": "Có 6 hộp, mỗi hộp 19 viên phấn. Dùng hết 58 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "57 viên",
+        "56 viên",
+        "55 viên",
+        "58 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0047",
+      "q": "Tìm số cần điền: ... x 7 + 47 = 460",
+      "a": [
+        "60",
+        "61",
+        "58",
+        "59"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0048",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 18. Nếu số thứ nhất là 68, số thứ hai là bao nhiêu?",
+      "a": [
+        "222",
+        "223",
+        "224",
+        "221"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0049",
+      "q": "678 x 5 + 282 = ?",
+      "a": [
+        "3671",
+        "3674",
+        "3673",
+        "3672"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0050",
+      "q": "2130 : 5 = ?",
+      "a": [
+        "428",
+        "427",
+        "426",
+        "425"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0051",
+      "q": "Hình chữ nhật dài 23 cm, rộng 30 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "689 cm2",
+        "691 cm2",
+        "690 cm2",
+        "692 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0052",
+      "q": "Hình vuông có cạnh 54 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "215 cm",
+        "216 cm",
+        "218 cm",
+        "217 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0053",
+      "q": "Một kho có 448 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "56 kg",
+        "55 kg",
+        "57 kg",
+        "58 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0054",
+      "q": "Có 8 hộp, mỗi hộp 10 viên phấn. Dùng hết 33 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "48 viên",
+        "49 viên",
+        "47 viên",
+        "46 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0055",
+      "q": "Tìm số cần điền: ... x 5 + 45 = 130",
+      "a": [
+        "16",
+        "19",
+        "17",
+        "18"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0056",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 5. Nếu số thứ nhất là 55, số thứ hai là bao nhiêu?",
+      "a": [
+        "227",
+        "225",
+        "224",
+        "226"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0057",
+      "q": "372 x 3 + 369 = ?",
+      "a": [
+        "1487",
+        "1486",
+        "1485",
+        "1484"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0058",
+      "q": "2352 : 7 = ?",
+      "a": [
+        "338",
+        "336",
+        "335",
+        "337"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0059",
+      "q": "Hình chữ nhật dài 13 cm, rộng 32 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "417 cm2",
+        "415 cm2",
+        "418 cm2",
+        "416 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0060",
+      "q": "Hình vuông có cạnh 35 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "139 cm",
+        "142 cm",
+        "140 cm",
+        "141 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0061",
+      "q": "Một kho có 110 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "24 kg",
+        "21 kg",
+        "22 kg",
+        "23 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0062",
+      "q": "Có 11 hộp, mỗi hộp 13 viên phấn. Dùng hết 90 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "54 viên",
+        "53 viên",
+        "52 viên",
+        "55 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0063",
+      "q": "Tìm số cần điền: ... x 9 + 18 = 315",
+      "a": [
+        "33",
+        "32",
+        "35",
+        "34"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0064",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 26. Nếu số thứ nhất là 14, số thứ hai là bao nhiêu?",
+      "a": [
+        "55",
+        "54",
+        "56",
+        "53"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0065",
+      "q": "282 x 6 + 172 = ?",
+      "a": [
+        "1865",
+        "1866",
+        "1863",
+        "1864"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0066",
+      "q": "1132 : 4 = ?",
+      "a": [
+        "283",
+        "284",
+        "282",
+        "285"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0067",
+      "q": "Hình chữ nhật dài 36 cm, rộng 21 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "758 cm2",
+        "757 cm2",
+        "756 cm2",
+        "755 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0068",
+      "q": "Hình vuông có cạnh 37 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "149 cm",
+        "147 cm",
+        "150 cm",
+        "148 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0069",
+      "q": "Một kho có 186 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "33 kg",
+        "30 kg",
+        "31 kg",
+        "32 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0070",
+      "q": "Có 9 hộp, mỗi hộp 22 viên phấn. Dùng hết 86 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "111 viên",
+        "114 viên",
+        "113 viên",
+        "112 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0071",
+      "q": "Tìm số cần điền: ... x 9 + 57 = 768",
+      "a": [
+        "81",
+        "78",
+        "80",
+        "79"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0072",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 64, số thứ hai là bao nhiêu?",
+      "a": [
+        "137",
+        "136",
+        "139",
+        "138"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0073",
+      "q": "669 x 8 + 260 = ?",
+      "a": [
+        "5613",
+        "5611",
+        "5614",
+        "5612"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0074",
+      "q": "1125 : 3 = ?",
+      "a": [
+        "375",
+        "374",
+        "377",
+        "376"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0075",
+      "q": "Hình chữ nhật dài 31 cm, rộng 30 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "932 cm2",
+        "930 cm2",
+        "931 cm2",
+        "929 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0076",
+      "q": "Hình vuông có cạnh 37 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "149 cm",
+        "148 cm",
+        "150 cm",
+        "147 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0077",
+      "q": "Một kho có 261 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "28 kg",
+        "30 kg",
+        "31 kg",
+        "29 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0078",
+      "q": "Có 8 hộp, mỗi hộp 16 viên phấn. Dùng hết 39 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "89 viên",
+        "91 viên",
+        "88 viên",
+        "90 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0079",
+      "q": "Tìm số cần điền: ... x 4 + 44 = 208",
+      "a": [
+        "41",
+        "43",
+        "42",
+        "40"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0080",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 26. Nếu số thứ nhất là 56, số thứ hai là bao nhiêu?",
+      "a": [
+        "194",
+        "195",
+        "196",
+        "193"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0081",
+      "q": "214 x 7 + 180 = ?",
+      "a": [
+        "1678",
+        "1679",
+        "1680",
+        "1677"
+      ],
+      "c": "A",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0082",
+      "q": "1584 : 9 = ?",
+      "a": [
+        "178",
+        "176",
+        "177",
+        "175"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0083",
+      "q": "Hình chữ nhật dài 45 cm, rộng 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "361 cm2",
+        "362 cm2",
+        "359 cm2",
+        "360 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0084",
+      "q": "Hình vuông có cạnh 32 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "127 cm",
+        "130 cm",
+        "128 cm",
+        "129 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0085",
+      "q": "Một kho có 468 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "53 kg",
+        "51 kg",
+        "52 kg",
+        "54 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0086",
+      "q": "Có 9 hộp, mỗi hộp 17 viên phấn. Dùng hết 44 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "110 viên",
+        "108 viên",
+        "111 viên",
+        "109 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0087",
+      "q": "Tìm số cần điền: ... x 4 + 36 = 208",
+      "a": [
+        "42",
+        "45",
+        "44",
+        "43"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0088",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 13. Nếu số thứ nhất là 14, số thứ hai là bao nhiêu?",
+      "a": [
+        "85",
+        "82",
+        "83",
+        "84"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0089",
+      "q": "676 x 7 + 197 = ?",
+      "a": [
+        "4930",
+        "4928",
+        "4931",
+        "4929"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0090",
+      "q": "2925 : 9 = ?",
+      "a": [
+        "325",
+        "324",
+        "326",
+        "327"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0091",
+      "q": "Hình chữ nhật dài 39 cm, rộng 31 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1210 cm2",
+        "1208 cm2",
+        "1211 cm2",
+        "1209 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0092",
+      "q": "Hình vuông có cạnh 46 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "185 cm",
+        "184 cm",
+        "186 cm",
+        "183 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0093",
+      "q": "Một kho có 52 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "13 kg",
+        "14 kg",
+        "12 kg",
+        "15 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0094",
+      "q": "Có 10 hộp, mỗi hộp 11 viên phấn. Dùng hết 46 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "66 viên",
+        "64 viên",
+        "63 viên",
+        "65 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0095",
+      "q": "Tìm số cần điền: ... x 9 + 73 = 640",
+      "a": [
+        "63",
+        "62",
+        "65",
+        "64"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0096",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 22. Nếu số thứ nhất là 56, số thứ hai là bao nhiêu?",
+      "a": [
+        "133",
+        "135",
+        "134",
+        "136"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0097",
+      "q": "767 x 9 + 325 = ?",
+      "a": [
+        "7230",
+        "7229",
+        "7227",
+        "7228"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0098",
+      "q": "2538 : 9 = ?",
+      "a": [
+        "284",
+        "281",
+        "282",
+        "283"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0099",
+      "q": "Hình chữ nhật dài 23 cm, rộng 35 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "805 cm2",
+        "807 cm2",
+        "806 cm2",
+        "804 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0100",
+      "q": "Hình vuông có cạnh 39 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "158 cm",
+        "157 cm",
+        "155 cm",
+        "156 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0101",
+      "q": "Một kho có 495 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "55 kg",
+        "57 kg",
+        "54 kg",
+        "56 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0102",
+      "q": "Có 14 hộp, mỗi hộp 9 viên phấn. Dùng hết 86 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "42 viên",
+        "41 viên",
+        "39 viên",
+        "40 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0103",
+      "q": "Tìm số cần điền: ... x 5 + 13 = 218",
+      "a": [
+        "41",
+        "42",
+        "40",
+        "43"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0104",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 7. Nếu số thứ nhất là 58, số thứ hai là bao nhiêu?",
+      "a": [
+        "240",
+        "241",
+        "238",
+        "239"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0105",
+      "q": "232 x 6 + 50 = ?",
+      "a": [
+        "1441",
+        "1442",
+        "1444",
+        "1443"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0106",
+      "q": "540 : 5 = ?",
+      "a": [
+        "108",
+        "107",
+        "109",
+        "110"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0107",
+      "q": "Hình chữ nhật dài 32 cm, rộng 32 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1024 cm2",
+        "1023 cm2",
+        "1026 cm2",
+        "1025 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0108",
+      "q": "Hình vuông có cạnh 60 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "240 cm",
+        "241 cm",
+        "242 cm",
+        "239 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0109",
+      "q": "Một kho có 230 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "46 kg",
+        "45 kg",
+        "48 kg",
+        "47 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0110",
+      "q": "Có 13 hộp, mỗi hộp 24 viên phấn. Dùng hết 49 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "263 viên",
+        "264 viên",
+        "262 viên",
+        "265 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0111",
+      "q": "Tìm số cần điền: ... x 6 + 27 = 165",
+      "a": [
+        "23",
+        "22",
+        "24",
+        "25"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0112",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 16. Nếu số thứ nhất là 65, số thứ hai là bao nhiêu?",
+      "a": [
+        "342",
+        "343",
+        "341",
+        "340"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0113",
+      "q": "285 x 3 + 399 = ?",
+      "a": [
+        "1254",
+        "1255",
+        "1256",
+        "1253"
+      ],
+      "c": "A",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0114",
+      "q": "2640 : 6 = ?",
+      "a": [
+        "442",
+        "441",
+        "440",
+        "439"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0115",
+      "q": "Hình chữ nhật dài 37 cm, rộng 32 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1184 cm2",
+        "1183 cm2",
+        "1185 cm2",
+        "1186 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0116",
+      "q": "Hình vuông có cạnh 14 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "57 cm",
+        "55 cm",
+        "58 cm",
+        "56 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0117",
+      "q": "Một kho có 165 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "34 kg",
+        "33 kg",
+        "35 kg",
+        "32 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0118",
+      "q": "Có 7 hộp, mỗi hộp 12 viên phấn. Dùng hết 56 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "29 viên",
+        "27 viên",
+        "30 viên",
+        "28 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0119",
+      "q": "Tìm số cần điền: ... x 5 + 64 = 339",
+      "a": [
+        "56",
+        "55",
+        "54",
+        "57"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0120",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 21. Nếu số thứ nhất là 42, số thứ hai là bao nhiêu?",
+      "a": [
+        "146",
+        "149",
+        "148",
+        "147"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0121",
+      "q": "768 x 9 + 138 = ?",
+      "a": [
+        "7051",
+        "7050",
+        "7052",
+        "7049"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0122",
+      "q": "594 : 3 = ?",
+      "a": [
+        "197",
+        "198",
+        "199",
+        "200"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0123",
+      "q": "Hình chữ nhật dài 32 cm, rộng 17 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "545 cm2",
+        "543 cm2",
+        "546 cm2",
+        "544 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0124",
+      "q": "Hình vuông có cạnh 56 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "226 cm",
+        "224 cm",
+        "225 cm",
+        "223 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0125",
+      "q": "Một kho có 184 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "24 kg",
+        "25 kg",
+        "23 kg",
+        "22 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0126",
+      "q": "Có 9 hộp, mỗi hộp 13 viên phấn. Dùng hết 47 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "70 viên",
+        "72 viên",
+        "71 viên",
+        "69 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0127",
+      "q": "Tìm số cần điền: ... x 6 + 18 = 498",
+      "a": [
+        "82",
+        "81",
+        "80",
+        "79"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0128",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 27. Nếu số thứ nhất là 37, số thứ hai là bao nhiêu?",
+      "a": [
+        "175",
+        "174",
+        "176",
+        "177"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0129",
+      "q": "385 x 8 + 365 = ?",
+      "a": [
+        "3444",
+        "3445",
+        "3446",
+        "3447"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0130",
+      "q": "2772 : 7 = ?",
+      "a": [
+        "396",
+        "395",
+        "398",
+        "397"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0131",
+      "q": "Hình chữ nhật dài 22 cm, rộng 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "483 cm2",
+        "484 cm2",
+        "485 cm2",
+        "486 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0132",
+      "q": "Hình vuông có cạnh 36 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "144 cm",
+        "145 cm",
+        "146 cm",
+        "143 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0133",
+      "q": "Một kho có 240 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "49 kg",
+        "48 kg",
+        "50 kg",
+        "47 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0134",
+      "q": "Có 7 hộp, mỗi hộp 9 viên phấn. Dùng hết 36 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "27 viên",
+        "29 viên",
+        "26 viên",
+        "28 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0135",
+      "q": "Tìm số cần điền: ... x 9 + 39 = 597",
+      "a": [
+        "63",
+        "64",
+        "61",
+        "62"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0136",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 15, số thứ hai là bao nhiêu?",
+      "a": [
+        "68",
+        "71",
+        "70",
+        "69"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0137",
+      "q": "289 x 9 + 331 = ?",
+      "a": [
+        "2933",
+        "2932",
+        "2934",
+        "2931"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0138",
+      "q": "870 : 5 = ?",
+      "a": [
+        "175",
+        "176",
+        "174",
+        "173"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0139",
+      "q": "Hình chữ nhật dài 35 cm, rộng 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "772 cm2",
+        "769 cm2",
+        "770 cm2",
+        "771 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0140",
+      "q": "Hình vuông có cạnh 36 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "145 cm",
+        "144 cm",
+        "143 cm",
+        "146 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0141",
+      "q": "Một kho có 441 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "51 kg",
+        "48 kg",
+        "50 kg",
+        "49 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0142",
+      "q": "Có 6 hộp, mỗi hộp 19 viên phấn. Dùng hết 66 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "47 viên",
+        "48 viên",
+        "50 viên",
+        "49 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0143",
+      "q": "Tìm số cần điền: ... x 4 + 10 = 294",
+      "a": [
+        "70",
+        "71",
+        "72",
+        "73"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0144",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 18. Nếu số thứ nhất là 15, số thứ hai là bao nhiêu?",
+      "a": [
+        "49",
+        "50",
+        "48",
+        "47"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0145",
+      "q": "417 x 6 + 152 = ?",
+      "a": [
+        "2653",
+        "2655",
+        "2656",
+        "2654"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0146",
+      "q": "968 : 4 = ?",
+      "a": [
+        "241",
+        "242",
+        "244",
+        "243"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0147",
+      "q": "Hình chữ nhật dài 20 cm, rộng 28 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "560 cm2",
+        "559 cm2",
+        "562 cm2",
+        "561 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0148",
+      "q": "Hình vuông có cạnh 24 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "98 cm",
+        "95 cm",
+        "96 cm",
+        "97 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0149",
+      "q": "Một kho có 440 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "54 kg",
+        "56 kg",
+        "57 kg",
+        "55 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0150",
+      "q": "Có 6 hộp, mỗi hộp 12 viên phấn. Dùng hết 71 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "1 viên",
+        "3 viên",
+        "0 viên",
+        "2 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0151",
+      "q": "Tìm số cần điền: ... x 8 + 69 = 709",
+      "a": [
+        "81",
+        "80",
+        "82",
+        "79"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0152",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 11. Nếu số thứ nhất là 38, số thứ hai là bao nhiêu?",
+      "a": [
+        "87",
+        "88",
+        "86",
+        "89"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0153",
+      "q": "335 x 3 + 375 = ?",
+      "a": [
+        "1381",
+        "1382",
+        "1379",
+        "1380"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0154",
+      "q": "896 : 8 = ?",
+      "a": [
+        "114",
+        "112",
+        "111",
+        "113"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0155",
+      "q": "Hình chữ nhật dài 24 cm, rộng 33 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "791 cm2",
+        "792 cm2",
+        "794 cm2",
+        "793 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0156",
+      "q": "Hình vuông có cạnh 28 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "111 cm",
+        "114 cm",
+        "112 cm",
+        "113 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0157",
+      "q": "Một kho có 87 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "29 kg",
+        "30 kg",
+        "31 kg",
+        "28 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0158",
+      "q": "Có 13 hộp, mỗi hộp 19 viên phấn. Dùng hết 77 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "172 viên",
+        "170 viên",
+        "169 viên",
+        "171 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0159",
+      "q": "Tìm số cần điền: ... x 5 + 44 = 124",
+      "a": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0160",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 30. Nếu số thứ nhất là 36, số thứ hai là bao nhiêu?",
+      "a": [
+        "175",
+        "176",
+        "173",
+        "174"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0161",
+      "q": "632 x 5 + 139 = ?",
+      "a": [
+        "3301",
+        "3298",
+        "3299",
+        "3300"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0162",
+      "q": "3296 : 8 = ?",
+      "a": [
+        "411",
+        "414",
+        "413",
+        "412"
+      ],
+      "c": "D",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0163",
+      "q": "Hình chữ nhật dài 30 cm, rộng 26 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "779 cm2",
+        "782 cm2",
+        "780 cm2",
+        "781 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0164",
+      "q": "Hình vuông có cạnh 34 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "136 cm",
+        "135 cm",
+        "138 cm",
+        "137 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0165",
+      "q": "Một kho có 424 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "52 kg",
+        "55 kg",
+        "54 kg",
+        "53 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0166",
+      "q": "Có 6 hộp, mỗi hộp 20 viên phấn. Dùng hết 71 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "50 viên",
+        "49 viên",
+        "48 viên",
+        "51 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0167",
+      "q": "Tìm số cần điền: ... x 8 + 26 = 426",
+      "a": [
+        "49",
+        "51",
+        "52",
+        "50"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0168",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 7. Nếu số thứ nhất là 27, số thứ hai là bao nhiêu?",
+      "a": [
+        "143",
+        "141",
+        "144",
+        "142"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0169",
+      "q": "766 x 8 + 56 = ?",
+      "a": [
+        "6185",
+        "6186",
+        "6183",
+        "6184"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0170",
+      "q": "687 : 3 = ?",
+      "a": [
+        "231",
+        "229",
+        "228",
+        "230"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0171",
+      "q": "Hình chữ nhật dài 17 cm, rộng 19 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "324 cm2",
+        "322 cm2",
+        "325 cm2",
+        "323 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0172",
+      "q": "Hình vuông có cạnh 42 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "169 cm",
+        "170 cm",
+        "168 cm",
+        "167 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0173",
+      "q": "Một kho có 104 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "14 kg",
+        "12 kg",
+        "13 kg",
+        "15 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0174",
+      "q": "Có 9 hộp, mỗi hộp 13 viên phấn. Dùng hết 38 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "78 viên",
+        "81 viên",
+        "79 viên",
+        "80 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0175",
+      "q": "Tìm số cần điền: ... x 6 + 32 = 326",
+      "a": [
+        "51",
+        "48",
+        "49",
+        "50"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0176",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 28. Nếu số thứ nhất là 63, số thứ hai là bao nhiêu?",
+      "a": [
+        "345",
+        "342",
+        "344",
+        "343"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0177",
+      "q": "688 x 8 + 294 = ?",
+      "a": [
+        "5800",
+        "5798",
+        "5799",
+        "5797"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0178",
+      "q": "585 : 5 = ?",
+      "a": [
+        "117",
+        "116",
+        "118",
+        "119"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0179",
+      "q": "Hình chữ nhật dài 37 cm, rộng 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "518 cm2",
+        "519 cm2",
+        "517 cm2",
+        "520 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0180",
+      "q": "Hình vuông có cạnh 37 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "149 cm",
+        "147 cm",
+        "150 cm",
+        "148 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0181",
+      "q": "Một kho có 204 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "50 kg",
+        "51 kg",
+        "53 kg",
+        "52 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0182",
+      "q": "Có 14 hộp, mỗi hộp 11 viên phấn. Dùng hết 38 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "116 viên",
+        "118 viên",
+        "115 viên",
+        "117 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0183",
+      "q": "Tìm số cần điền: ... x 4 + 13 = 277",
+      "a": [
+        "65",
+        "67",
+        "66",
+        "68"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0184",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 37, số thứ hai là bao nhiêu?",
+      "a": [
+        "119",
+        "121",
+        "122",
+        "120"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0185",
+      "q": "222 x 4 + 233 = ?",
+      "a": [
+        "1120",
+        "1121",
+        "1122",
+        "1123"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0186",
+      "q": "2000 : 5 = ?",
+      "a": [
+        "402",
+        "401",
+        "399",
+        "400"
+      ],
+      "c": "D",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0187",
+      "q": "Hình chữ nhật dài 15 cm, rộng 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "209 cm2",
+        "212 cm2",
+        "210 cm2",
+        "211 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0188",
+      "q": "Hình vuông có cạnh 59 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "236 cm",
+        "238 cm",
+        "237 cm",
+        "235 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0189",
+      "q": "Một kho có 440 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "57 kg",
+        "55 kg",
+        "56 kg",
+        "54 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0190",
+      "q": "Có 10 hộp, mỗi hộp 11 viên phấn. Dùng hết 33 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "79 viên",
+        "76 viên",
+        "77 viên",
+        "78 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0191",
+      "q": "Tìm số cần điền: ... x 5 + 58 = 203",
+      "a": [
+        "28",
+        "29",
+        "31",
+        "30"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0192",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 7. Nếu số thứ nhất là 50, số thứ hai là bao nhiêu?",
+      "a": [
+        "107",
+        "106",
+        "109",
+        "108"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0193",
+      "q": "512 x 5 + 356 = ?",
+      "a": [
+        "2917",
+        "2918",
+        "2915",
+        "2916"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0194",
+      "q": "686 : 7 = ?",
+      "a": [
+        "100",
+        "98",
+        "97",
+        "99"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0195",
+      "q": "Hình chữ nhật dài 34 cm, rộng 32 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1090 cm2",
+        "1089 cm2",
+        "1087 cm2",
+        "1088 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0196",
+      "q": "Hình vuông có cạnh 13 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "51 cm",
+        "53 cm",
+        "52 cm",
+        "54 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0197",
+      "q": "Một kho có 78 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "12 kg",
+        "13 kg",
+        "14 kg",
+        "15 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0198",
+      "q": "Có 14 hộp, mỗi hộp 17 viên phấn. Dùng hết 34 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "203 viên",
+        "204 viên",
+        "205 viên",
+        "206 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0199",
+      "q": "Tìm số cần điền: ... x 8 + 63 = 231",
+      "a": [
+        "20",
+        "23",
+        "22",
+        "21"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0200",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 34. Nếu số thứ nhất là 42, số thứ hai là bao nhiêu?",
+      "a": [
+        "243",
+        "246",
+        "244",
+        "245"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0201",
+      "q": "288 x 6 + 262 = ?",
+      "a": [
+        "1989",
+        "1991",
+        "1990",
+        "1992"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0202",
+      "q": "796 : 4 = ?",
+      "a": [
+        "198",
+        "201",
+        "199",
+        "200"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0203",
+      "q": "Hình chữ nhật dài 40 cm, rộng 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "480 cm2",
+        "481 cm2",
+        "482 cm2",
+        "479 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0204",
+      "q": "Hình vuông có cạnh 44 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "176 cm",
+        "175 cm",
+        "177 cm",
+        "178 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0205",
+      "q": "Một kho có 304 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "38 kg",
+        "40 kg",
+        "37 kg",
+        "39 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0206",
+      "q": "Có 13 hộp, mỗi hộp 19 viên phấn. Dùng hết 47 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "199 viên",
+        "201 viên",
+        "202 viên",
+        "200 viên"
+      ],
+      "c": "D",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0207",
+      "q": "Tìm số cần điền: ... x 9 + 10 = 208",
+      "a": [
+        "23",
+        "24",
+        "21",
+        "22"
+      ],
+      "c": "D",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0208",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 10. Nếu số thứ nhất là 25, số thứ hai là bao nhiêu?",
+      "a": [
+        "61",
+        "60",
+        "59",
+        "62"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0209",
+      "q": "686 x 8 + 71 = ?",
+      "a": [
+        "5561",
+        "5558",
+        "5560",
+        "5559"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0210",
+      "q": "2765 : 7 = ?",
+      "a": [
+        "395",
+        "396",
+        "394",
+        "397"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0211",
+      "q": "Hình chữ nhật dài 19 cm, rộng 28 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "531 cm2",
+        "533 cm2",
+        "532 cm2",
+        "534 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0212",
+      "q": "Hình vuông có cạnh 55 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "221 cm",
+        "222 cm",
+        "219 cm",
+        "220 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0213",
+      "q": "Một kho có 312 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "38 kg",
+        "39 kg",
+        "41 kg",
+        "40 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0214",
+      "q": "Có 10 hộp, mỗi hộp 18 viên phấn. Dùng hết 36 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "144 viên",
+        "146 viên",
+        "145 viên",
+        "143 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0215",
+      "q": "Tìm số cần điền: ... x 5 + 55 = 415",
+      "a": [
+        "71",
+        "73",
+        "72",
+        "74"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0216",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 12. Nếu số thứ nhất là 31, số thứ hai là bao nhiêu?",
+      "a": [
+        "107",
+        "106",
+        "105",
+        "104"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0217",
+      "q": "510 x 8 + 207 = ?",
+      "a": [
+        "4286",
+        "4287",
+        "4289",
+        "4288"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0218",
+      "q": "294 : 3 = ?",
+      "a": [
+        "97",
+        "100",
+        "98",
+        "99"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0219",
+      "q": "Hình chữ nhật dài 43 cm, rộng 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "346 cm2",
+        "344 cm2",
+        "343 cm2",
+        "345 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0220",
+      "q": "Hình vuông có cạnh 60 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "241 cm",
+        "240 cm",
+        "239 cm",
+        "242 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0221",
+      "q": "Một kho có 360 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "61 kg",
+        "60 kg",
+        "59 kg",
+        "62 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0222",
+      "q": "Có 12 hộp, mỗi hộp 22 viên phấn. Dùng hết 28 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "236 viên",
+        "235 viên",
+        "237 viên",
+        "238 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0223",
+      "q": "Tìm số cần điền: ... x 9 + 36 = 279",
+      "a": [
+        "29",
+        "27",
+        "28",
+        "26"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0224",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 35. Nếu số thứ nhất là 23, số thứ hai là bao nhiêu?",
+      "a": [
+        "82",
+        "83",
+        "80",
+        "81"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0225",
+      "q": "366 x 7 + 291 = ?",
+      "a": [
+        "2854",
+        "2855",
+        "2852",
+        "2853"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0226",
+      "q": "2149 : 7 = ?",
+      "a": [
+        "309",
+        "308",
+        "307",
+        "306"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0227",
+      "q": "Hình chữ nhật dài 26 cm, rộng 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "207 cm2",
+        "209 cm2",
+        "208 cm2",
+        "210 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0228",
+      "q": "Hình vuông có cạnh 37 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "150 cm",
+        "148 cm",
+        "147 cm",
+        "149 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0229",
+      "q": "Một kho có 384 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "50 kg",
+        "48 kg",
+        "49 kg",
+        "47 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0230",
+      "q": "Có 14 hộp, mỗi hộp 17 viên phấn. Dùng hết 39 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "201 viên",
+        "199 viên",
+        "198 viên",
+        "200 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0231",
+      "q": "Tìm số cần điền: ... x 4 + 18 = 138",
+      "a": [
+        "29",
+        "32",
+        "30",
+        "31"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0232",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 14. Nếu số thứ nhất là 63, số thứ hai là bao nhiêu?",
+      "a": [
+        "331",
+        "329",
+        "330",
+        "328"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0233",
+      "q": "481 x 5 + 302 = ?",
+      "a": [
+        "2708",
+        "2706",
+        "2709",
+        "2707"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0234",
+      "q": "1970 : 5 = ?",
+      "a": [
+        "396",
+        "394",
+        "395",
+        "393"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0235",
+      "q": "Hình chữ nhật dài 21 cm, rộng 33 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "692 cm2",
+        "695 cm2",
+        "694 cm2",
+        "693 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0236",
+      "q": "Hình vuông có cạnh 33 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "133 cm",
+        "134 cm",
+        "131 cm",
+        "132 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0237",
+      "q": "Một kho có 352 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "43 kg",
+        "45 kg",
+        "46 kg",
+        "44 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0238",
+      "q": "Có 14 hộp, mỗi hộp 11 viên phấn. Dùng hết 89 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "64 viên",
+        "66 viên",
+        "65 viên",
+        "67 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0239",
+      "q": "Tìm số cần điền: ... x 4 + 75 = 339",
+      "a": [
+        "65",
+        "66",
+        "68",
+        "67"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0240",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 6. Nếu số thứ nhất là 64, số thứ hai là bao nhiêu?",
+      "a": [
+        "135",
+        "134",
+        "136",
+        "133"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0241",
+      "q": "438 x 8 + 114 = ?",
+      "a": [
+        "3617",
+        "3618",
+        "3619",
+        "3620"
+      ],
+      "c": "B",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0242",
+      "q": "1185 : 5 = ?",
+      "a": [
+        "236",
+        "238",
+        "237",
+        "239"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0243",
+      "q": "Hình chữ nhật dài 16 cm, rộng 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "255 cm2",
+        "257 cm2",
+        "258 cm2",
+        "256 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0244",
+      "q": "Hình vuông có cạnh 16 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "65 cm",
+        "64 cm",
+        "63 cm",
+        "66 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0245",
+      "q": "Một kho có 144 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "50 kg",
+        "49 kg",
+        "47 kg",
+        "48 kg"
+      ],
+      "c": "D",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0246",
+      "q": "Có 10 hộp, mỗi hộp 11 viên phấn. Dùng hết 55 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "55 viên",
+        "57 viên",
+        "54 viên",
+        "56 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0247",
+      "q": "Tìm số cần điền: ... x 3 + 24 = 132",
+      "a": [
+        "36",
+        "37",
+        "38",
+        "35"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0248",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 5. Nếu số thứ nhất là 20, số thứ hai là bao nhiêu?",
+      "a": [
+        "105",
+        "104",
+        "107",
+        "106"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0249",
+      "q": "243 x 3 + 250 = ?",
+      "a": [
+        "979",
+        "981",
+        "978",
+        "980"
+      ],
+      "c": "A",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0250",
+      "q": "1624 : 8 = ?",
+      "a": [
+        "203",
+        "205",
+        "202",
+        "204"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0251",
+      "q": "Hình chữ nhật dài 25 cm, rộng 23 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "574 cm2",
+        "575 cm2",
+        "577 cm2",
+        "576 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0252",
+      "q": "Hình vuông có cạnh 14 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "57 cm",
+        "58 cm",
+        "56 cm",
+        "55 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0253",
+      "q": "Một kho có 252 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "27 kg",
+        "29 kg",
+        "28 kg",
+        "30 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0254",
+      "q": "Có 14 hộp, mỗi hộp 18 viên phấn. Dùng hết 43 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "211 viên",
+        "210 viên",
+        "209 viên",
+        "208 viên"
+      ],
+      "c": "C",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0255",
+      "q": "Tìm số cần điền: ... x 5 + 48 = 118",
+      "a": [
+        "15",
+        "14",
+        "13",
+        "16"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0256",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 48, số thứ hai là bao nhiêu?",
+      "a": [
+        "201",
+        "202",
+        "200",
+        "203"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0257",
+      "q": "780 x 6 + 280 = ?",
+      "a": [
+        "4959",
+        "4961",
+        "4960",
+        "4962"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0258",
+      "q": "2947 : 7 = ?",
+      "a": [
+        "423",
+        "422",
+        "421",
+        "420"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0259",
+      "q": "Hình chữ nhật dài 18 cm, rộng 34 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "612 cm2",
+        "613 cm2",
+        "611 cm2",
+        "614 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0260",
+      "q": "Hình vuông có cạnh 16 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "66 cm",
+        "63 cm",
+        "65 cm",
+        "64 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0261",
+      "q": "Một kho có 440 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "55 kg",
+        "56 kg",
+        "54 kg",
+        "57 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0262",
+      "q": "Có 12 hộp, mỗi hộp 9 viên phấn. Dùng hết 62 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "47 viên",
+        "46 viên",
+        "48 viên",
+        "45 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0263",
+      "q": "Tìm số cần điền: ... x 7 + 37 = 394",
+      "a": [
+        "51",
+        "50",
+        "52",
+        "53"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0264",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 23. Nếu số thứ nhất là 36, số thứ hai là bao nhiêu?",
+      "a": [
+        "97",
+        "94",
+        "96",
+        "95"
+      ],
+      "c": "D",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0265",
+      "q": "709 x 4 + 261 = ?",
+      "a": [
+        "3097",
+        "3099",
+        "3096",
+        "3098"
+      ],
+      "c": "A",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0266",
+      "q": "3645 : 9 = ?",
+      "a": [
+        "406",
+        "405",
+        "407",
+        "404"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0267",
+      "q": "Hình chữ nhật dài 15 cm, rộng 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "242 cm2",
+        "239 cm2",
+        "240 cm2",
+        "241 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0268",
+      "q": "Hình vuông có cạnh 36 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "146 cm",
+        "145 cm",
+        "144 cm",
+        "143 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0269",
+      "q": "Một kho có 231 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "34 kg",
+        "35 kg",
+        "33 kg",
+        "32 kg"
+      ],
+      "c": "C",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0270",
+      "q": "Có 8 hộp, mỗi hộp 12 viên phấn. Dùng hết 35 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "61 viên",
+        "63 viên",
+        "62 viên",
+        "60 viên"
+      ],
+      "c": "A",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0271",
+      "q": "Tìm số cần điền: ... x 3 + 51 = 282",
+      "a": [
+        "79",
+        "78",
+        "77",
+        "76"
+      ],
+      "c": "C",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0272",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 15. Nếu số thứ nhất là 47, số thứ hai là bao nhiêu?",
+      "a": [
+        "202",
+        "204",
+        "203",
+        "205"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0273",
+      "q": "440 x 9 + 348 = ?",
+      "a": [
+        "4309",
+        "4310",
+        "4308",
+        "4307"
+      ],
+      "c": "C",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0274",
+      "q": "2010 : 5 = ?",
+      "a": [
+        "401",
+        "402",
+        "404",
+        "403"
+      ],
+      "c": "B",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0275",
+      "q": "Hình chữ nhật dài 44 cm, rộng 29 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "1278 cm2",
+        "1277 cm2",
+        "1276 cm2",
+        "1275 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0276",
+      "q": "Hình vuông có cạnh 41 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "165 cm",
+        "166 cm",
+        "164 cm",
+        "163 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0277",
+      "q": "Một kho có 320 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "40 kg",
+        "39 kg",
+        "42 kg",
+        "41 kg"
+      ],
+      "c": "A",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0278",
+      "q": "Có 10 hộp, mỗi hộp 22 viên phấn. Dùng hết 27 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "195 viên",
+        "193 viên",
+        "194 viên",
+        "192 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0279",
+      "q": "Tìm số cần điền: ... x 8 + 17 = 609",
+      "a": [
+        "73",
+        "74",
+        "76",
+        "75"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0280",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 16. Nếu số thứ nhất là 41, số thứ hai là bao nhiêu?",
+      "a": [
+        "100",
+        "98",
+        "97",
+        "99"
+      ],
+      "c": "B",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0281",
+      "q": "573 x 4 + 244 = ?",
+      "a": [
+        "2537",
+        "2538",
+        "2535",
+        "2536"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0282",
+      "q": "3987 : 9 = ?",
+      "a": [
+        "443",
+        "442",
+        "445",
+        "444"
+      ],
+      "c": "A",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0283",
+      "q": "Hình chữ nhật dài 34 cm, rộng 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "478 cm2",
+        "476 cm2",
+        "475 cm2",
+        "477 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0284",
+      "q": "Hình vuông có cạnh 36 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "144 cm",
+        "146 cm",
+        "145 cm",
+        "143 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0285",
+      "q": "Một kho có 208 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "53 kg",
+        "52 kg",
+        "54 kg",
+        "51 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0286",
+      "q": "Có 12 hộp, mỗi hộp 20 viên phấn. Dùng hết 81 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "158 viên",
+        "159 viên",
+        "161 viên",
+        "160 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0287",
+      "q": "Tìm số cần điền: ... x 4 + 43 = 119",
+      "a": [
+        "20",
+        "19",
+        "18",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0288",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 17. Nếu số thứ nhất là 12, số thứ hai là bao nhiêu?",
+      "a": [
+        "78",
+        "76",
+        "77",
+        "79"
+      ],
+      "c": "C",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0289",
+      "q": "804 x 7 + 319 = ?",
+      "a": [
+        "5949",
+        "5946",
+        "5948",
+        "5947"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0290",
+      "q": "2583 : 9 = ?",
+      "a": [
+        "286",
+        "289",
+        "287",
+        "288"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0291",
+      "q": "Hình chữ nhật dài 19 cm, rộng 21 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "398 cm2",
+        "399 cm2",
+        "400 cm2",
+        "401 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0292",
+      "q": "Hình vuông có cạnh 34 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "138 cm",
+        "135 cm",
+        "137 cm",
+        "136 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0293",
+      "q": "Một kho có 357 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg?",
+      "a": [
+        "52 kg",
+        "51 kg",
+        "50 kg",
+        "53 kg"
+      ],
+      "c": "B",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0294",
+      "q": "Có 11 hộp, mỗi hộp 14 viên phấn. Dùng hết 39 viên. Còn lại bao nhiêu viên?",
+      "a": [
+        "116 viên",
+        "115 viên",
+        "117 viên",
+        "114 viên"
+      ],
+      "c": "B",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0295",
+      "q": "Tìm số cần điền: ... x 8 + 53 = 157",
+      "a": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "c": "A",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0296",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 11. Nếu số thứ nhất là 10, số thứ hai là bao nhiêu?",
+      "a": [
+        "31",
+        "33",
+        "30",
+        "32"
+      ],
+      "c": "A",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0297",
+      "q": "476 x 5 + 164 = ?",
+      "a": [
+        "2545",
+        "2546",
+        "2543",
+        "2544"
+      ],
+      "c": "D",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0298",
+      "q": "720 : 5 = ?",
+      "a": [
+        "146",
+        "143",
+        "144",
+        "145"
+      ],
+      "c": "C",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0299",
+      "q": "Hình chữ nhật dài 14 cm, rộng 34 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "476 cm2",
+        "475 cm2",
+        "478 cm2",
+        "477 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q3-adv-0300",
+      "q": "Hình vuông có cạnh 29 cm. Chu vi là bao nhiêu?",
+      "a": [
+        "117 cm",
+        "118 cm",
+        "116 cm",
+        "115 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -23004,6 +27504,2406 @@
       "hint": "Chu vi hình chữ nhật = (dài + rộng) × 2.\nĐáp án: 76 cm",
       "ch": "Chu vi, diện tích hình chữ nhật và hình vuông",
       "chapter": 10,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0001",
+      "q": "200 x 7 + 56 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0002",
+      "q": "710 : 5 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0003",
+      "q": "Hình chữ nhật dài 30 cm, rộng 35 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0004",
+      "q": "Hình vuông có cạnh 44 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0005",
+      "q": "Một kho có 216 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0006",
+      "q": "Có 11 hộp, mỗi hộp 20 viên phấn. Dùng hết 49 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0007",
+      "q": "Tìm số cần điền: ... x 8 + 45 = 621 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0008",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 6. Nếu số thứ nhất là 14, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0009",
+      "q": "349 x 5 + 297 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0010",
+      "q": "1155 : 3 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0011",
+      "q": "Hình chữ nhật dài 17 cm, rộng 21 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0012",
+      "q": "Hình vuông có cạnh 47 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0013",
+      "q": "Một kho có 168 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0014",
+      "q": "Có 11 hộp, mỗi hộp 13 viên phấn. Dùng hết 42 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0015",
+      "q": "Tìm số cần điền: ... x 5 + 67 = 247 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0016",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 34. Nếu số thứ nhất là 40, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0017",
+      "q": "385 x 7 + 79 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0018",
+      "q": "2316 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0019",
+      "q": "Hình chữ nhật dài 25 cm, rộng 28 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0020",
+      "q": "Hình vuông có cạnh 17 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0021",
+      "q": "Một kho có 141 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0022",
+      "q": "Có 12 hộp, mỗi hộp 16 viên phấn. Dùng hết 38 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0023",
+      "q": "Tìm số cần điền: ... x 7 + 49 = 182 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0024",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 29. Nếu số thứ nhất là 44, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0025",
+      "q": "308 x 5 + 78 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0026",
+      "q": "2140 : 5 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0027",
+      "q": "Hình chữ nhật dài 45 cm, rộng 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0028",
+      "q": "Hình vuông có cạnh 24 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0029",
+      "q": "Một kho có 441 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0030",
+      "q": "Có 12 hộp, mỗi hộp 19 viên phấn. Dùng hết 26 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0031",
+      "q": "Tìm số cần điền: ... x 5 + 19 = 149 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0032",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 31. Nếu số thứ nhất là 61, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0033",
+      "q": "216 x 6 + 278 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0034",
+      "q": "1020 : 5 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0035",
+      "q": "Hình chữ nhật dài 39 cm, rộng 31 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0036",
+      "q": "Hình vuông có cạnh 15 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0037",
+      "q": "Một kho có 210 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0038",
+      "q": "Có 10 hộp, mỗi hộp 19 viên phấn. Dùng hết 76 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0039",
+      "q": "Tìm số cần điền: ... x 3 + 34 = 199 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0040",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 18. Nếu số thứ nhất là 59, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0041",
+      "q": "850 x 7 + 293 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0042",
+      "q": "663 : 3 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0043",
+      "q": "Hình chữ nhật dài 18 cm, rộng 19 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0044",
+      "q": "Hình vuông có cạnh 45 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0045",
+      "q": "Một kho có 164 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0046",
+      "q": "Có 12 hộp, mỗi hộp 9 viên phấn. Dùng hết 86 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0047",
+      "q": "Tìm số cần điền: ... x 5 + 45 = 375 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0048",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 27. Nếu số thứ nhất là 13, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0049",
+      "q": "546 x 9 + 62 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0050",
+      "q": "2653 : 7 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0051",
+      "q": "Hình chữ nhật dài 28 cm, rộng 13 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0052",
+      "q": "Hình vuông có cạnh 27 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0053",
+      "q": "Một kho có 351 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0054",
+      "q": "Có 11 hộp, mỗi hộp 16 viên phấn. Dùng hết 89 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0055",
+      "q": "Tìm số cần điền: ... x 7 + 54 = 180 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0056",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 12. Nếu số thứ nhất là 60, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0057",
+      "q": "549 x 8 + 258 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0058",
+      "q": "465 : 5 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0059",
+      "q": "Hình chữ nhật dài 17 cm, rộng 33 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0060",
+      "q": "Hình vuông có cạnh 55 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0061",
+      "q": "Một kho có 270 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0062",
+      "q": "Có 8 hộp, mỗi hộp 9 viên phấn. Dùng hết 62 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0063",
+      "q": "Tìm số cần điền: ... x 4 + 42 = 122 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0064",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 15. Nếu số thứ nhất là 51, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0065",
+      "q": "686 x 3 + 178 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0066",
+      "q": "3897 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0067",
+      "q": "Hình chữ nhật dài 13 cm, rộng 34 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0068",
+      "q": "Hình vuông có cạnh 15 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0069",
+      "q": "Một kho có 243 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0070",
+      "q": "Có 14 hộp, mỗi hộp 16 viên phấn. Dùng hết 61 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0071",
+      "q": "Tìm số cần điền: ... x 8 + 22 = 446 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0072",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 18. Nếu số thứ nhất là 27, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0073",
+      "q": "834 x 6 + 332 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0074",
+      "q": "1592 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0075",
+      "q": "Hình chữ nhật dài 15 cm, rộng 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0076",
+      "q": "Hình vuông có cạnh 40 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0077",
+      "q": "Một kho có 108 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0078",
+      "q": "Có 8 hộp, mỗi hộp 25 viên phấn. Dùng hết 69 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0079",
+      "q": "Tìm số cần điền: ... x 8 + 46 = 182 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0080",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 33. Nếu số thứ nhất là 48, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0081",
+      "q": "589 x 7 + 369 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0082",
+      "q": "1650 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0083",
+      "q": "Hình chữ nhật dài 25 cm, rộng 34 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0084",
+      "q": "Hình vuông có cạnh 50 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0085",
+      "q": "Một kho có 132 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0086",
+      "q": "Có 14 hộp, mỗi hộp 15 viên phấn. Dùng hết 55 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0087",
+      "q": "Tìm số cần điền: ... x 7 + 33 = 187 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0088",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 32. Nếu số thứ nhất là 53, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0089",
+      "q": "542 x 8 + 314 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0090",
+      "q": "1680 : 8 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0091",
+      "q": "Hình chữ nhật dài 13 cm, rộng 27 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0092",
+      "q": "Hình vuông có cạnh 47 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0093",
+      "q": "Một kho có 69 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0094",
+      "q": "Có 12 hộp, mỗi hộp 20 viên phấn. Dùng hết 47 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0095",
+      "q": "Tìm số cần điền: ... x 8 + 77 = 173 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0096",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 35. Nếu số thứ nhất là 54, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0097",
+      "q": "508 x 5 + 336 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0098",
+      "q": "339 : 3 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0099",
+      "q": "Hình chữ nhật dài 26 cm, rộng 25 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0100",
+      "q": "Hình vuông có cạnh 16 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0101",
+      "q": "Một kho có 306 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0102",
+      "q": "Có 9 hộp, mỗi hộp 21 viên phấn. Dùng hết 76 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0103",
+      "q": "Tìm số cần điền: ... x 4 + 21 = 153 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0104",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 25. Nếu số thứ nhất là 35, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0105",
+      "q": "200 x 4 + 172 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0106",
+      "q": "828 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0107",
+      "q": "Hình chữ nhật dài 22 cm, rộng 17 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0108",
+      "q": "Hình vuông có cạnh 15 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0109",
+      "q": "Một kho có 288 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0110",
+      "q": "Có 7 hộp, mỗi hộp 18 viên phấn. Dùng hết 27 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0111",
+      "q": "Tìm số cần điền: ... x 6 + 54 = 264 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0112",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 16. Nếu số thứ nhất là 18, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0113",
+      "q": "326 x 9 + 136 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0114",
+      "q": "3033 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0115",
+      "q": "Hình chữ nhật dài 40 cm, rộng 9 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0116",
+      "q": "Hình vuông có cạnh 52 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0117",
+      "q": "Một kho có 204 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0118",
+      "q": "Có 12 hộp, mỗi hộp 22 viên phấn. Dùng hết 24 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0119",
+      "q": "Tìm số cần điền: ... x 9 + 77 = 302 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0120",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 27. Nếu số thứ nhất là 45, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0121",
+      "q": "847 x 6 + 277 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0122",
+      "q": "884 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0123",
+      "q": "Hình chữ nhật dài 15 cm, rộng 29 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0124",
+      "q": "Hình vuông có cạnh 26 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0125",
+      "q": "Một kho có 522 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0126",
+      "q": "Có 14 hộp, mỗi hộp 8 viên phấn. Dùng hết 22 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0127",
+      "q": "Tìm số cần điền: ... x 5 + 55 = 325 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0128",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 29. Nếu số thứ nhất là 27, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0129",
+      "q": "558 x 7 + 350 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0130",
+      "q": "1200 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0131",
+      "q": "Hình chữ nhật dài 16 cm, rộng 29 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0132",
+      "q": "Hình vuông có cạnh 56 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0133",
+      "q": "Một kho có 150 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0134",
+      "q": "Có 14 hộp, mỗi hộp 16 viên phấn. Dùng hết 41 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0135",
+      "q": "Tìm số cần điền: ... x 6 + 56 = 146 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0136",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 29. Nếu số thứ nhất là 52, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0137",
+      "q": "693 x 6 + 337 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0138",
+      "q": "1268 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0139",
+      "q": "Hình chữ nhật dài 18 cm, rộng 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0140",
+      "q": "Hình vuông có cạnh 52 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0141",
+      "q": "Một kho có 140 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0142",
+      "q": "Có 11 hộp, mỗi hộp 12 viên phấn. Dùng hết 67 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0143",
+      "q": "Tìm số cần điền: ... x 3 + 55 = 187 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0144",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 28. Nếu số thứ nhất là 65, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0145",
+      "q": "154 x 4 + 366 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0146",
+      "q": "432 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0147",
+      "q": "Hình chữ nhật dài 34 cm, rộng 28 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0148",
+      "q": "Hình vuông có cạnh 29 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0149",
+      "q": "Một kho có 72 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0150",
+      "q": "Có 11 hộp, mỗi hộp 19 viên phấn. Dùng hết 52 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0151",
+      "q": "Tìm số cần điền: ... x 6 + 21 = 435 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0152",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 70, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0153",
+      "q": "415 x 3 + 353 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0154",
+      "q": "1125 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0155",
+      "q": "Hình chữ nhật dài 17 cm, rộng 15 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0156",
+      "q": "Hình vuông có cạnh 59 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0157",
+      "q": "Một kho có 147 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0158",
+      "q": "Có 13 hộp, mỗi hộp 22 viên phấn. Dùng hết 85 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0159",
+      "q": "Tìm số cần điền: ... x 7 + 29 = 316 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0160",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 34. Nếu số thứ nhất là 69, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0161",
+      "q": "752 x 7 + 133 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0162",
+      "q": "3168 : 8 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0163",
+      "q": "Hình chữ nhật dài 31 cm, rộng 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0164",
+      "q": "Hình vuông có cạnh 39 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0165",
+      "q": "Một kho có 150 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0166",
+      "q": "Có 14 hộp, mỗi hộp 22 viên phấn. Dùng hết 85 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0167",
+      "q": "Tìm số cần điền: ... x 5 + 45 = 260 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0168",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 24. Nếu số thứ nhất là 43, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0169",
+      "q": "132 x 6 + 395 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0170",
+      "q": "665 : 7 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0171",
+      "q": "Hình chữ nhật dài 16 cm, rộng 23 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0172",
+      "q": "Hình vuông có cạnh 29 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0173",
+      "q": "Một kho có 368 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0174",
+      "q": "Có 14 hộp, mỗi hộp 19 viên phấn. Dùng hết 51 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0175",
+      "q": "Tìm số cần điền: ... x 9 + 38 = 443 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0176",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 34. Nếu số thứ nhất là 65, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0177",
+      "q": "581 x 6 + 107 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0178",
+      "q": "2256 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0179",
+      "q": "Hình chữ nhật dài 34 cm, rộng 9 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0180",
+      "q": "Hình vuông có cạnh 47 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0181",
+      "q": "Một kho có 99 kg gạo. Lấy đi 1/3 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0182",
+      "q": "Có 6 hộp, mỗi hộp 14 viên phấn. Dùng hết 26 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0183",
+      "q": "Tìm số cần điền: ... x 3 + 17 = 89 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0184",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 17. Nếu số thứ nhất là 41, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0185",
+      "q": "391 x 4 + 238 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0186",
+      "q": "2370 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0187",
+      "q": "Hình chữ nhật dài 24 cm, rộng 32 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0188",
+      "q": "Hình vuông có cạnh 49 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0189",
+      "q": "Một kho có 486 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0190",
+      "q": "Có 13 hộp, mỗi hộp 25 viên phấn. Dùng hết 37 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0191",
+      "q": "Tìm số cần điền: ... x 9 + 59 = 446 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0192",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 8. Nếu số thứ nhất là 29, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0193",
+      "q": "488 x 8 + 155 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0194",
+      "q": "3392 : 8 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0195",
+      "q": "Hình chữ nhật dài 29 cm, rộng 23 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0196",
+      "q": "Hình vuông có cạnh 56 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0197",
+      "q": "Một kho có 270 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0198",
+      "q": "Có 7 hộp, mỗi hộp 12 viên phấn. Dùng hết 48 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0199",
+      "q": "Tìm số cần điền: ... x 9 + 12 = 444 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0200",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 16. Nếu số thứ nhất là 33, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0201",
+      "q": "508 x 7 + 155 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0202",
+      "q": "882 : 7 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0203",
+      "q": "Hình chữ nhật dài 42 cm, rộng 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0204",
+      "q": "Hình vuông có cạnh 57 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0205",
+      "q": "Một kho có 176 kg gạo. Lấy đi 1/8 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0206",
+      "q": "Có 6 hộp, mỗi hộp 13 viên phấn. Dùng hết 47 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0207",
+      "q": "Tìm số cần điền: ... x 4 + 20 = 92 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0208",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 14. Nếu số thứ nhất là 18, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0209",
+      "q": "272 x 5 + 370 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0210",
+      "q": "1980 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0211",
+      "q": "Hình chữ nhật dài 24 cm, rộng 19 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0212",
+      "q": "Hình vuông có cạnh 59 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0213",
+      "q": "Một kho có 330 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0214",
+      "q": "Có 7 hộp, mỗi hộp 16 viên phấn. Dùng hết 36 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0215",
+      "q": "Tìm số cần điền: ... x 9 + 64 = 325 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0216",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 26. Nếu số thứ nhất là 29, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0217",
+      "q": "253 x 7 + 324 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0218",
+      "q": "1305 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0219",
+      "q": "Hình chữ nhật dài 26 cm, rộng 26 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0220",
+      "q": "Hình vuông có cạnh 60 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0221",
+      "q": "Một kho có 192 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0222",
+      "q": "Có 9 hộp, mỗi hộp 15 viên phấn. Dùng hết 67 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0223",
+      "q": "Tìm số cần điền: ... x 6 + 49 = 451 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0224",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 17. Nếu số thứ nhất là 25, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0225",
+      "q": "212 x 8 + 144 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0226",
+      "q": "2256 : 8 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0227",
+      "q": "Hình chữ nhật dài 40 cm, rộng 25 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0228",
+      "q": "Hình vuông có cạnh 48 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0229",
+      "q": "Một kho có 306 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0230",
+      "q": "Có 8 hộp, mỗi hộp 18 viên phấn. Dùng hết 49 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0231",
+      "q": "Tìm số cần điền: ... x 9 + 29 = 533 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0232",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 19. Nếu số thứ nhất là 31, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0233",
+      "q": "127 x 3 + 394 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0234",
+      "q": "1180 : 4 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0235",
+      "q": "Hình chữ nhật dài 41 cm, rộng 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0236",
+      "q": "Hình vuông có cạnh 54 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0237",
+      "q": "Một kho có 238 kg gạo. Lấy đi 1/7 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0238",
+      "q": "Có 9 hộp, mỗi hộp 17 viên phấn. Dùng hết 38 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0239",
+      "q": "Tìm số cần điền: ... x 5 + 71 = 301 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0240",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 21. Nếu số thứ nhất là 70, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0241",
+      "q": "293 x 4 + 266 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0242",
+      "q": "528 : 3 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0243",
+      "q": "Hình chữ nhật dài 18 cm, rộng 27 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0244",
+      "q": "Hình vuông có cạnh 45 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0245",
+      "q": "Một kho có 261 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0246",
+      "q": "Có 6 hộp, mỗi hộp 23 viên phấn. Dùng hết 48 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0247",
+      "q": "Tìm số cần điền: ... x 3 + 19 = 151 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0248",
+      "q": "Số thứ hai gấp 3 lần số thứ nhất và hơn thêm 35. Nếu số thứ nhất là 30, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0249",
+      "q": "494 x 9 + 294 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0250",
+      "q": "3960 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0251",
+      "q": "Hình chữ nhật dài 21 cm, rộng 28 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0252",
+      "q": "Hình vuông có cạnh 55 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0253",
+      "q": "Một kho có 88 kg gạo. Lấy đi 1/4 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0254",
+      "q": "Có 13 hộp, mỗi hộp 9 viên phấn. Dùng hết 74 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0255",
+      "q": "Tìm số cần điền: ... x 9 + 51 = 582 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0256",
+      "q": "Số thứ hai gấp 2 lần số thứ nhất và hơn thêm 9. Nếu số thứ nhất là 60, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0257",
+      "q": "241 x 4 + 299 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0258",
+      "q": "3996 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0259",
+      "q": "Hình chữ nhật dài 35 cm, rộng 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0260",
+      "q": "Hình vuông có cạnh 35 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0261",
+      "q": "Một kho có 255 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0262",
+      "q": "Có 9 hộp, mỗi hộp 25 viên phấn. Dùng hết 86 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0263",
+      "q": "Tìm số cần điền: ... x 9 + 69 = 510 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0264",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 18. Nếu số thứ nhất là 45, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0265",
+      "q": "642 x 9 + 336 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0266",
+      "q": "1085 : 7 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0267",
+      "q": "Hình chữ nhật dài 18 cm, rộng 11 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0268",
+      "q": "Hình vuông có cạnh 15 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0269",
+      "q": "Một kho có 306 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0270",
+      "q": "Có 8 hộp, mỗi hộp 10 viên phấn. Dùng hết 22 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0271",
+      "q": "Tìm số cần điền: ... x 4 + 51 = 183 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0272",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 34. Nếu số thứ nhất là 51, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0273",
+      "q": "297 x 4 + 152 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0274",
+      "q": "1099 : 7 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0275",
+      "q": "Hình chữ nhật dài 14 cm, rộng 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0276",
+      "q": "Hình vuông có cạnh 33 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0277",
+      "q": "Một kho có 351 kg gạo. Lấy đi 1/9 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0278",
+      "q": "Có 11 hộp, mỗi hộp 16 viên phấn. Dùng hết 25 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0279",
+      "q": "Tìm số cần điền: ... x 4 + 46 = 262 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0280",
+      "q": "Số thứ hai gấp 5 lần số thứ nhất và hơn thêm 32. Nếu số thứ nhất là 15, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0281",
+      "q": "466 x 9 + 58 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0282",
+      "q": "3258 : 9 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0283",
+      "q": "Hình chữ nhật dài 15 cm, rộng 35 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0284",
+      "q": "Hình vuông có cạnh 54 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0285",
+      "q": "Một kho có 336 kg gạo. Lấy đi 1/6 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0286",
+      "q": "Có 8 hộp, mỗi hộp 13 viên phấn. Dùng hết 29 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0287",
+      "q": "Tìm số cần điền: ... x 4 + 53 = 257 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0288",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 31. Nếu số thứ nhất là 20, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0289",
+      "q": "752 x 6 + 99 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0290",
+      "q": "576 : 6 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0291",
+      "q": "Hình chữ nhật dài 17 cm, rộng 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0292",
+      "q": "Hình vuông có cạnh 60 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0293",
+      "q": "Một kho có 125 kg gạo. Lấy đi 1/5 số gạo. Hỏi đã lấy đi bao nhiêu kg? Trình bày cách làm.",
+      "hint": "Muốn tìm một phần bằng nhau, chia tổng số cho mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0294",
+      "q": "Có 7 hộp, mỗi hộp 25 viên phấn. Dùng hết 81 viên. Còn lại bao nhiêu viên? Trình bày cách làm.",
+      "hint": "Tính tổng số viên phấn ban đầu rồi trừ số đã dùng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0295",
+      "q": "Tìm số cần điền: ... x 8 + 32 = 448 Trình bày cách làm.",
+      "hint": "Làm ngược: trừ số được cộng thêm rồi chia cho thừa số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0296",
+      "q": "Số thứ hai gấp 4 lần số thứ nhất và hơn thêm 6. Nếu số thứ nhất là 36, số thứ hai là bao nhiêu? Trình bày cách làm.",
+      "hint": "Gấp lên bằng phép nhân rồi cộng phần hơn thêm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0297",
+      "q": "391 x 3 + 204 = ? Trình bày cách làm.",
+      "hint": "Thực hiện phép nhân trước rồi cộng số còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0298",
+      "q": "1455 : 5 = ? Trình bày cách làm.",
+      "hint": "Dùng quan hệ giữa phép nhân và phép chia.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0299",
+      "q": "Hình chữ nhật dài 21 cm, rộng 25 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình chữ nhật bằng chiều dài nhân chiều rộng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e3-adv-0300",
+      "q": "Hình vuông có cạnh 47 cm. Chu vi là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi hình vuông bằng độ dài một cạnh nhân với 4.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
       "lv": 3
     }
   ]

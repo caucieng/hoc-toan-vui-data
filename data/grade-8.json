@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 8,
   "title": "Học Toán Lớp 8",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": "q8-0001",
@@ -15003,6 +15003,4506 @@
       "ch": "Xác suất của biến cố và xác suất thực nghiệm",
       "chapter": 14,
       "lv": 3
+    },
+    {
+      "id": "q8-adv-0001",
+      "q": "Tính giá trị (x + 6)^2 với x = 8.",
+      "a": [
+        "198",
+        "197",
+        "196",
+        "195"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0002",
+      "q": "Tìm x biết 6(x + 4) = 72.",
+      "a": [
+        "9",
+        "7",
+        "10",
+        "8"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0003",
+      "q": "Hình bình hành có đáy 9 cm và chiều cao 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "126 cm2",
+        "128 cm2",
+        "125 cm2",
+        "127 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0004",
+      "q": "Cho hàm số y = 7x + 9. Khi x = 2, y bằng bao nhiêu?",
+      "a": [
+        "23",
+        "25",
+        "24",
+        "22"
+      ],
+      "c": "A",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0005",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 25 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "124 cm",
+        "127 cm",
+        "126 cm",
+        "125 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0006",
+      "q": "Tính x^2 - 36 với x = 9.",
+      "a": [
+        "44",
+        "47",
+        "45",
+        "46"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0007",
+      "q": "Tìm x biết 5x + 1 = 1x + 37.",
+      "a": [
+        "11",
+        "8",
+        "9",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0008",
+      "q": "Hình thoi có hai đường chéo 8 cm và 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "63 cm2",
+        "65 cm2",
+        "64 cm2",
+        "66 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0009",
+      "q": "Tính giá trị (x + 2)^2 với x = 11.",
+      "a": [
+        "171",
+        "170",
+        "168",
+        "169"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0010",
+      "q": "Tìm x biết 2(x + 3) = 40.",
+      "a": [
+        "16",
+        "19",
+        "17",
+        "18"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0011",
+      "q": "Hình bình hành có đáy 14 cm và chiều cao 19 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "267 cm2",
+        "265 cm2",
+        "266 cm2",
+        "268 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0012",
+      "q": "Cho hàm số y = 8x + -1. Khi x = 4, y bằng bao nhiêu?",
+      "a": [
+        "31",
+        "32",
+        "33",
+        "30"
+      ],
+      "c": "A",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0013",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 61 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "123 cm",
+        "122 cm",
+        "124 cm",
+        "121 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0014",
+      "q": "Tính x^2 - 25 với x = 3.",
+      "a": [
+        "-16",
+        "-15",
+        "-17",
+        "-14"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0015",
+      "q": "Tìm x biết 3x + 4 = 2x + 11.",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0016",
+      "q": "Hình thoi có hai đường chéo 22 cm và 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "178 cm2",
+        "176 cm2",
+        "177 cm2",
+        "175 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0017",
+      "q": "Tính giá trị (x + 6)^2 với x = 9.",
+      "a": [
+        "227",
+        "225",
+        "224",
+        "226"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0018",
+      "q": "Tìm x biết 4(x + 9) = 76.",
+      "a": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0019",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "146 cm2",
+        "145 cm2",
+        "144 cm2",
+        "143 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0020",
+      "q": "Cho hàm số y = 8x + 5. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "54",
+        "52",
+        "55",
+        "53"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0021",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 69 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "275 cm",
+        "276 cm",
+        "277 cm",
+        "278 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0022",
+      "q": "Tính x^2 - 16 với x = 5.",
+      "a": [
+        "9",
+        "8",
+        "10",
+        "11"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0023",
+      "q": "Tìm x biết 4x + 1 = 3x + 12.",
+      "a": [
+        "12",
+        "13",
+        "10",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0024",
+      "q": "Hình thoi có hai đường chéo 22 cm và 24 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "265 cm2",
+        "263 cm2",
+        "266 cm2",
+        "264 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0025",
+      "q": "Tính giá trị (x + 3)^2 với x = 9.",
+      "a": [
+        "146",
+        "145",
+        "143",
+        "144"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0026",
+      "q": "Tìm x biết 8(x + 1) = 184.",
+      "a": [
+        "24",
+        "23",
+        "21",
+        "22"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0027",
+      "q": "Hình bình hành có đáy 30 cm và chiều cao 7 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "210 cm2",
+        "211 cm2",
+        "212 cm2",
+        "209 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0028",
+      "q": "Cho hàm số y = 7x + -9. Khi x = -4, y bằng bao nhiêu?",
+      "a": [
+        "-37",
+        "-36",
+        "-38",
+        "-35"
+      ],
+      "c": "A",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0029",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 67 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "135 cm",
+        "133 cm",
+        "134 cm",
+        "136 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0030",
+      "q": "Tính x^2 - 4 với x = 7.",
+      "a": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0031",
+      "q": "Tìm x biết 4x + 5 = 6x - 25.",
+      "a": [
+        "15",
+        "14",
+        "16",
+        "17"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0032",
+      "q": "Hình thoi có hai đường chéo 16 cm và 6 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "50 cm2",
+        "47 cm2",
+        "49 cm2",
+        "48 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0033",
+      "q": "Tính giá trị (x + 7)^2 với x = 9.",
+      "a": [
+        "255",
+        "257",
+        "258",
+        "256"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0034",
+      "q": "Tìm x biết 6(x + 7) = 180.",
+      "a": [
+        "25",
+        "23",
+        "22",
+        "24"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0035",
+      "q": "Hình bình hành có đáy 26 cm và chiều cao 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "363 cm2",
+        "364 cm2",
+        "365 cm2",
+        "366 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0036",
+      "q": "Cho hàm số y = 2x + -8. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "-9",
+        "-10",
+        "-11",
+        "-8"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0037",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 22 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "65 cm",
+        "67 cm",
+        "68 cm",
+        "66 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0038",
+      "q": "Tính x^2 - 4 với x = 14.",
+      "a": [
+        "192",
+        "194",
+        "191",
+        "193"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0039",
+      "q": "Tìm x biết 5x + 2 = 7x - 16.",
+      "a": [
+        "11",
+        "10",
+        "8",
+        "9"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0040",
+      "q": "Hình thoi có hai đường chéo 20 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "141 cm2",
+        "139 cm2",
+        "142 cm2",
+        "140 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0041",
+      "q": "Tính giá trị (x + 6)^2 với x = 3.",
+      "a": [
+        "83",
+        "81",
+        "80",
+        "82"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0042",
+      "q": "Tìm x biết 6(x + 12) = 96.",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0043",
+      "q": "Hình bình hành có đáy 16 cm và chiều cao 5 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "79 cm2",
+        "80 cm2",
+        "81 cm2",
+        "82 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0044",
+      "q": "Cho hàm số y = 8x + 0. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "47",
+        "49",
+        "48",
+        "50"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0045",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 57 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "171 cm",
+        "172 cm",
+        "170 cm",
+        "173 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0046",
+      "q": "Tính x^2 - 36 với x = 7.",
+      "a": [
+        "14",
+        "12",
+        "13",
+        "15"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0047",
+      "q": "Tìm x biết 4x + 5 = 3x + 11.",
+      "a": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0048",
+      "q": "Hình thoi có hai đường chéo 24 cm và 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "265 cm2",
+        "264 cm2",
+        "263 cm2",
+        "266 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0049",
+      "q": "Tính giá trị (x + 2)^2 với x = 5.",
+      "a": [
+        "49",
+        "50",
+        "48",
+        "51"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0050",
+      "q": "Tìm x biết 6(x + 11) = 186.",
+      "a": [
+        "19",
+        "21",
+        "22",
+        "20"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0051",
+      "q": "Hình bình hành có đáy 19 cm và chiều cao 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "189 cm2",
+        "192 cm2",
+        "191 cm2",
+        "190 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0052",
+      "q": "Cho hàm số y = 5x + -3. Khi x = -2, y bằng bao nhiêu?",
+      "a": [
+        "-12",
+        "-11",
+        "-13",
+        "-14"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0053",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 74 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "369 cm",
+        "371 cm",
+        "370 cm",
+        "372 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0054",
+      "q": "Tính x^2 - 16 với x = 2.",
+      "a": [
+        "-10",
+        "-12",
+        "-11",
+        "-13"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0055",
+      "q": "Tìm x biết 2x + 6 = 7x - 4.",
+      "a": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0056",
+      "q": "Hình thoi có hai đường chéo 26 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "183 cm2",
+        "182 cm2",
+        "184 cm2",
+        "181 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0057",
+      "q": "Tính giá trị (x + 7)^2 với x = 4.",
+      "a": [
+        "122",
+        "121",
+        "123",
+        "120"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0058",
+      "q": "Tìm x biết 6(x + 7) = 192.",
+      "a": [
+        "27",
+        "24",
+        "25",
+        "26"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0059",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 7 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "168 cm2",
+        "167 cm2",
+        "169 cm2",
+        "170 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0060",
+      "q": "Cho hàm số y = 7x + 7. Khi x = -5, y bằng bao nhiêu?",
+      "a": [
+        "-29",
+        "-28",
+        "-26",
+        "-27"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0061",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 26 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "105 cm",
+        "104 cm",
+        "103 cm",
+        "106 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0062",
+      "q": "Tính x^2 - 16 với x = 5.",
+      "a": [
+        "9",
+        "8",
+        "10",
+        "11"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0063",
+      "q": "Tìm x biết 6x + 8 = 4x + 44.",
+      "a": [
+        "19",
+        "20",
+        "17",
+        "18"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0064",
+      "q": "Hình thoi có hai đường chéo 26 cm và 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "233 cm2",
+        "234 cm2",
+        "236 cm2",
+        "235 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0065",
+      "q": "Tính giá trị (x + 5)^2 với x = 11.",
+      "a": [
+        "258",
+        "256",
+        "257",
+        "255"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0066",
+      "q": "Tìm x biết 3(x + 10) = 81.",
+      "a": [
+        "19",
+        "18",
+        "16",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0067",
+      "q": "Hình bình hành có đáy 14 cm và chiều cao 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "198 cm2",
+        "195 cm2",
+        "196 cm2",
+        "197 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0068",
+      "q": "Cho hàm số y = 7x + -4. Khi x = 0, y bằng bao nhiêu?",
+      "a": [
+        "-5",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0069",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 65 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "260 cm",
+        "261 cm",
+        "259 cm",
+        "262 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0070",
+      "q": "Tính x^2 - 9 với x = 6.",
+      "a": [
+        "27",
+        "28",
+        "29",
+        "26"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0071",
+      "q": "Tìm x biết 3x + 3 = 7x - 57.",
+      "a": [
+        "15",
+        "17",
+        "14",
+        "16"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0072",
+      "q": "Hình thoi có hai đường chéo 20 cm và 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "122 cm2",
+        "120 cm2",
+        "121 cm2",
+        "119 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0073",
+      "q": "Tính giá trị (x + 4)^2 với x = 4.",
+      "a": [
+        "64",
+        "63",
+        "65",
+        "66"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0074",
+      "q": "Tìm x biết 3(x + 8) = 60.",
+      "a": [
+        "11",
+        "13",
+        "12",
+        "14"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0075",
+      "q": "Hình bình hành có đáy 20 cm và chiều cao 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "202 cm2",
+        "200 cm2",
+        "201 cm2",
+        "199 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0076",
+      "q": "Cho hàm số y = 4x + 7. Khi x = 7, y bằng bao nhiêu?",
+      "a": [
+        "36",
+        "35",
+        "34",
+        "37"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0077",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 28 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "57 cm",
+        "56 cm",
+        "58 cm",
+        "55 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0078",
+      "q": "Tính x^2 - 25 với x = 3.",
+      "a": [
+        "-15",
+        "-16",
+        "-17",
+        "-14"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0079",
+      "q": "Tìm x biết 3x + 7 = 2x + 14.",
+      "a": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0080",
+      "q": "Hình thoi có hai đường chéo 16 cm và 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "80 cm2",
+        "82 cm2",
+        "81 cm2",
+        "79 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0081",
+      "q": "Tính giá trị (x + 4)^2 với x = 8.",
+      "a": [
+        "144",
+        "143",
+        "146",
+        "145"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0082",
+      "q": "Tìm x biết 7(x + 3) = 210.",
+      "a": [
+        "29",
+        "27",
+        "26",
+        "28"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0083",
+      "q": "Hình bình hành có đáy 10 cm và chiều cao 20 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "202 cm2",
+        "199 cm2",
+        "200 cm2",
+        "201 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0084",
+      "q": "Cho hàm số y = 5x + 9. Khi x = -3, y bằng bao nhiêu?",
+      "a": [
+        "-5",
+        "-7",
+        "-4",
+        "-6"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0085",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 25 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "101 cm",
+        "99 cm",
+        "100 cm",
+        "102 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0086",
+      "q": "Tính x^2 - 36 với x = 5.",
+      "a": [
+        "-10",
+        "-9",
+        "-11",
+        "-12"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0087",
+      "q": "Tìm x biết 2x + 10 = 4x - 4.",
+      "a": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0088",
+      "q": "Hình thoi có hai đường chéo 30 cm và 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "272 cm2",
+        "270 cm2",
+        "271 cm2",
+        "269 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0089",
+      "q": "Tính giá trị (x + 9)^2 với x = 11.",
+      "a": [
+        "399",
+        "400",
+        "401",
+        "402"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0090",
+      "q": "Tìm x biết 2(x + 7) = 30.",
+      "a": [
+        "7",
+        "10",
+        "9",
+        "8"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0091",
+      "q": "Hình bình hành có đáy 18 cm và chiều cao 7 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "128 cm2",
+        "127 cm2",
+        "125 cm2",
+        "126 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0092",
+      "q": "Cho hàm số y = 6x + 8. Khi x = 7, y bằng bao nhiêu?",
+      "a": [
+        "49",
+        "52",
+        "51",
+        "50"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0093",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 60 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "300 cm",
+        "299 cm",
+        "302 cm",
+        "301 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0094",
+      "q": "Tính x^2 - 36 với x = 4.",
+      "a": [
+        "-21",
+        "-18",
+        "-19",
+        "-20"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0095",
+      "q": "Tìm x biết 7x + 4 = 2x + 64.",
+      "a": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0096",
+      "q": "Hình thoi có hai đường chéo 8 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "56 cm2",
+        "57 cm2",
+        "55 cm2",
+        "58 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0097",
+      "q": "Tính giá trị (x + 5)^2 với x = 10.",
+      "a": [
+        "224",
+        "227",
+        "226",
+        "225"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0098",
+      "q": "Tìm x biết 6(x + 2) = 54.",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0099",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "384 cm2",
+        "386 cm2",
+        "383 cm2",
+        "385 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0100",
+      "q": "Cho hàm số y = 5x + -5. Khi x = 8, y bằng bao nhiêu?",
+      "a": [
+        "36",
+        "37",
+        "35",
+        "34"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0101",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 20 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "80 cm",
+        "82 cm",
+        "81 cm",
+        "79 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0102",
+      "q": "Tính x^2 - 4 với x = 9.",
+      "a": [
+        "76",
+        "78",
+        "79",
+        "77"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0103",
+      "q": "Tìm x biết 5x + 6 = 1x + 18.",
+      "a": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0104",
+      "q": "Hình thoi có hai đường chéo 10 cm và 6 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "29 cm2",
+        "32 cm2",
+        "31 cm2",
+        "30 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0105",
+      "q": "Tính giá trị (x + 8)^2 với x = 3.",
+      "a": [
+        "122",
+        "121",
+        "123",
+        "120"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0106",
+      "q": "Tìm x biết 2(x + 4) = 80.",
+      "a": [
+        "38",
+        "37",
+        "35",
+        "36"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0107",
+      "q": "Hình bình hành có đáy 13 cm và chiều cao 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "132 cm2",
+        "131 cm2",
+        "129 cm2",
+        "130 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0108",
+      "q": "Cho hàm số y = 6x + -3. Khi x = 3, y bằng bao nhiêu?",
+      "a": [
+        "14",
+        "16",
+        "15",
+        "17"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0109",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 69 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "344 cm",
+        "345 cm",
+        "347 cm",
+        "346 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0110",
+      "q": "Tính x^2 - 9 với x = 10.",
+      "a": [
+        "93",
+        "92",
+        "91",
+        "90"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0111",
+      "q": "Tìm x biết 3x + 2 = 7x - 18.",
+      "a": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0112",
+      "q": "Hình thoi có hai đường chéo 10 cm và 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "51 cm2",
+        "49 cm2",
+        "50 cm2",
+        "52 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0113",
+      "q": "Tính giá trị (x + 7)^2 với x = 7.",
+      "a": [
+        "196",
+        "195",
+        "198",
+        "197"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0114",
+      "q": "Tìm x biết 3(x + 10) = 39.",
+      "a": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0115",
+      "q": "Hình bình hành có đáy 21 cm và chiều cao 9 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "191 cm2",
+        "189 cm2",
+        "188 cm2",
+        "190 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0116",
+      "q": "Cho hàm số y = 5x + -3. Khi x = -5, y bằng bao nhiêu?",
+      "a": [
+        "-29",
+        "-26",
+        "-28",
+        "-27"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0117",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 24 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "73 cm",
+        "74 cm",
+        "71 cm",
+        "72 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0118",
+      "q": "Tính x^2 - 25 với x = 13.",
+      "a": [
+        "146",
+        "144",
+        "143",
+        "145"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0119",
+      "q": "Tìm x biết 7x + 9 = 3x + 45.",
+      "a": [
+        "9",
+        "11",
+        "8",
+        "10"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0120",
+      "q": "Hình thoi có hai đường chéo 16 cm và 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "177 cm2",
+        "178 cm2",
+        "175 cm2",
+        "176 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0121",
+      "q": "Tính giá trị (x + 8)^2 với x = 10.",
+      "a": [
+        "325",
+        "324",
+        "323",
+        "326"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0122",
+      "q": "Tìm x biết 8(x + 6) = 264.",
+      "a": [
+        "29",
+        "26",
+        "28",
+        "27"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0123",
+      "q": "Hình bình hành có đáy 14 cm và chiều cao 5 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "69 cm2",
+        "70 cm2",
+        "72 cm2",
+        "71 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0124",
+      "q": "Cho hàm số y = 4x + 7. Khi x = 4, y bằng bao nhiêu?",
+      "a": [
+        "22",
+        "25",
+        "23",
+        "24"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0125",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 22 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "90 cm",
+        "87 cm",
+        "89 cm",
+        "88 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0126",
+      "q": "Tính x^2 - 25 với x = 9.",
+      "a": [
+        "58",
+        "56",
+        "55",
+        "57"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0127",
+      "q": "Tìm x biết 7x + 5 = 1x + 41.",
+      "a": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0128",
+      "q": "Hình thoi có hai đường chéo 12 cm và 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "50 cm2",
+        "48 cm2",
+        "47 cm2",
+        "49 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0129",
+      "q": "Tính giá trị (x + 9)^2 với x = 5.",
+      "a": [
+        "196",
+        "198",
+        "195",
+        "197"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0130",
+      "q": "Tìm x biết 5(x + 1) = 180.",
+      "a": [
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0131",
+      "q": "Hình bình hành có đáy 23 cm và chiều cao 17 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "391 cm2",
+        "393 cm2",
+        "390 cm2",
+        "392 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0132",
+      "q": "Cho hàm số y = 4x + -9. Khi x = 8, y bằng bao nhiêu?",
+      "a": [
+        "22",
+        "23",
+        "25",
+        "24"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0133",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 43 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "215 cm",
+        "216 cm",
+        "217 cm",
+        "214 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0134",
+      "q": "Tính x^2 - 16 với x = 14.",
+      "a": [
+        "180",
+        "179",
+        "181",
+        "182"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0135",
+      "q": "Tìm x biết 3x + 4 = 5x - 34.",
+      "a": [
+        "21",
+        "18",
+        "20",
+        "19"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0136",
+      "q": "Hình thoi có hai đường chéo 18 cm và 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "199 cm2",
+        "198 cm2",
+        "200 cm2",
+        "197 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0137",
+      "q": "Tính giá trị (x + 4)^2 với x = 6.",
+      "a": [
+        "99",
+        "101",
+        "100",
+        "102"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0138",
+      "q": "Tìm x biết 8(x + 6) = 312.",
+      "a": [
+        "33",
+        "35",
+        "34",
+        "32"
+      ],
+      "c": "A",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0139",
+      "q": "Hình bình hành có đáy 26 cm và chiều cao 11 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "288 cm2",
+        "286 cm2",
+        "285 cm2",
+        "287 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0140",
+      "q": "Cho hàm số y = 5x + 5. Khi x = -2, y bằng bao nhiêu?",
+      "a": [
+        "-4",
+        "-6",
+        "-5",
+        "-3"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0141",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 54 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "164 cm",
+        "161 cm",
+        "162 cm",
+        "163 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0142",
+      "q": "Tính x^2 - 4 với x = 2.",
+      "a": [
+        "1",
+        "5",
+        "2",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0143",
+      "q": "Tìm x biết 4x + 8 = 6x + 0.",
+      "a": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0144",
+      "q": "Hình thoi có hai đường chéo 12 cm và 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "62 cm2",
+        "60 cm2",
+        "59 cm2",
+        "61 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0145",
+      "q": "Tính giá trị (x + 8)^2 với x = 5.",
+      "a": [
+        "169",
+        "171",
+        "168",
+        "170"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0146",
+      "q": "Tìm x biết 3(x + 11) = 117.",
+      "a": [
+        "27",
+        "30",
+        "29",
+        "28"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0147",
+      "q": "Hình bình hành có đáy 25 cm và chiều cao 9 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "225 cm2",
+        "226 cm2",
+        "224 cm2",
+        "227 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0148",
+      "q": "Cho hàm số y = 3x + 10. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "29",
+        "27",
+        "30",
+        "28"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0149",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 52 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "105 cm",
+        "103 cm",
+        "106 cm",
+        "104 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0150",
+      "q": "Tính x^2 - 49 với x = 7.",
+      "a": [
+        "2",
+        "1",
+        "0",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0151",
+      "q": "Tìm x biết 5x + 5 = 7x - 3.",
+      "a": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0152",
+      "q": "Hình thoi có hai đường chéo 8 cm và 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "64 cm2",
+        "63 cm2",
+        "65 cm2",
+        "66 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0153",
+      "q": "Tính giá trị (x + 3)^2 với x = 5.",
+      "a": [
+        "63",
+        "66",
+        "65",
+        "64"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0154",
+      "q": "Tìm x biết 5(x + 2) = 135.",
+      "a": [
+        "27",
+        "25",
+        "26",
+        "24"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0155",
+      "q": "Hình bình hành có đáy 11 cm và chiều cao 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "155 cm2",
+        "154 cm2",
+        "153 cm2",
+        "156 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0156",
+      "q": "Cho hàm số y = 2x + 5. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "4",
+        "2",
+        "5",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0157",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 62 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "185 cm",
+        "187 cm",
+        "186 cm",
+        "188 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0158",
+      "q": "Tính x^2 - 25 với x = 3.",
+      "a": [
+        "-15",
+        "-16",
+        "-17",
+        "-14"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0159",
+      "q": "Tìm x biết 5x + 2 = 7x - 14.",
+      "a": [
+        "9",
+        "10",
+        "8",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0160",
+      "q": "Hình thoi có hai đường chéo 18 cm và 20 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "182 cm2",
+        "180 cm2",
+        "179 cm2",
+        "181 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0161",
+      "q": "Tính giá trị (x + 9)^2 với x = 10.",
+      "a": [
+        "361",
+        "360",
+        "363",
+        "362"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0162",
+      "q": "Tìm x biết 7(x + 11) = 210.",
+      "a": [
+        "21",
+        "19",
+        "20",
+        "18"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0163",
+      "q": "Hình bình hành có đáy 25 cm và chiều cao 11 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "276 cm2",
+        "277 cm2",
+        "275 cm2",
+        "274 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0164",
+      "q": "Cho hàm số y = 6x + -3. Khi x = 3, y bằng bao nhiêu?",
+      "a": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "c": "A",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0165",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 36 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "180 cm",
+        "179 cm",
+        "182 cm",
+        "181 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0166",
+      "q": "Tính x^2 - 49 với x = 3.",
+      "a": [
+        "-40",
+        "-38",
+        "-41",
+        "-39"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0167",
+      "q": "Tìm x biết 6x + 6 = 8x - 10.",
+      "a": [
+        "9",
+        "10",
+        "8",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0168",
+      "q": "Hình thoi có hai đường chéo 30 cm và 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "271 cm2",
+        "270 cm2",
+        "269 cm2",
+        "272 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0169",
+      "q": "Tính giá trị (x + 3)^2 với x = 7.",
+      "a": [
+        "101",
+        "100",
+        "102",
+        "99"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0170",
+      "q": "Tìm x biết 4(x + 10) = 196.",
+      "a": [
+        "40",
+        "41",
+        "39",
+        "38"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0171",
+      "q": "Hình bình hành có đáy 25 cm và chiều cao 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "299 cm2",
+        "300 cm2",
+        "302 cm2",
+        "301 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0172",
+      "q": "Cho hàm số y = 4x + -10. Khi x = -2, y bằng bao nhiêu?",
+      "a": [
+        "-19",
+        "-18",
+        "-16",
+        "-17"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0173",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 20 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "80 cm",
+        "81 cm",
+        "82 cm",
+        "79 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0174",
+      "q": "Tính x^2 - 36 với x = 11.",
+      "a": [
+        "86",
+        "87",
+        "85",
+        "84"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0175",
+      "q": "Tìm x biết 7x + 1 = 6x + 17.",
+      "a": [
+        "16",
+        "17",
+        "18",
+        "15"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0176",
+      "q": "Hình thoi có hai đường chéo 22 cm và 16 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "177 cm2",
+        "176 cm2",
+        "178 cm2",
+        "175 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0177",
+      "q": "Tính giá trị (x + 8)^2 với x = 2.",
+      "a": [
+        "102",
+        "101",
+        "99",
+        "100"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0178",
+      "q": "Tìm x biết 7(x + 2) = 273.",
+      "a": [
+        "39",
+        "37",
+        "36",
+        "38"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0179",
+      "q": "Hình bình hành có đáy 13 cm và chiều cao 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "155 cm2",
+        "158 cm2",
+        "156 cm2",
+        "157 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0180",
+      "q": "Cho hàm số y = 2x + 6. Khi x = 0, y bằng bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0181",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 24 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "74 cm",
+        "73 cm",
+        "71 cm",
+        "72 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0182",
+      "q": "Tính x^2 - 64 với x = 6.",
+      "a": [
+        "-29",
+        "-26",
+        "-27",
+        "-28"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0183",
+      "q": "Tìm x biết 8x + 7 = 7x + 23.",
+      "a": [
+        "17",
+        "18",
+        "15",
+        "16"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0184",
+      "q": "Hình thoi có hai đường chéo 12 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "83 cm2",
+        "85 cm2",
+        "86 cm2",
+        "84 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0185",
+      "q": "Tính giá trị (x + 9)^2 với x = 11.",
+      "a": [
+        "401",
+        "400",
+        "402",
+        "399"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0186",
+      "q": "Tìm x biết 8(x + 12) = 400.",
+      "a": [
+        "40",
+        "38",
+        "39",
+        "37"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0187",
+      "q": "Hình bình hành có đáy 17 cm và chiều cao 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "308 cm2",
+        "307 cm2",
+        "305 cm2",
+        "306 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0188",
+      "q": "Cho hàm số y = 6x + -2. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "-6",
+        "-7",
+        "-8",
+        "-9"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0189",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 58 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "174 cm",
+        "176 cm",
+        "175 cm",
+        "173 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0190",
+      "q": "Tính x^2 - 49 với x = 15.",
+      "a": [
+        "177",
+        "178",
+        "176",
+        "175"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0191",
+      "q": "Tìm x biết 6x + 6 = 1x + 36.",
+      "a": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0192",
+      "q": "Hình thoi có hai đường chéo 28 cm và 20 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "281 cm2",
+        "282 cm2",
+        "279 cm2",
+        "280 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0193",
+      "q": "Tính giá trị (x + 8)^2 với x = 10.",
+      "a": [
+        "326",
+        "323",
+        "324",
+        "325"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0194",
+      "q": "Tìm x biết 8(x + 6) = 192.",
+      "a": [
+        "19",
+        "17",
+        "18",
+        "20"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0195",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 9 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "74 cm2",
+        "72 cm2",
+        "71 cm2",
+        "73 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0196",
+      "q": "Cho hàm số y = 5x + -2. Khi x = 1, y bằng bao nhiêu?",
+      "a": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0197",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 27 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "136 cm",
+        "135 cm",
+        "137 cm",
+        "134 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0198",
+      "q": "Tính x^2 - 9 với x = 3.",
+      "a": [
+        "5",
+        "2",
+        "1",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0199",
+      "q": "Tìm x biết 5x + 5 = 7x - 21.",
+      "a": [
+        "15",
+        "12",
+        "13",
+        "14"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0200",
+      "q": "Hình thoi có hai đường chéo 8 cm và 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "34 cm2",
+        "31 cm2",
+        "32 cm2",
+        "33 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0201",
+      "q": "Tính giá trị (x + 2)^2 với x = 9.",
+      "a": [
+        "120",
+        "123",
+        "122",
+        "121"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0202",
+      "q": "Tìm x biết 4(x + 4) = 84.",
+      "a": [
+        "16",
+        "19",
+        "17",
+        "18"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0203",
+      "q": "Hình bình hành có đáy 13 cm và chiều cao 19 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "247 cm2",
+        "248 cm2",
+        "249 cm2",
+        "246 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0204",
+      "q": "Cho hàm số y = 2x + 8. Khi x = -2, y bằng bao nhiêu?",
+      "a": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0205",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 64 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "194 cm",
+        "191 cm",
+        "193 cm",
+        "192 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0206",
+      "q": "Tính x^2 - 36 với x = 13.",
+      "a": [
+        "132",
+        "133",
+        "134",
+        "135"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0207",
+      "q": "Tìm x biết 2x + 5 = 4x + 1.",
+      "a": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0208",
+      "q": "Hình thoi có hai đường chéo 20 cm và 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "120 cm2",
+        "122 cm2",
+        "121 cm2",
+        "119 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0209",
+      "q": "Tính giá trị (x + 4)^2 với x = 6.",
+      "a": [
+        "102",
+        "101",
+        "100",
+        "99"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0210",
+      "q": "Tìm x biết 4(x + 12) = 64.",
+      "a": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0211",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "431 cm2",
+        "434 cm2",
+        "433 cm2",
+        "432 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0212",
+      "q": "Cho hàm số y = 6x + 3. Khi x = -3, y bằng bao nhiêu?",
+      "a": [
+        "-16",
+        "-15",
+        "-14",
+        "-13"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0213",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 50 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "151 cm",
+        "149 cm",
+        "150 cm",
+        "152 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0214",
+      "q": "Tính x^2 - 25 với x = 4.",
+      "a": [
+        "-8",
+        "-7",
+        "-10",
+        "-9"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0215",
+      "q": "Tìm x biết 8x + 9 = 7x + 15.",
+      "a": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0216",
+      "q": "Hình thoi có hai đường chéo 16 cm và 24 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "192 cm2",
+        "191 cm2",
+        "194 cm2",
+        "193 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0217",
+      "q": "Tính giá trị (x + 3)^2 với x = 9.",
+      "a": [
+        "143",
+        "146",
+        "144",
+        "145"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0218",
+      "q": "Tìm x biết 4(x + 3) = 140.",
+      "a": [
+        "33",
+        "31",
+        "34",
+        "32"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0219",
+      "q": "Hình bình hành có đáy 14 cm và chiều cao 5 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "72 cm2",
+        "69 cm2",
+        "70 cm2",
+        "71 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0220",
+      "q": "Cho hàm số y = 5x + 7. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0221",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 53 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "267 cm",
+        "265 cm",
+        "266 cm",
+        "264 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0222",
+      "q": "Tính x^2 - 16 với x = 7.",
+      "a": [
+        "34",
+        "32",
+        "33",
+        "35"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0223",
+      "q": "Tìm x biết 6x + 8 = 1x + 108.",
+      "a": [
+        "19",
+        "20",
+        "22",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0224",
+      "q": "Hình thoi có hai đường chéo 28 cm và 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "114 cm2",
+        "113 cm2",
+        "111 cm2",
+        "112 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0225",
+      "q": "Tính giá trị (x + 3)^2 với x = 10.",
+      "a": [
+        "169",
+        "171",
+        "168",
+        "170"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0226",
+      "q": "Tìm x biết 3(x + 4) = 126.",
+      "a": [
+        "37",
+        "40",
+        "38",
+        "39"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0227",
+      "q": "Hình bình hành có đáy 13 cm và chiều cao 20 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "260 cm2",
+        "259 cm2",
+        "262 cm2",
+        "261 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0228",
+      "q": "Cho hàm số y = 5x + 0. Khi x = 9, y bằng bao nhiêu?",
+      "a": [
+        "47",
+        "44",
+        "46",
+        "45"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0229",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 54 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "162 cm",
+        "163 cm",
+        "161 cm",
+        "164 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0230",
+      "q": "Tính x^2 - 49 với x = 9.",
+      "a": [
+        "31",
+        "33",
+        "34",
+        "32"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0231",
+      "q": "Tìm x biết 4x + 4 = 6x + 0.",
+      "a": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0232",
+      "q": "Hình thoi có hai đường chéo 14 cm và 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "57 cm2",
+        "58 cm2",
+        "55 cm2",
+        "56 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0233",
+      "q": "Tính giá trị (x + 4)^2 với x = 10.",
+      "a": [
+        "196",
+        "197",
+        "195",
+        "198"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0234",
+      "q": "Tìm x biết 5(x + 12) = 210.",
+      "a": [
+        "32",
+        "31",
+        "30",
+        "29"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0235",
+      "q": "Hình bình hành có đáy 27 cm và chiều cao 5 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "134 cm2",
+        "137 cm2",
+        "135 cm2",
+        "136 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0236",
+      "q": "Cho hàm số y = 3x + 9. Khi x = 7, y bằng bao nhiêu?",
+      "a": [
+        "29",
+        "30",
+        "31",
+        "32"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0237",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 40 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "199 cm",
+        "202 cm",
+        "201 cm",
+        "200 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0238",
+      "q": "Tính x^2 - 49 với x = 2.",
+      "a": [
+        "-43",
+        "-44",
+        "-45",
+        "-46"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0239",
+      "q": "Tìm x biết 2x + 7 = 5x - 17.",
+      "a": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0240",
+      "q": "Hình thoi có hai đường chéo 16 cm và 18 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "146 cm2",
+        "145 cm2",
+        "144 cm2",
+        "143 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0241",
+      "q": "Tính giá trị (x + 8)^2 với x = 11.",
+      "a": [
+        "362",
+        "363",
+        "361",
+        "360"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0242",
+      "q": "Tìm x biết 5(x + 5) = 140.",
+      "a": [
+        "23",
+        "22",
+        "24",
+        "25"
+      ],
+      "c": "A",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0243",
+      "q": "Hình bình hành có đáy 18 cm và chiều cao 15 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "272 cm2",
+        "269 cm2",
+        "271 cm2",
+        "270 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0244",
+      "q": "Cho hàm số y = 4x + 9. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0245",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 62 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "249 cm",
+        "247 cm",
+        "250 cm",
+        "248 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0246",
+      "q": "Tính x^2 - 4 với x = 3.",
+      "a": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0247",
+      "q": "Tìm x biết 7x + 7 = 1x + 61.",
+      "a": [
+        "11",
+        "9",
+        "8",
+        "10"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0248",
+      "q": "Hình thoi có hai đường chéo 10 cm và 10 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "49 cm2",
+        "50 cm2",
+        "51 cm2",
+        "52 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0249",
+      "q": "Tính giá trị (x + 4)^2 với x = 9.",
+      "a": [
+        "168",
+        "170",
+        "171",
+        "169"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0250",
+      "q": "Tìm x biết 4(x + 1) = 76.",
+      "a": [
+        "20",
+        "17",
+        "19",
+        "18"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0251",
+      "q": "Hình bình hành có đáy 29 cm và chiều cao 7 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "205 cm2",
+        "204 cm2",
+        "202 cm2",
+        "203 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0252",
+      "q": "Cho hàm số y = 8x + 5. Khi x = 3, y bằng bao nhiêu?",
+      "a": [
+        "28",
+        "31",
+        "30",
+        "29"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0253",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 56 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "223 cm",
+        "224 cm",
+        "226 cm",
+        "225 cm"
+      ],
+      "c": "B",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0254",
+      "q": "Tính x^2 - 25 với x = 10.",
+      "a": [
+        "76",
+        "74",
+        "77",
+        "75"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0255",
+      "q": "Tìm x biết 2x + 2 = 3x - 10.",
+      "a": [
+        "11",
+        "14",
+        "12",
+        "13"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0256",
+      "q": "Hình thoi có hai đường chéo 8 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "58 cm2",
+        "57 cm2",
+        "56 cm2",
+        "55 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0257",
+      "q": "Tính giá trị (x + 4)^2 với x = 11.",
+      "a": [
+        "224",
+        "226",
+        "225",
+        "227"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0258",
+      "q": "Tìm x biết 3(x + 1) = 87.",
+      "a": [
+        "30",
+        "29",
+        "28",
+        "27"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0259",
+      "q": "Hình bình hành có đáy 23 cm và chiều cao 11 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "255 cm2",
+        "254 cm2",
+        "253 cm2",
+        "252 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0260",
+      "q": "Cho hàm số y = 7x + 2. Khi x = -2, y bằng bao nhiêu?",
+      "a": [
+        "-11",
+        "-12",
+        "-13",
+        "-10"
+      ],
+      "c": "B",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0261",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 48 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "144 cm",
+        "143 cm",
+        "145 cm",
+        "146 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0262",
+      "q": "Tính x^2 - 4 với x = 3.",
+      "a": [
+        "4",
+        "7",
+        "6",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0263",
+      "q": "Tìm x biết 3x + 9 = 4x - 10.",
+      "a": [
+        "19",
+        "18",
+        "20",
+        "21"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0264",
+      "q": "Hình thoi có hai đường chéo 28 cm và 8 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "112 cm2",
+        "113 cm2",
+        "114 cm2",
+        "111 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0265",
+      "q": "Tính giá trị (x + 2)^2 với x = 6.",
+      "a": [
+        "64",
+        "63",
+        "65",
+        "66"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0266",
+      "q": "Tìm x biết 8(x + 3) = 80.",
+      "a": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0267",
+      "q": "Hình bình hành có đáy 15 cm và chiều cao 19 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "286 cm2",
+        "285 cm2",
+        "287 cm2",
+        "284 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0268",
+      "q": "Cho hàm số y = 2x + -8. Khi x = -4, y bằng bao nhiêu?",
+      "a": [
+        "-15",
+        "-14",
+        "-17",
+        "-16"
+      ],
+      "c": "D",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0269",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 26 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "80 cm",
+        "79 cm",
+        "78 cm",
+        "77 cm"
+      ],
+      "c": "C",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0270",
+      "q": "Tính x^2 - 4 với x = 10.",
+      "a": [
+        "96",
+        "98",
+        "95",
+        "97"
+      ],
+      "c": "A",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0271",
+      "q": "Tìm x biết 3x + 4 = 5x - 8.",
+      "a": [
+        "7",
+        "5",
+        "8",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0272",
+      "q": "Hình thoi có hai đường chéo 14 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "99 cm2",
+        "97 cm2",
+        "100 cm2",
+        "98 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0273",
+      "q": "Tính giá trị (x + 9)^2 với x = 2.",
+      "a": [
+        "122",
+        "123",
+        "120",
+        "121"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0274",
+      "q": "Tìm x biết 4(x + 8) = 184.",
+      "a": [
+        "40",
+        "38",
+        "37",
+        "39"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0275",
+      "q": "Hình bình hành có đáy 15 cm và chiều cao 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "182 cm2",
+        "180 cm2",
+        "181 cm2",
+        "179 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0276",
+      "q": "Cho hàm số y = 5x + -6. Khi x = -3, y bằng bao nhiêu?",
+      "a": [
+        "-22",
+        "-20",
+        "-21",
+        "-19"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0277",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 57 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "228 cm",
+        "230 cm",
+        "229 cm",
+        "227 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0278",
+      "q": "Tính x^2 - 25 với x = 2.",
+      "a": [
+        "-22",
+        "-19",
+        "-20",
+        "-21"
+      ],
+      "c": "D",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0279",
+      "q": "Tìm x biết 7x + 6 = 5x + 14.",
+      "a": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0280",
+      "q": "Hình thoi có hai đường chéo 16 cm và 22 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "176 cm2",
+        "178 cm2",
+        "177 cm2",
+        "175 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0281",
+      "q": "Tính giá trị (x + 8)^2 với x = 9.",
+      "a": [
+        "291",
+        "290",
+        "288",
+        "289"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0282",
+      "q": "Tìm x biết 4(x + 7) = 184.",
+      "a": [
+        "41",
+        "39",
+        "38",
+        "40"
+      ],
+      "c": "B",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0283",
+      "q": "Hình bình hành có đáy 11 cm và chiều cao 6 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "67 cm2",
+        "65 cm2",
+        "68 cm2",
+        "66 cm2"
+      ],
+      "c": "D",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0284",
+      "q": "Cho hàm số y = 2x + 4. Khi x = -1, y bằng bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0285",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 28 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "113 cm",
+        "111 cm",
+        "114 cm",
+        "112 cm"
+      ],
+      "c": "D",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0286",
+      "q": "Tính x^2 - 16 với x = 9.",
+      "a": [
+        "66",
+        "67",
+        "65",
+        "64"
+      ],
+      "c": "C",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0287",
+      "q": "Tìm x biết 6x + 4 = 3x + 64.",
+      "a": [
+        "22",
+        "19",
+        "20",
+        "21"
+      ],
+      "c": "C",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0288",
+      "q": "Hình thoi có hai đường chéo 28 cm và 14 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "196 cm2",
+        "198 cm2",
+        "197 cm2",
+        "195 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0289",
+      "q": "Tính giá trị (x + 4)^2 với x = 8.",
+      "a": [
+        "144",
+        "145",
+        "146",
+        "143"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0290",
+      "q": "Tìm x biết 5(x + 5) = 40.",
+      "a": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0291",
+      "q": "Hình bình hành có đáy 10 cm và chiều cao 12 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "119 cm2",
+        "122 cm2",
+        "120 cm2",
+        "121 cm2"
+      ],
+      "c": "C",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0292",
+      "q": "Cho hàm số y = 5x + -4. Khi x = 3, y bằng bao nhiêu?",
+      "a": [
+        "11",
+        "12",
+        "13",
+        "10"
+      ],
+      "c": "A",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0293",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 54 cm thì chu vi tam giác lớn là bao nhiêu?",
+      "a": [
+        "108 cm",
+        "110 cm",
+        "109 cm",
+        "107 cm"
+      ],
+      "c": "A",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0294",
+      "q": "Tính x^2 - 49 với x = 15.",
+      "a": [
+        "177",
+        "176",
+        "175",
+        "178"
+      ],
+      "c": "B",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0295",
+      "q": "Tìm x biết 3x + 5 = 4x - 9.",
+      "a": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "c": "B",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0296",
+      "q": "Hình thoi có hai đường chéo 12 cm và 6 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "37 cm2",
+        "36 cm2",
+        "38 cm2",
+        "35 cm2"
+      ],
+      "c": "B",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0297",
+      "q": "Tính giá trị (x + 6)^2 với x = 8.",
+      "a": [
+        "197",
+        "195",
+        "198",
+        "196"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0298",
+      "q": "Tìm x biết 3(x + 5) = 84.",
+      "a": [
+        "22",
+        "25",
+        "24",
+        "23"
+      ],
+      "c": "D",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0299",
+      "q": "Hình bình hành có đáy 18 cm và chiều cao 5 cm. Diện tích là bao nhiêu?",
+      "a": [
+        "90 cm2",
+        "92 cm2",
+        "89 cm2",
+        "91 cm2"
+      ],
+      "c": "A",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q8-adv-0300",
+      "q": "Cho hàm số y = 6x + 5. Khi x = 1, y bằng bao nhiêu?",
+      "a": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -23004,6 +27504,2406 @@
       "hint": "Xác suất = số kết quả thuận lợi : số kết quả có thể.\nĐáp án: 3/11",
       "ch": "Xác suất của biến cố và xác suất thực nghiệm",
       "chapter": 14,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0001",
+      "q": "Tính giá trị (x + 8)^2 với x = 5. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0002",
+      "q": "Tìm x biết 7(x + 5) = 84. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0003",
+      "q": "Hình bình hành có đáy 21 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0004",
+      "q": "Cho hàm số y = 6x + 3. Khi x = 9, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0005",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 72 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0006",
+      "q": "Tính x^2 - 4 với x = 8. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0007",
+      "q": "Tìm x biết 7x + 3 = 4x + 63. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0008",
+      "q": "Hình thoi có hai đường chéo 10 cm và 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0009",
+      "q": "Tính giá trị (x + 5)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0010",
+      "q": "Tìm x biết 7(x + 5) = 161. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0011",
+      "q": "Hình bình hành có đáy 10 cm và chiều cao 15 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0012",
+      "q": "Cho hàm số y = 5x + 6. Khi x = 7, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0013",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 22 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0014",
+      "q": "Tính x^2 - 49 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0015",
+      "q": "Tìm x biết 8x + 6 = 1x + 62. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0016",
+      "q": "Hình thoi có hai đường chéo 10 cm và 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0017",
+      "q": "Tính giá trị (x + 7)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0018",
+      "q": "Tìm x biết 3(x + 1) = 105. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0019",
+      "q": "Hình bình hành có đáy 30 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0020",
+      "q": "Cho hàm số y = 4x + -8. Khi x = -5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0021",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 72 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0022",
+      "q": "Tính x^2 - 4 với x = 7. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0023",
+      "q": "Tìm x biết 7x + 10 = 9x - 30. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0024",
+      "q": "Hình thoi có hai đường chéo 20 cm và 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0025",
+      "q": "Tính giá trị (x + 8)^2 với x = 11. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0026",
+      "q": "Tìm x biết 6(x + 10) = 132. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0027",
+      "q": "Hình bình hành có đáy 21 cm và chiều cao 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0028",
+      "q": "Cho hàm số y = 3x + -7. Khi x = -2, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0029",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 52 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0030",
+      "q": "Tính x^2 - 4 với x = 11. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0031",
+      "q": "Tìm x biết 2x + 7 = 4x - 25. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0032",
+      "q": "Hình thoi có hai đường chéo 22 cm và 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0033",
+      "q": "Tính giá trị (x + 7)^2 với x = 11. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0034",
+      "q": "Tìm x biết 4(x + 11) = 104. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0035",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 15 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0036",
+      "q": "Cho hàm số y = 5x + 8. Khi x = 0, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0037",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 32 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0038",
+      "q": "Tính x^2 - 16 với x = 14. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0039",
+      "q": "Tìm x biết 4x + 6 = 6x - 2. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0040",
+      "q": "Hình thoi có hai đường chéo 26 cm và 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0041",
+      "q": "Tính giá trị (x + 9)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0042",
+      "q": "Tìm x biết 3(x + 2) = 24. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0043",
+      "q": "Hình bình hành có đáy 19 cm và chiều cao 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0044",
+      "q": "Cho hàm số y = 5x + -7. Khi x = 1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0045",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 47 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0046",
+      "q": "Tính x^2 - 49 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0047",
+      "q": "Tìm x biết 2x + 7 = 7x - 48. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0048",
+      "q": "Hình thoi có hai đường chéo 26 cm và 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0049",
+      "q": "Tính giá trị (x + 4)^2 với x = 3. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0050",
+      "q": "Tìm x biết 5(x + 1) = 20. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0051",
+      "q": "Hình bình hành có đáy 12 cm và chiều cao 17 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0052",
+      "q": "Cho hàm số y = 7x + 5. Khi x = 6, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0053",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 64 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0054",
+      "q": "Tính x^2 - 36 với x = 10. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0055",
+      "q": "Tìm x biết 2x + 1 = 4x - 19. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0056",
+      "q": "Hình thoi có hai đường chéo 24 cm và 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0057",
+      "q": "Tính giá trị (x + 7)^2 với x = 9. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0058",
+      "q": "Tìm x biết 5(x + 3) = 65. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0059",
+      "q": "Hình bình hành có đáy 14 cm và chiều cao 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0060",
+      "q": "Cho hàm số y = 3x + -8. Khi x = 7, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0061",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 36 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0062",
+      "q": "Tính x^2 - 16 với x = 6. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0063",
+      "q": "Tìm x biết 5x + 5 = 4x + 8. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0064",
+      "q": "Hình thoi có hai đường chéo 12 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0065",
+      "q": "Tính giá trị (x + 9)^2 với x = 12. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0066",
+      "q": "Tìm x biết 4(x + 2) = 144. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0067",
+      "q": "Hình bình hành có đáy 17 cm và chiều cao 9 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0068",
+      "q": "Cho hàm số y = 5x + 9. Khi x = 5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0069",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 25 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0070",
+      "q": "Tính x^2 - 64 với x = 4. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0071",
+      "q": "Tìm x biết 4x + 5 = 1x + 50. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0072",
+      "q": "Hình thoi có hai đường chéo 14 cm và 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0073",
+      "q": "Tính giá trị (x + 2)^2 với x = 5. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0074",
+      "q": "Tìm x biết 5(x + 4) = 90. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0075",
+      "q": "Hình bình hành có đáy 19 cm và chiều cao 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0076",
+      "q": "Cho hàm số y = 6x + -9. Khi x = 6, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0077",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 25 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0078",
+      "q": "Tính x^2 - 36 với x = 14. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0079",
+      "q": "Tìm x biết 5x + 3 = 6x - 5. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0080",
+      "q": "Hình thoi có hai đường chéo 16 cm và 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0081",
+      "q": "Tính giá trị (x + 3)^2 với x = 4. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0082",
+      "q": "Tìm x biết 2(x + 8) = 54. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0083",
+      "q": "Hình bình hành có đáy 12 cm và chiều cao 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0084",
+      "q": "Cho hàm số y = 6x + 10. Khi x = -4, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0085",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 68 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0086",
+      "q": "Tính x^2 - 16 với x = 3. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0087",
+      "q": "Tìm x biết 5x + 8 = 1x + 84. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0088",
+      "q": "Hình thoi có hai đường chéo 16 cm và 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0089",
+      "q": "Tính giá trị (x + 7)^2 với x = 12. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0090",
+      "q": "Tìm x biết 3(x + 7) = 87. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0091",
+      "q": "Hình bình hành có đáy 20 cm và chiều cao 6 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0092",
+      "q": "Cho hàm số y = 5x + -9. Khi x = -1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0093",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 69 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0094",
+      "q": "Tính x^2 - 16 với x = 6. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0095",
+      "q": "Tìm x biết 2x + 9 = 4x - 25. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0096",
+      "q": "Hình thoi có hai đường chéo 10 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0097",
+      "q": "Tính giá trị (x + 2)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0098",
+      "q": "Tìm x biết 2(x + 7) = 82. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0099",
+      "q": "Hình bình hành có đáy 27 cm và chiều cao 11 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0100",
+      "q": "Cho hàm số y = 2x + -7. Khi x = -4, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0101",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 46 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0102",
+      "q": "Tính x^2 - 16 với x = 14. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0103",
+      "q": "Tìm x biết 4x + 1 = 7x - 14. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0104",
+      "q": "Hình thoi có hai đường chéo 22 cm và 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0105",
+      "q": "Tính giá trị (x + 7)^2 với x = 7. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0106",
+      "q": "Tìm x biết 5(x + 7) = 195. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0107",
+      "q": "Hình bình hành có đáy 25 cm và chiều cao 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0108",
+      "q": "Cho hàm số y = 3x + -7. Khi x = -2, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0109",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 44 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0110",
+      "q": "Tính x^2 - 9 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0111",
+      "q": "Tìm x biết 6x + 1 = 4x + 29. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0112",
+      "q": "Hình thoi có hai đường chéo 10 cm và 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0113",
+      "q": "Tính giá trị (x + 4)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0114",
+      "q": "Tìm x biết 7(x + 6) = 203. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0115",
+      "q": "Hình bình hành có đáy 12 cm và chiều cao 6 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0116",
+      "q": "Cho hàm số y = 8x + -2. Khi x = -1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0117",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 68 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0118",
+      "q": "Tính x^2 - 9 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0119",
+      "q": "Tìm x biết 8x + 10 = 2x + 46. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0120",
+      "q": "Hình thoi có hai đường chéo 14 cm và 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0121",
+      "q": "Tính giá trị (x + 9)^2 với x = 10. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0122",
+      "q": "Tìm x biết 4(x + 10) = 104. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0123",
+      "q": "Hình bình hành có đáy 16 cm và chiều cao 15 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0124",
+      "q": "Cho hàm số y = 4x + -7. Khi x = -1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0125",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 80 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0126",
+      "q": "Tính x^2 - 49 với x = 11. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0127",
+      "q": "Tìm x biết 7x + 6 = 6x + 22. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0128",
+      "q": "Hình thoi có hai đường chéo 30 cm và 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0129",
+      "q": "Tính giá trị (x + 2)^2 với x = 6. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0130",
+      "q": "Tìm x biết 7(x + 11) = 154. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0131",
+      "q": "Hình bình hành có đáy 23 cm và chiều cao 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0132",
+      "q": "Cho hàm số y = 4x + -10. Khi x = -3, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0133",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 29 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0134",
+      "q": "Tính x^2 - 9 với x = 5. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0135",
+      "q": "Tìm x biết 5x + 3 = 2x + 12. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0136",
+      "q": "Hình thoi có hai đường chéo 28 cm và 6 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0137",
+      "q": "Tính giá trị (x + 9)^2 với x = 7. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0138",
+      "q": "Tìm x biết 6(x + 9) = 210. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0139",
+      "q": "Hình bình hành có đáy 17 cm và chiều cao 17 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0140",
+      "q": "Cho hàm số y = 5x + 0. Khi x = 0, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0141",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 38 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0142",
+      "q": "Tính x^2 - 25 với x = 10. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0143",
+      "q": "Tìm x biết 6x + 9 = 3x + 18. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0144",
+      "q": "Hình thoi có hai đường chéo 30 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0145",
+      "q": "Tính giá trị (x + 6)^2 với x = 6. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0146",
+      "q": "Tìm x biết 8(x + 2) = 88. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0147",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 11 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0148",
+      "q": "Cho hàm số y = 8x + 7. Khi x = -4, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0149",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 72 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0150",
+      "q": "Tính x^2 - 36 với x = 7. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0151",
+      "q": "Tìm x biết 8x + 2 = 4x + 22. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0152",
+      "q": "Hình thoi có hai đường chéo 20 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0153",
+      "q": "Tính giá trị (x + 5)^2 với x = 6. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0154",
+      "q": "Tìm x biết 6(x + 5) = 174. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0155",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0156",
+      "q": "Cho hàm số y = 3x + -3. Khi x = -2, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0157",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 26 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0158",
+      "q": "Tính x^2 - 64 với x = 15. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0159",
+      "q": "Tìm x biết 5x + 5 = 1x + 41. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0160",
+      "q": "Hình thoi có hai đường chéo 24 cm và 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0161",
+      "q": "Tính giá trị (x + 7)^2 với x = 11. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0162",
+      "q": "Tìm x biết 4(x + 7) = 148. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0163",
+      "q": "Hình bình hành có đáy 29 cm và chiều cao 11 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0164",
+      "q": "Cho hàm số y = 4x + 10. Khi x = 8, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0165",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 38 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0166",
+      "q": "Tính x^2 - 25 với x = 9. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0167",
+      "q": "Tìm x biết 8x + 4 = 2x + 58. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0168",
+      "q": "Hình thoi có hai đường chéo 30 cm và 24 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0169",
+      "q": "Tính giá trị (x + 9)^2 với x = 4. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0170",
+      "q": "Tìm x biết 7(x + 2) = 140. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0171",
+      "q": "Hình bình hành có đáy 18 cm và chiều cao 13 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0172",
+      "q": "Cho hàm số y = 5x + 5. Khi x = -1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0173",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 50 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0174",
+      "q": "Tính x^2 - 16 với x = 10. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0175",
+      "q": "Tìm x biết 5x + 6 = 4x + 25. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0176",
+      "q": "Hình thoi có hai đường chéo 16 cm và 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0177",
+      "q": "Tính giá trị (x + 9)^2 với x = 9. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0178",
+      "q": "Tìm x biết 7(x + 3) = 98. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0179",
+      "q": "Hình bình hành có đáy 22 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0180",
+      "q": "Cho hàm số y = 4x + 0. Khi x = 3, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0181",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 24 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0182",
+      "q": "Tính x^2 - 49 với x = 15. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0183",
+      "q": "Tìm x biết 5x + 4 = 7x - 12. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0184",
+      "q": "Hình thoi có hai đường chéo 16 cm và 6 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0185",
+      "q": "Tính giá trị (x + 6)^2 với x = 12. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0186",
+      "q": "Tìm x biết 4(x + 11) = 124. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0187",
+      "q": "Hình bình hành có đáy 22 cm và chiều cao 19 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0188",
+      "q": "Cho hàm số y = 8x + -7. Khi x = 0, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0189",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 26 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0190",
+      "q": "Tính x^2 - 36 với x = 7. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0191",
+      "q": "Tìm x biết 4x + 8 = 7x - 4. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0192",
+      "q": "Hình thoi có hai đường chéo 26 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0193",
+      "q": "Tính giá trị (x + 5)^2 với x = 6. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0194",
+      "q": "Tìm x biết 8(x + 8) = 344. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0195",
+      "q": "Hình bình hành có đáy 19 cm và chiều cao 19 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0196",
+      "q": "Cho hàm số y = 7x + 0. Khi x = 3, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0197",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 73 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0198",
+      "q": "Tính x^2 - 4 với x = 14. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0199",
+      "q": "Tìm x biết 6x + 4 = 3x + 19. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0200",
+      "q": "Hình thoi có hai đường chéo 30 cm và 24 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0201",
+      "q": "Tính giá trị (x + 7)^2 với x = 11. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0202",
+      "q": "Tìm x biết 2(x + 9) = 58. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0203",
+      "q": "Hình bình hành có đáy 30 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0204",
+      "q": "Cho hàm số y = 6x + 7. Khi x = -2, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0205",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 37 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0206",
+      "q": "Tính x^2 - 64 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0207",
+      "q": "Tìm x biết 8x + 8 = 1x + 113. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0208",
+      "q": "Hình thoi có hai đường chéo 18 cm và 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0209",
+      "q": "Tính giá trị (x + 9)^2 với x = 12. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0210",
+      "q": "Tìm x biết 6(x + 5) = 246. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0211",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0212",
+      "q": "Cho hàm số y = 2x + -1. Khi x = -5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0213",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 71 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0214",
+      "q": "Tính x^2 - 9 với x = 8. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0215",
+      "q": "Tìm x biết 5x + 2 = 3x + 16. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0216",
+      "q": "Hình thoi có hai đường chéo 20 cm và 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0217",
+      "q": "Tính giá trị (x + 6)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0218",
+      "q": "Tìm x biết 3(x + 4) = 93. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0219",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 15 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0220",
+      "q": "Cho hàm số y = 7x + 9. Khi x = 1, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0221",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 37 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0222",
+      "q": "Tính x^2 - 9 với x = 13. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0223",
+      "q": "Tìm x biết 4x + 10 = 2x + 32. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0224",
+      "q": "Hình thoi có hai đường chéo 26 cm và 24 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0225",
+      "q": "Tính giá trị (x + 8)^2 với x = 5. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0226",
+      "q": "Tìm x biết 2(x + 8) = 50. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0227",
+      "q": "Hình bình hành có đáy 11 cm và chiều cao 17 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0228",
+      "q": "Cho hàm số y = 8x + 8. Khi x = -2, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0229",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 58 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0230",
+      "q": "Tính x^2 - 4 với x = 8. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0231",
+      "q": "Tìm x biết 2x + 8 = 4x - 24. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0232",
+      "q": "Hình thoi có hai đường chéo 28 cm và 20 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0233",
+      "q": "Tính giá trị (x + 8)^2 với x = 5. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0234",
+      "q": "Tìm x biết 5(x + 5) = 180. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0235",
+      "q": "Hình bình hành có đáy 22 cm và chiều cao 6 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0236",
+      "q": "Cho hàm số y = 4x + 8. Khi x = 5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0237",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 3. Nếu chu vi tam giác nhỏ là 78 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0238",
+      "q": "Tính x^2 - 49 với x = 5. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0239",
+      "q": "Tìm x biết 7x + 9 = 2x + 54. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0240",
+      "q": "Hình thoi có hai đường chéo 16 cm và 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0241",
+      "q": "Tính giá trị (x + 2)^2 với x = 10. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0242",
+      "q": "Tìm x biết 3(x + 5) = 66. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0243",
+      "q": "Hình bình hành có đáy 24 cm và chiều cao 13 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0244",
+      "q": "Cho hàm số y = 4x + -1. Khi x = 6, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0245",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 32 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0246",
+      "q": "Tính x^2 - 25 với x = 6. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0247",
+      "q": "Tìm x biết 5x + 8 = 1x + 64. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0248",
+      "q": "Hình thoi có hai đường chéo 16 cm và 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0249",
+      "q": "Tính giá trị (x + 7)^2 với x = 4. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0250",
+      "q": "Tìm x biết 4(x + 7) = 112. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0251",
+      "q": "Hình bình hành có đáy 25 cm và chiều cao 13 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0252",
+      "q": "Cho hàm số y = 5x + 2. Khi x = -4, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0253",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 21 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0254",
+      "q": "Tính x^2 - 64 với x = 4. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0255",
+      "q": "Tìm x biết 6x + 5 = 3x + 32. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0256",
+      "q": "Hình thoi có hai đường chéo 20 cm và 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0257",
+      "q": "Tính giá trị (x + 5)^2 với x = 12. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0258",
+      "q": "Tìm x biết 6(x + 12) = 276. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0259",
+      "q": "Hình bình hành có đáy 8 cm và chiều cao 9 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0260",
+      "q": "Cho hàm số y = 7x + -1. Khi x = -5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0261",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 5. Nếu chu vi tam giác nhỏ là 55 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0262",
+      "q": "Tính x^2 - 9 với x = 4. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0263",
+      "q": "Tìm x biết 5x + 3 = 7x - 29. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0264",
+      "q": "Hình thoi có hai đường chéo 10 cm và 16 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0265",
+      "q": "Tính giá trị (x + 8)^2 với x = 8. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0266",
+      "q": "Tìm x biết 4(x + 8) = 184. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0267",
+      "q": "Hình bình hành có đáy 17 cm và chiều cao 19 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0268",
+      "q": "Cho hàm số y = 2x + 6. Khi x = -4, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0269",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 52 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0270",
+      "q": "Tính x^2 - 36 với x = 15. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0271",
+      "q": "Tìm x biết 2x + 4 = 6x - 68. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0272",
+      "q": "Hình thoi có hai đường chéo 28 cm và 10 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0273",
+      "q": "Tính giá trị (x + 4)^2 với x = 2. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0274",
+      "q": "Tìm x biết 2(x + 6) = 24. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0275",
+      "q": "Hình bình hành có đáy 13 cm và chiều cao 9 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0276",
+      "q": "Cho hàm số y = 3x + 0. Khi x = -3, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0277",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 46 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0278",
+      "q": "Tính x^2 - 64 với x = 9. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0279",
+      "q": "Tìm x biết 2x + 7 = 4x + 3. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0280",
+      "q": "Hình thoi có hai đường chéo 30 cm và 12 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0281",
+      "q": "Tính giá trị (x + 5)^2 với x = 9. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0282",
+      "q": "Tìm x biết 4(x + 9) = 120. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0283",
+      "q": "Hình bình hành có đáy 28 cm và chiều cao 14 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0284",
+      "q": "Cho hàm số y = 6x + -5. Khi x = 8, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0285",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 2. Nếu chu vi tam giác nhỏ là 23 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0286",
+      "q": "Tính x^2 - 64 với x = 15. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0287",
+      "q": "Tìm x biết 5x + 5 = 1x + 77. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0288",
+      "q": "Hình thoi có hai đường chéo 26 cm và 22 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0289",
+      "q": "Tính giá trị (x + 9)^2 với x = 10. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0290",
+      "q": "Tìm x biết 2(x + 11) = 72. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0291",
+      "q": "Hình bình hành có đáy 30 cm và chiều cao 8 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0292",
+      "q": "Cho hàm số y = 4x + -9. Khi x = 5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0293",
+      "q": "Hai tam giác đồng dạng có tỉ số cạnh tương ứng là 4. Nếu chu vi tam giác nhỏ là 38 cm thì chu vi tam giác lớn là bao nhiêu? Trình bày cách làm.",
+      "hint": "Chu vi của hai tam giác đồng dạng cũng theo cùng tỉ số với cạnh tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0294",
+      "q": "Tính x^2 - 36 với x = 7. Trình bày cách làm.",
+      "hint": "Có thể dùng hằng đẳng thức hiệu hai bình phương hoặc thay trực tiếp x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0295",
+      "q": "Tìm x biết 3x + 6 = 5x - 34. Trình bày cách làm.",
+      "hint": "Chuyển các hạng tử chứa x về một vế, các số tự do về vế còn lại.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0296",
+      "q": "Hình thoi có hai đường chéo 24 cm và 18 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình thoi bằng tích hai đường chéo rồi chia 2.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0297",
+      "q": "Tính giá trị (x + 6)^2 với x = 2. Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức rồi bình phương tổng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0298",
+      "q": "Tìm x biết 8(x + 11) = 312. Trình bày cách làm.",
+      "hint": "Chia hai vế cho hệ số ngoài ngoặc rồi trừ số hạng trong ngoặc.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0299",
+      "q": "Hình bình hành có đáy 16 cm và chiều cao 17 cm. Diện tích là bao nhiêu? Trình bày cách làm.",
+      "hint": "Diện tích hình bình hành bằng đáy nhân chiều cao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e8-adv-0300",
+      "q": "Cho hàm số y = 2x + -3. Khi x = 5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Thay x vào công thức hàm số rồi tính giá trị y.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
       "lv": 3
     }
   ]

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.14.2",
+  "contentVersion": "2026.05.14.3",
   "updatedAt": "2026-05-14",
-  "note": "Public lesson data only. Grade 4 fixes one divisibility exercise and one duplicate-choice quiz item.",
+  "note": "Added 300 advanced multiple-choice questions and 300 advanced exercises for each grade 1-11.",
   "grades": {
     "1": "data/grade-1.json",
     "2": "data/grade-2.json",

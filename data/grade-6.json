@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 6,
   "title": "Học Toán Lớp 6",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": "q6-0001",
@@ -15003,6 +15003,4506 @@
       "ch": "Xác suất thực nghiệm trong một số trò chơi và thí nghiệm đơn giản",
       "chapter": 13,
       "lv": 3
+    },
+    {
+      "id": "q6-adv-0001",
+      "q": "ƯCLN của 39 và 55 là bao nhiêu?",
+      "a": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0002",
+      "q": "BCNN của 15 và 11 là bao nhiêu?",
+      "a": [
+        "167",
+        "164",
+        "166",
+        "165"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0003",
+      "q": "Tính (-78) + 55 - (-26).",
+      "a": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0004",
+      "q": "Tính 4/5 + 3/5.",
+      "a": [
+        "7/5",
+        "7/6",
+        "6/5",
+        "8/5"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0005",
+      "q": "Có |A| = 27, |B| = 23, |A ∪ B| = 41. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "8",
+        "11",
+        "10"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0006",
+      "q": "Tìm x biết 3x + 41 = 86.",
+      "a": [
+        "17",
+        "14",
+        "15",
+        "16"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0007",
+      "q": "Hai góc phụ nhau. Một góc bằng 33°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "57 độ",
+        "56 độ",
+        "59 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0008",
+      "q": "Số 465 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0009",
+      "q": "ƯCLN của 68 và 20 là bao nhiêu?",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0010",
+      "q": "BCNN của 17 và 12 là bao nhiêu?",
+      "a": [
+        "204",
+        "206",
+        "203",
+        "205"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0011",
+      "q": "Tính (-65) + 25 - (-10).",
+      "a": [
+        "-30",
+        "-29",
+        "-28",
+        "-31"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0012",
+      "q": "Tính 4/8 + 7/8.",
+      "a": [
+        "3/2",
+        "11/8",
+        "5/4",
+        "11/9"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0013",
+      "q": "Có |A| = 12, |B| = 13, |A ∪ B| = 18. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "8",
+        "6",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0014",
+      "q": "Tìm x biết 10x + 48 = 378.",
+      "a": [
+        "34",
+        "32",
+        "33",
+        "35"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0015",
+      "q": "Hai góc phụ nhau. Một góc bằng 51°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "40 độ",
+        "38 độ",
+        "41 độ",
+        "39 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0016",
+      "q": "Số 239 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0017",
+      "q": "ƯCLN của 77 và 28 là bao nhiêu?",
+      "a": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0018",
+      "q": "BCNN của 12 và 12 là bao nhiêu?",
+      "a": [
+        "11",
+        "13",
+        "14",
+        "12"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0019",
+      "q": "Tính (-79) + 17 - (-24).",
+      "a": [
+        "-37",
+        "-38",
+        "-39",
+        "-36"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0020",
+      "q": "Tính 3/11 + 3/11.",
+      "a": [
+        "6/11",
+        "1/2",
+        "5/11",
+        "7/11"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0021",
+      "q": "Có |A| = 24, |B| = 14, |A ∪ B| = 34. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0022",
+      "q": "Tìm x biết 4x + 35 = 163.",
+      "a": [
+        "32",
+        "31",
+        "33",
+        "34"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0023",
+      "q": "Hai góc phụ nhau. Một góc bằng 59°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "32 độ",
+        "30 độ",
+        "31 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0024",
+      "q": "Số 236 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0025",
+      "q": "ƯCLN của 82 và 67 là bao nhiêu?",
+      "a": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0026",
+      "q": "BCNN của 8 và 18 là bao nhiêu?",
+      "a": [
+        "73",
+        "72",
+        "74",
+        "71"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0027",
+      "q": "Tính (-59) + 36 - (-7).",
+      "a": [
+        "-17",
+        "-16",
+        "-14",
+        "-15"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0028",
+      "q": "Tính 3/5 + 1/5.",
+      "a": [
+        "3/5",
+        "1",
+        "4/5",
+        "2/3"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0029",
+      "q": "Có |A| = 26, |B| = 15, |A ∪ B| = 34. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "8",
+        "9",
+        "6",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0030",
+      "q": "Tìm x biết 4x + 19 = 179.",
+      "a": [
+        "42",
+        "41",
+        "40",
+        "39"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0031",
+      "q": "Hai góc phụ nhau. Một góc bằng 31°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "60 độ",
+        "59 độ",
+        "61 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0032",
+      "q": "Số 247 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0033",
+      "q": "ƯCLN của 65 và 36 là bao nhiêu?",
+      "a": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0034",
+      "q": "BCNN của 5 và 17 là bao nhiêu?",
+      "a": [
+        "85",
+        "86",
+        "84",
+        "87"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0035",
+      "q": "Tính (-66) + 29 - (-27).",
+      "a": [
+        "-10",
+        "-11",
+        "-8",
+        "-9"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0036",
+      "q": "Tính 3/11 + 8/11.",
+      "a": [
+        "10/11",
+        "11/12",
+        "1",
+        "12/11"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0037",
+      "q": "Có |A| = 13, |B| = 20, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0038",
+      "q": "Tìm x biết 11x + 18 = 271.",
+      "a": [
+        "23",
+        "22",
+        "25",
+        "24"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0039",
+      "q": "Hai góc phụ nhau. Một góc bằng 37°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "52 độ",
+        "55 độ",
+        "53 độ",
+        "54 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0040",
+      "q": "Số 251 chia cho 12 dư bao nhiêu?",
+      "a": [
+        "10",
+        "12",
+        "11",
+        "13"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0041",
+      "q": "ƯCLN của 79 và 41 là bao nhiêu?",
+      "a": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0042",
+      "q": "BCNN của 9 và 10 là bao nhiêu?",
+      "a": [
+        "89",
+        "92",
+        "90",
+        "91"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0043",
+      "q": "Tính (-38) + 26 - (-23).",
+      "a": [
+        "11",
+        "12",
+        "13",
+        "10"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0044",
+      "q": "Tính 3/5 + 4/5.",
+      "a": [
+        "7/5",
+        "6/5",
+        "8/5",
+        "7/6"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0045",
+      "q": "Có |A| = 21, |B| = 21, |A ∪ B| = 39. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0046",
+      "q": "Tìm x biết 7x + 38 = 262.",
+      "a": [
+        "34",
+        "33",
+        "32",
+        "31"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0047",
+      "q": "Hai góc phụ nhau. Một góc bằng 58°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "34 độ",
+        "32 độ",
+        "31 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0048",
+      "q": "Số 230 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0049",
+      "q": "ƯCLN của 26 và 81 là bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0050",
+      "q": "BCNN của 9 và 12 là bao nhiêu?",
+      "a": [
+        "36",
+        "38",
+        "37",
+        "35"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0051",
+      "q": "Tính (-21) + 38 - (-10).",
+      "a": [
+        "29",
+        "28",
+        "26",
+        "27"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0052",
+      "q": "Tính 8/11 + 1/11.",
+      "a": [
+        "3/4",
+        "9/11",
+        "10/11",
+        "8/11"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0053",
+      "q": "Có |A| = 14, |B| = 19, |A ∪ B| = 24. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "10",
+        "8",
+        "9",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0054",
+      "q": "Tìm x biết 11x + 39 = 149.",
+      "a": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0055",
+      "q": "Hai góc phụ nhau. Một góc bằng 64°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "25 độ",
+        "26 độ",
+        "28 độ",
+        "27 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0056",
+      "q": "Số 391 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0057",
+      "q": "ƯCLN của 29 và 20 là bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0058",
+      "q": "BCNN của 7 và 20 là bao nhiêu?",
+      "a": [
+        "139",
+        "141",
+        "142",
+        "140"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0059",
+      "q": "Tính (-52) + 18 - (-39).",
+      "a": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0060",
+      "q": "Tính 2/7 + 5/7.",
+      "a": [
+        "8/7",
+        "1",
+        "6/7",
+        "7/8"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0061",
+      "q": "Có |A| = 19, |B| = 19, |A ∪ B| = 30. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0062",
+      "q": "Tìm x biết 11x + 80 = 355.",
+      "a": [
+        "25",
+        "27",
+        "26",
+        "24"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0063",
+      "q": "Hai góc phụ nhau. Một góc bằng 27°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "63 độ",
+        "64 độ",
+        "65 độ",
+        "62 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0064",
+      "q": "Số 225 chia cho 4 dư bao nhiêu?",
+      "a": [
+        "1",
+        "3",
+        "0",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0065",
+      "q": "ƯCLN của 69 và 29 là bao nhiêu?",
+      "a": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0066",
+      "q": "BCNN của 7 và 16 là bao nhiêu?",
+      "a": [
+        "112",
+        "111",
+        "113",
+        "114"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0067",
+      "q": "Tính (-34) + 20 - (-34).",
+      "a": [
+        "21",
+        "20",
+        "22",
+        "19"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0068",
+      "q": "Tính 8/12 + 4/12.",
+      "a": [
+        "1",
+        "13/12",
+        "11/12",
+        "12/13"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0069",
+      "q": "Có |A| = 15, |B| = 16, |A ∪ B| = 21. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "11",
+        "12",
+        "10"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0070",
+      "q": "Tìm x biết 4x + 37 = 69.",
+      "a": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0071",
+      "q": "Hai góc phụ nhau. Một góc bằng 46°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "46 độ",
+        "43 độ",
+        "44 độ",
+        "45 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0072",
+      "q": "Số 752 chia cho 12 dư bao nhiêu?",
+      "a": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0073",
+      "q": "ƯCLN của 73 và 71 là bao nhiêu?",
+      "a": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0074",
+      "q": "BCNN của 5 và 17 là bao nhiêu?",
+      "a": [
+        "85",
+        "87",
+        "84",
+        "86"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0075",
+      "q": "Tính (-51) + 53 - (-10).",
+      "a": [
+        "11",
+        "13",
+        "14",
+        "12"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0076",
+      "q": "Tính 7/12 + 10/12.",
+      "a": [
+        "3/2",
+        "4/3",
+        "17/13",
+        "17/12"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0077",
+      "q": "Có |A| = 23, |B| = 15, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "12",
+        "10",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0078",
+      "q": "Tìm x biết 10x + 75 = 135.",
+      "a": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0079",
+      "q": "Hai góc phụ nhau. Một góc bằng 60°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "32 độ",
+        "30 độ",
+        "31 độ",
+        "29 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0080",
+      "q": "Số 801 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0081",
+      "q": "ƯCLN của 57 và 30 là bao nhiêu?",
+      "a": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0082",
+      "q": "BCNN của 7 và 12 là bao nhiêu?",
+      "a": [
+        "86",
+        "83",
+        "84",
+        "85"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0083",
+      "q": "Tính (-69) + 49 - (-26).",
+      "a": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0084",
+      "q": "Tính 7/11 + 7/11.",
+      "a": [
+        "7/6",
+        "15/11",
+        "14/11",
+        "13/11"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0085",
+      "q": "Có |A| = 23, |B| = 17, |A ∪ B| = 30. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "11",
+        "10",
+        "12"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0086",
+      "q": "Tìm x biết 5x + 55 = 135.",
+      "a": [
+        "15",
+        "16",
+        "18",
+        "17"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0087",
+      "q": "Hai góc phụ nhau. Một góc bằng 37°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "53 độ",
+        "52 độ",
+        "54 độ",
+        "55 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0088",
+      "q": "Số 478 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0089",
+      "q": "ƯCLN của 68 và 77 là bao nhiêu?",
+      "a": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0090",
+      "q": "BCNN của 7 và 9 là bao nhiêu?",
+      "a": [
+        "62",
+        "63",
+        "64",
+        "65"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0091",
+      "q": "Tính (-61) + 21 - (-8).",
+      "a": [
+        "-30",
+        "-32",
+        "-31",
+        "-33"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0092",
+      "q": "Tính 4/9 + 2/9.",
+      "a": [
+        "5/9",
+        "7/9",
+        "2/3",
+        "3/5"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0093",
+      "q": "Có |A| = 15, |B| = 12, |A ∪ B| = 23. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0094",
+      "q": "Tìm x biết 5x + 40 = 95.",
+      "a": [
+        "12",
+        "13",
+        "10",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0095",
+      "q": "Hai góc phụ nhau. Một góc bằng 49°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "40 độ",
+        "42 độ",
+        "41 độ",
+        "43 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0096",
+      "q": "Số 559 chia cho 12 dư bao nhiêu?",
+      "a": [
+        "9",
+        "6",
+        "8",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0097",
+      "q": "ƯCLN của 26 và 33 là bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0098",
+      "q": "BCNN của 4 và 13 là bao nhiêu?",
+      "a": [
+        "54",
+        "51",
+        "53",
+        "52"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0099",
+      "q": "Tính (-33) + 27 - (-20).",
+      "a": [
+        "16",
+        "13",
+        "15",
+        "14"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0100",
+      "q": "Tính 8/9 + 4/9.",
+      "a": [
+        "6/5",
+        "4/3",
+        "13/9",
+        "11/9"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0101",
+      "q": "Có |A| = 23, |B| = 12, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0102",
+      "q": "Tìm x biết 8x + 76 = 356.",
+      "a": [
+        "36",
+        "34",
+        "37",
+        "35"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0103",
+      "q": "Hai góc phụ nhau. Một góc bằng 50°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "41 độ",
+        "40 độ",
+        "39 độ",
+        "42 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0104",
+      "q": "Số 351 chia cho 4 dư bao nhiêu?",
+      "a": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0105",
+      "q": "ƯCLN của 46 và 89 là bao nhiêu?",
+      "a": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0106",
+      "q": "BCNN của 14 và 19 là bao nhiêu?",
+      "a": [
+        "267",
+        "265",
+        "268",
+        "266"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0107",
+      "q": "Tính (-72) + 19 - (-15).",
+      "a": [
+        "-39",
+        "-38",
+        "-36",
+        "-37"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0108",
+      "q": "Tính 6/11 + 1/11.",
+      "a": [
+        "6/11",
+        "8/11",
+        "7/12",
+        "7/11"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0109",
+      "q": "Có |A| = 16, |B| = 24, |A ∪ B| = 35. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "6",
+        "4",
+        "7",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0110",
+      "q": "Tìm x biết 8x + 66 = 306.",
+      "a": [
+        "30",
+        "32",
+        "31",
+        "29"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0111",
+      "q": "Hai góc phụ nhau. Một góc bằng 51°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "38 độ",
+        "40 độ",
+        "41 độ",
+        "39 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0112",
+      "q": "Số 154 chia cho 4 dư bao nhiêu?",
+      "a": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0113",
+      "q": "ƯCLN của 18 và 29 là bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0114",
+      "q": "BCNN của 5 và 8 là bao nhiêu?",
+      "a": [
+        "40",
+        "39",
+        "42",
+        "41"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0115",
+      "q": "Tính (-70) + 39 - (-8).",
+      "a": [
+        "-23",
+        "-22",
+        "-21",
+        "-24"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0116",
+      "q": "Tính 4/6 + 4/6.",
+      "a": [
+        "7/6",
+        "8/7",
+        "4/3",
+        "3/2"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0117",
+      "q": "Có |A| = 25, |B| = 16, |A ∪ B| = 30. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "12",
+        "10",
+        "13",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0118",
+      "q": "Tìm x biết 3x + 57 = 153.",
+      "a": [
+        "32",
+        "34",
+        "33",
+        "31"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0119",
+      "q": "Hai góc phụ nhau. Một góc bằng 28°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "62 độ",
+        "61 độ",
+        "64 độ",
+        "63 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0120",
+      "q": "Số 181 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0121",
+      "q": "ƯCLN của 43 và 35 là bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0122",
+      "q": "BCNN của 18 và 18 là bao nhiêu?",
+      "a": [
+        "17",
+        "18",
+        "20",
+        "19"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0123",
+      "q": "Tính (-62) + 52 - (-21).",
+      "a": [
+        "10",
+        "13",
+        "11",
+        "12"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0124",
+      "q": "Tính 4/6 + 2/6.",
+      "a": [
+        "1",
+        "5/6",
+        "6/7",
+        "7/6"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0125",
+      "q": "Có |A| = 14, |B| = 19, |A ∪ B| = 30. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0126",
+      "q": "Tìm x biết 9x + 33 = 222.",
+      "a": [
+        "20",
+        "22",
+        "21",
+        "23"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0127",
+      "q": "Hai góc phụ nhau. Một góc bằng 74°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "18 độ",
+        "16 độ",
+        "17 độ",
+        "15 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0128",
+      "q": "Số 385 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0129",
+      "q": "ƯCLN của 39 và 59 là bao nhiêu?",
+      "a": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0130",
+      "q": "BCNN của 11 và 7 là bao nhiêu?",
+      "a": [
+        "76",
+        "77",
+        "78",
+        "79"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0131",
+      "q": "Tính (-43) + 58 - (-38).",
+      "a": [
+        "52",
+        "54",
+        "53",
+        "55"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0132",
+      "q": "Tính 4/10 + 4/10.",
+      "a": [
+        "8/11",
+        "4/5",
+        "7/10",
+        "9/10"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0133",
+      "q": "Có |A| = 25, |B| = 23, |A ∪ B| = 37. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0134",
+      "q": "Tìm x biết 3x + 22 = 46.",
+      "a": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0135",
+      "q": "Hai góc phụ nhau. Một góc bằng 27°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "64 độ",
+        "62 độ",
+        "63 độ",
+        "65 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0136",
+      "q": "Số 726 chia cho 10 dư bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0137",
+      "q": "ƯCLN của 60 và 21 là bao nhiêu?",
+      "a": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0138",
+      "q": "BCNN của 13 và 14 là bao nhiêu?",
+      "a": [
+        "184",
+        "183",
+        "181",
+        "182"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0139",
+      "q": "Tính (-80) + 32 - (-12).",
+      "a": [
+        "-36",
+        "-37",
+        "-34",
+        "-35"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0140",
+      "q": "Tính 3/8 + 6/8.",
+      "a": [
+        "10/8",
+        "1",
+        "5/4",
+        "9/8"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0141",
+      "q": "Có |A| = 23, |B| = 15, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0142",
+      "q": "Tìm x biết 3x + 76 = 160.",
+      "a": [
+        "29",
+        "27",
+        "30",
+        "28"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0143",
+      "q": "Hai góc phụ nhau. Một góc bằng 45°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "46 độ",
+        "47 độ",
+        "45 độ",
+        "44 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0144",
+      "q": "Số 405 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0145",
+      "q": "ƯCLN của 88 và 42 là bao nhiêu?",
+      "a": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0146",
+      "q": "BCNN của 16 và 13 là bao nhiêu?",
+      "a": [
+        "209",
+        "208",
+        "210",
+        "207"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0147",
+      "q": "Tính (-45) + 37 - (-23).",
+      "a": [
+        "15",
+        "14",
+        "16",
+        "17"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0148",
+      "q": "Tính 3/10 + 4/10.",
+      "a": [
+        "7/10",
+        "3/5",
+        "7/11",
+        "4/5"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0149",
+      "q": "Có |A| = 17, |B| = 23, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0150",
+      "q": "Tìm x biết 11x + 79 = 145.",
+      "a": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0151",
+      "q": "Hai góc phụ nhau. Một góc bằng 28°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "62 độ",
+        "63 độ",
+        "64 độ",
+        "61 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0152",
+      "q": "Số 447 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "7",
+        "5",
+        "8",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0153",
+      "q": "ƯCLN của 56 và 75 là bao nhiêu?",
+      "a": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0154",
+      "q": "BCNN của 4 và 20 là bao nhiêu?",
+      "a": [
+        "22",
+        "20",
+        "19",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0155",
+      "q": "Tính (-70) + 24 - (-22).",
+      "a": [
+        "-22",
+        "-23",
+        "-25",
+        "-24"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0156",
+      "q": "Tính 4/8 + 7/8.",
+      "a": [
+        "11/9",
+        "5/4",
+        "3/2",
+        "11/8"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0157",
+      "q": "Có |A| = 22, |B| = 22, |A ∪ B| = 41. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0158",
+      "q": "Tìm x biết 8x + 52 = 180.",
+      "a": [
+        "15",
+        "18",
+        "17",
+        "16"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0159",
+      "q": "Hai góc phụ nhau. Một góc bằng 65°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "26 độ",
+        "24 độ",
+        "25 độ",
+        "27 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0160",
+      "q": "Số 247 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0161",
+      "q": "ƯCLN của 26 và 24 là bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0162",
+      "q": "BCNN của 9 và 8 là bao nhiêu?",
+      "a": [
+        "74",
+        "72",
+        "73",
+        "71"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0163",
+      "q": "Tính (-22) + 54 - (-8).",
+      "a": [
+        "41",
+        "39",
+        "42",
+        "40"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0164",
+      "q": "Tính 9/11 + 7/11.",
+      "a": [
+        "15/11",
+        "16/11",
+        "4/3",
+        "17/11"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0165",
+      "q": "Có |A| = 22, |B| = 22, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0166",
+      "q": "Tìm x biết 7x + 64 = 330.",
+      "a": [
+        "38",
+        "40",
+        "39",
+        "37"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0167",
+      "q": "Hai góc phụ nhau. Một góc bằng 48°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "42 độ",
+        "44 độ",
+        "41 độ",
+        "43 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0168",
+      "q": "Số 309 chia cho 8 dư bao nhiêu?",
+      "a": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0169",
+      "q": "ƯCLN của 38 và 37 là bao nhiêu?",
+      "a": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0170",
+      "q": "BCNN của 6 và 15 là bao nhiêu?",
+      "a": [
+        "29",
+        "31",
+        "30",
+        "32"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0171",
+      "q": "Tính (-64) + 50 - (-28).",
+      "a": [
+        "13",
+        "15",
+        "14",
+        "16"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0172",
+      "q": "Tính 8/10 + 2/10.",
+      "a": [
+        "11/10",
+        "9/10",
+        "10/11",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0173",
+      "q": "Có |A| = 21, |B| = 21, |A ∪ B| = 35. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0174",
+      "q": "Tìm x biết 9x + 19 = 307.",
+      "a": [
+        "31",
+        "33",
+        "34",
+        "32"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0175",
+      "q": "Hai góc phụ nhau. Một góc bằng 41°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "51 độ",
+        "48 độ",
+        "49 độ",
+        "50 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0176",
+      "q": "Số 430 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0177",
+      "q": "ƯCLN của 63 và 34 là bao nhiêu?",
+      "a": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0178",
+      "q": "BCNN của 4 và 10 là bao nhiêu?",
+      "a": [
+        "22",
+        "19",
+        "21",
+        "20"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0179",
+      "q": "Tính (-30) + 15 - (-22).",
+      "a": [
+        "6",
+        "9",
+        "7",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0180",
+      "q": "Tính 2/8 + 5/8.",
+      "a": [
+        "7/8",
+        "7/9",
+        "3/4",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0181",
+      "q": "Có |A| = 23, |B| = 21, |A ∪ B| = 33. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "11",
+        "10",
+        "13",
+        "12"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0182",
+      "q": "Tìm x biết 4x + 80 = 200.",
+      "a": [
+        "32",
+        "29",
+        "30",
+        "31"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0183",
+      "q": "Hai góc phụ nhau. Một góc bằng 62°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "27 độ",
+        "28 độ",
+        "29 độ",
+        "30 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0184",
+      "q": "Số 158 chia cho 5 dư bao nhiêu?",
+      "a": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0185",
+      "q": "ƯCLN của 67 và 68 là bao nhiêu?",
+      "a": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "c": "B",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0186",
+      "q": "BCNN của 6 và 11 là bao nhiêu?",
+      "a": [
+        "67",
+        "65",
+        "66",
+        "68"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0187",
+      "q": "Tính (-32) + 16 - (-18).",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0188",
+      "q": "Tính 9/11 + 3/11.",
+      "a": [
+        "11/11",
+        "13/11",
+        "1",
+        "12/11"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0189",
+      "q": "Có |A| = 20, |B| = 19, |A ∪ B| = 31. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0190",
+      "q": "Tìm x biết 8x + 50 = 266.",
+      "a": [
+        "29",
+        "28",
+        "27",
+        "26"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0191",
+      "q": "Hai góc phụ nhau. Một góc bằng 53°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "38 độ",
+        "37 độ",
+        "36 độ",
+        "39 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0192",
+      "q": "Số 511 chia cho 10 dư bao nhiêu?",
+      "a": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0193",
+      "q": "ƯCLN của 89 và 83 là bao nhiêu?",
+      "a": [
+        "1",
+        "3",
+        "2",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0194",
+      "q": "BCNN của 7 và 6 là bao nhiêu?",
+      "a": [
+        "41",
+        "44",
+        "43",
+        "42"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0195",
+      "q": "Tính (-49) + 53 - (-36).",
+      "a": [
+        "39",
+        "41",
+        "42",
+        "40"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0196",
+      "q": "Tính 7/8 + 4/8.",
+      "a": [
+        "3/2",
+        "11/8",
+        "11/9",
+        "5/4"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0197",
+      "q": "Có |A| = 25, |B| = 26, |A ∪ B| = 42. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "8",
+        "10",
+        "11"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0198",
+      "q": "Tìm x biết 7x + 36 = 246.",
+      "a": [
+        "31",
+        "32",
+        "29",
+        "30"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0199",
+      "q": "Hai góc phụ nhau. Một góc bằng 28°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "61 độ",
+        "62 độ",
+        "64 độ",
+        "63 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0200",
+      "q": "Số 903 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0201",
+      "q": "ƯCLN của 88 và 19 là bao nhiêu?",
+      "a": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0202",
+      "q": "BCNN của 13 và 14 là bao nhiêu?",
+      "a": [
+        "183",
+        "182",
+        "181",
+        "184"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0203",
+      "q": "Tính (-52) + 30 - (-28).",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0204",
+      "q": "Tính 2/12 + 4/12.",
+      "a": [
+        "6/13",
+        "7/12",
+        "5/12",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0205",
+      "q": "Có |A| = 22, |B| = 21, |A ∪ B| = 33. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "11",
+        "12",
+        "9",
+        "10"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0206",
+      "q": "Tìm x biết 8x + 72 = 176.",
+      "a": [
+        "13",
+        "14",
+        "15",
+        "12"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0207",
+      "q": "Hai góc phụ nhau. Một góc bằng 34°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "55 độ",
+        "56 độ",
+        "57 độ",
+        "58 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0208",
+      "q": "Số 699 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0209",
+      "q": "ƯCLN của 75 và 36 là bao nhiêu?",
+      "a": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0210",
+      "q": "BCNN của 4 và 20 là bao nhiêu?",
+      "a": [
+        "20",
+        "19",
+        "21",
+        "22"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0211",
+      "q": "Tính (-59) + 37 - (-19).",
+      "a": [
+        "-2",
+        "-1",
+        "-3",
+        "-4"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0212",
+      "q": "Tính 5/9 + 4/9.",
+      "a": [
+        "8/9",
+        "9/10",
+        "10/9",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0213",
+      "q": "Có |A| = 11, |B| = 13, |A ∪ B| = 21. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0214",
+      "q": "Tìm x biết 9x + 38 = 155.",
+      "a": [
+        "14",
+        "13",
+        "12",
+        "15"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0215",
+      "q": "Hai góc phụ nhau. Một góc bằng 70°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "20 độ",
+        "19 độ",
+        "22 độ",
+        "21 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0216",
+      "q": "Số 832 chia cho 12 dư bao nhiêu?",
+      "a": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0217",
+      "q": "ƯCLN của 53 và 31 là bao nhiêu?",
+      "a": [
+        "3",
+        "2",
+        "0",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0218",
+      "q": "BCNN của 10 và 17 là bao nhiêu?",
+      "a": [
+        "170",
+        "171",
+        "169",
+        "172"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0219",
+      "q": "Tính (-25) + 43 - (-22).",
+      "a": [
+        "40",
+        "39",
+        "41",
+        "42"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0220",
+      "q": "Tính 2/8 + 3/8.",
+      "a": [
+        "5/9",
+        "3/4",
+        "5/8",
+        "1/2"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0221",
+      "q": "Có |A| = 18, |B| = 22, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0222",
+      "q": "Tìm x biết 12x + 26 = 110.",
+      "a": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0223",
+      "q": "Hai góc phụ nhau. Một góc bằng 30°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "61 độ",
+        "59 độ",
+        "60 độ",
+        "62 độ"
+      ],
+      "c": "C",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0224",
+      "q": "Số 249 chia cho 8 dư bao nhiêu?",
+      "a": [
+        "3",
+        "0",
+        "2",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0225",
+      "q": "ƯCLN của 50 và 61 là bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0226",
+      "q": "BCNN của 11 và 5 là bao nhiêu?",
+      "a": [
+        "56",
+        "55",
+        "54",
+        "57"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0227",
+      "q": "Tính (-76) + 19 - (-10).",
+      "a": [
+        "-47",
+        "-48",
+        "-46",
+        "-45"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0228",
+      "q": "Tính 1/9 + 6/9.",
+      "a": [
+        "8/9",
+        "2/3",
+        "7/9",
+        "7/10"
+      ],
+      "c": "C",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0229",
+      "q": "Có |A| = 15, |B| = 19, |A ∪ B| = 29. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0230",
+      "q": "Tìm x biết 7x + 56 = 287.",
+      "a": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0231",
+      "q": "Hai góc phụ nhau. Một góc bằng 52°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "38 độ",
+        "37 độ",
+        "40 độ",
+        "39 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0232",
+      "q": "Số 645 chia cho 10 dư bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0233",
+      "q": "ƯCLN của 83 và 90 là bao nhiêu?",
+      "a": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0234",
+      "q": "BCNN của 18 và 20 là bao nhiêu?",
+      "a": [
+        "182",
+        "181",
+        "180",
+        "179"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0235",
+      "q": "Tính (-54) + 60 - (-13).",
+      "a": [
+        "20",
+        "19",
+        "18",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0236",
+      "q": "Tính 8/10 + 6/10.",
+      "a": [
+        "14/11",
+        "7/5",
+        "3/2",
+        "13/10"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0237",
+      "q": "Có |A| = 21, |B| = 10, |A ∪ B| = 27. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0238",
+      "q": "Tìm x biết 12x + 39 = 519.",
+      "a": [
+        "40",
+        "42",
+        "41",
+        "39"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0239",
+      "q": "Hai góc phụ nhau. Một góc bằng 44°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "46 độ",
+        "48 độ",
+        "45 độ",
+        "47 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0240",
+      "q": "Số 531 chia cho 7 dư bao nhiêu?",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0241",
+      "q": "ƯCLN của 64 và 20 là bao nhiêu?",
+      "a": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0242",
+      "q": "BCNN của 8 và 7 là bao nhiêu?",
+      "a": [
+        "57",
+        "56",
+        "55",
+        "58"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0243",
+      "q": "Tính (-72) + 22 - (-18).",
+      "a": [
+        "-33",
+        "-32",
+        "-31",
+        "-30"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0244",
+      "q": "Tính 2/8 + 6/8.",
+      "a": [
+        "8/9",
+        "1",
+        "7/8",
+        "9/8"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0245",
+      "q": "Có |A| = 25, |B| = 22, |A ∪ B| = 37. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0246",
+      "q": "Tìm x biết 4x + 70 = 218.",
+      "a": [
+        "37",
+        "36",
+        "38",
+        "39"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0247",
+      "q": "Hai góc phụ nhau. Một góc bằng 48°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "41 độ",
+        "42 độ",
+        "44 độ",
+        "43 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0248",
+      "q": "Số 1005 chia cho 12 dư bao nhiêu?",
+      "a": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0249",
+      "q": "ƯCLN của 30 và 68 là bao nhiêu?",
+      "a": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0250",
+      "q": "BCNN của 5 và 18 là bao nhiêu?",
+      "a": [
+        "90",
+        "92",
+        "89",
+        "91"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0251",
+      "q": "Tính (-56) + 50 - (-28).",
+      "a": [
+        "21",
+        "23",
+        "24",
+        "22"
+      ],
+      "c": "D",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0252",
+      "q": "Tính 4/12 + 5/12.",
+      "a": [
+        "9/13",
+        "5/6",
+        "2/3",
+        "3/4"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0253",
+      "q": "Có |A| = 21, |B| = 9, |A ∪ B| = 26. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0254",
+      "q": "Tìm x biết 9x + 58 = 256.",
+      "a": [
+        "23",
+        "22",
+        "24",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0255",
+      "q": "Hai góc phụ nhau. Một góc bằng 34°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "55 độ",
+        "57 độ",
+        "56 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0256",
+      "q": "Số 504 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "8",
+        "10",
+        "9",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0257",
+      "q": "ƯCLN của 36 và 57 là bao nhiêu?",
+      "a": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0258",
+      "q": "BCNN của 16 và 20 là bao nhiêu?",
+      "a": [
+        "80",
+        "82",
+        "79",
+        "81"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0259",
+      "q": "Tính (-41) + 36 - (-18).",
+      "a": [
+        "14",
+        "13",
+        "12",
+        "15"
+      ],
+      "c": "B",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0260",
+      "q": "Tính 4/10 + 3/10.",
+      "a": [
+        "3/5",
+        "4/5",
+        "7/11",
+        "7/10"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0261",
+      "q": "Có |A| = 13, |B| = 11, |A ∪ B| = 21. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0262",
+      "q": "Tìm x biết 11x + 47 = 190.",
+      "a": [
+        "13",
+        "12",
+        "14",
+        "15"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0263",
+      "q": "Hai góc phụ nhau. Một góc bằng 48°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "43 độ",
+        "42 độ",
+        "44 độ",
+        "41 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0264",
+      "q": "Số 296 chia cho 6 dư bao nhiêu?",
+      "a": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0265",
+      "q": "ƯCLN của 78 và 68 là bao nhiêu?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0266",
+      "q": "BCNN của 16 và 19 là bao nhiêu?",
+      "a": [
+        "303",
+        "305",
+        "306",
+        "304"
+      ],
+      "c": "D",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0267",
+      "q": "Tính (-37) + 19 - (-15).",
+      "a": [
+        "-2",
+        "-4",
+        "-3",
+        "-1"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0268",
+      "q": "Tính 1/6 + 1/6.",
+      "a": [
+        "1/2",
+        "1/6",
+        "2/7",
+        "1/3"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0269",
+      "q": "Có |A| = 29, |B| = 24, |A ∪ B| = 42. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "13",
+        "10",
+        "12",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0270",
+      "q": "Tìm x biết 3x + 35 = 80.",
+      "a": [
+        "16",
+        "17",
+        "14",
+        "15"
+      ],
+      "c": "D",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0271",
+      "q": "Hai góc phụ nhau. Một góc bằng 46°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "45 độ",
+        "44 độ",
+        "43 độ",
+        "46 độ"
+      ],
+      "c": "B",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0272",
+      "q": "Số 809 chia cho 11 dư bao nhiêu?",
+      "a": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0273",
+      "q": "ƯCLN của 52 và 25 là bao nhiêu?",
+      "a": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0274",
+      "q": "BCNN của 8 và 11 là bao nhiêu?",
+      "a": [
+        "87",
+        "88",
+        "90",
+        "89"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0275",
+      "q": "Tính (-78) + 44 - (-19).",
+      "a": [
+        "-13",
+        "-16",
+        "-15",
+        "-14"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0276",
+      "q": "Tính 5/9 + 7/9.",
+      "a": [
+        "11/9",
+        "6/5",
+        "13/9",
+        "4/3"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0277",
+      "q": "Có |A| = 19, |B| = 24, |A ∪ B| = 31. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "13",
+        "14",
+        "12",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0278",
+      "q": "Tìm x biết 10x + 37 = 387.",
+      "a": [
+        "36",
+        "37",
+        "35",
+        "34"
+      ],
+      "c": "C",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0279",
+      "q": "Hai góc phụ nhau. Một góc bằng 62°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "28 độ",
+        "27 độ",
+        "29 độ",
+        "30 độ"
+      ],
+      "c": "A",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0280",
+      "q": "Số 121 chia cho 5 dư bao nhiêu?",
+      "a": [
+        "1",
+        "0",
+        "3",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0281",
+      "q": "ƯCLN của 73 và 18 là bao nhiêu?",
+      "a": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0282",
+      "q": "BCNN của 10 và 14 là bao nhiêu?",
+      "a": [
+        "72",
+        "71",
+        "70",
+        "69"
+      ],
+      "c": "C",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0283",
+      "q": "Tính (-34) + 51 - (-34).",
+      "a": [
+        "50",
+        "53",
+        "51",
+        "52"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0284",
+      "q": "Tính 4/6 + 2/6.",
+      "a": [
+        "6/7",
+        "5/6",
+        "7/6",
+        "1"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0285",
+      "q": "Có |A| = 25, |B| = 19, |A ∪ B| = 34. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "9",
+        "12",
+        "10",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0286",
+      "q": "Tìm x biết 7x + 25 = 158.",
+      "a": [
+        "18",
+        "19",
+        "21",
+        "20"
+      ],
+      "c": "B",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0287",
+      "q": "Hai góc phụ nhau. Một góc bằng 56°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "36 độ",
+        "35 độ",
+        "34 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0288",
+      "q": "Số 431 chia cho 10 dư bao nhiêu?",
+      "a": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0289",
+      "q": "ƯCLN của 70 và 65 là bao nhiêu?",
+      "a": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0290",
+      "q": "BCNN của 17 và 14 là bao nhiêu?",
+      "a": [
+        "238",
+        "237",
+        "239",
+        "240"
+      ],
+      "c": "A",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0291",
+      "q": "Tính (-54) + 48 - (-17).",
+      "a": [
+        "13",
+        "12",
+        "11",
+        "10"
+      ],
+      "c": "C",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0292",
+      "q": "Tính 8/9 + 5/9.",
+      "a": [
+        "14/9",
+        "13/9",
+        "13/10",
+        "4/3"
+      ],
+      "c": "B",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0293",
+      "q": "Có |A| = 18, |B| = 16, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu?",
+      "a": [
+        "8",
+        "6",
+        "7",
+        "5"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0294",
+      "q": "Tìm x biết 11x + 50 = 182.",
+      "a": [
+        "12",
+        "11",
+        "13",
+        "14"
+      ],
+      "c": "A",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0295",
+      "q": "Hai góc phụ nhau. Một góc bằng 56°. Góc còn lại bằng bao nhiêu độ?",
+      "a": [
+        "33 độ",
+        "35 độ",
+        "36 độ",
+        "34 độ"
+      ],
+      "c": "D",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0296",
+      "q": "Số 742 chia cho 10 dư bao nhiêu?",
+      "a": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0297",
+      "q": "ƯCLN của 84 và 28 là bao nhiêu?",
+      "a": [
+        "27",
+        "30",
+        "29",
+        "28"
+      ],
+      "c": "D",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0298",
+      "q": "BCNN của 8 và 6 là bao nhiêu?",
+      "a": [
+        "26",
+        "24",
+        "25",
+        "23"
+      ],
+      "c": "B",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0299",
+      "q": "Tính (-45) + 25 - (-25).",
+      "a": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q6-adv-0300",
+      "q": "Tính 7/8 + 7/8.",
+      "a": [
+        "13/8",
+        "15/8",
+        "14/9",
+        "7/4"
+      ],
+      "c": "D",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -23004,6 +27504,2406 @@
       "hint": "Xác suất thực nghiệm = số lần xảy ra : tổng số lần thử.\nĐáp án: 13/36",
       "ch": "Xác suất thực nghiệm trong một số trò chơi và thí nghiệm đơn giản",
       "chapter": 13,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0001",
+      "q": "ƯCLN của 66 và 23 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0002",
+      "q": "BCNN của 15 và 17 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0003",
+      "q": "Tính (-56) + 48 - (-37). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0004",
+      "q": "Tính 9/12 + 9/12. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0005",
+      "q": "Có |A| = 23, |B| = 21, |A ∪ B| = 34. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0006",
+      "q": "Tìm x biết 12x + 67 = 283. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0007",
+      "q": "Hai góc phụ nhau. Một góc bằng 70°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0008",
+      "q": "Số 654 chia cho 9 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0009",
+      "q": "ƯCLN của 36 và 44 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0010",
+      "q": "BCNN của 10 và 7 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0011",
+      "q": "Tính (-72) + 28 - (-8). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0012",
+      "q": "Tính 4/5 + 3/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0013",
+      "q": "Có |A| = 20, |B| = 16, |A ∪ B| = 31. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0014",
+      "q": "Tìm x biết 8x + 13 = 165. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0015",
+      "q": "Hai góc phụ nhau. Một góc bằng 54°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0016",
+      "q": "Số 332 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0017",
+      "q": "ƯCLN của 63 và 53 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0018",
+      "q": "BCNN của 16 và 9 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0019",
+      "q": "Tính (-23) + 14 - (-33). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0020",
+      "q": "Tính 6/7 + 4/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0021",
+      "q": "Có |A| = 20, |B| = 15, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0022",
+      "q": "Tìm x biết 11x + 68 = 365. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0023",
+      "q": "Hai góc phụ nhau. Một góc bằng 37°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0024",
+      "q": "Số 429 chia cho 6 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0025",
+      "q": "ƯCLN của 46 và 40 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0026",
+      "q": "BCNN của 13 và 19 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0027",
+      "q": "Tính (-21) + 23 - (-13). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0028",
+      "q": "Tính 4/10 + 9/10. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0029",
+      "q": "Có |A| = 8, |B| = 10, |A ∪ B| = 15. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0030",
+      "q": "Tìm x biết 11x + 33 = 154. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0031",
+      "q": "Hai góc phụ nhau. Một góc bằng 51°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0032",
+      "q": "Số 398 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0033",
+      "q": "ƯCLN của 32 và 87 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0034",
+      "q": "BCNN của 7 và 12 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0035",
+      "q": "Tính (-69) + 57 - (-34). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0036",
+      "q": "Tính 5/7 + 5/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0037",
+      "q": "Có |A| = 16, |B| = 23, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0038",
+      "q": "Tìm x biết 8x + 22 = 286. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0039",
+      "q": "Hai góc phụ nhau. Một góc bằng 47°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0040",
+      "q": "Số 227 chia cho 9 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0041",
+      "q": "ƯCLN của 60 và 56 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0042",
+      "q": "BCNN của 9 và 12 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0043",
+      "q": "Tính (-70) + 59 - (-33). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0044",
+      "q": "Tính 4/11 + 3/11. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0045",
+      "q": "Có |A| = 18, |B| = 9, |A ∪ B| = 23. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0046",
+      "q": "Tìm x biết 10x + 43 = 343. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0047",
+      "q": "Hai góc phụ nhau. Một góc bằng 36°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0048",
+      "q": "Số 178 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0049",
+      "q": "ƯCLN của 79 và 32 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0050",
+      "q": "BCNN của 8 và 7 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0051",
+      "q": "Tính (-59) + 11 - (-31). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0052",
+      "q": "Tính 3/9 + 3/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0053",
+      "q": "Có |A| = 24, |B| = 16, |A ∪ B| = 36. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0054",
+      "q": "Tìm x biết 10x + 18 = 328. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0055",
+      "q": "Hai góc phụ nhau. Một góc bằng 41°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0056",
+      "q": "Số 286 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0057",
+      "q": "ƯCLN của 61 và 66 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0058",
+      "q": "BCNN của 10 và 14 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0059",
+      "q": "Tính (-49) + 38 - (-8). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0060",
+      "q": "Tính 5/7 + 2/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0061",
+      "q": "Có |A| = 13, |B| = 23, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0062",
+      "q": "Tìm x biết 4x + 40 = 112. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0063",
+      "q": "Hai góc phụ nhau. Một góc bằng 32°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0064",
+      "q": "Số 259 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0065",
+      "q": "ƯCLN của 34 và 80 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0066",
+      "q": "BCNN của 4 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0067",
+      "q": "Tính (-71) + 37 - (-24). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0068",
+      "q": "Tính 6/7 + 4/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0069",
+      "q": "Có |A| = 28, |B| = 29, |A ∪ B| = 45. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0070",
+      "q": "Tìm x biết 5x + 37 = 142. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0071",
+      "q": "Hai góc phụ nhau. Một góc bằng 49°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0072",
+      "q": "Số 241 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0073",
+      "q": "ƯCLN của 79 và 82 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0074",
+      "q": "BCNN của 7 và 12 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0075",
+      "q": "Tính (-66) + 20 - (-29). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0076",
+      "q": "Tính 3/5 + 1/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0077",
+      "q": "Có |A| = 14, |B| = 19, |A ∪ B| = 25. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0078",
+      "q": "Tìm x biết 4x + 32 = 160. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0079",
+      "q": "Hai góc phụ nhau. Một góc bằng 65°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0080",
+      "q": "Số 138 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0081",
+      "q": "ƯCLN của 58 và 42 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0082",
+      "q": "BCNN của 8 và 11 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0083",
+      "q": "Tính (-22) + 38 - (-14). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0084",
+      "q": "Tính 3/5 + 4/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0085",
+      "q": "Có |A| = 32, |B| = 18, |A ∪ B| = 38. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0086",
+      "q": "Tìm x biết 7x + 76 = 300. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0087",
+      "q": "Hai góc phụ nhau. Một góc bằng 43°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0088",
+      "q": "Số 666 chia cho 12 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0089",
+      "q": "ƯCLN của 40 và 29 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0090",
+      "q": "BCNN của 6 và 19 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0091",
+      "q": "Tính (-61) + 28 - (-15). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0092",
+      "q": "Tính 5/6 + 4/6. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0093",
+      "q": "Có |A| = 11, |B| = 12, |A ∪ B| = 18. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0094",
+      "q": "Tìm x biết 8x + 17 = 121. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0095",
+      "q": "Hai góc phụ nhau. Một góc bằng 48°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0096",
+      "q": "Số 293 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0097",
+      "q": "ƯCLN của 65 và 29 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0098",
+      "q": "BCNN của 16 và 17 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0099",
+      "q": "Tính (-38) + 35 - (-6). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0100",
+      "q": "Tính 2/5 + 2/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0101",
+      "q": "Có |A| = 10, |B| = 15, |A ∪ B| = 20. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0102",
+      "q": "Tìm x biết 4x + 33 = 189. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0103",
+      "q": "Hai góc phụ nhau. Một góc bằng 52°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0104",
+      "q": "Số 724 chia cho 12 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0105",
+      "q": "ƯCLN của 86 và 67 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0106",
+      "q": "BCNN của 18 và 14 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0107",
+      "q": "Tính (-35) + 20 - (-25). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0108",
+      "q": "Tính 8/10 + 2/10. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0109",
+      "q": "Có |A| = 10, |B| = 21, |A ∪ B| = 26. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0110",
+      "q": "Tìm x biết 9x + 54 = 351. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0111",
+      "q": "Hai góc phụ nhau. Một góc bằng 71°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0112",
+      "q": "Số 264 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0113",
+      "q": "ƯCLN của 75 và 74 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0114",
+      "q": "BCNN của 8 và 8 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0115",
+      "q": "Tính (-25) + 20 - (-33). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0116",
+      "q": "Tính 3/6 + 5/6. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0117",
+      "q": "Có |A| = 17, |B| = 10, |A ∪ B| = 23. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0118",
+      "q": "Tìm x biết 9x + 47 = 146. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0119",
+      "q": "Hai góc phụ nhau. Một góc bằng 32°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0120",
+      "q": "Số 566 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0121",
+      "q": "ƯCLN của 75 và 61 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0122",
+      "q": "BCNN của 10 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0123",
+      "q": "Tính (-71) + 37 - (-24). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0124",
+      "q": "Tính 2/7 + 5/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0125",
+      "q": "Có |A| = 19, |B| = 18, |A ∪ B| = 25. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0126",
+      "q": "Tìm x biết 11x + 29 = 84. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0127",
+      "q": "Hai góc phụ nhau. Một góc bằng 61°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0128",
+      "q": "Số 82 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0129",
+      "q": "ƯCLN của 62 và 64 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0130",
+      "q": "BCNN của 10 và 13 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0131",
+      "q": "Tính (-78) + 24 - (-9). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0132",
+      "q": "Tính 1/9 + 7/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0133",
+      "q": "Có |A| = 21, |B| = 26, |A ∪ B| = 36. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0134",
+      "q": "Tìm x biết 5x + 28 = 63. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0135",
+      "q": "Hai góc phụ nhau. Một góc bằng 53°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0136",
+      "q": "Số 544 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0137",
+      "q": "ƯCLN của 41 và 36 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0138",
+      "q": "BCNN của 7 và 13 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0139",
+      "q": "Tính (-42) + 60 - (-17). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0140",
+      "q": "Tính 6/9 + 4/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0141",
+      "q": "Có |A| = 23, |B| = 25, |A ∪ B| = 38. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0142",
+      "q": "Tìm x biết 5x + 75 = 245. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0143",
+      "q": "Hai góc phụ nhau. Một góc bằng 72°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0144",
+      "q": "Số 197 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0145",
+      "q": "ƯCLN của 87 và 52 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0146",
+      "q": "BCNN của 11 và 19 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0147",
+      "q": "Tính (-52) + 19 - (-22). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0148",
+      "q": "Tính 3/11 + 8/11. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0149",
+      "q": "Có |A| = 23, |B| = 11, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0150",
+      "q": "Tìm x biết 9x + 17 = 179. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0151",
+      "q": "Hai góc phụ nhau. Một góc bằng 36°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0152",
+      "q": "Số 218 chia cho 9 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0153",
+      "q": "ƯCLN của 64 và 49 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0154",
+      "q": "BCNN của 9 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0155",
+      "q": "Tính (-70) + 32 - (-27). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0156",
+      "q": "Tính 5/9 + 2/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0157",
+      "q": "Có |A| = 21, |B| = 20, |A ∪ B| = 35. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0158",
+      "q": "Tìm x biết 12x + 12 = 108. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0159",
+      "q": "Hai góc phụ nhau. Một góc bằng 70°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0160",
+      "q": "Số 457 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0161",
+      "q": "ƯCLN của 29 và 71 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0162",
+      "q": "BCNN của 4 và 20 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0163",
+      "q": "Tính (-72) + 14 - (-20). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0164",
+      "q": "Tính 5/8 + 3/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0165",
+      "q": "Có |A| = 27, |B| = 18, |A ∪ B| = 37. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0166",
+      "q": "Tìm x biết 11x + 69 = 366. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0167",
+      "q": "Hai góc phụ nhau. Một góc bằng 64°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0168",
+      "q": "Số 862 chia cho 11 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0169",
+      "q": "ƯCLN của 68 và 31 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0170",
+      "q": "BCNN của 14 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0171",
+      "q": "Tính (-40) + 42 - (-11). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0172",
+      "q": "Tính 4/5 + 2/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0173",
+      "q": "Có |A| = 19, |B| = 27, |A ∪ B| = 36. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0174",
+      "q": "Tìm x biết 10x + 22 = 62. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0175",
+      "q": "Hai góc phụ nhau. Một góc bằng 67°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0176",
+      "q": "Số 296 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0177",
+      "q": "ƯCLN của 71 và 82 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0178",
+      "q": "BCNN của 4 và 18 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0179",
+      "q": "Tính (-69) + 42 - (-23). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0180",
+      "q": "Tính 5/8 + 7/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0181",
+      "q": "Có |A| = 18, |B| = 25, |A ∪ B| = 37. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0182",
+      "q": "Tìm x biết 6x + 53 = 137. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0183",
+      "q": "Hai góc phụ nhau. Một góc bằng 32°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0184",
+      "q": "Số 458 chia cho 8 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0185",
+      "q": "ƯCLN của 74 và 56 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0186",
+      "q": "BCNN của 14 và 9 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0187",
+      "q": "Tính (-74) + 38 - (-16). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0188",
+      "q": "Tính 4/8 + 7/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0189",
+      "q": "Có |A| = 22, |B| = 22, |A ∪ B| = 38. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0190",
+      "q": "Tìm x biết 5x + 54 = 159. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0191",
+      "q": "Hai góc phụ nhau. Một góc bằng 65°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0192",
+      "q": "Số 317 chia cho 6 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0193",
+      "q": "ƯCLN của 81 và 24 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0194",
+      "q": "BCNN của 10 và 13 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0195",
+      "q": "Tính (-65) + 40 - (-38). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0196",
+      "q": "Tính 4/8 + 7/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0197",
+      "q": "Có |A| = 13, |B| = 22, |A ∪ B| = 30. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0198",
+      "q": "Tìm x biết 12x + 50 = 434. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0199",
+      "q": "Hai góc phụ nhau. Một góc bằng 34°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0200",
+      "q": "Số 644 chia cho 9 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0201",
+      "q": "ƯCLN của 18 và 75 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0202",
+      "q": "BCNN của 12 và 20 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0203",
+      "q": "Tính (-25) + 47 - (-35). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0204",
+      "q": "Tính 9/12 + 6/12. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0205",
+      "q": "Có |A| = 23, |B| = 20, |A ∪ B| = 36. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0206",
+      "q": "Tìm x biết 9x + 78 = 186. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0207",
+      "q": "Hai góc phụ nhau. Một góc bằng 60°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0208",
+      "q": "Số 304 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0209",
+      "q": "ƯCLN của 50 và 27 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0210",
+      "q": "BCNN của 13 và 19 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0211",
+      "q": "Tính (-32) + 16 - (-40). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0212",
+      "q": "Tính 3/8 + 4/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0213",
+      "q": "Có |A| = 25, |B| = 14, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0214",
+      "q": "Tìm x biết 6x + 62 = 128. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0215",
+      "q": "Hai góc phụ nhau. Một góc bằng 51°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0216",
+      "q": "Số 347 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0217",
+      "q": "ƯCLN của 19 và 27 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0218",
+      "q": "BCNN của 16 và 14 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0219",
+      "q": "Tính (-30) + 10 - (-10). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0220",
+      "q": "Tính 2/9 + 3/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0221",
+      "q": "Có |A| = 8, |B| = 16, |A ∪ B| = 21. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0222",
+      "q": "Tìm x biết 8x + 49 = 353. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0223",
+      "q": "Hai góc phụ nhau. Một góc bằng 61°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0224",
+      "q": "Số 391 chia cho 11 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0225",
+      "q": "ƯCLN của 22 và 49 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0226",
+      "q": "BCNN của 8 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0227",
+      "q": "Tính (-21) + 21 - (-28). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0228",
+      "q": "Tính 9/10 + 9/10. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0229",
+      "q": "Có |A| = 13, |B| = 16, |A ∪ B| = 22. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0230",
+      "q": "Tìm x biết 9x + 54 = 405. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0231",
+      "q": "Hai góc phụ nhau. Một góc bằng 28°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0232",
+      "q": "Số 341 chia cho 5 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0233",
+      "q": "ƯCLN của 82 và 87 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0234",
+      "q": "BCNN của 13 và 11 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0235",
+      "q": "Tính (-60) + 42 - (-12). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0236",
+      "q": "Tính 4/9 + 8/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0237",
+      "q": "Có |A| = 22, |B| = 13, |A ∪ B| = 32. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0238",
+      "q": "Tìm x biết 9x + 36 = 108. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0239",
+      "q": "Hai góc phụ nhau. Một góc bằng 57°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0240",
+      "q": "Số 225 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0241",
+      "q": "ƯCLN của 80 và 73 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0242",
+      "q": "BCNN của 16 và 18 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0243",
+      "q": "Tính (-49) + 14 - (-36). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0244",
+      "q": "Tính 6/8 + 7/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0245",
+      "q": "Có |A| = 21, |B| = 30, |A ∪ B| = 40. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0246",
+      "q": "Tìm x biết 4x + 72 = 108. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0247",
+      "q": "Hai góc phụ nhau. Một góc bằng 74°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0248",
+      "q": "Số 187 chia cho 7 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0249",
+      "q": "ƯCLN của 49 và 49 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0250",
+      "q": "BCNN của 15 và 9 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0251",
+      "q": "Tính (-75) + 22 - (-37). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0252",
+      "q": "Tính 2/9 + 1/9. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0253",
+      "q": "Có |A| = 19, |B| = 15, |A ∪ B| = 25. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0254",
+      "q": "Tìm x biết 6x + 30 = 84. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0255",
+      "q": "Hai góc phụ nhau. Một góc bằng 25°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0256",
+      "q": "Số 824 chia cho 11 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0257",
+      "q": "ƯCLN của 39 và 31 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0258",
+      "q": "BCNN của 7 và 10 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0259",
+      "q": "Tính (-48) + 28 - (-34). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0260",
+      "q": "Tính 6/7 + 6/7. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0261",
+      "q": "Có |A| = 17, |B| = 26, |A ∪ B| = 31. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0262",
+      "q": "Tìm x biết 11x + 56 = 419. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0263",
+      "q": "Hai góc phụ nhau. Một góc bằng 34°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0264",
+      "q": "Số 977 chia cho 11 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0265",
+      "q": "ƯCLN của 46 và 62 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0266",
+      "q": "BCNN của 7 và 13 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0267",
+      "q": "Tính (-30) + 10 - (-19). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0268",
+      "q": "Tính 3/6 + 2/6. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0269",
+      "q": "Có |A| = 15, |B| = 16, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0270",
+      "q": "Tìm x biết 9x + 72 = 396. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0271",
+      "q": "Hai góc phụ nhau. Một góc bằng 39°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0272",
+      "q": "Số 609 chia cho 9 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0273",
+      "q": "ƯCLN của 83 và 80 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0274",
+      "q": "BCNN của 14 và 7 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0275",
+      "q": "Tính (-37) + 48 - (-24). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0276",
+      "q": "Tính 1/5 + 1/5. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0277",
+      "q": "Có |A| = 13, |B| = 20, |A ∪ B| = 27. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0278",
+      "q": "Tìm x biết 7x + 68 = 348. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0279",
+      "q": "Hai góc phụ nhau. Một góc bằng 59°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0280",
+      "q": "Số 117 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0281",
+      "q": "ƯCLN của 26 và 27 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0282",
+      "q": "BCNN của 11 và 17 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0283",
+      "q": "Tính (-22) + 10 - (-14). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0284",
+      "q": "Tính 1/8 + 7/8. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0285",
+      "q": "Có |A| = 20, |B| = 19, |A ∪ B| = 28. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0286",
+      "q": "Tìm x biết 12x + 51 = 195. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0287",
+      "q": "Hai góc phụ nhau. Một góc bằng 61°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0288",
+      "q": "Số 307 chia cho 6 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0289",
+      "q": "ƯCLN của 48 và 22 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0290",
+      "q": "BCNN của 8 và 7 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0291",
+      "q": "Tính (-30) + 43 - (-17). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0292",
+      "q": "Tính 5/6 + 5/6. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0293",
+      "q": "Có |A| = 24, |B| = 23, |A ∪ B| = 41. Hỏi |A ∩ B| bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp và chuyển vế để tìm giao.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0294",
+      "q": "Tìm x biết 8x + 39 = 183. Trình bày cách làm.",
+      "hint": "Trừ số hạng tự do ở hai vế rồi chia cho hệ số của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0295",
+      "q": "Hai góc phụ nhau. Một góc bằng 51°. Góc còn lại bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Hai góc phụ nhau có tổng số đo là 90°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0296",
+      "q": "Số 221 chia cho 4 dư bao nhiêu? Trình bày cách làm.",
+      "hint": "Viết số bị chia thành một bội của số chia cộng với phần dư.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0297",
+      "q": "ƯCLN của 90 và 88 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Phân tích các số thành thừa số nguyên tố hoặc dùng cách chia để tìm ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0298",
+      "q": "BCNN của 17 và 11 là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm bội chung nhỏ nhất bằng cách dùng tích chia cho ước chung lớn nhất.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0299",
+      "q": "Tính (-41) + 44 - (-28). Trình bày cách làm.",
+      "hint": "Bỏ ngoặc đúng quy tắc dấu rồi cộng các số nguyên.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e6-adv-0300",
+      "q": "Tính 7/11 + 10/11. Trình bày cách làm.",
+      "hint": "Cộng các phân số cùng mẫu bằng cách cộng tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
       "lv": 3
     }
   ]

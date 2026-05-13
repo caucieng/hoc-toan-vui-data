@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 7,
   "title": "Học Toán Lớp 7",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": "q7-0001",
@@ -15003,6 +15003,4506 @@
       "ch": "Biến cố ngẫu nhiên và xác suất đơn giản",
       "chapter": 13,
       "lv": 3
+    },
+    {
+      "id": "q7-adv-0001",
+      "q": "Tính 8/10 - 4/10.",
+      "a": [
+        "2/5",
+        "4/11",
+        "6/5",
+        "1/2"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0002",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "56",
+        "53",
+        "55",
+        "54"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0003",
+      "q": "Một món hàng giá 55000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "46751 đồng",
+        "46752 đồng",
+        "46749 đồng",
+        "46750 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0004",
+      "q": "Tìm x biết 6x - 23 = 7x - 36.",
+      "a": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0005",
+      "q": "Tam giác ABC có góc A = 38°, góc B = 70°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "73 độ",
+        "72 độ",
+        "71 độ",
+        "74 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0006",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy?",
+      "a": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0007",
+      "q": "Trong hộp có 3 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "8/11",
+        "3/11",
+        "1/4",
+        "4/11"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0008",
+      "q": "Nếu 3 kg gạo giá 42 nghìn đồng thì 7 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "97 nghìn đồng",
+        "100 nghìn đồng",
+        "98 nghìn đồng",
+        "99 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0009",
+      "q": "Tính 9/15 - 7/15.",
+      "a": [
+        "1/5",
+        "1/8",
+        "16/15",
+        "2/15"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0010",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 8, y bằng bao nhiêu?",
+      "a": [
+        "33",
+        "31",
+        "34",
+        "32"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0011",
+      "q": "Một món hàng giá 32000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "24001 đồng",
+        "24000 đồng",
+        "23999 đồng",
+        "24002 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0012",
+      "q": "Tìm x biết 9x - 11 = 2x + 178.",
+      "a": [
+        "26",
+        "28",
+        "29",
+        "27"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0013",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 36°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "92 độ",
+        "91 độ",
+        "89 độ",
+        "90 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0014",
+      "q": "8^2 x 8^2 bằng 8 mũ mấy?",
+      "a": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0015",
+      "q": "Trong hộp có 4 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "4/11",
+        "5/11",
+        "1/3",
+        "7/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0016",
+      "q": "Nếu 5 kg gạo giá 95 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "151 nghìn đồng",
+        "153 nghìn đồng",
+        "154 nghìn đồng",
+        "152 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0017",
+      "q": "Tính 4/5 - 3/5.",
+      "a": [
+        "2/5",
+        "1/6",
+        "1/5",
+        "7/5"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0018",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 22, y bằng bao nhiêu?",
+      "a": [
+        "111",
+        "110",
+        "112",
+        "109"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0019",
+      "q": "Một món hàng giá 65000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "55250 đồng",
+        "55252 đồng",
+        "55251 đồng",
+        "55249 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0020",
+      "q": "Tìm x biết 8x - 38 = 4x + 70.",
+      "a": [
+        "26",
+        "27",
+        "29",
+        "28"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0021",
+      "q": "Tam giác ABC có góc A = 80°, góc B = 72°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "27 độ",
+        "30 độ",
+        "29 độ",
+        "28 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0022",
+      "q": "4^3 x 4^1 bằng 4 mũ mấy?",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0023",
+      "q": "Trong hộp có 3 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "3/14",
+        "3/13",
+        "10/13",
+        "4/13"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0024",
+      "q": "Nếu 8 kg gạo giá 56 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "93 nghìn đồng",
+        "92 nghìn đồng",
+        "91 nghìn đồng",
+        "90 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0025",
+      "q": "Tính 5/10 - 9/10.",
+      "a": [
+        "-4/11",
+        "-2/5",
+        "-3/10",
+        "7/5"
+      ],
+      "c": "B",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0026",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 13, y bằng bao nhiêu?",
+      "a": [
+        "28",
+        "25",
+        "26",
+        "27"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0027",
+      "q": "Một món hàng giá 49000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "36750 đồng",
+        "36749 đồng",
+        "36751 đồng",
+        "36752 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0028",
+      "q": "Tìm x biết 6x - 39 = 5x - 25.",
+      "a": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0029",
+      "q": "Tam giác ABC có góc A = 49°, góc B = 50°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "82 độ",
+        "80 độ",
+        "83 độ",
+        "81 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0030",
+      "q": "3^2 x 3^3 bằng 3 mũ mấy?",
+      "a": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0031",
+      "q": "Trong hộp có 6 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "7/10",
+        "6/11",
+        "3/5",
+        "2/5"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0032",
+      "q": "Nếu 8 kg gạo giá 120 nghìn đồng thì 4 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "59 nghìn đồng",
+        "61 nghìn đồng",
+        "62 nghìn đồng",
+        "60 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0033",
+      "q": "Tính 2/5 - 3/5.",
+      "a": [
+        "0",
+        "1",
+        "-1/5",
+        "-1/6"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0034",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 5, y bằng bao nhiêu?",
+      "a": [
+        "47",
+        "45",
+        "46",
+        "44"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0035",
+      "q": "Một món hàng giá 44000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "37400 đồng",
+        "37399 đồng",
+        "37401 đồng",
+        "37402 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0036",
+      "q": "Tìm x biết 7x - 31 = 3x + 21.",
+      "a": [
+        "13",
+        "12",
+        "15",
+        "14"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0037",
+      "q": "Tam giác ABC có góc A = 74°, góc B = 80°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "25 độ",
+        "28 độ",
+        "27 độ",
+        "26 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0038",
+      "q": "7^4 x 7^3 bằng 7 mũ mấy?",
+      "a": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0039",
+      "q": "Trong hộp có 5 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/14",
+        "8/13",
+        "5/13",
+        "6/13"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0040",
+      "q": "Nếu 6 kg gạo giá 102 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "104 nghìn đồng",
+        "103 nghìn đồng",
+        "101 nghìn đồng",
+        "102 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0041",
+      "q": "Tính 2/7 - 6/7.",
+      "a": [
+        "-3/7",
+        "-4/7",
+        "8/7",
+        "-1/2"
+      ],
+      "c": "B",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0042",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 12, y bằng bao nhiêu?",
+      "a": [
+        "26",
+        "24",
+        "23",
+        "25"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0043",
+      "q": "Một món hàng giá 56000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "42000 đồng",
+        "42001 đồng",
+        "41999 đồng",
+        "42002 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0044",
+      "q": "Tìm x biết 6x - 39 = 1x + 86.",
+      "a": [
+        "24",
+        "27",
+        "26",
+        "25"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0045",
+      "q": "Tam giác ABC có góc A = 56°, góc B = 58°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "68 độ",
+        "67 độ",
+        "66 độ",
+        "65 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0046",
+      "q": "3^4 x 3^3 bằng 3 mũ mấy?",
+      "a": [
+        "9",
+        "6",
+        "8",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0047",
+      "q": "Trong hộp có 3 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "3/13",
+        "3/14",
+        "10/13",
+        "4/13"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0048",
+      "q": "Nếu 9 kg gạo giá 117 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "197 nghìn đồng",
+        "194 nghìn đồng",
+        "196 nghìn đồng",
+        "195 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0049",
+      "q": "Tính 5/12 - 1/12.",
+      "a": [
+        "4/13",
+        "5/12",
+        "1/2",
+        "1/3"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0050",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 21, y bằng bao nhiêu?",
+      "a": [
+        "104",
+        "105",
+        "107",
+        "106"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0051",
+      "q": "Một món hàng giá 52000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "39000 đồng",
+        "38999 đồng",
+        "39001 đồng",
+        "39002 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0052",
+      "q": "Tìm x biết 5x - 14 = 6x - 22.",
+      "a": [
+        "9",
+        "7",
+        "10",
+        "8"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0053",
+      "q": "Tam giác ABC có góc A = 39°, góc B = 43°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "97 độ",
+        "99 độ",
+        "100 độ",
+        "98 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0054",
+      "q": "5^4 x 5^3 bằng 5 mũ mấy?",
+      "a": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0055",
+      "q": "Trong hộp có 4 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "2/5",
+        "4/9",
+        "3/9",
+        "5/9"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0056",
+      "q": "Nếu 8 kg gạo giá 72 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "73 nghìn đồng",
+        "71 nghìn đồng",
+        "72 nghìn đồng",
+        "74 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0057",
+      "q": "Tính 4/13 - 5/13.",
+      "a": [
+        "0",
+        "-1/14",
+        "9/13",
+        "-1/13"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0058",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 20, y bằng bao nhiêu?",
+      "a": [
+        "62",
+        "59",
+        "61",
+        "60"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0059",
+      "q": "Một món hàng giá 41000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "36902 đồng",
+        "36899 đồng",
+        "36901 đồng",
+        "36900 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0060",
+      "q": "Tìm x biết 4x - 12 = 8x - 64.",
+      "a": [
+        "14",
+        "12",
+        "15",
+        "13"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0061",
+      "q": "Tam giác ABC có góc A = 39°, góc B = 60°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "82 độ",
+        "80 độ",
+        "81 độ",
+        "83 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0062",
+      "q": "3^3 x 3^1 bằng 3 mũ mấy?",
+      "a": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0063",
+      "q": "Trong hộp có 5 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/3",
+        "5/14",
+        "3/7",
+        "9/14"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0064",
+      "q": "Nếu 6 kg gạo giá 96 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "207 nghìn đồng",
+        "208 nghìn đồng",
+        "209 nghìn đồng",
+        "210 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0065",
+      "q": "Tính 4/6 - 4/6.",
+      "a": [
+        "4/3",
+        "1",
+        "1/6",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0066",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 21, y bằng bao nhiêu?",
+      "a": [
+        "62",
+        "64",
+        "63",
+        "65"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0067",
+      "q": "Một món hàng giá 60000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "48001 đồng",
+        "48000 đồng",
+        "48002 đồng",
+        "47999 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0068",
+      "q": "Tìm x biết 8x - 40 = 3x + 50.",
+      "a": [
+        "19",
+        "18",
+        "17",
+        "20"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0069",
+      "q": "Tam giác ABC có góc A = 78°, góc B = 73°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "30 độ",
+        "31 độ",
+        "29 độ",
+        "28 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0070",
+      "q": "8^4 x 8^3 bằng 8 mũ mấy?",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0071",
+      "q": "Trong hộp có 3 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "3/7",
+        "4/7",
+        "2/7",
+        "3/8"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0072",
+      "q": "Nếu 7 kg gạo giá 112 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "210 nghìn đồng",
+        "208 nghìn đồng",
+        "207 nghìn đồng",
+        "209 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0073",
+      "q": "Tính 2/12 - 8/12.",
+      "a": [
+        "-5/12",
+        "-6/13",
+        "5/6",
+        "-1/2"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0074",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 11, y bằng bao nhiêu?",
+      "a": [
+        "76",
+        "79",
+        "77",
+        "78"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0075",
+      "q": "Một món hàng giá 20000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "16999 đồng",
+        "17001 đồng",
+        "17002 đồng",
+        "17000 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0076",
+      "q": "Tìm x biết 8x - 36 = 5x - 27.",
+      "a": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0077",
+      "q": "Tam giác ABC có góc A = 57°, góc B = 79°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "45 độ",
+        "46 độ",
+        "43 độ",
+        "44 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0078",
+      "q": "3^4 x 3^1 bằng 3 mũ mấy?",
+      "a": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0079",
+      "q": "Trong hộp có 7 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "7/11",
+        "4/11",
+        "7/12",
+        "8/11"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0080",
+      "q": "Nếu 4 kg gạo giá 20 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "54 nghìn đồng",
+        "55 nghìn đồng",
+        "56 nghìn đồng",
+        "57 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0081",
+      "q": "Tính 9/14 - 13/14.",
+      "a": [
+        "11/7",
+        "-2/7",
+        "-3/14",
+        "-4/15"
+      ],
+      "c": "B",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0082",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 17, y bằng bao nhiêu?",
+      "a": [
+        "50",
+        "52",
+        "51",
+        "53"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0083",
+      "q": "Một món hàng giá 56000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "44801 đồng",
+        "44802 đồng",
+        "44800 đồng",
+        "44799 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0084",
+      "q": "Tìm x biết 8x - 24 = 1x + 109.",
+      "a": [
+        "18",
+        "19",
+        "21",
+        "20"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0085",
+      "q": "Tam giác ABC có góc A = 67°, góc B = 51°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "61 độ",
+        "64 độ",
+        "63 độ",
+        "62 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0086",
+      "q": "2^2 x 2^2 bằng 2 mũ mấy?",
+      "a": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0087",
+      "q": "Trong hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "7/15",
+        "7/16",
+        "8/15",
+        "6/15"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0088",
+      "q": "Nếu 9 kg gạo giá 54 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "53 nghìn đồng",
+        "54 nghìn đồng",
+        "56 nghìn đồng",
+        "55 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0089",
+      "q": "Tính 3/7 - 1/7.",
+      "a": [
+        "1/4",
+        "3/7",
+        "2/7",
+        "4/7"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0090",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 9, y bằng bao nhiêu?",
+      "a": [
+        "35",
+        "36",
+        "38",
+        "37"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0091",
+      "q": "Một món hàng giá 58000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "43500 đồng",
+        "43502 đồng",
+        "43499 đồng",
+        "43501 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0092",
+      "q": "Tìm x biết 7x - 35 = 3x + 5.",
+      "a": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0093",
+      "q": "Tam giác ABC có góc A = 74°, góc B = 36°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "71 độ",
+        "72 độ",
+        "69 độ",
+        "70 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0094",
+      "q": "7^3 x 7^3 bằng 7 mũ mấy?",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0095",
+      "q": "Trong hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "7/13",
+        "3/7",
+        "5/13",
+        "6/13"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0096",
+      "q": "Nếu 8 kg gạo giá 104 nghìn đồng thì 14 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "181 nghìn đồng",
+        "184 nghìn đồng",
+        "183 nghìn đồng",
+        "182 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0097",
+      "q": "Tính 2/5 - 4/5.",
+      "a": [
+        "-1/3",
+        "-1/5",
+        "6/5",
+        "-2/5"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0098",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 26, y bằng bao nhiêu?",
+      "a": [
+        "104",
+        "105",
+        "103",
+        "106"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0099",
+      "q": "Một món hàng giá 29000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "21751 đồng",
+        "21752 đồng",
+        "21750 đồng",
+        "21749 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0100",
+      "q": "Tìm x biết 4x - 27 = 1x + 54.",
+      "a": [
+        "27",
+        "29",
+        "28",
+        "26"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0101",
+      "q": "Tam giác ABC có góc A = 41°, góc B = 42°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "98 độ",
+        "97 độ",
+        "99 độ",
+        "96 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0102",
+      "q": "5^3 x 5^1 bằng 5 mũ mấy?",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0103",
+      "q": "Trong hộp có 4 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/3",
+        "2/3",
+        "5/12",
+        "4/13"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0104",
+      "q": "Nếu 3 kg gạo giá 45 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "119 nghìn đồng",
+        "121 nghìn đồng",
+        "120 nghìn đồng",
+        "122 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0105",
+      "q": "Tính 10/11 - 5/11.",
+      "a": [
+        "6/11",
+        "5/12",
+        "15/11",
+        "5/11"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0106",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 25, y bằng bao nhiêu?",
+      "a": [
+        "75",
+        "74",
+        "76",
+        "77"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0107",
+      "q": "Một món hàng giá 40000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "30001 đồng",
+        "30000 đồng",
+        "30002 đồng",
+        "29999 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0108",
+      "q": "Tìm x biết 5x - 25 = 6x - 39.",
+      "a": [
+        "15",
+        "14",
+        "16",
+        "13"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0109",
+      "q": "Tam giác ABC có góc A = 36°, góc B = 70°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "73 độ",
+        "76 độ",
+        "75 độ",
+        "74 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0110",
+      "q": "6^4 x 6^3 bằng 6 mũ mấy?",
+      "a": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0111",
+      "q": "Trong hộp có 8 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "8/19",
+        "1/2",
+        "4/9",
+        "5/9"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0112",
+      "q": "Nếu 3 kg gạo giá 36 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "181 nghìn đồng",
+        "180 nghìn đồng",
+        "179 nghìn đồng",
+        "182 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0113",
+      "q": "Tính 4/9 - 5/9.",
+      "a": [
+        "-1/10",
+        "-1/9",
+        "0",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0114",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 28, y bằng bao nhiêu?",
+      "a": [
+        "252",
+        "251",
+        "253",
+        "254"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0115",
+      "q": "Một món hàng giá 38000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "30401 đồng",
+        "30402 đồng",
+        "30400 đồng",
+        "30399 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0116",
+      "q": "Tìm x biết 9x - 12 = 4x + 8.",
+      "a": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0117",
+      "q": "Tam giác ABC có góc A = 51°, góc B = 40°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "91 độ",
+        "89 độ",
+        "90 độ",
+        "88 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0118",
+      "q": "3^2 x 3^1 bằng 3 mũ mấy?",
+      "a": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0119",
+      "q": "Trong hộp có 8 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "9/14",
+        "8/15",
+        "4/7",
+        "3/7"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0120",
+      "q": "Nếu 3 kg gạo giá 15 nghìn đồng thì 7 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "35 nghìn đồng",
+        "36 nghìn đồng",
+        "34 nghìn đồng",
+        "37 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0121",
+      "q": "Tính 8/9 - 8/9.",
+      "a": [
+        "16/9",
+        "1",
+        "1/9",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0122",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 30, y bằng bao nhiêu?",
+      "a": [
+        "151",
+        "152",
+        "150",
+        "149"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0123",
+      "q": "Một món hàng giá 54000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "40501 đồng",
+        "40500 đồng",
+        "40499 đồng",
+        "40502 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0124",
+      "q": "Tìm x biết 6x - 25 = 1x + 70.",
+      "a": [
+        "19",
+        "21",
+        "20",
+        "18"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0125",
+      "q": "Tam giác ABC có góc A = 57°, góc B = 68°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "54 độ",
+        "56 độ",
+        "55 độ",
+        "57 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0126",
+      "q": "4^4 x 4^1 bằng 4 mũ mấy?",
+      "a": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0127",
+      "q": "Trong hộp có 8 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/9",
+        "4/9",
+        "8/19",
+        "1/2"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0128",
+      "q": "Nếu 2 kg gạo giá 26 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "105 nghìn đồng",
+        "106 nghìn đồng",
+        "104 nghìn đồng",
+        "103 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0129",
+      "q": "Tính 4/14 - 12/14.",
+      "a": [
+        "-4/7",
+        "-8/15",
+        "8/7",
+        "-1/2"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0130",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 10, y bằng bao nhiêu?",
+      "a": [
+        "21",
+        "19",
+        "22",
+        "20"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0131",
+      "q": "Một món hàng giá 57000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "45602 đồng",
+        "45601 đồng",
+        "45600 đồng",
+        "45599 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0132",
+      "q": "Tìm x biết 5x - 17 = 3x - 7.",
+      "a": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0133",
+      "q": "Tam giác ABC có góc A = 41°, góc B = 42°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "97 độ",
+        "96 độ",
+        "98 độ",
+        "99 độ"
+      ],
+      "c": "A",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0134",
+      "q": "5^2 x 5^3 bằng 5 mũ mấy?",
+      "a": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0135",
+      "q": "Trong hộp có 7 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "2/2",
+        "1/2",
+        "7/15",
+        "4/7"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0136",
+      "q": "Nếu 7 kg gạo giá 42 nghìn đồng thì 3 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "18 nghìn đồng",
+        "17 nghìn đồng",
+        "20 nghìn đồng",
+        "19 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0137",
+      "q": "Tính 11/12 - 1/12.",
+      "a": [
+        "5/6",
+        "11/12",
+        "10/13",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0138",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "23",
+        "26",
+        "25",
+        "24"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0139",
+      "q": "Một món hàng giá 72000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "54001 đồng",
+        "54000 đồng",
+        "53999 đồng",
+        "54002 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0140",
+      "q": "Tìm x biết 4x - 16 = 7x - 97.",
+      "a": [
+        "27",
+        "29",
+        "28",
+        "26"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0141",
+      "q": "Tam giác ABC có góc A = 57°, góc B = 59°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "65 độ",
+        "64 độ",
+        "63 độ",
+        "66 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0142",
+      "q": "4^3 x 4^2 bằng 4 mũ mấy?",
+      "a": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0143",
+      "q": "Trong hộp có 4 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/14",
+        "2/7",
+        "5/7",
+        "4/15"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0144",
+      "q": "Nếu 2 kg gạo giá 8 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "24 nghìn đồng",
+        "25 nghìn đồng",
+        "26 nghìn đồng",
+        "23 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0145",
+      "q": "Tính 6/15 - 1/15.",
+      "a": [
+        "2/5",
+        "7/15",
+        "5/16",
+        "1/3"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0146",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 16, y bằng bao nhiêu?",
+      "a": [
+        "81",
+        "80",
+        "79",
+        "82"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0147",
+      "q": "Một món hàng giá 48000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "40799 đồng",
+        "40802 đồng",
+        "40801 đồng",
+        "40800 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0148",
+      "q": "Tìm x biết 5x - 38 = 8x - 101.",
+      "a": [
+        "23",
+        "21",
+        "20",
+        "22"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0149",
+      "q": "Tam giác ABC có góc A = 73°, góc B = 59°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "47 độ",
+        "50 độ",
+        "49 độ",
+        "48 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0150",
+      "q": "5^2 x 5^2 bằng 5 mũ mấy?",
+      "a": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0151",
+      "q": "Trong hộp có 6 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "3/7",
+        "2/5",
+        "4/7",
+        "1/2"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0152",
+      "q": "Nếu 9 kg gạo giá 99 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "142 nghìn đồng",
+        "145 nghìn đồng",
+        "144 nghìn đồng",
+        "143 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0153",
+      "q": "Tính 4/8 - 6/8.",
+      "a": [
+        "-2/9",
+        "5/4",
+        "-1/4",
+        "-1/8"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0154",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 17, y bằng bao nhiêu?",
+      "a": [
+        "69",
+        "68",
+        "67",
+        "70"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0155",
+      "q": "Một món hàng giá 26000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "23399 đồng",
+        "23400 đồng",
+        "23401 đồng",
+        "23402 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0156",
+      "q": "Tìm x biết 3x - 6 = 8x - 106.",
+      "a": [
+        "22",
+        "19",
+        "21",
+        "20"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0157",
+      "q": "Tam giác ABC có góc A = 48°, góc B = 47°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "86 độ",
+        "84 độ",
+        "85 độ",
+        "87 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0158",
+      "q": "3^4 x 3^2 bằng 3 mũ mấy?",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0159",
+      "q": "Trong hộp có 5 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "4/11",
+        "5/12",
+        "6/11",
+        "5/11"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0160",
+      "q": "Nếu 9 kg gạo giá 72 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "119 nghìn đồng",
+        "122 nghìn đồng",
+        "121 nghìn đồng",
+        "120 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0161",
+      "q": "Tính 5/8 - 3/8.",
+      "a": [
+        "1/4",
+        "1",
+        "3/8",
+        "2/9"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0162",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 27, y bằng bao nhiêu?",
+      "a": [
+        "163",
+        "161",
+        "162",
+        "164"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0163",
+      "q": "Một món hàng giá 76000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "68399 đồng",
+        "68400 đồng",
+        "68401 đồng",
+        "68402 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0164",
+      "q": "Tìm x biết 4x - 13 = 3x + 4.",
+      "a": [
+        "18",
+        "16",
+        "17",
+        "19"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0165",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 76°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "51 độ",
+        "52 độ",
+        "49 độ",
+        "50 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0166",
+      "q": "8^3 x 8^2 bằng 8 mũ mấy?",
+      "a": [
+        "4",
+        "7",
+        "5",
+        "6"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0167",
+      "q": "Trong hộp có 6 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/2",
+        "6/13",
+        "2/2",
+        "7/12"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0168",
+      "q": "Nếu 6 kg gạo giá 66 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "90 nghìn đồng",
+        "87 nghìn đồng",
+        "88 nghìn đồng",
+        "89 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0169",
+      "q": "Tính 3/5 - 3/5.",
+      "a": [
+        "1/5",
+        "6/5",
+        "1",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0170",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 8. Khi x = 12, y bằng bao nhiêu?",
+      "a": [
+        "98",
+        "95",
+        "96",
+        "97"
+      ],
+      "c": "C",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0171",
+      "q": "Một món hàng giá 43000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "38699 đồng",
+        "38701 đồng",
+        "38702 đồng",
+        "38700 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0172",
+      "q": "Tìm x biết 5x - 28 = 7x - 64.",
+      "a": [
+        "19",
+        "17",
+        "18",
+        "20"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0173",
+      "q": "Tam giác ABC có góc A = 56°, góc B = 38°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "88 độ",
+        "85 độ",
+        "87 độ",
+        "86 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0174",
+      "q": "4^3 x 4^2 bằng 4 mũ mấy?",
+      "a": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0175",
+      "q": "Trong hộp có 3 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "3/10",
+        "2/5",
+        "3/11",
+        "7/10"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0176",
+      "q": "Nếu 6 kg gạo giá 120 nghìn đồng thì 7 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "140 nghìn đồng",
+        "141 nghìn đồng",
+        "139 nghìn đồng",
+        "142 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0177",
+      "q": "Tính 11/13 - 5/13.",
+      "a": [
+        "3/7",
+        "16/13",
+        "7/13",
+        "6/13"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0178",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 14, y bằng bao nhiêu?",
+      "a": [
+        "70",
+        "72",
+        "69",
+        "71"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0179",
+      "q": "Một món hàng giá 32000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "25599 đồng",
+        "25602 đồng",
+        "25600 đồng",
+        "25601 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0180",
+      "q": "Tìm x biết 7x - 33 = 1x + 27.",
+      "a": [
+        "11",
+        "9",
+        "12",
+        "10"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0181",
+      "q": "Tam giác ABC có góc A = 69°, góc B = 42°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "68 độ",
+        "70 độ",
+        "71 độ",
+        "69 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0182",
+      "q": "8^4 x 8^3 bằng 8 mũ mấy?",
+      "a": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0183",
+      "q": "Trong hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/13",
+        "3/7",
+        "6/13",
+        "7/13"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0184",
+      "q": "Nếu 2 kg gạo giá 20 nghìn đồng thì 3 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "30 nghìn đồng",
+        "29 nghìn đồng",
+        "32 nghìn đồng",
+        "31 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0185",
+      "q": "Tính 13/15 - 6/15.",
+      "a": [
+        "7/16",
+        "8/15",
+        "7/15",
+        "19/15"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0186",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 23, y bằng bao nhiêu?",
+      "a": [
+        "68",
+        "71",
+        "70",
+        "69"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0187",
+      "q": "Một món hàng giá 48000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "40799 đồng",
+        "40800 đồng",
+        "40801 đồng",
+        "40802 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0188",
+      "q": "Tìm x biết 6x - 40 = 8x - 78.",
+      "a": [
+        "20",
+        "19",
+        "18",
+        "21"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0189",
+      "q": "Tam giác ABC có góc A = 47°, góc B = 45°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "90 độ",
+        "89 độ",
+        "88 độ",
+        "87 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0190",
+      "q": "7^2 x 7^3 bằng 7 mũ mấy?",
+      "a": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0191",
+      "q": "Trong hộp có 7 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "7/17",
+        "7/18",
+        "8/17",
+        "10/17"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0192",
+      "q": "Nếu 3 kg gạo giá 24 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "65 nghìn đồng",
+        "66 nghìn đồng",
+        "64 nghìn đồng",
+        "63 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0193",
+      "q": "Tính 1/11 - 3/11.",
+      "a": [
+        "-1/6",
+        "-1/11",
+        "-2/11",
+        "4/11"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0194",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 10, y bằng bao nhiêu?",
+      "a": [
+        "72",
+        "70",
+        "69",
+        "71"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0195",
+      "q": "Một món hàng giá 43000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "36549 đồng",
+        "36551 đồng",
+        "36552 đồng",
+        "36550 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0196",
+      "q": "Tìm x biết 3x - 38 = 4x - 63.",
+      "a": [
+        "26",
+        "24",
+        "27",
+        "25"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0197",
+      "q": "Tam giác ABC có góc A = 65°, góc B = 48°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "66 độ",
+        "67 độ",
+        "68 độ",
+        "69 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0198",
+      "q": "3^2 x 3^1 bằng 3 mũ mấy?",
+      "a": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0199",
+      "q": "Trong hộp có 8 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "8/17",
+        "4/9",
+        "7/17",
+        "9/17"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0200",
+      "q": "Nếu 2 kg gạo giá 26 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "116 nghìn đồng",
+        "118 nghìn đồng",
+        "119 nghìn đồng",
+        "117 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0201",
+      "q": "Tính 11/13 - 1/13.",
+      "a": [
+        "5/7",
+        "11/13",
+        "10/13",
+        "12/13"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0202",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 27, y bằng bao nhiêu?",
+      "a": [
+        "242",
+        "245",
+        "244",
+        "243"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0203",
+      "q": "Một món hàng giá 29000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "26100 đồng",
+        "26099 đồng",
+        "26101 đồng",
+        "26102 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0204",
+      "q": "Tìm x biết 3x - 7 = 8x - 47.",
+      "a": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0205",
+      "q": "Tam giác ABC có góc A = 72°, góc B = 38°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "69 độ",
+        "70 độ",
+        "71 độ",
+        "72 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0206",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy?",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0207",
+      "q": "Trong hộp có 5 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "2/3",
+        "2/5",
+        "1/3",
+        "5/16"
+      ],
+      "c": "C",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0208",
+      "q": "Nếu 3 kg gạo giá 12 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "23 nghìn đồng",
+        "25 nghìn đồng",
+        "24 nghìn đồng",
+        "26 nghìn đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0209",
+      "q": "Tính 2/11 - 4/11.",
+      "a": [
+        "-2/11",
+        "-1/6",
+        "-1/11",
+        "6/11"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0210",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 11, y bằng bao nhiêu?",
+      "a": [
+        "77",
+        "78",
+        "76",
+        "79"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0211",
+      "q": "Một món hàng giá 70000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "59501 đồng",
+        "59500 đồng",
+        "59502 đồng",
+        "59499 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0212",
+      "q": "Tìm x biết 9x - 7 = 1x + 89.",
+      "a": [
+        "12",
+        "14",
+        "11",
+        "13"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0213",
+      "q": "Tam giác ABC có góc A = 51°, góc B = 56°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "74 độ",
+        "75 độ",
+        "72 độ",
+        "73 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0214",
+      "q": "4^3 x 4^3 bằng 4 mũ mấy?",
+      "a": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0215",
+      "q": "Trong hộp có 7 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "8/15",
+        "7/16",
+        "6/15",
+        "7/15"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0216",
+      "q": "Nếu 7 kg gạo giá 35 nghìn đồng thì 4 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "22 nghìn đồng",
+        "19 nghìn đồng",
+        "21 nghìn đồng",
+        "20 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0217",
+      "q": "Tính 2/6 - 5/6.",
+      "a": [
+        "7/6",
+        "-1/3",
+        "-1/2",
+        "-3/7"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0218",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 8. Khi x = 7, y bằng bao nhiêu?",
+      "a": [
+        "55",
+        "58",
+        "57",
+        "56"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0219",
+      "q": "Một món hàng giá 48000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "40802 đồng",
+        "40800 đồng",
+        "40799 đồng",
+        "40801 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0220",
+      "q": "Tìm x biết 3x - 25 = 7x - 69.",
+      "a": [
+        "12",
+        "13",
+        "10",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0221",
+      "q": "Tam giác ABC có góc A = 76°, góc B = 63°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "41 độ",
+        "42 độ",
+        "40 độ",
+        "43 độ"
+      ],
+      "c": "A",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0222",
+      "q": "7^3 x 7^1 bằng 7 mũ mấy?",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0223",
+      "q": "Trong hộp có 4 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/9",
+        "4/9",
+        "3/9",
+        "2/5"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0224",
+      "q": "Nếu 5 kg gạo giá 80 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "98 nghìn đồng",
+        "95 nghìn đồng",
+        "97 nghìn đồng",
+        "96 nghìn đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0225",
+      "q": "Tính 5/6 - 2/6.",
+      "a": [
+        "3/7",
+        "2/3",
+        "1/2",
+        "7/6"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0226",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 6, y bằng bao nhiêu?",
+      "a": [
+        "55",
+        "56",
+        "53",
+        "54"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0227",
+      "q": "Một món hàng giá 64000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "54399 đồng",
+        "54400 đồng",
+        "54402 đồng",
+        "54401 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0228",
+      "q": "Tìm x biết 9x - 14 = 5x + 74.",
+      "a": [
+        "21",
+        "24",
+        "23",
+        "22"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0229",
+      "q": "Tam giác ABC có góc A = 50°, góc B = 68°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "63 độ",
+        "61 độ",
+        "64 độ",
+        "62 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0230",
+      "q": "2^4 x 2^3 bằng 2 mũ mấy?",
+      "a": [
+        "7",
+        "9",
+        "6",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0231",
+      "q": "Trong hộp có 4 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/8",
+        "1/2",
+        "4/9",
+        "2/2"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0232",
+      "q": "Nếu 9 kg gạo giá 135 nghìn đồng thì 10 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "150 nghìn đồng",
+        "149 nghìn đồng",
+        "151 nghìn đồng",
+        "152 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0233",
+      "q": "Tính 6/13 - 6/13.",
+      "a": [
+        "1/13",
+        "12/13",
+        "1",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0234",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 10, y bằng bao nhiêu?",
+      "a": [
+        "20",
+        "19",
+        "22",
+        "21"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0235",
+      "q": "Một món hàng giá 79000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "63202 đồng",
+        "63199 đồng",
+        "63201 đồng",
+        "63200 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0236",
+      "q": "Tìm x biết 7x - 30 = 1x + 72.",
+      "a": [
+        "17",
+        "16",
+        "18",
+        "19"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0237",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 61°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "64 độ",
+        "66 độ",
+        "65 độ",
+        "67 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0238",
+      "q": "7^4 x 7^2 bằng 7 mũ mấy?",
+      "a": [
+        "5",
+        "8",
+        "7",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0239",
+      "q": "Trong hộp có 3 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "4/9",
+        "2/3",
+        "3/10",
+        "1/3"
+      ],
+      "c": "D",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0240",
+      "q": "Nếu 6 kg gạo giá 36 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "30 nghìn đồng",
+        "29 nghìn đồng",
+        "32 nghìn đồng",
+        "31 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0241",
+      "q": "Tính 2/12 - 5/12.",
+      "a": [
+        "-1/4",
+        "7/12",
+        "-1/6",
+        "-3/13"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0242",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 28, y bằng bao nhiêu?",
+      "a": [
+        "252",
+        "251",
+        "254",
+        "253"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0243",
+      "q": "Một món hàng giá 63000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "56700 đồng",
+        "56702 đồng",
+        "56699 đồng",
+        "56701 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0244",
+      "q": "Tìm x biết 6x - 7 = 8x - 43.",
+      "a": [
+        "19",
+        "20",
+        "18",
+        "17"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0245",
+      "q": "Tam giác ABC có góc A = 44°, góc B = 70°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "67 độ",
+        "66 độ",
+        "68 độ",
+        "65 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0246",
+      "q": "7^3 x 7^3 bằng 7 mũ mấy?",
+      "a": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "c": "C",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0247",
+      "q": "Trong hộp có 3 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/2",
+        "3/8",
+        "1/3",
+        "5/8"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0248",
+      "q": "Nếu 2 kg gạo giá 36 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "91 nghìn đồng",
+        "90 nghìn đồng",
+        "89 nghìn đồng",
+        "92 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0249",
+      "q": "Tính 9/15 - 9/15.",
+      "a": [
+        "6/5",
+        "1/15",
+        "1",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0250",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 17, y bằng bao nhiêu?",
+      "a": [
+        "155",
+        "153",
+        "152",
+        "154"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0251",
+      "q": "Một món hàng giá 36000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "30599 đồng",
+        "30601 đồng",
+        "30600 đồng",
+        "30602 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0252",
+      "q": "Tìm x biết 9x - 18 = 1x + 118.",
+      "a": [
+        "18",
+        "16",
+        "19",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0253",
+      "q": "Tam giác ABC có góc A = 67°, góc B = 69°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "43 độ",
+        "44 độ",
+        "45 độ",
+        "46 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0254",
+      "q": "6^2 x 6^1 bằng 6 mũ mấy?",
+      "a": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0255",
+      "q": "Trong hộp có 3 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/3",
+        "1/4",
+        "3/13",
+        "3/4"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0256",
+      "q": "Nếu 2 kg gạo giá 40 nghìn đồng thì 3 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "62 nghìn đồng",
+        "60 nghìn đồng",
+        "59 nghìn đồng",
+        "61 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0257",
+      "q": "Tính 3/10 - 2/10.",
+      "a": [
+        "1/5",
+        "1/11",
+        "1/2",
+        "1/10"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0258",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 7, y bằng bao nhiêu?",
+      "a": [
+        "35",
+        "37",
+        "34",
+        "36"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0259",
+      "q": "Một món hàng giá 27000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "20249 đồng",
+        "20252 đồng",
+        "20250 đồng",
+        "20251 đồng"
+      ],
+      "c": "C",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0260",
+      "q": "Tìm x biết 9x - 16 = 5x + 32.",
+      "a": [
+        "14",
+        "12",
+        "13",
+        "11"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0261",
+      "q": "Tam giác ABC có góc A = 74°, góc B = 74°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "34 độ",
+        "32 độ",
+        "31 độ",
+        "33 độ"
+      ],
+      "c": "B",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0262",
+      "q": "3^3 x 3^1 bằng 3 mũ mấy?",
+      "a": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0263",
+      "q": "Trong hộp có 5 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "5/14",
+        "1/3",
+        "3/7",
+        "9/14"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0264",
+      "q": "Nếu 8 kg gạo giá 128 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "144 nghìn đồng",
+        "146 nghìn đồng",
+        "145 nghìn đồng",
+        "143 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0265",
+      "q": "Tính 4/9 - 6/9.",
+      "a": [
+        "10/9",
+        "-1/5",
+        "-2/9",
+        "-1/9"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0266",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 29, y bằng bao nhiêu?",
+      "a": [
+        "175",
+        "176",
+        "173",
+        "174"
+      ],
+      "c": "D",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0267",
+      "q": "Một món hàng giá 50000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "40002 đồng",
+        "40001 đồng",
+        "39999 đồng",
+        "40000 đồng"
+      ],
+      "c": "D",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0268",
+      "q": "Tìm x biết 3x - 37 = 6x - 52.",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0269",
+      "q": "Tam giác ABC có góc A = 62°, góc B = 62°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "58 độ",
+        "55 độ",
+        "57 độ",
+        "56 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0270",
+      "q": "2^3 x 2^3 bằng 2 mũ mấy?",
+      "a": [
+        "5",
+        "7",
+        "8",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0271",
+      "q": "Trong hộp có 8 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "2/3",
+        "3/4",
+        "8/13",
+        "1/3"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0272",
+      "q": "Nếu 6 kg gạo giá 42 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "62 nghìn đồng",
+        "63 nghìn đồng",
+        "64 nghìn đồng",
+        "65 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0273",
+      "q": "Tính 2/6 - 2/6.",
+      "a": [
+        "1/6",
+        "2/3",
+        "1",
+        "0"
+      ],
+      "c": "D",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0274",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 13, y bằng bao nhiêu?",
+      "a": [
+        "91",
+        "93",
+        "92",
+        "90"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0275",
+      "q": "Một món hàng giá 20000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "16000 đồng",
+        "16001 đồng",
+        "15999 đồng",
+        "16002 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0276",
+      "q": "Tìm x biết 4x - 29 = 3x - 22.",
+      "a": [
+        "8",
+        "6",
+        "9",
+        "7"
+      ],
+      "c": "D",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0277",
+      "q": "Tam giác ABC có góc A = 67°, góc B = 44°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "68 độ",
+        "71 độ",
+        "69 độ",
+        "70 độ"
+      ],
+      "c": "C",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0278",
+      "q": "3^4 x 3^2 bằng 3 mũ mấy?",
+      "a": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "c": "A",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0279",
+      "q": "Trong hộp có 5 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "9/14",
+        "5/14",
+        "3/7",
+        "1/3"
+      ],
+      "c": "B",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0280",
+      "q": "Nếu 9 kg gạo giá 180 nghìn đồng thì 14 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "280 nghìn đồng",
+        "281 nghìn đồng",
+        "282 nghìn đồng",
+        "279 nghìn đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0281",
+      "q": "Tính 7/10 - 9/10.",
+      "a": [
+        "8/5",
+        "-1/10",
+        "-1/5",
+        "-2/11"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0282",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 14, y bằng bao nhiêu?",
+      "a": [
+        "71",
+        "70",
+        "69",
+        "72"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0283",
+      "q": "Một món hàng giá 31000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "27901 đồng",
+        "27900 đồng",
+        "27899 đồng",
+        "27902 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0284",
+      "q": "Tìm x biết 4x - 34 = 1x - 16.",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0285",
+      "q": "Tam giác ABC có góc A = 40°, góc B = 66°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "76 độ",
+        "73 độ",
+        "75 độ",
+        "74 độ"
+      ],
+      "c": "D",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0286",
+      "q": "6^2 x 6^1 bằng 6 mũ mấy?",
+      "a": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0287",
+      "q": "Trong hộp có 5 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/3",
+        "2/3",
+        "2/5",
+        "5/16"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0288",
+      "q": "Nếu 3 kg gạo giá 54 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "233 nghìn đồng",
+        "234 nghìn đồng",
+        "236 nghìn đồng",
+        "235 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0289",
+      "q": "Tính 1/7 - 3/7.",
+      "a": [
+        "-2/7",
+        "4/7",
+        "-1/4",
+        "-1/7"
+      ],
+      "c": "A",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0290",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 12, y bằng bao nhiêu?",
+      "a": [
+        "108",
+        "107",
+        "110",
+        "109"
+      ],
+      "c": "A",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0291",
+      "q": "Một món hàng giá 47000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "39949 đồng",
+        "39950 đồng",
+        "39952 đồng",
+        "39951 đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0292",
+      "q": "Tìm x biết 3x - 10 = 4x - 15.",
+      "a": [
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0293",
+      "q": "Tam giác ABC có góc A = 35°, góc B = 48°. Góc C bằng bao nhiêu độ?",
+      "a": [
+        "97 độ",
+        "98 độ",
+        "96 độ",
+        "99 độ"
+      ],
+      "c": "A",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0294",
+      "q": "8^3 x 8^1 bằng 8 mũ mấy?",
+      "a": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "c": "B",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0295",
+      "q": "Trong hộp có 3 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu?",
+      "a": [
+        "1/3",
+        "3/10",
+        "4/9",
+        "2/3"
+      ],
+      "c": "A",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0296",
+      "q": "Nếu 7 kg gạo giá 105 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng?",
+      "a": [
+        "224 nghìn đồng",
+        "225 nghìn đồng",
+        "226 nghìn đồng",
+        "227 nghìn đồng"
+      ],
+      "c": "B",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0297",
+      "q": "Tính 7/15 - 7/15.",
+      "a": [
+        "1/15",
+        "14/15",
+        "0",
+        "1"
+      ],
+      "c": "C",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0298",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 27, y bằng bao nhiêu?",
+      "a": [
+        "190",
+        "189",
+        "191",
+        "188"
+      ],
+      "c": "B",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0299",
+      "q": "Một món hàng giá 35000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu?",
+      "a": [
+        "26250 đồng",
+        "26249 đồng",
+        "26251 đồng",
+        "26252 đồng"
+      ],
+      "c": "A",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q7-adv-0300",
+      "q": "Tìm x biết 8x - 20 = 3x + 60.",
+      "a": [
+        "15",
+        "17",
+        "16",
+        "18"
+      ],
+      "c": "C",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
     }
   ],
   "exercises": [
@@ -23004,6 +27504,2406 @@
       "hint": "Xúc xắc có 6 mặt đồng khả năng.\nĐáp án: 1/6",
       "ch": "Biến cố ngẫu nhiên và xác suất đơn giản",
       "chapter": 13,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0001",
+      "q": "Tính 12/15 - 9/15. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0002",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 25, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0003",
+      "q": "Một món hàng giá 74000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0004",
+      "q": "Tìm x biết 5x - 28 = 6x - 38. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0005",
+      "q": "Tam giác ABC có góc A = 58°, góc B = 58°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0006",
+      "q": "5^3 x 5^3 bằng 5 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0007",
+      "q": "Trong hộp có 8 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0008",
+      "q": "Nếu 7 kg gạo giá 35 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0009",
+      "q": "Tính 2/6 - 3/6. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0010",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 8, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0011",
+      "q": "Một món hàng giá 45000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0012",
+      "q": "Tìm x biết 7x - 35 = 2x + 35. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0013",
+      "q": "Tam giác ABC có góc A = 37°, góc B = 75°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0014",
+      "q": "2^3 x 2^2 bằng 2 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0015",
+      "q": "Trong hộp có 5 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0016",
+      "q": "Nếu 7 kg gạo giá 140 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0017",
+      "q": "Tính 4/10 - 4/10. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0018",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 9, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0019",
+      "q": "Một món hàng giá 20000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0020",
+      "q": "Tìm x biết 6x - 20 = 5x - 5. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0021",
+      "q": "Tam giác ABC có góc A = 73°, góc B = 59°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0022",
+      "q": "3^3 x 3^1 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0023",
+      "q": "Trong hộp có 5 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0024",
+      "q": "Nếu 3 kg gạo giá 57 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0025",
+      "q": "Tính 8/14 - 2/14. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0026",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 30, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0027",
+      "q": "Một món hàng giá 77000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0028",
+      "q": "Tìm x biết 4x - 18 = 3x + 0. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0029",
+      "q": "Tam giác ABC có góc A = 45°, góc B = 38°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0030",
+      "q": "7^4 x 7^2 bằng 7 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0031",
+      "q": "Trong hộp có 6 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0032",
+      "q": "Nếu 4 kg gạo giá 56 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0033",
+      "q": "Tính 12/13 - 1/13. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0034",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 20, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0035",
+      "q": "Một món hàng giá 78000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0036",
+      "q": "Tìm x biết 5x - 26 = 4x - 1. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0037",
+      "q": "Tam giác ABC có góc A = 69°, góc B = 71°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0038",
+      "q": "6^2 x 6^3 bằng 6 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0039",
+      "q": "Trong hộp có 6 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0040",
+      "q": "Nếu 3 kg gạo giá 45 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0041",
+      "q": "Tính 11/13 - 7/13. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0042",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 7, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0043",
+      "q": "Một món hàng giá 22000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0044",
+      "q": "Tìm x biết 3x - 16 = 1x + 32. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0045",
+      "q": "Tam giác ABC có góc A = 38°, góc B = 35°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0046",
+      "q": "8^2 x 8^1 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0047",
+      "q": "Trong hộp có 6 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0048",
+      "q": "Nếu 5 kg gạo giá 50 nghìn đồng thì 14 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0049",
+      "q": "Tính 10/13 - 9/13. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0050",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 14, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0051",
+      "q": "Một món hàng giá 55000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0052",
+      "q": "Tìm x biết 8x - 17 = 5x + 4. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0053",
+      "q": "Tam giác ABC có góc A = 65°, góc B = 58°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0054",
+      "q": "5^3 x 5^1 bằng 5 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0055",
+      "q": "Trong hộp có 3 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0056",
+      "q": "Nếu 8 kg gạo giá 88 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0057",
+      "q": "Tính 6/7 - 4/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0058",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 28, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0059",
+      "q": "Một món hàng giá 20000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0060",
+      "q": "Tìm x biết 6x - 11 = 8x - 45. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0061",
+      "q": "Tam giác ABC có góc A = 64°, góc B = 58°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0062",
+      "q": "3^4 x 3^3 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0063",
+      "q": "Trong hộp có 5 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0064",
+      "q": "Nếu 3 kg gạo giá 18 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0065",
+      "q": "Tính 3/7 - 5/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0066",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 12, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0067",
+      "q": "Một món hàng giá 60000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0068",
+      "q": "Tìm x biết 5x - 38 = 8x - 104. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0069",
+      "q": "Tam giác ABC có góc A = 44°, góc B = 42°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0070",
+      "q": "2^2 x 2^3 bằng 2 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0071",
+      "q": "Trong hộp có 6 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0072",
+      "q": "Nếu 5 kg gạo giá 45 nghìn đồng thì 4 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0073",
+      "q": "Tính 4/8 - 3/8. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0074",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 8. Khi x = 22, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0075",
+      "q": "Một món hàng giá 58000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0076",
+      "q": "Tìm x biết 3x - 15 = 2x + 11. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0077",
+      "q": "Tam giác ABC có góc A = 62°, góc B = 35°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0078",
+      "q": "3^4 x 3^2 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0079",
+      "q": "Trong hộp có 3 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0080",
+      "q": "Nếu 4 kg gạo giá 40 nghìn đồng thì 3 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0081",
+      "q": "Tính 5/11 - 3/11. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0082",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 6, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0083",
+      "q": "Một món hàng giá 30000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0084",
+      "q": "Tìm x biết 8x - 38 = 4x + 42. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0085",
+      "q": "Tam giác ABC có góc A = 57°, góc B = 53°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0086",
+      "q": "3^2 x 3^1 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0087",
+      "q": "Trong hộp có 4 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0088",
+      "q": "Nếu 2 kg gạo giá 10 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0089",
+      "q": "Tính 1/7 - 3/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0090",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 11, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0091",
+      "q": "Một món hàng giá 20000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0092",
+      "q": "Tìm x biết 7x - 40 = 4x + 29. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0093",
+      "q": "Tam giác ABC có góc A = 52°, góc B = 65°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0094",
+      "q": "6^2 x 6^2 bằng 6 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0095",
+      "q": "Trong hộp có 4 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0096",
+      "q": "Nếu 3 kg gạo giá 27 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0097",
+      "q": "Tính 1/5 - 1/5. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0098",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 8. Khi x = 10, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0099",
+      "q": "Một món hàng giá 73000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0100",
+      "q": "Tìm x biết 9x - 30 = 6x - 21. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0101",
+      "q": "Tam giác ABC có góc A = 64°, góc B = 65°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0102",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0103",
+      "q": "Trong hộp có 3 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0104",
+      "q": "Nếu 9 kg gạo giá 108 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0105",
+      "q": "Tính 1/7 - 3/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0106",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 18, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0107",
+      "q": "Một món hàng giá 49000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0108",
+      "q": "Tìm x biết 5x - 30 = 7x - 84. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0109",
+      "q": "Tam giác ABC có góc A = 59°, góc B = 53°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0110",
+      "q": "2^4 x 2^3 bằng 2 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0111",
+      "q": "Trong hộp có 8 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0112",
+      "q": "Nếu 9 kg gạo giá 45 nghìn đồng thì 7 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0113",
+      "q": "Tính 5/11 - 10/11. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0114",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 4. Khi x = 19, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0115",
+      "q": "Một món hàng giá 48000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0116",
+      "q": "Tìm x biết 8x - 13 = 4x + 27. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0117",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 74°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0118",
+      "q": "4^4 x 4^3 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0119",
+      "q": "Trong hộp có 5 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0120",
+      "q": "Nếu 4 kg gạo giá 52 nghìn đồng thì 8 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0121",
+      "q": "Tính 7/12 - 11/12. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0122",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 18, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0123",
+      "q": "Một món hàng giá 33000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0124",
+      "q": "Tìm x biết 4x - 28 = 5x - 42. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0125",
+      "q": "Tam giác ABC có góc A = 68°, góc B = 63°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0126",
+      "q": "4^3 x 4^3 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0127",
+      "q": "Trong hộp có 7 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0128",
+      "q": "Nếu 5 kg gạo giá 65 nghìn đồng thì 12 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0129",
+      "q": "Tính 5/6 - 1/6. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0130",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 19, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0131",
+      "q": "Một món hàng giá 64000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0132",
+      "q": "Tìm x biết 5x - 22 = 6x - 43. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0133",
+      "q": "Tam giác ABC có góc A = 73°, góc B = 62°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0134",
+      "q": "4^3 x 4^3 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0135",
+      "q": "Trong hộp có 4 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0136",
+      "q": "Nếu 3 kg gạo giá 33 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0137",
+      "q": "Tính 4/5 - 2/5. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0138",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 17, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0139",
+      "q": "Một món hàng giá 30000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0140",
+      "q": "Tìm x biết 4x - 24 = 2x + 36. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0141",
+      "q": "Tam giác ABC có góc A = 68°, góc B = 49°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0142",
+      "q": "7^4 x 7^1 bằng 7 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0143",
+      "q": "Trong hộp có 4 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0144",
+      "q": "Nếu 5 kg gạo giá 40 nghìn đồng thì 10 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0145",
+      "q": "Tính 1/5 - 3/5. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0146",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 8. Khi x = 13, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0147",
+      "q": "Một món hàng giá 58000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0148",
+      "q": "Tìm x biết 6x - 36 = 7x - 60. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0149",
+      "q": "Tam giác ABC có góc A = 51°, góc B = 45°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0150",
+      "q": "3^3 x 3^2 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0151",
+      "q": "Trong hộp có 7 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0152",
+      "q": "Nếu 2 kg gạo giá 12 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0153",
+      "q": "Tính 3/7 - 1/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0154",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 13, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0155",
+      "q": "Một món hàng giá 24000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0156",
+      "q": "Tìm x biết 7x - 10 = 8x - 13. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0157",
+      "q": "Tam giác ABC có góc A = 76°, góc B = 43°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0158",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0159",
+      "q": "Trong hộp có 5 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0160",
+      "q": "Nếu 4 kg gạo giá 36 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0161",
+      "q": "Tính 1/6 - 4/6. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0162",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 10, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0163",
+      "q": "Một món hàng giá 42000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0164",
+      "q": "Tìm x biết 9x - 23 = 6x + 31. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0165",
+      "q": "Tam giác ABC có góc A = 67°, góc B = 59°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0166",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0167",
+      "q": "Trong hộp có 7 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0168",
+      "q": "Nếu 9 kg gạo giá 45 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0169",
+      "q": "Tính 7/14 - 9/14. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0170",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 16, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0171",
+      "q": "Một món hàng giá 27000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0172",
+      "q": "Tìm x biết 9x - 8 = 5x + 80. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0173",
+      "q": "Tam giác ABC có góc A = 53°, góc B = 72°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0174",
+      "q": "8^4 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0175",
+      "q": "Trong hộp có 4 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0176",
+      "q": "Nếu 4 kg gạo giá 16 nghìn đồng thì 6 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0177",
+      "q": "Tính 2/7 - 4/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0178",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 8, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0179",
+      "q": "Một món hàng giá 58000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0180",
+      "q": "Tìm x biết 6x - 9 = 5x - 6. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0181",
+      "q": "Tam giác ABC có góc A = 69°, góc B = 55°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0182",
+      "q": "5^2 x 5^3 bằng 5 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0183",
+      "q": "Trong hộp có 3 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0184",
+      "q": "Nếu 9 kg gạo giá 99 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0185",
+      "q": "Tính 4/5 - 4/5. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0186",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 13, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0187",
+      "q": "Một món hàng giá 53000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0188",
+      "q": "Tìm x biết 4x - 13 = 5x - 33. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0189",
+      "q": "Tam giác ABC có góc A = 58°, góc B = 42°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0190",
+      "q": "8^4 x 8^3 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0191",
+      "q": "Trong hộp có 6 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0192",
+      "q": "Nếu 2 kg gạo giá 22 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0193",
+      "q": "Tính 8/12 - 1/12. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0194",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 29, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0195",
+      "q": "Một món hàng giá 55000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0196",
+      "q": "Tìm x biết 7x - 39 = 3x + 21. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0197",
+      "q": "Tam giác ABC có góc A = 64°, góc B = 72°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0198",
+      "q": "4^4 x 4^2 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0199",
+      "q": "Trong hộp có 8 bi đỏ và 6 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0200",
+      "q": "Nếu 3 kg gạo giá 51 nghìn đồng thì 9 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0201",
+      "q": "Tính 6/8 - 2/8. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0202",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 10, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0203",
+      "q": "Một món hàng giá 27000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0204",
+      "q": "Tìm x biết 6x - 22 = 7x - 50. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0205",
+      "q": "Tam giác ABC có góc A = 77°, góc B = 67°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0206",
+      "q": "7^3 x 7^3 bằng 7 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0207",
+      "q": "Trong hộp có 5 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0208",
+      "q": "Nếu 4 kg gạo giá 60 nghìn đồng thì 5 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0209",
+      "q": "Tính 6/14 - 12/14. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0210",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 13, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0211",
+      "q": "Một món hàng giá 41000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0212",
+      "q": "Tìm x biết 7x - 19 = 8x - 26. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0213",
+      "q": "Tam giác ABC có góc A = 79°, góc B = 71°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0214",
+      "q": "5^4 x 5^2 bằng 5 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0215",
+      "q": "Trong hộp có 4 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0216",
+      "q": "Nếu 6 kg gạo giá 66 nghìn đồng thì 10 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0217",
+      "q": "Tính 3/8 - 4/8. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0218",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 5, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0219",
+      "q": "Một món hàng giá 63000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0220",
+      "q": "Tìm x biết 9x - 14 = 2x + 175. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0221",
+      "q": "Tam giác ABC có góc A = 55°, góc B = 44°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0222",
+      "q": "6^3 x 6^2 bằng 6 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0223",
+      "q": "Trong hộp có 7 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0224",
+      "q": "Nếu 5 kg gạo giá 55 nghìn đồng thì 10 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0225",
+      "q": "Tính 4/13 - 11/13. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0226",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 18, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0227",
+      "q": "Một món hàng giá 36000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0228",
+      "q": "Tìm x biết 7x - 9 = 2x + 21. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0229",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 38°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0230",
+      "q": "8^3 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0231",
+      "q": "Trong hộp có 4 bi đỏ và 10 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0232",
+      "q": "Nếu 8 kg gạo giá 32 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0233",
+      "q": "Tính 6/8 - 5/8. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0234",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 3. Khi x = 27, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0235",
+      "q": "Một món hàng giá 62000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0236",
+      "q": "Tìm x biết 8x - 33 = 5x + 15. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0237",
+      "q": "Tam giác ABC có góc A = 78°, góc B = 45°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0238",
+      "q": "7^2 x 7^3 bằng 7 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0239",
+      "q": "Trong hộp có 7 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0240",
+      "q": "Nếu 3 kg gạo giá 48 nghìn đồng thì 12 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0241",
+      "q": "Tính 8/10 - 8/10. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0242",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 23, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0243",
+      "q": "Một món hàng giá 29000 đồng được giảm 25%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0244",
+      "q": "Tìm x biết 4x - 13 = 5x - 41. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0245",
+      "q": "Tam giác ABC có góc A = 59°, góc B = 73°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0246",
+      "q": "4^2 x 4^3 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0247",
+      "q": "Trong hộp có 6 bi đỏ và 5 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0248",
+      "q": "Nếu 3 kg gạo giá 36 nghìn đồng thì 11 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0249",
+      "q": "Tính 6/15 - 14/15. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0250",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 6. Khi x = 30, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0251",
+      "q": "Một món hàng giá 33000 đồng được giảm 10%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0252",
+      "q": "Tìm x biết 9x - 22 = 7x - 14. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0253",
+      "q": "Tam giác ABC có góc A = 54°, góc B = 44°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0254",
+      "q": "3^4 x 3^3 bằng 3 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0255",
+      "q": "Trong hộp có 6 bi đỏ và 8 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0256",
+      "q": "Nếu 5 kg gạo giá 70 nghìn đồng thì 14 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0257",
+      "q": "Tính 1/9 - 2/9. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0258",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 5. Khi x = 18, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0259",
+      "q": "Một món hàng giá 40000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0260",
+      "q": "Tìm x biết 5x - 18 = 4x - 15. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0261",
+      "q": "Tam giác ABC có góc A = 42°, góc B = 50°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0262",
+      "q": "7^2 x 7^3 bằng 7 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0263",
+      "q": "Trong hộp có 8 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0264",
+      "q": "Nếu 5 kg gạo giá 55 nghìn đồng thì 4 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0265",
+      "q": "Tính 4/7 - 6/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0266",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 28, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0267",
+      "q": "Một món hàng giá 53000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0268",
+      "q": "Tìm x biết 5x - 20 = 2x + 25. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0269",
+      "q": "Tam giác ABC có góc A = 67°, góc B = 55°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0270",
+      "q": "4^3 x 4^3 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0271",
+      "q": "Trong hộp có 3 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0272",
+      "q": "Nếu 2 kg gạo giá 38 nghìn đồng thì 4 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0273",
+      "q": "Tính 2/13 - 9/13. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0274",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 7. Khi x = 27, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0275",
+      "q": "Một món hàng giá 26000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0276",
+      "q": "Tìm x biết 4x - 30 = 5x - 43. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0277",
+      "q": "Tam giác ABC có góc A = 45°, góc B = 64°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0278",
+      "q": "4^3 x 4^2 bằng 4 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0279",
+      "q": "Trong hộp có 7 bi đỏ và 7 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0280",
+      "q": "Nếu 2 kg gạo giá 40 nghìn đồng thì 7 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0281",
+      "q": "Tính 1/8 - 3/8. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0282",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 2. Khi x = 10, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0283",
+      "q": "Một món hàng giá 34000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0284",
+      "q": "Tìm x biết 6x - 24 = 8x - 70. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0285",
+      "q": "Tam giác ABC có góc A = 78°, góc B = 49°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0286",
+      "q": "2^4 x 2^1 bằng 2 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0287",
+      "q": "Trong hộp có 6 bi đỏ và 4 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0288",
+      "q": "Nếu 5 kg gạo giá 40 nghìn đồng thì 13 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0289",
+      "q": "Tính 9/11 - 6/11. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0290",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 28, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0291",
+      "q": "Một món hàng giá 40000 đồng được giảm 20%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0292",
+      "q": "Tìm x biết 8x - 12 = 6x + 46. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0293",
+      "q": "Tam giác ABC có góc A = 46°, góc B = 42°. Góc C bằng bao nhiêu độ? Trình bày cách làm.",
+      "hint": "Tổng ba góc trong một tam giác bằng 180°.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0294",
+      "q": "8^2 x 8^2 bằng 8 mũ mấy? Trình bày cách làm.",
+      "hint": "Khi nhân hai lũy thừa cùng cơ số, cộng các số mũ.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0295",
+      "q": "Trong hộp có 7 bi đỏ và 9 bi xanh. Xác suất lấy được bi đỏ là bao nhiêu? Trình bày cách làm.",
+      "hint": "Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0296",
+      "q": "Nếu 9 kg gạo giá 54 nghìn đồng thì 15 kg gạo cùng loại giá bao nhiêu nghìn đồng? Trình bày cách làm.",
+      "hint": "Tìm giá của 1 kg rồi nhân với số ki-lô-gam cần mua.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0297",
+      "q": "Tính 2/7 - 4/7. Trình bày cách làm.",
+      "hint": "Trừ hai số hữu tỉ cùng mẫu bằng cách trừ tử số và giữ mẫu số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0298",
+      "q": "Đại lượng y tỉ lệ thuận với x theo hệ số 9. Khi x = 28, y bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Với tỉ lệ thuận, y bằng hệ số tỉ lệ nhân với x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0299",
+      "q": "Một món hàng giá 66000 đồng được giảm 15%. Giá sau khi giảm là bao nhiêu? Trình bày cách làm.",
+      "hint": "Tìm số tiền giảm rồi lấy giá ban đầu trừ số tiền giảm.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e7-adv-0300",
+      "q": "Tìm x biết 3x - 39 = 4x - 62. Trình bày cách làm.",
+      "hint": "Thu gọn hai vế rồi chuyển các hạng tử chứa x về cùng một phía.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
       "lv": 3
     }
   ]

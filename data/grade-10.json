@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 10,
   "title": "Học Toán Lớp 10",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "status": "framework-only",
   "chapters": [
     "Mệnh đề toán học, mệnh đề phủ định, mệnh đề đảo, mệnh đề tương đương, điều kiện cần và đủ",
@@ -29,8 +29,6911 @@
     "Hoạt động thực hành và trải nghiệm",
     "Chuyên đề 10.1: Phương pháp quy nạp toán học, Nhị thức Newton",
     "Chuyên đề 10.2: Hệ phương trình bậc nhất ba ẩn",
-    "Chuyên đề 10.3: Ba đường conic và ứng dụng"
+    "Chuyên đề 10.3: Ba đường conic và ứng dụng",
+    "Tổng hợp Toán nâng cao"
   ],
-  "questions": [],
-  "exercises": []
+  "questions": [
+    {
+      "id": "q10-adv-0001",
+      "q": "Cho |A| = 30, |B| = 45, |A ∪ B| = 59. Tính |A ∩ B|.",
+      "a": [
+        "16",
+        "15",
+        "17",
+        "18"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0002",
+      "q": "Parabol y = 1(x - 5)^2 + 2 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0003",
+      "q": "Cho vectơ a = (-3; 5) và b = (-5; 6). Tọa độ a + b là?",
+      "a": [
+        "(-7; 11)",
+        "(2; -1)",
+        "(-8; 11)",
+        "(-8; 12)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0004",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "37 cách",
+        "38 cách",
+        "36 cách",
+        "35 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0005",
+      "q": "Một hộp có 10 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "10/23",
+        "5/11",
+        "6/11",
+        "1/2"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0006",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 6 cm, cạnh huyền dài 12 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "6/13",
+        "2/2",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0007",
+      "q": "Hàm số f(x) = 3x + 4. Tính f(10).",
+      "a": [
+        "36",
+        "34",
+        "35",
+        "33"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0008",
+      "q": "Bất phương trình 5x + 17 > 12 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "-1",
+        "1",
+        "-2"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0009",
+      "q": "Cho |A| = 33, |B| = 32, |A ∪ B| = 59. Tính |A ∩ B|.",
+      "a": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0010",
+      "q": "Parabol y = 2(x + 3)^2 - 17 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-17",
+        "-16",
+        "-18",
+        "-15"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0011",
+      "q": "Cho vectơ a = (7; 8) và b = (0; -2). Tọa độ a + b là?",
+      "a": [
+        "(8; 6)",
+        "(7; 10)",
+        "(7; 6)",
+        "(7; 7)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0012",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh?",
+      "a": [
+        "17 cách",
+        "15 cách",
+        "14 cách",
+        "16 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0013",
+      "q": "Một hộp có 3 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "2/7",
+        "3/14",
+        "11/14",
+        "1/5"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0014",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "3/7",
+        "2/2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0015",
+      "q": "Hàm số f(x) = 5x + 16. Tính f(0).",
+      "a": [
+        "18",
+        "17",
+        "16",
+        "15"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0016",
+      "q": "Bất phương trình 5x + 4 > 4 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "2",
+        "0",
+        "5",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0017",
+      "q": "Cho |A| = 22, |B| = 21, |A ∪ B| = 31. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "12",
+        "14",
+        "13"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0018",
+      "q": "Parabol y = 5(x + 3)^2 - 15 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-13",
+        "-16",
+        "-15",
+        "-14"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0019",
+      "q": "Cho vectơ a = (-3; 2) và b = (8; -4). Tọa độ a + b là?",
+      "a": [
+        "(-11; 6)",
+        "(5; -1)",
+        "(5; -2)",
+        "(6; -2)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0020",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "28 cách",
+        "30 cách",
+        "27 cách",
+        "29 cách"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0021",
+      "q": "Một hộp có 3 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/13",
+        "3/4",
+        "1/4",
+        "1/3"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0022",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "1/2",
+        "10/21",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0023",
+      "q": "Hàm số f(x) = 4x + 18. Tính f(6).",
+      "a": [
+        "42",
+        "41",
+        "43",
+        "44"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0024",
+      "q": "Bất phương trình 1x + 11 > 5 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-7",
+        "-4",
+        "-5",
+        "-6"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0025",
+      "q": "Cho |A| = 23, |B| = 19, |A ∪ B| = 33. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "8",
+        "10",
+        "9"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0026",
+      "q": "Parabol y = 5(x - 1)^2 - 18 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-18",
+        "-17",
+        "-16",
+        "-19"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0027",
+      "q": "Cho vectơ a = (8; 8) và b = (8; -3). Tọa độ a + b là?",
+      "a": [
+        "(17; 5)",
+        "(16; 6)",
+        "(16; 5)",
+        "(0; 11)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0028",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh?",
+      "a": [
+        "65 cách",
+        "68 cách",
+        "66 cách",
+        "67 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0029",
+      "q": "Một hộp có 7 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "6/15",
+        "8/15",
+        "7/16",
+        "7/15"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0030",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "8/17",
+        "2/2",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0031",
+      "q": "Hàm số f(x) = 7x + -13. Tính f(3).",
+      "a": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0032",
+      "q": "Bất phương trình 5x + 8 > 13 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0033",
+      "q": "Cho |A| = 31, |B| = 29, |A ∪ B| = 55. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0034",
+      "q": "Parabol y = 1(x + 1)^2 - 4 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-5",
+        "-4",
+        "-3",
+        "-2"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0035",
+      "q": "Cho vectơ a = (8; 8) và b = (-4; -3). Tọa độ a + b là?",
+      "a": [
+        "(12; 11)",
+        "(4; 6)",
+        "(5; 5)",
+        "(4; 5)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0036",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh?",
+      "a": [
+        "54 cách",
+        "56 cách",
+        "55 cách",
+        "57 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0037",
+      "q": "Một hộp có 6 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "6/11",
+        "1/2",
+        "5/11",
+        "7/11"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0038",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "1/2",
+        "2/2",
+        "11/23"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0039",
+      "q": "Hàm số f(x) = 8x + 19. Tính f(10).",
+      "a": [
+        "101",
+        "100",
+        "98",
+        "99"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0040",
+      "q": "Bất phương trình 4x + 6 > 14 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0041",
+      "q": "Cho |A| = 33, |B| = 34, |A ∪ B| = 53. Tính |A ∩ B|.",
+      "a": [
+        "13",
+        "14",
+        "16",
+        "15"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0042",
+      "q": "Parabol y = 1(x - 2)^2 - 13 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-13",
+        "-12",
+        "-11",
+        "-14"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0043",
+      "q": "Cho vectơ a = (3; 0) và b = (-4; 5). Tọa độ a + b là?",
+      "a": [
+        "(-1; 6)",
+        "(0; 5)",
+        "(-1; 5)",
+        "(7; -5)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0044",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh?",
+      "a": [
+        "54 cách",
+        "57 cách",
+        "56 cách",
+        "55 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0045",
+      "q": "Một hộp có 10 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "10/17",
+        "11/16",
+        "5/8",
+        "3/8"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0046",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "2",
+        "8/17",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0047",
+      "q": "Hàm số f(x) = 4x + 16. Tính f(0).",
+      "a": [
+        "17",
+        "18",
+        "15",
+        "16"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0048",
+      "q": "Bất phương trình 5x + 6 > -14 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-4",
+        "-2",
+        "-5"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0049",
+      "q": "Cho |A| = 39, |B| = 25, |A ∪ B| = 54. Tính |A ∩ B|.",
+      "a": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0050",
+      "q": "Parabol y = 1(x - 5)^2 + 18 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "19",
+        "17",
+        "18",
+        "20"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0051",
+      "q": "Cho vectơ a = (6; 5) và b = (-1; 3). Tọa độ a + b là?",
+      "a": [
+        "(7; 2)",
+        "(5; 9)",
+        "(5; 8)",
+        "(6; 8)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0052",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "47 cách",
+        "46 cách",
+        "44 cách",
+        "45 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0053",
+      "q": "Một hộp có 8 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "4/7",
+        "9/14",
+        "8/15",
+        "3/7"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0054",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "2",
+        "10/21",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0055",
+      "q": "Hàm số f(x) = 2x + -3. Tính f(-4).",
+      "a": [
+        "-9",
+        "-12",
+        "-10",
+        "-11"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0056",
+      "q": "Bất phương trình 4x + 12 > -4 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-2",
+        "-3",
+        "-4",
+        "-5"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0057",
+      "q": "Cho |A| = 20, |B| = 39, |A ∪ B| = 48. Tính |A ∩ B|.",
+      "a": [
+        "10",
+        "13",
+        "12",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0058",
+      "q": "Parabol y = 4(x + 2)^2 - 15 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-14",
+        "-15",
+        "-13",
+        "-16"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0059",
+      "q": "Cho vectơ a = (8; -2) và b = (-5; -4). Tọa độ a + b là?",
+      "a": [
+        "(4; -6)",
+        "(3; -5)",
+        "(13; 2)",
+        "(3; -6)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0060",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh?",
+      "a": [
+        "15 cách",
+        "17 cách",
+        "14 cách",
+        "16 cách"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0061",
+      "q": "Một hộp có 10 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "10/21",
+        "11/20",
+        "2/2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0062",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2/2",
+        "2",
+        "11/23"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0063",
+      "q": "Hàm số f(x) = 6x + 13. Tính f(-4).",
+      "a": [
+        "-10",
+        "-11",
+        "-9",
+        "-12"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0064",
+      "q": "Bất phương trình 4x + 19 > 7 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-1",
+        "-2",
+        "-4",
+        "-3"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0065",
+      "q": "Cho |A| = 33, |B| = 42, |A ∪ B| = 59. Tính |A ∩ B|.",
+      "a": [
+        "17",
+        "16",
+        "15",
+        "18"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0066",
+      "q": "Parabol y = 5(x + 1)^2 - 2 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "0",
+        "-3",
+        "-2",
+        "-1"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0067",
+      "q": "Cho vectơ a = (-5; -2) và b = (-2; 8). Tọa độ a + b là?",
+      "a": [
+        "(-6; 6)",
+        "(-7; 7)",
+        "(-3; -10)",
+        "(-7; 6)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0068",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "38 cách",
+        "37 cách",
+        "35 cách",
+        "36 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0069",
+      "q": "Một hộp có 10 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "11/14",
+        "2/7",
+        "2/3",
+        "5/7"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0070",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "4/9",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0071",
+      "q": "Hàm số f(x) = 7x + 17. Tính f(-4).",
+      "a": [
+        "-11",
+        "-10",
+        "-9",
+        "-12"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0072",
+      "q": "Bất phương trình 1x + 9 > 8 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0073",
+      "q": "Cho |A| = 38, |B| = 26, |A ∪ B| = 46. Tính |A ∩ B|.",
+      "a": [
+        "20",
+        "18",
+        "17",
+        "19"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0074",
+      "q": "Parabol y = 2(x + 4)^2 + 1 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "0",
+        "3",
+        "1",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0075",
+      "q": "Cho vectơ a = (4; 4) và b = (5; -3). Tọa độ a + b là?",
+      "a": [
+        "(10; 1)",
+        "(-1; 7)",
+        "(9; 2)",
+        "(9; 1)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0076",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "30 cách",
+        "29 cách",
+        "28 cách",
+        "27 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0077",
+      "q": "Một hộp có 4 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/5",
+        "2/5",
+        "1/2",
+        "4/11"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0078",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "10/21",
+        "2",
+        "2/2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0079",
+      "q": "Hàm số f(x) = 5x + 5. Tính f(10).",
+      "a": [
+        "54",
+        "55",
+        "57",
+        "56"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0080",
+      "q": "Bất phương trình 4x + 9 > 21 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0081",
+      "q": "Cho |A| = 21, |B| = 18, |A ∪ B| = 34. Tính |A ∩ B|.",
+      "a": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0082",
+      "q": "Parabol y = 2(x - 3)^2 + 13 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "13",
+        "15",
+        "14",
+        "12"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0083",
+      "q": "Cho vectơ a = (0; 5) và b = (6; 3). Tọa độ a + b là?",
+      "a": [
+        "(6; 9)",
+        "(6; 8)",
+        "(7; 8)",
+        "(-6; 2)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0084",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh?",
+      "a": [
+        "17 cách",
+        "16 cách",
+        "15 cách",
+        "14 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0085",
+      "q": "Một hộp có 3 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "4/7",
+        "3/8",
+        "3/7",
+        "2/7"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0086",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2",
+        "2/2",
+        "9/19"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0087",
+      "q": "Hàm số f(x) = 7x + 14. Tính f(5).",
+      "a": [
+        "50",
+        "49",
+        "51",
+        "48"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0088",
+      "q": "Bất phương trình 2x + 8 > -2 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-6",
+        "-5",
+        "-4"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0089",
+      "q": "Cho |A| = 32, |B| = 29, |A ∪ B| = 52. Tính |A ∩ B|.",
+      "a": [
+        "10",
+        "11",
+        "8",
+        "9"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0090",
+      "q": "Parabol y = 5(x + 4)^2 - 3 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-1",
+        "-3",
+        "-2",
+        "-4"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0091",
+      "q": "Cho vectơ a = (3; -1) và b = (8; 5). Tọa độ a + b là?",
+      "a": [
+        "(11; 5)",
+        "(11; 4)",
+        "(-5; -6)",
+        "(12; 4)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0092",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "37 cách",
+        "36 cách",
+        "38 cách",
+        "35 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0093",
+      "q": "Một hộp có 4 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "5/12",
+        "1/3",
+        "4/13",
+        "2/3"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0094",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "1/2",
+        "11/23",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0095",
+      "q": "Hàm số f(x) = 2x + 20. Tính f(-4).",
+      "a": [
+        "14",
+        "13",
+        "11",
+        "12"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0096",
+      "q": "Bất phương trình 2x + 10 > 10 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "5",
+        "0",
+        "2",
+        "1"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0097",
+      "q": "Cho |A| = 19, |B| = 23, |A ∪ B| = 35. Tính |A ∩ B|.",
+      "a": [
+        "6",
+        "7",
+        "9",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0098",
+      "q": "Parabol y = 2(x + 5)^2 - 17 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-15",
+        "-18",
+        "-16",
+        "-17"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0099",
+      "q": "Cho vectơ a = (6; -5) và b = (3; 7). Tọa độ a + b là?",
+      "a": [
+        "(9; 2)",
+        "(10; 2)",
+        "(9; 3)",
+        "(3; -12)"
+      ],
+      "c": "A",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0100",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh?",
+      "a": [
+        "21 cách",
+        "22 cách",
+        "20 cách",
+        "23 cách"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0101",
+      "q": "Một hộp có 7 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "5/12",
+        "7/12",
+        "7/13",
+        "2/3"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0102",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "10/21",
+        "2/2",
+        "1/2",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0103",
+      "q": "Hàm số f(x) = 4x + -17. Tính f(-1).",
+      "a": [
+        "-22",
+        "-20",
+        "-21",
+        "-19"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0104",
+      "q": "Bất phương trình 1x + 18 > 14 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-2",
+        "-4",
+        "-5"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0105",
+      "q": "Cho |A| = 35, |B| = 25, |A ∪ B| = 49. Tính |A ∩ B|.",
+      "a": [
+        "10",
+        "12",
+        "13",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0106",
+      "q": "Parabol y = 3(x + 3)^2 - 6 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-5",
+        "-6",
+        "-7",
+        "-4"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0107",
+      "q": "Cho vectơ a = (-1; -5) và b = (-4; -3). Tọa độ a + b là?",
+      "a": [
+        "(-4; -8)",
+        "(-5; -7)",
+        "(3; -2)",
+        "(-5; -8)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0108",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh?",
+      "a": [
+        "65 cách",
+        "66 cách",
+        "67 cách",
+        "68 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0109",
+      "q": "Một hộp có 8 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "9/16",
+        "8/17",
+        "1/2",
+        "2/2"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0110",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 5 cm, cạnh huyền dài 10 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "5/11",
+        "1/2",
+        "2",
+        "2/2"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0111",
+      "q": "Hàm số f(x) = 4x + 15. Tính f(0).",
+      "a": [
+        "15",
+        "14",
+        "16",
+        "17"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0112",
+      "q": "Bất phương trình 2x + 17 > 19 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0113",
+      "q": "Cho |A| = 21, |B| = 36, |A ∪ B| = 45. Tính |A ∩ B|.",
+      "a": [
+        "12",
+        "14",
+        "11",
+        "13"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0114",
+      "q": "Parabol y = 5(x - 3)^2 - 1 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0115",
+      "q": "Cho vectơ a = (8; 5) và b = (2; 1). Tọa độ a + b là?",
+      "a": [
+        "(11; 6)",
+        "(10; 6)",
+        "(6; 4)",
+        "(10; 7)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0116",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "30 cách",
+        "27 cách",
+        "29 cách",
+        "28 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0117",
+      "q": "Một hộp có 7 thẻ may mắn và 7 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "7/15",
+        "1/2",
+        "2/2",
+        "4/7"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0118",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "11/23",
+        "1/2",
+        "2/2",
+        "2"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0119",
+      "q": "Hàm số f(x) = 5x + -8. Tính f(-3).",
+      "a": [
+        "-22",
+        "-24",
+        "-21",
+        "-23"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0120",
+      "q": "Bất phương trình 3x + 11 > 20 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0121",
+      "q": "Cho |A| = 35, |B| = 22, |A ∪ B| = 50. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "9",
+        "8",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0122",
+      "q": "Parabol y = 5(x - 3)^2 + 18 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "20",
+        "19",
+        "17",
+        "18"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0123",
+      "q": "Cho vectơ a = (-5; -4) và b = (2; 1). Tọa độ a + b là?",
+      "a": [
+        "(-7; -5)",
+        "(-3; -2)",
+        "(-2; -3)",
+        "(-3; -3)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0124",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh?",
+      "a": [
+        "23 cách",
+        "21 cách",
+        "20 cách",
+        "22 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0125",
+      "q": "Một hộp có 8 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "1/3",
+        "2/3",
+        "8/13",
+        "3/4"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0126",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2",
+        "10/21",
+        "2/2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0127",
+      "q": "Hàm số f(x) = 6x + 3. Tính f(-5).",
+      "a": [
+        "-28",
+        "-27",
+        "-25",
+        "-26"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0128",
+      "q": "Bất phương trình 3x + 10 > -2 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-5",
+        "-4",
+        "-2"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0129",
+      "q": "Cho |A| = 30, |B| = 40, |A ∪ B| = 54. Tính |A ∩ B|.",
+      "a": [
+        "17",
+        "15",
+        "16",
+        "18"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0130",
+      "q": "Parabol y = 5(x + 2)^2 + 12 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "13",
+        "12",
+        "14",
+        "11"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0131",
+      "q": "Cho vectơ a = (7; 1) và b = (-1; 5). Tọa độ a + b là?",
+      "a": [
+        "(8; -4)",
+        "(6; 6)",
+        "(6; 7)",
+        "(7; 6)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0132",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "30 cách",
+        "28 cách",
+        "29 cách",
+        "27 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0133",
+      "q": "Một hộp có 6 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "7/10",
+        "6/11",
+        "3/5",
+        "2/5"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0134",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "9/19",
+        "2/2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0135",
+      "q": "Hàm số f(x) = 7x + 8. Tính f(3).",
+      "a": [
+        "29",
+        "31",
+        "28",
+        "30"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0136",
+      "q": "Bất phương trình 3x + 7 > 16 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0137",
+      "q": "Cho |A| = 22, |B| = 24, |A ∪ B| = 37. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "10",
+        "8",
+        "9"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0138",
+      "q": "Parabol y = 3(x + 1)^2 + 12 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "13",
+        "11",
+        "12",
+        "14"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0139",
+      "q": "Cho vectơ a = (-4; -2) và b = (8; 3). Tọa độ a + b là?",
+      "a": [
+        "(4; 2)",
+        "(-12; -5)",
+        "(5; 1)",
+        "(4; 1)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0140",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "47 cách",
+        "44 cách",
+        "46 cách",
+        "45 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0141",
+      "q": "Một hộp có 6 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "1/3",
+        "6/19",
+        "7/18",
+        "2/3"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0142",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "10/21",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0143",
+      "q": "Hàm số f(x) = 5x + 19. Tính f(-2).",
+      "a": [
+        "8",
+        "10",
+        "9",
+        "11"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0144",
+      "q": "Bất phương trình 5x + 20 > 5 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-4",
+        "-1",
+        "-2"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0145",
+      "q": "Cho |A| = 14, |B| = 31, |A ∪ B| = 39. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0146",
+      "q": "Parabol y = 5(x - 0)^2 + 6 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "7",
+        "8",
+        "5",
+        "6"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0147",
+      "q": "Cho vectơ a = (3; 2) và b = (8; 2). Tọa độ a + b là?",
+      "a": [
+        "(11; 5)",
+        "(12; 4)",
+        "(11; 4)",
+        "(-5; 0)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0148",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh?",
+      "a": [
+        "23 cách",
+        "22 cách",
+        "20 cách",
+        "21 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0149",
+      "q": "Một hộp có 8 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "8/15",
+        "4/7",
+        "9/14",
+        "3/7"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0150",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "8/17",
+        "2",
+        "1/2",
+        "2/2"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0151",
+      "q": "Hàm số f(x) = 8x + -5. Tính f(-1).",
+      "a": [
+        "-13",
+        "-14",
+        "-12",
+        "-11"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0152",
+      "q": "Bất phương trình 2x + 19 > 13 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-4",
+        "-2",
+        "-3",
+        "-1"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0153",
+      "q": "Cho |A| = 32, |B| = 30, |A ∪ B| = 51. Tính |A ∩ B|.",
+      "a": [
+        "12",
+        "10",
+        "13",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0154",
+      "q": "Parabol y = 1(x + 1)^2 + 3 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0155",
+      "q": "Cho vectơ a = (3; 0) và b = (1; 6). Tọa độ a + b là?",
+      "a": [
+        "(5; 6)",
+        "(4; 7)",
+        "(2; -6)",
+        "(4; 6)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0156",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "29 cách",
+        "28 cách",
+        "27 cách",
+        "30 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0157",
+      "q": "Một hộp có 3 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/11",
+        "1/4",
+        "8/11",
+        "4/11"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0158",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "12/25",
+        "2/2",
+        "1/2",
+        "2"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0159",
+      "q": "Hàm số f(x) = 7x + -20. Tính f(4).",
+      "a": [
+        "7",
+        "10",
+        "9",
+        "8"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0160",
+      "q": "Bất phương trình 3x + 9 > 12 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0161",
+      "q": "Cho |A| = 31, |B| = 28, |A ∪ B| = 46. Tính |A ∩ B|.",
+      "a": [
+        "13",
+        "14",
+        "15",
+        "12"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0162",
+      "q": "Parabol y = 2(x + 5)^2 + 11 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "12",
+        "10",
+        "13",
+        "11"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0163",
+      "q": "Cho vectơ a = (-3; 1) và b = (7; -3). Tọa độ a + b là?",
+      "a": [
+        "(5; -2)",
+        "(-10; 4)",
+        "(4; -2)",
+        "(4; -1)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0164",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh?",
+      "a": [
+        "16 cách",
+        "17 cách",
+        "15 cách",
+        "14 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0165",
+      "q": "Một hộp có 10 thẻ may mắn và 7 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "5/9",
+        "7/17",
+        "10/17",
+        "11/17"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0166",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 6 cm, cạnh huyền dài 12 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "6/13",
+        "2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0167",
+      "q": "Hàm số f(x) = 4x + 19. Tính f(5).",
+      "a": [
+        "39",
+        "41",
+        "40",
+        "38"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0168",
+      "q": "Bất phương trình 2x + 6 > 0 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-2",
+        "-1",
+        "-4",
+        "-3"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0169",
+      "q": "Cho |A| = 28, |B| = 29, |A ∪ B| = 40. Tính |A ∩ B|.",
+      "a": [
+        "16",
+        "19",
+        "18",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0170",
+      "q": "Parabol y = 5(x + 1)^2 + 18 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "20",
+        "19",
+        "17",
+        "18"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0171",
+      "q": "Cho vectơ a = (1; -3) và b = (6; 0). Tọa độ a + b là?",
+      "a": [
+        "(7; -2)",
+        "(7; -3)",
+        "(8; -3)",
+        "(-5; -3)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0172",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "36 cách",
+        "37 cách",
+        "35 cách",
+        "38 cách"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0173",
+      "q": "Một hộp có 3 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/11",
+        "1/4",
+        "4/11",
+        "8/11"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0174",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "4/9",
+        "2",
+        "2/2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0175",
+      "q": "Hàm số f(x) = 8x + -16. Tính f(-3).",
+      "a": [
+        "-41",
+        "-38",
+        "-39",
+        "-40"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0176",
+      "q": "Bất phương trình 3x + 18 > 21 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "1",
+        "0",
+        "2",
+        "3"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0177",
+      "q": "Cho |A| = 32, |B| = 38, |A ∪ B| = 61. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "9",
+        "8",
+        "10"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0178",
+      "q": "Parabol y = 2(x + 1)^2 + 9 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "11",
+        "9",
+        "10",
+        "8"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0179",
+      "q": "Cho vectơ a = (8; 8) và b = (0; 6). Tọa độ a + b là?",
+      "a": [
+        "(8; 2)",
+        "(9; 14)",
+        "(8; 15)",
+        "(8; 14)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0180",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "37 cách",
+        "36 cách",
+        "35 cách",
+        "38 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0181",
+      "q": "Một hộp có 7 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "7/13",
+        "6/13",
+        "8/13",
+        "1/2"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0182",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "1/2",
+        "2/2",
+        "11/23"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0183",
+      "q": "Hàm số f(x) = 2x + -9. Tính f(-4).",
+      "a": [
+        "-18",
+        "-17",
+        "-15",
+        "-16"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0184",
+      "q": "Bất phương trình 5x + 17 > 37 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0185",
+      "q": "Cho |A| = 20, |B| = 32, |A ∪ B| = 42. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0186",
+      "q": "Parabol y = 4(x + 1)^2 + 4 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0187",
+      "q": "Cho vectơ a = (7; 2) và b = (-3; 4). Tọa độ a + b là?",
+      "a": [
+        "(10; -2)",
+        "(4; 7)",
+        "(4; 6)",
+        "(5; 6)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0188",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "47 cách",
+        "44 cách",
+        "46 cách",
+        "45 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0189",
+      "q": "Một hộp có 6 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "5/8",
+        "3/8",
+        "6/17",
+        "7/16"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0190",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "1/2",
+        "12/25"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0191",
+      "q": "Hàm số f(x) = 2x + 14. Tính f(9).",
+      "a": [
+        "33",
+        "34",
+        "32",
+        "31"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0192",
+      "q": "Bất phương trình 2x + 6 > 2 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "-2",
+        "-3",
+        "-1"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0193",
+      "q": "Cho |A| = 31, |B| = 41, |A ∪ B| = 57. Tính |A ∩ B|.",
+      "a": [
+        "16",
+        "17",
+        "15",
+        "14"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0194",
+      "q": "Parabol y = 2(x - 2)^2 + 5 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0195",
+      "q": "Cho vectơ a = (-4; 4) và b = (6; 5). Tọa độ a + b là?",
+      "a": [
+        "(3; 9)",
+        "(2; 10)",
+        "(2; 9)",
+        "(-10; -1)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0196",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "30 cách",
+        "28 cách",
+        "27 cách",
+        "29 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0197",
+      "q": "Một hộp có 9 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "9/22",
+        "10/21",
+        "3/7",
+        "4/7"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0198",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "2",
+        "1/2",
+        "4/9"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0199",
+      "q": "Hàm số f(x) = 5x + 9. Tính f(4).",
+      "a": [
+        "31",
+        "30",
+        "28",
+        "29"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0200",
+      "q": "Bất phương trình 3x + 10 > 13 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0201",
+      "q": "Cho |A| = 32, |B| = 26, |A ∪ B| = 41. Tính |A ∩ B|.",
+      "a": [
+        "17",
+        "19",
+        "16",
+        "18"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0202",
+      "q": "Parabol y = 1(x - 4)^2 - 12 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-10",
+        "-12",
+        "-13",
+        "-11"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0203",
+      "q": "Cho vectơ a = (0; 5) và b = (1; 7). Tọa độ a + b là?",
+      "a": [
+        "(2; 12)",
+        "(1; 12)",
+        "(-1; -2)",
+        "(1; 13)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0204",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "35 cách",
+        "38 cách",
+        "36 cách",
+        "37 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0205",
+      "q": "Một hộp có 9 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "9/14",
+        "9/13",
+        "10/13",
+        "4/13"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0206",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "1/2",
+        "7/15",
+        "2/2"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0207",
+      "q": "Hàm số f(x) = 7x + -2. Tính f(4).",
+      "a": [
+        "28",
+        "26",
+        "27",
+        "25"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0208",
+      "q": "Bất phương trình 3x + 15 > 3 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-5",
+        "-3",
+        "-2",
+        "-4"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0209",
+      "q": "Cho |A| = 18, |B| = 27, |A ∪ B| = 35. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "9",
+        "12",
+        "10"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0210",
+      "q": "Parabol y = 4(x - 2)^2 - 7 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-7",
+        "-8",
+        "-6",
+        "-5"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0211",
+      "q": "Cho vectơ a = (6; 7) và b = (8; 7). Tọa độ a + b là?",
+      "a": [
+        "(-2; 0)",
+        "(14; 15)",
+        "(14; 14)",
+        "(15; 14)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0212",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "44 cách",
+        "46 cách",
+        "45 cách",
+        "47 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0213",
+      "q": "Một hộp có 4 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/4",
+        "5/16",
+        "4/17",
+        "1/4"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0214",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "3/7",
+        "2",
+        "2/2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0215",
+      "q": "Hàm số f(x) = 7x + 2. Tính f(5).",
+      "a": [
+        "37",
+        "39",
+        "36",
+        "38"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0216",
+      "q": "Bất phương trình 1x + 4 > 2 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-1",
+        "-2",
+        "0",
+        "-3"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0217",
+      "q": "Cho |A| = 22, |B| = 42, |A ∪ B| = 51. Tính |A ∩ B|.",
+      "a": [
+        "15",
+        "14",
+        "13",
+        "12"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0218",
+      "q": "Parabol y = 3(x + 4)^2 - 16 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-15",
+        "-16",
+        "-14",
+        "-17"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0219",
+      "q": "Cho vectơ a = (-1; -3) và b = (8; 5). Tọa độ a + b là?",
+      "a": [
+        "(7; 3)",
+        "(-9; -8)",
+        "(8; 2)",
+        "(7; 2)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0220",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "46 cách",
+        "45 cách",
+        "44 cách",
+        "47 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0221",
+      "q": "Một hộp có 9 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/7",
+        "9/20",
+        "1/2",
+        "11/20"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0222",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2/2",
+        "11/23",
+        "2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0223",
+      "q": "Hàm số f(x) = 3x + -14. Tính f(6).",
+      "a": [
+        "5",
+        "3",
+        "6",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0224",
+      "q": "Bất phương trình 2x + 15 > 15 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "2",
+        "5",
+        "1"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0225",
+      "q": "Cho |A| = 35, |B| = 23, |A ∪ B| = 50. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0226",
+      "q": "Parabol y = 2(x - 1)^2 + 15 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "15",
+        "14",
+        "17",
+        "16"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0227",
+      "q": "Cho vectơ a = (7; 1) và b = (7; 1). Tọa độ a + b là?",
+      "a": [
+        "(14; 3)",
+        "(0; 0)",
+        "(14; 2)",
+        "(15; 2)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0228",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "37 cách",
+        "36 cách",
+        "38 cách",
+        "35 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0229",
+      "q": "Một hộp có 5 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "6/17",
+        "5/17",
+        "12/17",
+        "5/18"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0230",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2",
+        "2/2",
+        "9/19"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0231",
+      "q": "Hàm số f(x) = 3x + 5. Tính f(3).",
+      "a": [
+        "15",
+        "14",
+        "13",
+        "16"
+      ],
+      "c": "B",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0232",
+      "q": "Bất phương trình 4x + 5 > -15 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-6",
+        "-3",
+        "-4",
+        "-5"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0233",
+      "q": "Cho |A| = 36, |B| = 22, |A ∪ B| = 47. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "10",
+        "12",
+        "13"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0234",
+      "q": "Parabol y = 3(x - 3)^2 + 6 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "c": "A",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0235",
+      "q": "Cho vectơ a = (-3; 2) và b = (0; 8). Tọa độ a + b là?",
+      "a": [
+        "(-3; -6)",
+        "(-2; 10)",
+        "(-3; 11)",
+        "(-3; 10)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0236",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh?",
+      "a": [
+        "15 cách",
+        "16 cách",
+        "14 cách",
+        "17 cách"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0237",
+      "q": "Một hộp có 5 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "4/11",
+        "6/11",
+        "5/12",
+        "5/11"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0238",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "4/9",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0239",
+      "q": "Hàm số f(x) = 2x + 17. Tính f(9).",
+      "a": [
+        "37",
+        "36",
+        "34",
+        "35"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0240",
+      "q": "Bất phương trình 1x + 8 > 4 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-4",
+        "-3",
+        "-5",
+        "-2"
+      ],
+      "c": "A",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0241",
+      "q": "Cho |A| = 31, |B| = 30, |A ∪ B| = 52. Tính |A ∩ B|.",
+      "a": [
+        "9",
+        "11",
+        "8",
+        "10"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0242",
+      "q": "Parabol y = 4(x - 4)^2 - 17 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-18",
+        "-17",
+        "-16",
+        "-15"
+      ],
+      "c": "B",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0243",
+      "q": "Cho vectơ a = (5; -5) và b = (3; 3). Tọa độ a + b là?",
+      "a": [
+        "(8; -2)",
+        "(8; -1)",
+        "(2; -8)",
+        "(9; -2)"
+      ],
+      "c": "A",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0244",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh?",
+      "a": [
+        "57 cách",
+        "55 cách",
+        "54 cách",
+        "56 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0245",
+      "q": "Một hộp có 4 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "1/3",
+        "4/15",
+        "1/4",
+        "11/15"
+      ],
+      "c": "B",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0246",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "7/15",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0247",
+      "q": "Hàm số f(x) = 6x + -11. Tính f(7).",
+      "a": [
+        "31",
+        "33",
+        "32",
+        "30"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0248",
+      "q": "Bất phương trình 2x + 14 > 22 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0249",
+      "q": "Cho |A| = 27, |B| = 23, |A ∪ B| = 36. Tính |A ∩ B|.",
+      "a": [
+        "16",
+        "14",
+        "13",
+        "15"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0250",
+      "q": "Parabol y = 3(x - 3)^2 + 8 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "c": "C",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0251",
+      "q": "Cho vectơ a = (0; -5) và b = (4; -1). Tọa độ a + b là?",
+      "a": [
+        "(5; -6)",
+        "(4; -5)",
+        "(4; -6)",
+        "(-4; -4)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0252",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh?",
+      "a": [
+        "65 cách",
+        "68 cách",
+        "66 cách",
+        "67 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0253",
+      "q": "Một hộp có 6 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "11/17",
+        "7/17",
+        "6/17",
+        "1/3"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0254",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2/2",
+        "12/25",
+        "2"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0255",
+      "q": "Hàm số f(x) = 8x + 10. Tính f(0).",
+      "a": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0256",
+      "q": "Bất phương trình 1x + 15 > 9 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-5",
+        "-6",
+        "-7",
+        "-4"
+      ],
+      "c": "B",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0257",
+      "q": "Cho |A| = 42, |B| = 23, |A ∪ B| = 50. Tính |A ∩ B|.",
+      "a": [
+        "16",
+        "17",
+        "14",
+        "15"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0258",
+      "q": "Parabol y = 4(x - 1)^2 + 19 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "18",
+        "20",
+        "21",
+        "19"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0259",
+      "q": "Cho vectơ a = (1; -4) và b = (-1; 1). Tọa độ a + b là?",
+      "a": [
+        "(0; -2)",
+        "(2; -5)",
+        "(0; -3)",
+        "(1; -3)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0260",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "27 cách",
+        "30 cách",
+        "29 cách",
+        "28 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0261",
+      "q": "Một hộp có 10 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "2/3",
+        "2/7",
+        "5/7",
+        "11/14"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0262",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "1/2",
+        "2",
+        "2/2",
+        "12/25"
+      ],
+      "c": "A",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0263",
+      "q": "Hàm số f(x) = 5x + 17. Tính f(7).",
+      "a": [
+        "54",
+        "51",
+        "52",
+        "53"
+      ],
+      "c": "C",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0264",
+      "q": "Bất phương trình 5x + 6 > -19 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "-3",
+        "-4",
+        "-6",
+        "-5"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0265",
+      "q": "Cho |A| = 20, |B| = 34, |A ∪ B| = 45. Tính |A ∩ B|.",
+      "a": [
+        "11",
+        "10",
+        "8",
+        "9"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0266",
+      "q": "Parabol y = 2(x + 5)^2 - 9 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-8",
+        "-7",
+        "-10",
+        "-9"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0267",
+      "q": "Cho vectơ a = (6; 7) và b = (2; -5). Tọa độ a + b là?",
+      "a": [
+        "(4; 12)",
+        "(9; 2)",
+        "(8; 3)",
+        "(8; 2)"
+      ],
+      "c": "D",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0268",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh?",
+      "a": [
+        "54 cách",
+        "57 cách",
+        "55 cách",
+        "56 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0269",
+      "q": "Một hộp có 9 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "3/5",
+        "5/7",
+        "9/14",
+        "5/14"
+      ],
+      "c": "C",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0270",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "9/19",
+        "2/2",
+        "2",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0271",
+      "q": "Hàm số f(x) = 4x + 0. Tính f(3).",
+      "a": [
+        "14",
+        "13",
+        "11",
+        "12"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0272",
+      "q": "Bất phương trình 1x + 10 > 10 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "5",
+        "2",
+        "0",
+        "1"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0273",
+      "q": "Cho |A| = 27, |B| = 29, |A ∪ B| = 48. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "8",
+        "10",
+        "9"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0274",
+      "q": "Parabol y = 4(x + 5)^2 + 17 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "19",
+        "16",
+        "18",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0275",
+      "q": "Cho vectơ a = (1; -4) và b = (-2; 0). Tọa độ a + b là?",
+      "a": [
+        "(-1; -4)",
+        "(3; -4)",
+        "(-1; -3)",
+        "(0; -4)"
+      ],
+      "c": "A",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0276",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh?",
+      "a": [
+        "23 cách",
+        "20 cách",
+        "21 cách",
+        "22 cách"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0277",
+      "q": "Một hộp có 10 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "11/19",
+        "1/2",
+        "9/19",
+        "10/19"
+      ],
+      "c": "D",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0278",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 6 cm, cạnh huyền dài 12 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "1/2",
+        "2/2",
+        "6/13"
+      ],
+      "c": "B",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0279",
+      "q": "Hàm số f(x) = 7x + -2. Tính f(5).",
+      "a": [
+        "33",
+        "34",
+        "35",
+        "32"
+      ],
+      "c": "A",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0280",
+      "q": "Bất phương trình 1x + 18 > 19 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "2",
+        "3",
+        "1",
+        "0"
+      ],
+      "c": "C",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0281",
+      "q": "Cho |A| = 35, |B| = 30, |A ∪ B| = 59. Tính |A ∩ B|.",
+      "a": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "c": "C",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0282",
+      "q": "Parabol y = 2(x - 5)^2 - 6 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-4",
+        "-5",
+        "-7",
+        "-6"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0283",
+      "q": "Cho vectơ a = (-1; 5) và b = (-3; -1). Tọa độ a + b là?",
+      "a": [
+        "(2; 6)",
+        "(-4; 4)",
+        "(-3; 4)",
+        "(-4; 5)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0284",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh?",
+      "a": [
+        "27 cách",
+        "30 cách",
+        "29 cách",
+        "28 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0285",
+      "q": "Một hộp có 4 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "4/9",
+        "5/9",
+        "2/5",
+        "3/9"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0286",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "2",
+        "2/2",
+        "4/9",
+        "1/2"
+      ],
+      "c": "D",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0287",
+      "q": "Hàm số f(x) = 8x + -8. Tính f(10).",
+      "a": [
+        "71",
+        "73",
+        "74",
+        "72"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0288",
+      "q": "Bất phương trình 3x + 5 > -1 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "0",
+        "-3",
+        "-1",
+        "-2"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0289",
+      "q": "Cho |A| = 37, |B| = 26, |A ∪ B| = 46. Tính |A ∩ B|.",
+      "a": [
+        "17",
+        "16",
+        "18",
+        "19"
+      ],
+      "c": "A",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0290",
+      "q": "Parabol y = 4(x - 1)^2 - 2 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "-3",
+        "0",
+        "-1",
+        "-2"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0291",
+      "q": "Cho vectơ a = (8; -2) và b = (4; 2). Tọa độ a + b là?",
+      "a": [
+        "(4; -4)",
+        "(12; 0)",
+        "(13; 0)",
+        "(12; 1)"
+      ],
+      "c": "B",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0292",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh?",
+      "a": [
+        "44 cách",
+        "45 cách",
+        "47 cách",
+        "46 cách"
+      ],
+      "c": "B",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0293",
+      "q": "Một hộp có 6 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là?",
+      "a": [
+        "6/17",
+        "1/3",
+        "11/17",
+        "7/17"
+      ],
+      "c": "A",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0294",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu?",
+      "a": [
+        "7/15",
+        "2",
+        "1/2",
+        "2/2"
+      ],
+      "c": "C",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0295",
+      "q": "Hàm số f(x) = 2x + -3. Tính f(10).",
+      "a": [
+        "16",
+        "18",
+        "19",
+        "17"
+      ],
+      "c": "D",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0296",
+      "q": "Bất phương trình 3x + 7 > 13 có nghiệm x lớn hơn số nào?",
+      "a": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "c": "D",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0297",
+      "q": "Cho |A| = 17, |B| = 37, |A ∪ B| = 46. Tính |A ∩ B|.",
+      "a": [
+        "7",
+        "10",
+        "9",
+        "8"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0298",
+      "q": "Parabol y = 4(x + 5)^2 + 3 có giá trị nhỏ nhất bằng bao nhiêu?",
+      "a": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "c": "D",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0299",
+      "q": "Cho vectơ a = (0; -3) và b = (0; 2). Tọa độ a + b là?",
+      "a": [
+        "(0; -5)",
+        "(0; 0)",
+        "(0; -1)",
+        "(1; -1)"
+      ],
+      "c": "C",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "q10-adv-0300",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh?",
+      "a": [
+        "35 cách",
+        "37 cách",
+        "38 cách",
+        "36 cách"
+      ],
+      "c": "D",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    }
+  ],
+  "exercises": [
+    {
+      "id": "e10-adv-0001",
+      "q": "Cho |A| = 28, |B| = 41, |A ∪ B| = 52. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0002",
+      "q": "Parabol y = 5(x + 4)^2 + 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0003",
+      "q": "Cho vectơ a = (-2; 7) và b = (3; 0). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0004",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0005",
+      "q": "Một hộp có 4 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0006",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0007",
+      "q": "Hàm số f(x) = 2x + -16. Tính f(-1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0008",
+      "q": "Bất phương trình 2x + 6 > -2 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0009",
+      "q": "Cho |A| = 26, |B| = 32, |A ∪ B| = 51. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0010",
+      "q": "Parabol y = 4(x + 3)^2 + 5 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0011",
+      "q": "Cho vectơ a = (5; -1) và b = (3; -2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0012",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0013",
+      "q": "Một hộp có 8 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0014",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0015",
+      "q": "Hàm số f(x) = 8x + -10. Tính f(9). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0016",
+      "q": "Bất phương trình 2x + 3 > -3 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0017",
+      "q": "Cho |A| = 14, |B| = 18, |A ∪ B| = 26. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0018",
+      "q": "Parabol y = 4(x + 1)^2 - 2 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0019",
+      "q": "Cho vectơ a = (6; -1) và b = (3; 3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0020",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0021",
+      "q": "Một hộp có 3 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0022",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0023",
+      "q": "Hàm số f(x) = 7x + -19. Tính f(1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0024",
+      "q": "Bất phương trình 4x + 11 > -5 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0025",
+      "q": "Cho |A| = 32, |B| = 22, |A ∪ B| = 45. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0026",
+      "q": "Parabol y = 1(x + 3)^2 + 11 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0027",
+      "q": "Cho vectơ a = (-5; 3) và b = (-3; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0028",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0029",
+      "q": "Một hộp có 4 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0030",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0031",
+      "q": "Hàm số f(x) = 4x + -18. Tính f(8). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0032",
+      "q": "Bất phương trình 5x + 8 > -7 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0033",
+      "q": "Cho |A| = 27, |B| = 38, |A ∪ B| = 54. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0034",
+      "q": "Parabol y = 1(x + 3)^2 + 11 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0035",
+      "q": "Cho vectơ a = (4; -1) và b = (-4; 8). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0036",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0037",
+      "q": "Một hộp có 7 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0038",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0039",
+      "q": "Hàm số f(x) = 8x + 9. Tính f(-3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0040",
+      "q": "Bất phương trình 2x + 14 > 22 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0041",
+      "q": "Cho |A| = 26, |B| = 42, |A ∪ B| = 55. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0042",
+      "q": "Parabol y = 4(x - 4)^2 - 15 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0043",
+      "q": "Cho vectơ a = (-1; -3) và b = (7; 8). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0044",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0045",
+      "q": "Một hộp có 6 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0046",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0047",
+      "q": "Hàm số f(x) = 5x + 4. Tính f(1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0048",
+      "q": "Bất phương trình 4x + 15 > 27 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0049",
+      "q": "Cho |A| = 31, |B| = 34, |A ∪ B| = 57. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0050",
+      "q": "Parabol y = 1(x + 2)^2 - 17 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0051",
+      "q": "Cho vectơ a = (-5; 0) và b = (-1; 1). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0052",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0053",
+      "q": "Một hộp có 10 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0054",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0055",
+      "q": "Hàm số f(x) = 5x + -11. Tính f(10). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0056",
+      "q": "Bất phương trình 4x + 7 > 3 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0057",
+      "q": "Cho |A| = 26, |B| = 23, |A ∪ B| = 40. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0058",
+      "q": "Parabol y = 2(x - 4)^2 + 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0059",
+      "q": "Cho vectơ a = (7; 8) và b = (0; -4). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0060",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0061",
+      "q": "Một hộp có 9 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0062",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0063",
+      "q": "Hàm số f(x) = 7x + -9. Tính f(-4). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0064",
+      "q": "Bất phương trình 5x + 3 > -17 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0065",
+      "q": "Cho |A| = 25, |B| = 37, |A ∪ B| = 46. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0066",
+      "q": "Parabol y = 1(x + 2)^2 - 4 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0067",
+      "q": "Cho vectơ a = (6; 8) và b = (-1; -2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0068",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0069",
+      "q": "Một hộp có 7 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0070",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0071",
+      "q": "Hàm số f(x) = 4x + 1. Tính f(4). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0072",
+      "q": "Bất phương trình 5x + 15 > -5 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0073",
+      "q": "Cho |A| = 45, |B| = 36, |A ∪ B| = 63. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0074",
+      "q": "Parabol y = 5(x - 3)^2 - 5 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0075",
+      "q": "Cho vectơ a = (5; 3) và b = (3; -2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0076",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0077",
+      "q": "Một hộp có 4 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0078",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0079",
+      "q": "Hàm số f(x) = 6x + -10. Tính f(5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0080",
+      "q": "Bất phương trình 5x + 11 > 11 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0081",
+      "q": "Cho |A| = 14, |B| = 24, |A ∪ B| = 32. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0082",
+      "q": "Parabol y = 5(x + 1)^2 - 18 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0083",
+      "q": "Cho vectơ a = (0; 7) và b = (8; -5). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0084",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0085",
+      "q": "Một hộp có 10 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0086",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 5 cm, cạnh huyền dài 10 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0087",
+      "q": "Hàm số f(x) = 7x + -12. Tính f(7). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0088",
+      "q": "Bất phương trình 4x + 7 > 19 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0089",
+      "q": "Cho |A| = 29, |B| = 39, |A ∪ B| = 58. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0090",
+      "q": "Parabol y = 5(x + 2)^2 - 19 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0091",
+      "q": "Cho vectơ a = (1; 2) và b = (0; 7). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0092",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0093",
+      "q": "Một hộp có 7 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0094",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0095",
+      "q": "Hàm số f(x) = 2x + 19. Tính f(1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0096",
+      "q": "Bất phương trình 4x + 20 > 28 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0097",
+      "q": "Cho |A| = 35, |B| = 23, |A ∪ B| = 50. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0098",
+      "q": "Parabol y = 2(x + 4)^2 - 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0099",
+      "q": "Cho vectơ a = (5; 5) và b = (6; 8). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0100",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0101",
+      "q": "Một hộp có 5 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0102",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0103",
+      "q": "Hàm số f(x) = 3x + 10. Tính f(3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0104",
+      "q": "Bất phương trình 5x + 20 > 30 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0105",
+      "q": "Cho |A| = 42, |B| = 27, |A ∪ B| = 56. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0106",
+      "q": "Parabol y = 3(x + 3)^2 - 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0107",
+      "q": "Cho vectơ a = (-1; 0) và b = (5; 5). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0108",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0109",
+      "q": "Một hộp có 3 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0110",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0111",
+      "q": "Hàm số f(x) = 3x + -12. Tính f(1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0112",
+      "q": "Bất phương trình 1x + 20 > 21 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0113",
+      "q": "Cho |A| = 36, |B| = 22, |A ∪ B| = 48. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0114",
+      "q": "Parabol y = 2(x + 1)^2 + 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0115",
+      "q": "Cho vectơ a = (7; 7) và b = (3; 8). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0116",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0117",
+      "q": "Một hộp có 7 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0118",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0119",
+      "q": "Hàm số f(x) = 2x + -12. Tính f(-3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0120",
+      "q": "Bất phương trình 4x + 17 > 21 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0121",
+      "q": "Cho |A| = 38, |B| = 45, |A ∪ B| = 67. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0122",
+      "q": "Parabol y = 5(x + 1)^2 - 14 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0123",
+      "q": "Cho vectơ a = (1; -4) và b = (3; 4). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0124",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0125",
+      "q": "Một hộp có 6 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0126",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 6 cm, cạnh huyền dài 12 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0127",
+      "q": "Hàm số f(x) = 3x + -5. Tính f(5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0128",
+      "q": "Bất phương trình 3x + 19 > 25 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0129",
+      "q": "Cho |A| = 38, |B| = 44, |A ∪ B| = 67. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0130",
+      "q": "Parabol y = 1(x - 3)^2 + 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0131",
+      "q": "Cho vectơ a = (-2; 0) và b = (1; 4). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0132",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0133",
+      "q": "Một hộp có 9 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0134",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0135",
+      "q": "Hàm số f(x) = 3x + -20. Tính f(-1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0136",
+      "q": "Bất phương trình 2x + 19 > 9 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0137",
+      "q": "Cho |A| = 22, |B| = 31, |A ∪ B| = 43. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0138",
+      "q": "Parabol y = 4(x - 0)^2 - 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0139",
+      "q": "Cho vectơ a = (8; 3) và b = (0; -3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0140",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0141",
+      "q": "Một hộp có 8 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0142",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0143",
+      "q": "Hàm số f(x) = 6x + 16. Tính f(-1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0144",
+      "q": "Bất phương trình 1x + 17 > 15 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0145",
+      "q": "Cho |A| = 35, |B| = 38, |A ∪ B| = 62. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0146",
+      "q": "Parabol y = 1(x - 0)^2 - 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0147",
+      "q": "Cho vectơ a = (0; -3) và b = (-1; 4). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0148",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0149",
+      "q": "Một hộp có 5 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0150",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0151",
+      "q": "Hàm số f(x) = 5x + -18. Tính f(9). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0152",
+      "q": "Bất phương trình 5x + 5 > 0 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0153",
+      "q": "Cho |A| = 37, |B| = 41, |A ∪ B| = 62. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0154",
+      "q": "Parabol y = 4(x - 3)^2 - 1 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0155",
+      "q": "Cho vectơ a = (6; 0) và b = (2; -5). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0156",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0157",
+      "q": "Một hộp có 4 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0158",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0159",
+      "q": "Hàm số f(x) = 7x + 2. Tính f(-5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0160",
+      "q": "Bất phương trình 3x + 11 > 14 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0161",
+      "q": "Cho |A| = 15, |B| = 27, |A ∪ B| = 36. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0162",
+      "q": "Parabol y = 2(x - 3)^2 + 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0163",
+      "q": "Cho vectơ a = (7; 3) và b = (-5; -3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0164",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0165",
+      "q": "Một hộp có 7 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0166",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 4 cm, cạnh huyền dài 8 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0167",
+      "q": "Hàm số f(x) = 5x + 9. Tính f(8). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0168",
+      "q": "Bất phương trình 1x + 10 > 6 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0169",
+      "q": "Cho |A| = 32, |B| = 14, |A ∪ B| = 41. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0170",
+      "q": "Parabol y = 5(x + 3)^2 - 19 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0171",
+      "q": "Cho vectơ a = (7; 5) và b = (4; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0172",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0173",
+      "q": "Một hộp có 8 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0174",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 11 cm, cạnh huyền dài 22 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0175",
+      "q": "Hàm số f(x) = 5x + -18. Tính f(-1). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0176",
+      "q": "Bất phương trình 2x + 7 > 9 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0177",
+      "q": "Cho |A| = 29, |B| = 38, |A ∪ B| = 49. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0178",
+      "q": "Parabol y = 1(x - 2)^2 - 16 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0179",
+      "q": "Cho vectơ a = (-2; -5) và b = (-5; 6). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0180",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0181",
+      "q": "Một hộp có 4 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0182",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 12 cm, cạnh huyền dài 24 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0183",
+      "q": "Hàm số f(x) = 5x + 19. Tính f(-5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0184",
+      "q": "Bất phương trình 2x + 6 > 8 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0185",
+      "q": "Cho |A| = 22, |B| = 22, |A ∪ B| = 33. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0186",
+      "q": "Parabol y = 4(x - 3)^2 + 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0187",
+      "q": "Cho vectơ a = (2; 0) và b = (4; 7). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0188",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0189",
+      "q": "Một hộp có 6 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0190",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0191",
+      "q": "Hàm số f(x) = 3x + 20. Tính f(3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0192",
+      "q": "Bất phương trình 2x + 6 > 10 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0193",
+      "q": "Cho |A| = 29, |B| = 38, |A ∪ B| = 51. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0194",
+      "q": "Parabol y = 2(x - 2)^2 + 17 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0195",
+      "q": "Cho vectơ a = (7; -3) và b = (-3; 3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0196",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 9 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0197",
+      "q": "Một hộp có 3 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0198",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0199",
+      "q": "Hàm số f(x) = 5x + 14. Tính f(7). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0200",
+      "q": "Bất phương trình 1x + 17 > 15 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0201",
+      "q": "Cho |A| = 22, |B| = 24, |A ∪ B| = 40. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0202",
+      "q": "Parabol y = 3(x - 1)^2 - 9 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0203",
+      "q": "Cho vectơ a = (1; 8) và b = (-2; -2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0204",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 11 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0205",
+      "q": "Một hộp có 10 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0206",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 10 cm, cạnh huyền dài 20 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0207",
+      "q": "Hàm số f(x) = 8x + -2. Tính f(10). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0208",
+      "q": "Bất phương trình 3x + 5 > -4 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0209",
+      "q": "Cho |A| = 16, |B| = 37, |A ∪ B| = 46. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0210",
+      "q": "Parabol y = 4(x + 1)^2 + 8 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0211",
+      "q": "Cho vectơ a = (8; 2) và b = (0; 3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0212",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0213",
+      "q": "Một hộp có 8 thẻ may mắn và 4 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0214",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0215",
+      "q": "Hàm số f(x) = 5x + 4. Tính f(4). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0216",
+      "q": "Bất phương trình 4x + 6 > 2 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0217",
+      "q": "Cho |A| = 27, |B| = 34, |A ∪ B| = 55. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0218",
+      "q": "Parabol y = 2(x - 4)^2 + 3 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0219",
+      "q": "Cho vectơ a = (7; 6) và b = (1; 8). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0220",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0221",
+      "q": "Một hộp có 9 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0222",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0223",
+      "q": "Hàm số f(x) = 2x + 2. Tính f(8). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0224",
+      "q": "Bất phương trình 4x + 4 > -4 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0225",
+      "q": "Cho |A| = 41, |B| = 20, |A ∪ B| = 49. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0226",
+      "q": "Parabol y = 4(x + 1)^2 + 10 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0227",
+      "q": "Cho vectơ a = (8; 6) và b = (3; -1). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0228",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0229",
+      "q": "Một hộp có 9 thẻ may mắn và 12 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0230",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0231",
+      "q": "Hàm số f(x) = 2x + -9. Tính f(7). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0232",
+      "q": "Bất phương trình 3x + 5 > -7 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0233",
+      "q": "Cho |A| = 18, |B| = 27, |A ∪ B| = 38. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0234",
+      "q": "Parabol y = 3(x - 3)^2 - 8 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0235",
+      "q": "Cho vectơ a = (-2; 8) và b = (-5; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0236",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 10 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0237",
+      "q": "Một hộp có 6 thẻ may mắn và 8 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0238",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 5 cm, cạnh huyền dài 10 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0239",
+      "q": "Hàm số f(x) = 7x + -16. Tính f(0). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0240",
+      "q": "Bất phương trình 4x + 3 > -9 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0241",
+      "q": "Cho |A| = 42, |B| = 43, |A ∪ B| = 70. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0242",
+      "q": "Parabol y = 5(x + 2)^2 - 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0243",
+      "q": "Cho vectơ a = (-4; 7) và b = (5; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0244",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0245",
+      "q": "Một hộp có 4 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0246",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0247",
+      "q": "Hàm số f(x) = 2x + 2. Tính f(4). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0248",
+      "q": "Bất phương trình 2x + 5 > 5 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0249",
+      "q": "Cho |A| = 38, |B| = 32, |A ∪ B| = 55. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0250",
+      "q": "Parabol y = 1(x + 3)^2 + 6 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0251",
+      "q": "Cho vectơ a = (7; 7) và b = (6; 3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0252",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0253",
+      "q": "Một hộp có 8 thẻ may mắn và 5 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0254",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 6 cm, cạnh huyền dài 12 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0255",
+      "q": "Hàm số f(x) = 5x + -20. Tính f(10). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0256",
+      "q": "Bất phương trình 1x + 7 > 7 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0257",
+      "q": "Cho |A| = 26, |B| = 26, |A ∪ B| = 39. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0258",
+      "q": "Parabol y = 1(x + 4)^2 + 20 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0259",
+      "q": "Cho vectơ a = (-4; 8) và b = (8; -5). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0260",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0261",
+      "q": "Một hộp có 10 thẻ may mắn và 9 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0262",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 8 cm, cạnh huyền dài 16 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0263",
+      "q": "Hàm số f(x) = 6x + 19. Tính f(7). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0264",
+      "q": "Bất phương trình 3x + 10 > 4 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0265",
+      "q": "Cho |A| = 25, |B| = 23, |A ∪ B| = 34. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0266",
+      "q": "Parabol y = 1(x - 4)^2 + 12 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0267",
+      "q": "Cho vectơ a = (0; 3) và b = (-3; -5). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0268",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 6 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0269",
+      "q": "Một hộp có 8 thẻ may mắn và 11 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0270",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 9 cm, cạnh huyền dài 18 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0271",
+      "q": "Hàm số f(x) = 5x + -2. Tính f(3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0272",
+      "q": "Bất phương trình 1x + 17 > 19 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0273",
+      "q": "Cho |A| = 23, |B| = 26, |A ∪ B| = 37. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0274",
+      "q": "Parabol y = 5(x + 5)^2 - 8 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0275",
+      "q": "Cho vectơ a = (-2; 4) và b = (4; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0276",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 7 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0277",
+      "q": "Một hộp có 5 thẻ may mắn và 6 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0278",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0279",
+      "q": "Hàm số f(x) = 7x + 10. Tính f(-5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0280",
+      "q": "Bất phương trình 2x + 19 > 17 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0281",
+      "q": "Cho |A| = 27, |B| = 25, |A ∪ B| = 46. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0282",
+      "q": "Parabol y = 3(x - 4)^2 - 7 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0283",
+      "q": "Cho vectơ a = (-3; 1) và b = (-2; 3). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0284",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0285",
+      "q": "Một hộp có 4 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0286",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 7 cm, cạnh huyền dài 14 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0287",
+      "q": "Hàm số f(x) = 2x + 12. Tính f(-5). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0288",
+      "q": "Bất phương trình 5x + 4 > 24 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0289",
+      "q": "Cho |A| = 27, |B| = 16, |A ∪ B| = 37. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0290",
+      "q": "Parabol y = 1(x + 3)^2 - 8 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0291",
+      "q": "Cho vectơ a = (-5; -3) và b = (2; 2). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0292",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 8 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0293",
+      "q": "Một hộp có 7 thẻ may mắn và 10 thẻ thường. Xác suất rút được thẻ may mắn là? Trình bày cách làm.",
+      "hint": "Lấy số trường hợp thuận lợi chia cho tổng số trường hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0294",
+      "q": "Trong tam giác vuông, cạnh đối của góc A dài 3 cm, cạnh huyền dài 6 cm. sin A bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Sin của một góc nhọn bằng cạnh đối chia cho cạnh huyền.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0295",
+      "q": "Hàm số f(x) = 6x + -19. Tính f(3). Trình bày cách làm.",
+      "hint": "Thay giá trị của x vào biểu thức của hàm số.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0296",
+      "q": "Bất phương trình 2x + 13 > 11 có nghiệm x lớn hơn số nào? Trình bày cách làm.",
+      "hint": "Chuyển vế để đưa bất phương trình về dạng so sánh trực tiếp của x.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0297",
+      "q": "Cho |A| = 24, |B| = 24, |A ∪ B| = 40. Tính |A ∩ B|. Trình bày cách làm.",
+      "hint": "Dùng công thức số phần tử của hợp hai tập hợp.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0298",
+      "q": "Parabol y = 4(x + 3)^2 - 4 có giá trị nhỏ nhất bằng bao nhiêu? Trình bày cách làm.",
+      "hint": "Dạng đỉnh của parabol cho biết trực tiếp tung độ đỉnh.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0299",
+      "q": "Cho vectơ a = (6; 7) và b = (0; 4). Tọa độ a + b là? Trình bày cách làm.",
+      "hint": "Cộng hai vectơ theo từng tọa độ tương ứng.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    },
+    {
+      "id": "e10-adv-0300",
+      "q": "Có bao nhiêu cách chọn 2 học sinh từ nhóm 12 học sinh? Trình bày cách làm.",
+      "hint": "Dùng công thức tổ hợp chập 2 hoặc đếm các cặp không xét thứ tự.",
+      "ch": "Tổng hợp Toán nâng cao",
+      "chapter": 99,
+      "lv": 3
+    }
+  ]
 }
