@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "grade": 4,
   "title": "Học Toán Lớp 4",
-  "updatedAt": "2026-05-13",
+  "updatedAt": "2026-05-14",
   "questions": [
     {
       "id": 1,
@@ -1507,7 +1507,7 @@
         "x = 27/11",
         "x = 27/28",
         "x = 36/21",
-        "x = 27/28"
+        "x = 12/7"
       ],
       "c": "B"
     },
@@ -20133,8 +20133,8 @@
       "id": 208,
       "ch": "Dấu hiệu chia hết",
       "lv": 2,
-      "q": "Điền chữ số thích hợp vào dấu * để được các số vừa chia hết cho 9 vừa chia hết cho 5:\\na) 426*\\nb) 673*",
-      "hint": "Chia hết cho 5 → tận cùng là 0 hoặc 5\\nChia hết cho 9 → tổng các chữ số chia hết cho 9\\na) 4+2+6+* chia hết 9 và * = 0 hoặc 5\\nb) 6+7+3+* chia hết 9 và * = 0 hoặc 5"
+      "q": "Điền chữ số thích hợp vào dấu * để được các số vừa chia hết cho 9 vừa chia hết cho 5:\\na) 423*\\nb) 670*",
+      "hint": "Chia hết cho 5 → tận cùng là 0 hoặc 5\\nChia hết cho 9 → tổng các chữ số chia hết cho 9\\na) 4+2+3+* chia hết 9 và * = 0 hoặc 5\\nb) 6+7+0+* chia hết 9 và * = 0 hoặc 5\nĐáp án: a) * = 0; b) * = 5"
     },
     {
       "id": 209,

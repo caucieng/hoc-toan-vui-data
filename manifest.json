@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.13.3",
-  "updatedAt": "2026-05-13",
-  "note": "Public lesson data only. Do not store student profile or progress here. Grade 12 includes a university exam compilation framework section.",
+  "contentVersion": "2026.05.14.1",
+  "updatedAt": "2026-05-14",
+  "note": "Public lesson data only. Grade 4 fixes one divisibility exercise and one duplicate-choice quiz item. Version bumped to force refresh on installed apps.",
   "grades": {
     "1": "data/grade-1.json",
     "2": "data/grade-2.json",
