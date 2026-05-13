@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.13.2",
+  "contentVersion": "2026.05.13.3",
   "updatedAt": "2026-05-13",
-  "note": "Public lesson data only. Do not store student profile or progress here. Grades 10-12 currently contain curriculum framework only.",
+  "note": "Public lesson data only. Do not store student profile or progress here. Grade 12 includes a university exam compilation framework section.",
   "grades": {
     "1": "data/grade-1.json",
     "2": "data/grade-2.json",

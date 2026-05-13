@@ -28,6 +28,14 @@ https://caucieng.github.io/hoc-toan-vui-data/manifest.json
 
 Nếu link này mở ra thấy nội dung JSON là app có thể cập nhật bài học.
 
+Lần cập nhật này cần có thêm:
+
+- `data/grade-10.json`
+- `data/grade-11.json`
+- `data/grade-12.json`
+
+Và `manifest.json` phải có `contentVersion` là `2026.05.13.2` hoặc mới hơn.
+
 ## Lưu ý quan trọng
 
 Repo này là công khai. Chỉ để dữ liệu bài học/câu hỏi/bài tập ở đây.

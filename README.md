@@ -1,11 +1,13 @@
 # Hoc Toan Vui Data
 
-D? li?u b?i h?c c?ng khai cho app H?c To?n Vui.
+Dữ liệu bài học công khai cho app Học Toán Vui.
 
-- Ch? ??a b?i h?c, c?u h?i, b?i t?p l?n ??y.
-- Kh?ng ??a th?ng tin h?c sinh, ti?n ??, ?i?m s? ho?c d? li?u c? nh?n.
-- Khi c?p nh?t b?i h?c, t?ng `contentVersion` trong `manifest.json` ?? app nh?n b?n m?i.
+- Chỉ đưa bài học, câu hỏi, bài tập lên đây.
+- Không đưa thông tin học sinh, tiến độ, điểm số hoặc dữ liệu cá nhân.
+- Lớp 1-9 hiện có câu hỏi và bài tập.
+- Lớp 10-12 hiện có khung chương trình, câu hỏi và bài tập sẽ cập nhật sau.
+- Khi cập nhật bài học, tăng `contentVersion` trong `manifest.json` để app nhận bản mới.
 
-URL GitHub Pages d? ki?n:
+URL GitHub Pages:
 
 `https://caucieng.github.io/hoc-toan-vui-data/manifest.json`
