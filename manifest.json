@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "app": "Hoc Toan Vui",
+  "contentVersion": "2026.05.13.1",
+  "updatedAt": "2026-05-13",
+  "note": "Public lesson data only. Do not store student profile or progress here.",
+  "grades": {
+    "1": "data/grade-1.json",
+    "2": "data/grade-2.json",
+    "3": "data/grade-3.json",
+    "4": "data/grade-4.json",
+    "5": "data/grade-5.json",
+    "6": "data/grade-6.json",
+    "7": "data/grade-7.json",
+    "8": "data/grade-8.json",
+    "9": "data/grade-9.json"
+  }
+}
