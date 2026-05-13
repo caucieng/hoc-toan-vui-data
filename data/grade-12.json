@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "grade": 12,
+  "title": "Học Toán Lớp 12",
+  "updatedAt": "2026-05-13",
+  "status": "framework-only",
+  "chapters": [
+    "Tính đơn điệu của hàm số",
+    "Giá trị lớn nhất, giá trị nhỏ nhất của hàm số",
+    "Khảo sát và vẽ đồ thị của hàm số",
+    "Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn",
+    "Nguyên hàm và bảng nguyên hàm của một số hàm số sơ cấp",
+    "Tích phân và ứng dụng hình học của tích phân",
+    "Toạ độ của vectơ trong không gian và biểu thức toạ độ của các phép toán vectơ",
+    "Phương trình mặt phẳng trong không gian",
+    "Phương trình đường thẳng trong không gian",
+    "Phương trình mặt cầu",
+    "Các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+    "Xác suất có điều kiện",
+    "Các quy tắc tính xác suất: công thức xác suất toàn phần, công thức Bayes, sơ đồ hình cây",
+    "Hoạt động thực hành và trải nghiệm",
+    "Chuyên đề 12.1: Biến ngẫu nhiên rời rạc và các số đặc trưng của biến ngẫu nhiên rời rạc",
+    "Chuyên đề 12.2: Ứng dụng toán học để giải quyết một số bài toán tối ưu",
+    "Chuyên đề 12.3: Ứng dụng toán học trong một số vấn đề liên quan đến tài chính"
+  ],
+  "questions": [],
+  "exercises": []
+}
