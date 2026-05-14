@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.14.4",
+  "contentVersion": "2026.05.14.9",
   "updatedAt": "2026-05-14",
-  "note": "Adds content chapter lists so the advanced math box appears after update, plus 300 advanced quizzes and 300 advanced exercises for each grade 1-11.",
+  "note": "Filtered grade 1-12 question banks so higher grades no longer receive basic lower-grade arithmetic as advanced or grade-level practice.",
   "grades": {
     "1": "data/grade-1.json",
     "2": "data/grade-2.json",
