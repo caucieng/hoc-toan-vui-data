@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.14.9",
+  "contentVersion": "2026.05.14.10",
   "updatedAt": "2026-05-14",
-  "note": "Filtered grade 1-12 question banks so higher grades no longer receive basic lower-grade arithmetic as advanced or grade-level practice.",
+  "note": "Improved variety for grades 3-8: place-value questions, million-place numbers, unlike-denominator fractions, varied rounding, rational numbers, and multivariable polynomials.",
   "grades": {
     "1": "data/grade-1.json",
     "2": "data/grade-2.json",
