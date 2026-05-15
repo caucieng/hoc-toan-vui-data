@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.15.3",
-  "updatedAt": "2026-05-15",
-  "note": "Thêm mục Đề thi từ thư mục baitap lớp 1-9; bài thi cũ chuyển thành Bài tổng hợp.",
+  "contentVersion": "2026.05.15.6",
+  "updatedAt": "2026-05-15T13:56:31.968Z",
+  "note": "Bổ sung 25 đáp án đề thi lấy tin cậy từ file nguồn và xuất danh sách câu còn thiếu đáp án để soát.",
   "latestAppVersion": "1.4.1",
   "appUpdate": {
     "android": {
