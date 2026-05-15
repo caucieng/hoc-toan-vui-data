@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.15.6",
-  "updatedAt": "2026-05-15T13:56:31.968Z",
-  "note": "Bổ sung 25 đáp án đề thi lấy tin cậy từ file nguồn và xuất danh sách câu còn thiếu đáp án để soát.",
+  "contentVersion": "2026.05.15.7",
+  "updatedAt": "2026-05-15T14:11:47.803Z",
+  "note": "?nh ?? thi c? ???c ??ng g?i trong app; d? li?u GitHub d?ng ???ng d?n local exam-assets, GitHub ch? c?n upload ?nh m?i n?u c?.",
   "latestAppVersion": "1.4.1",
   "appUpdate": {
     "android": {
