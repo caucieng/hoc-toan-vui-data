@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "grade": 9,
   "title": "Học Toán Lớp 9",
-  "updatedAt": "2026-05-14",
+  "updatedAt": "2026-05-15",
   "questions": [
     {
       "id": "xl-q9-0001",
@@ -32852,1354 +32852,160 @@
   ],
   "exams": [
     {
-      "q": "Vòng 1\nBài 1: Vượt chướng ngại vật\nCâu 1: Giá trị của biểu thức biết\nx² - 4x + 1 = 0 là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
+      "id": "vio-9-0001",
+      "q": "Bài 3: Đừng để điểm rơi Câu 10 Cho 0 0 ≤ α ≤ 90 0, có sinα.cosα = 1/4. Tính sin 2 α + cos 4 α =... Nhập kết quả dưới dạng phân số tối giản (.../...)",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "7/8",
+      "solution": "Đáp án trong đề gốc: 7/8.",
+      "ch": "Vòng 11",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 1: Vượt chướng ngại vật - Câu 1",
-      "id": "vio-9-0001"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Đừng để điểm rơi - Câu 10"
     },
     {
-      "q": "Vòng 1\nBài 1: Vượt chướng ngại vật\nCâu 2: Giá trị của x thỏa mãn là x\n= ...\n(Nhập kết quả dưới dạng phân số tối giản)",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
+      "id": "vio-9-0002",
+      "q": "Câu 3: Cho ΔABC vuông tại A, có sinB = 0,6. Vậy sinC =... Nhập kết quả dưới dạng số thập phân gọn nhất",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "0,8",
+      "solution": "Đáp án trong đề gốc: 0,8.",
+      "ch": "Vòng 11",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 1: Vượt chướng ngại vật - Câu 2",
-      "id": "vio-9-0002"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Đừng để điểm rơi - Câu 3"
     },
     {
-      "q": "Vòng 1\nBài 1: Vượt chướng ngại vật\nCâu 3: Số dương x thỏa mãn |x - 4| = 5 là x = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 1: Vượt chướng ngại vật - Câu 3",
-      "id": "vio-9-0003"
-    },
-    {
-      "q": "Vòng 1\nBài 1: Vượt chướng ngại vật\nCâu 4: Số các tự nhiên n thỏa mãn: 5(2 - 3n) + 42 + 3n ≥ 0 là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 1: Vượt chướng ngại vật - Câu 4",
-      "id": "vio-9-0004"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 1: Điều kiện xác định của phương trình là:\nA) x # 0; ±1 B) x = ±1 C) x # ±1 D)\nx # 0",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 1",
-      "id": "vio-9-0005"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 10: Tổng x + y biết x, y thỏa mãn x² + 2y² - 2xy + 4y + 4 =0 là:\nA) x + y = 4\nB) x + y = -4\nC) x + y = 2\nD) x + y = -2",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 10",
-      "id": "vio-9-0006"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 11: Tổng các nghiệm của phương trình (x² - 4).(x² - 10) = 72 là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 11",
-      "id": "vio-9-0007"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 12: Cho biểu thức . Với\na > b > 0 và 2(a² + b²) = 5ab thì giá rị biểu thức P là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 12",
-      "id": "vio-9-0008"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 2: Nếu a += b = 6 a³ - b³ = 0 thì a = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 2",
-      "id": "vio-9-0009"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 3: Cho hình thanh ABCD đáy nhỏ AB. Giả sử M, N là trung điểm hai cạnh\nbên và MN = 5cm. Biết diện tích hình thang là 10cm². Vậy độ dài đường cao của\nhình thang là:\nA) 1cm B) 4cm C) 3cm D) 2cm",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 3",
-      "id": "vio-9-0010"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 4: Giá trị của biểu thức A = x³ + y³ + 3x²y + 3xy² với x + y = 5 là A\n= ....",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 4",
-      "id": "vio-9-0011"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 5: Tìm m sao cho phương trình (9x + 1)(x - 2m) = (3x + 2)(3x - 5) nhận\nx = 1 làm nghiệm.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 5",
-      "id": "vio-9-0012"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 6: Giải bất phương trình 5 - 3x > -10 ta được kết quả là:\nA) x ≤ 5 B) x > 5 C) x < 5 D)\nx = 5",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 6",
-      "id": "vio-9-0013"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 7: Cho biểu thức . Với\ncác số a, b, c khác 0 thỏa mãn a + b + c = 0 thì giá trị của biểu thức A bằng:\nA) 3 B) 4 C) 2 D)\n0",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 7",
-      "id": "vio-9-0014"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 8: Tìm x biết (5x - 3)(7x + 2) - 35x(x - 1) = 42",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 8",
-      "id": "vio-9-0015"
-    },
-    {
-      "q": "Vòng 1\nBài 2: Đỉnh núi trí tuệ\nCâu 9: Số giá trị của x để biểu thức đạt giá trị bằng 0 là ....",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 2: Đỉnh núi trí tuệ - Câu 9",
-      "id": "vio-9-0016"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 1: Số nghiệm của phương trình x² + 5x + 10 = 0 là:\nA) 2 B) 3 C) 1 D) 0",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 1",
-      "id": "vio-9-0017"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 10: Nếu (a + b)² = 5 thì (a + b) 6 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 10",
-      "id": "vio-9-0018"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 11: Có bao nhiêu giá trị của x để x 3 - 8 = (x - 3) 3 ?\nA) 1 B) 0 C) 3\nD) 2",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 11",
-      "id": "vio-9-0019"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 2: Nếu a, b,c là các số khác 0 và a = ab; b = 3c thì a/c = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 2",
-      "id": "vio-9-0020"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 3: Giá trị nhỏ nhất của biểu thức A = 3x² + y² + 2xy + 4x là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 3",
-      "id": "vio-9-0021"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 4: Số các số nguyên x để nhận\ngiá trị nguyên là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 4",
-      "id": "vio-9-0022"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 5: Tập hợp các giá trị x thỏa mãn (x - 1)² = 2016. |x - 1| là {...}\n(Nhập các giá trị theo thứ tự tăng dần, cách nhau bởi dấu \";\")",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 5",
-      "id": "vio-9-0023"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 6: Tìm x biết x + 2x + 3x + ... + 2016x = 2017.2018.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 6",
-      "id": "vio-9-0024"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 7: Cho biểu thức A = x 4 + x². Với những giá trị x thỏa mãn\n|x| = 2 thì A = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 7",
-      "id": "vio-9-0025"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 8: Số các giá trị của x để phân thức có giá trị bằng 0 là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 1",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 8",
-      "id": "vio-9-0026"
-    },
-    {
-      "q": "Vòng 1\nBài 3: Đi tìm kho báu\nCâu 9: Cho ABCD là hình thoi. Phát biểu nào dưới đây không đúng?\nA) ABCD là hình thang\nB) ABCD là tứ giác\nC) ABCD là hình bình hành\nD) ABCD là hình vuông",
+      "id": "vio-9-0003",
+      "q": "Câu 1: Cho đường tròn đường kính AB = 5cm, điểm C nằm trên đường tròn sao cho AC = 3cm. Tính độ dài cạnh BC?",
       "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
-      "ch": "Vòng 1",
+      "answer": "4",
+      "solution": "Đáp án trong đề gốc: 4.",
+      "ch": "Vòng 13",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-1-nam-2016-2017.doc",
-      "topic": "Bài 3: Đi tìm kho báu - Câu 9",
-      "id": "vio-9-0027"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 1: Đừng để điểm rơi - Câu 1"
     },
     {
-      "q": "Vòng 11\nBài 1: Đi tìm kho báu\nCâu 1: Cho hàm số y = f(x) = x 2 +",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 1",
-      "id": "vio-9-0028"
-    },
-    {
-      "q": "Vòng 11\nBài 1: Đi tìm kho báu\nCâu 2 : Tìm x:\nTrả lời: Giá trị x là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 2",
-      "id": "vio-9-0029"
-    },
-    {
-      "q": "Vòng 11\nBài 1: Đi tìm kho báu\nCâu 4\nTính:\nTrả lời: B = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 4",
-      "id": "vio-9-0030"
-    },
-    {
-      "q": "Vòng 11\nBài 1: Đi tìm kho báu\nCâu 5\nTìm giá trị lớn nhất của biểu thức\nA = 8 -\nTrả lời: Giá trị lớn nhất của A\nlà ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 5",
-      "id": "vio-9-0031"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 1: Tìm x biết:\nTrả lời: Giá trị của x là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 1",
-      "id": "vio-9-0032"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 10 : Tìm giá\ntrị lớn nhất của E = √(3 - x) + x.\nTrả lời: Giá trị lớn nhất của E là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 10",
-      "id": "vio-9-0033"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 3 : Cho hàm\nsố y = f(x), điểm A(a; b) thuộc đồ thị hàm số y = f(x) khi:\nA. f(a) = 0\nB. b = f(a)\nC. a = f(b)\nD. f(b) = 0",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 3",
-      "id": "vio-9-0034"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 4 : Biểu thức xác định\nkhi và chỉ khi.\nA. x ≥ 0 và x ≠ 1\nB. x ≥ 0 và x ≠ 3\nC. x ≤ 0 và x ≠ - 1\nD. x ≤ 0 và x ≠ -3",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 4",
-      "id": "vio-9-0035"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 5 : Tính √(25\n+ 144) = ...\nA. 13\nB. 17\nC. -13\nD. 169",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 5",
-      "id": "vio-9-0036"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 6 : Cho ΔABC\nvuông tại A có trung tuyến AM = AB. Khi đó tanB - 3tanC = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 6",
-      "id": "vio-9-0037"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 7 : So sánh\nQ = √2017 - √2016 và P = √2016 - √2015 ta được:\nA. Q > P\nB. Không so sánh được\nC. Q < P\nD. Q = P",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 7",
-      "id": "vio-9-0038"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 8 : Trong\ncác biểu thức sau, biểu thức nào xác định với ∀x ∈ R\nA.\nB.\nC.\nD.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 8",
-      "id": "vio-9-0039"
-    },
-    {
-      "q": "Vòng 11\nBài 2: Mười hai con giáp\nCâu 9 :\nCho hàm số Tìm m để hàm số là\nhàm số bậc nhất\nA. m = -2\nB. m ≠ -2\nC. m < 2\nD. m > 2",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 9",
-      "id": "vio-9-0040"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 1: Cho đường tròn (O; 10cm),\ndây AB = 16cm. Tính khoảng cách từ tâm O đến dây AB.\nTrả lời: Khoảng cách từ tâm O tới dây AB là ...cm",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 1",
-      "id": "vio-9-0041"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 10\nCho 0 0 ≤ α ≤ 90 0 , có sinα.cosα = 1/4. Tính\nsin 2 α + cos 4 α = ...\nNhập kết quả dưới dạng phân số tối giản\n(.../...)",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 10",
-      "id": "vio-9-0042"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 2 : Cho sin 2 α\n= 0,8. Tính cos 2 α = ...\n(Nhập\nkết quả dưới dạng số thập phân gọn nhất)",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 2",
-      "id": "vio-9-0043"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 3 : Cho ΔABC\nvuông tại A, có sinB = 0,6. Vậy sinC = ...\nNhập kết quả dưới dạng số thập phân gọn nhất",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 3",
-      "id": "vio-9-0044"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 5\nTính: 2cot57 0 .cot33 0\n+ sin 2 11 0 - + sin 2 79 0 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 5",
-      "id": "vio-9-0045"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 6\nTìm x biết:\nTrả lời: Giá trị của x là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 6",
-      "id": "vio-9-0046"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 8\nTim m để đồ thị hàm số y = x cắt đồ thị hàm\nsố y = mx + 3, tại điểm M (1; 1)\nTrả lời: Giá trị của m là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 8",
-      "id": "vio-9-0047"
-    },
-    {
-      "q": "Vòng 11\nBài 3: Đừng để điểm rơi\nCâu 9\nTìm giá trị lớn nhất của A = x 2 y,\nbiết x. y dương và 2x + 2y = 4.\nTrả lời: Giá trị lớn nhất của A là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-11-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 9",
-      "id": "vio-9-0048"
-    },
-    {
-      "q": "Vòng 12\nBài 1: Sắp xếp\nTrả lời: ... < ... <... <...\n<... <... <... <... <... <... <... <... <... <...\n<... <... <... <... <... <...",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 1: Sắp xếp",
-      "id": "vio-9-0049"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 1: Phương trình có nghiệm là:\nA. 2/5 B. 12/5 C. -(12/5)\nD. -(2/5)",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 1",
-      "id": "vio-9-0050"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 10 : Cho đường\nthẳng d: y = -x + 1 và điểm M (0; 1). Khoảng cách từ M tới đường thẳng d là ...\nA. 0 B. 1 C. √2\nD. 2",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 10",
-      "id": "vio-9-0051"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 2 : Cho hàm\nsố y = f(x) = -2x + 1. Với f(x) = -3, thì x nhận giá trị nào sau đây\nA. 1 B. -2 C. 2 D. 3",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 2",
-      "id": "vio-9-0052"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 3 : Tính\nA. 0,045 B. 0,675 C. 0,0225 D. 0,225",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 3",
-      "id": "vio-9-0053"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 4 : Cho Tìm x > 1\nsao cho P = - 4.\nTrả lời: x = ...\nA. B. C. 2 D. -2",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 4",
-      "id": "vio-9-0054"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\n4. √(-0,5) 2\nA. -20 B. 2 C. 20 D. -2",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 4",
-      "id": "vio-9-0055"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 5 : Căn bậc\nhai số học của 20 là\nA. √20 B. 2√10 C. -2√10 D. -√20",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 5",
-      "id": "vio-9-0056"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 6 : Cho Tìm x > 1\nsao cho P = - 4.\nTrả lời: x = ...\nA. 1 B. 2 C. 4 D. 3",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 6",
-      "id": "vio-9-0057"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 8 : Tập hợp\ntất cả các giá trị của x để biểu thức đạt giá trị nguyên là:\nA. {0; 4; 9} B. {0,\n-4; -9} C. {4; 9} D. 0; 4; 9",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 8",
-      "id": "vio-9-0058"
-    },
-    {
-      "q": "Vòng 12\nBài 2: Mười hai con giáp\nCâu 9 : Tính\nA. 3 - 4√2 B. 5 -\n3√2 C. 5 -√2 D. 2√2 +\n1",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 9",
-      "id": "vio-9-0059"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 1: Căn bậc hai số học của\n144 là",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 1",
-      "id": "vio-9-0060"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 3 : Tính\nsin15° - cos 75°",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 3",
-      "id": "vio-9-0061"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 4 : Cho tam\ngiác ABC vuông tại A, có AB = 12cm, tanB = 3/4. Vậy AC = ...cm",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 4",
-      "id": "vio-9-0062"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 5 : Giá trị của x thỏa mãn",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 5",
-      "id": "vio-9-0063"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 7 : Tính:\n(sinα + cosα) 2 + (sinα - cosα) 2 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 7",
-      "id": "vio-9-0064"
-    },
-    {
-      "q": "Vòng 12\nBài 3: Đừng để điểm rơi\nCâu 9 : Tìm\ngiá trị nhỏ nhất của biểu thức:\nTrả lời: Giá trị nhỏ nhất của A là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-12-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 9",
-      "id": "vio-9-0065"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 1: Cho đường\ntròn đường kính AB = 5cm, điểm C nằm trên đường tròn sao cho AC = 3cm. Tính độ\ndài cạnh BC?",
+      "id": "vio-9-0004",
+      "q": "Câu 10: Cho đường tròn tâm A bán kính AB, dây EF kéo dài cắt AB tại C (E ở giữa C và F) hạ AD vuông góc với FC. Cho AB = 10cm, AD = 8cm, CF = 21cm. Tính độ dài AC?",
       "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
+      "answer": "17",
+      "solution": "Đáp án trong đề gốc: 17.",
       "ch": "Vòng 13",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 1",
-      "id": "vio-9-0066"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 1: Đừng để điểm rơi - Câu 10"
     },
     {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 10: Cho đường\ntròn tâm A bán kính AB, dây EF kéo dài cắt AB tại C (E ở giữa C và F) hạ AD\nvuông góc với FC. Cho AB = 10cm, AD = 8cm, CF = 21cm. Tính độ dài AC?",
+      "id": "vio-9-0005",
+      "q": "Câu 7: Cho ΔABC vuông tại A, đường cao AH. Biết AB = 15cm, BH = 9cm khi đó độ dài AH là:... cm",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "12",
+      "solution": "Đáp án trong đề gốc: 12.",
+      "ch": "Vòng 13",
+      "chapter": 1,
+      "lv": 3,
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 1: Đừng để điểm rơi - Câu 7"
+    },
+    {
+      "id": "vio-9-0006",
+      "q": "Câu 10: Cho ΔABC vuông tại A có AB = 6cm, AC = 8cm nội tiếp đường tròn có bán kính R. Vậy R =... cm",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "5",
+      "solution": "Đáp án trong đề gốc: 5.",
+      "ch": "Vòng 13",
+      "chapter": 1,
+      "lv": 3,
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Mười hai con giáp - Câu 10"
+    },
+    {
+      "id": "vio-9-0007",
+      "q": "Câu 7: Cho hai đường tròn (O, 13cm) và (O', 15cm) cắt nhau tại hai điểm A, B biết AB = 24cm. Tính độ dài đoạn OO'?",
       "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
+      "answer": "14",
+      "solution": "Đáp án trong đề gốc: 14.",
       "ch": "Vòng 13",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 10",
-      "id": "vio-9-0067"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Mười hai con giáp - Câu 7"
     },
     {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 2: Tính\nsin26 o - cos64 o =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 2",
-      "id": "vio-9-0068"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 3: Cho hàm\nsố y = f(x) = mx + m + 2. Tìm m biết f(3) = 10.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 3",
-      "id": "vio-9-0069"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 4: Tìm x biết . Vậy x =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 4",
-      "id": "vio-9-0070"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 5: Cho hai\nđường thẳng (d1):y = -2x + 1 và (d2):y = (2m - 3)x + 3 - m. Tìm m để (d1) cắt\n(d2) tại điểm có tung độ bằng 3. Giá trị của m là:...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 5",
-      "id": "vio-9-0071"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 7: Cho ΔABC\nvuông tại A, đường cao AH. Biết AB = 15cm, BH = 9cm khi đó độ dài AH là:... cm",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 7",
-      "id": "vio-9-0072"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 8: Giải\nphương trình: . Vậy x =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 8",
-      "id": "vio-9-0073"
-    },
-    {
-      "q": "Vòng 13\nBài 1: Đừng để điểm rơi\nCâu 9: Tìm giá\ntrị nhỏ nhất của biểu thức A = x + √x.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 1: Đừng để điểm rơi - Câu 9",
-      "id": "vio-9-0074"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 1: Rút gọn\nbiểu thức ta được kết quả\nlà:\nA) √b\nB) √a\nC) -√a\nD) -√b",
-      "hint": "Gợi ý: Đưa các đại lượng về cùng dạng, rút gọn từng bước và kiểm tra điều kiện của đề.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 1",
-      "id": "vio-9-0075"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 10: Cho ΔMON\nvuông tại O, đường phân giác của góc O chia MN thành hai đoạn có độ dài . Tính diện tích ΔMON.\nA) 108\nB) 42\nC) 48\nD) 54",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 10",
-      "id": "vio-9-0076"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 2: Cho (O;\n5), dây AB = 4cm. Khoảng cách từ O tới AB là:\nA) √21cm\nB) √29cm\nC) 4cm\nD) 3cm",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 2",
-      "id": "vio-9-0077"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 3: Trục căn\nthức ở mẫu biểu thức ta được\nkết quả là:\nA) -3 - √7\nB) 3 + √7\nC) 2(3 + √7)\nD) -2(3 + √7)",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 3",
-      "id": "vio-9-0078"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 4: Điểm\nA(2; 1) nằm trên đồ thị hàm số nào sau đây?\nA) y = -2x + 3\nB) x = -2y + 3\nC) y = -x + 4\nD) y = -2x + 5",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 4",
-      "id": "vio-9-0079"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 6: Nhóm số\nđo nào dưới đây là số đo bốn góc của một tứ giác?\nA) 100 o ; 110 o ; 120 o ; 130 o\nB) 82 o ; 86 o ; 88 o ; 84 o\nC) 75 o ; 37 o ; 135 o ; 133 o\nD) 60 o ; 70 o ; 120 o ; 110 o",
+      "id": "vio-9-0008",
+      "q": "Câu 10: Cho ΔABC vuông ở A, dựng đường tròn tâm I đi qua B và tiếp xúc với AC. Cho AB = 24cm, AC = 32cm. Tính bán kính đường tròn tâm I?",
       "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 6",
-      "id": "vio-9-0080"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 7: Cho hàm\nsố . Giá trị của m để đồ thị hàm số là đường thẳng\nsong song với Ox là:\nA) m < 1/6\nB) m = 2/3\nC) m > 1/6\nD) m = 1/6",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 7",
-      "id": "vio-9-0081"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 8: Hãy chọn\nphương án đúng điền vào dấu... dưới đây: Đường tròn là hình....\nA) C hỉ có hai trục đối xứng\nB) C ó vô số trục đối xứng\nC) K hông có trục đối xứng\nD) C hỉ có một trục đối xứng",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 8",
-      "id": "vio-9-0082"
-    },
-    {
-      "q": "Vòng 13\nBài 2: Đập dế\nCâu 9: Giải\nphương trình ta được kết quả\nA) x ≥ 1/2\nB) 1/2 ≤ x ≤ 1\nC) P hương trình vô nghiệm\nD) x ≤ 1",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 2: Đập dế - Câu 9",
-      "id": "vio-9-0083"
-    },
-    {
-      "q": "Vòng 13\nBài 3: Mười hai con giáp\nCâu 10: Cho ΔABC\nvuông tại A có AB = 6cm, AC = 8cm nội tiếp đường tròn có bán kính R. Vậy R =...\ncm",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 3: Mười hai con giáp - Câu 10",
-      "id": "vio-9-0084"
-    },
-    {
-      "q": "Vòng 13\nBài 3: Mười hai con giáp\nCâu 7: Cho hai\nđường tròn (O, 13cm) và (O', 15cm) cắt nhau tại hai điểm A, B biết AB = 24cm.\nTính độ dài đoạn OO'?",
-      "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 3: Mười hai con giáp - Câu 7",
-      "id": "vio-9-0085"
-    },
-    {
-      "q": "Vòng 13\nBài 3: Mười hai con giáp\nCâu 8: Cho α là\nmột góc nhọn, ta có tanα.cosα =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-13-nam-2016-2017.doc",
-      "topic": "Bài 3: Mười hai con giáp - Câu 8",
-      "id": "vio-9-0086"
-    },
-    {
-      "q": "Vòng 14\nBài 1: Đi tìm kho báu\nCâu 3: Giá trị\nnhỏ nhất của P = x + √x - 6 là:...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
+      "answer": "15",
+      "solution": "Đáp án trong đề gốc: 15.",
       "ch": "Vòng 14",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 3",
-      "id": "vio-9-0087"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Đừng để điểm rơi - Câu 10"
     },
     {
-      "q": "Vòng 14\nBài 1: Đi tìm kho báu\nCâu 5: Giá trị\ncủa P = x 3 + y 3 - 3(x + y) + 1977 biết",
+      "id": "vio-9-0009",
+      "q": "Câu 8: Cho hàm số y = (m 2 - 2m + 1)x. Với giá trị nào của m thì đồ thị hàm số là trục hoành?",
       "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
+      "answer": "1",
+      "solution": "Đáp án trong đề gốc: 1.",
       "ch": "Vòng 14",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 1: Đi tìm kho báu - Câu 5",
-      "id": "vio-9-0088"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Đừng để điểm rơi - Câu 8"
     },
     {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 10: Căn bậc\nhai số học của 144 là:\nA) -12\nB) 12\nC) -11\nD) 11",
+      "id": "vio-9-0010",
+      "q": "Câu 3: Tính (√121 + √169 + √64): 2 =...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "3",
+      "solution": "Đáp án trong đề gốc: 3.",
+      "ch": "Vòng 2",
+      "chapter": 1,
+      "lv": 3,
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Vượt chướng ngại vật - Câu 3"
+    },
+    {
+      "id": "vio-9-0011",
+      "q": "Câu 5: Trước đây 5 năm, tuổi của Na bằng nửa tuổi của Na sau 4 năm nữa. Hãy cho biết tuổi hiện nay của Na.",
       "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 10",
-      "id": "vio-9-0089"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 2: Tìm m để\nđồ thị hàm số y = (m - 3)x đi qua điểm A(1; 2). Vậy m =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 2",
-      "id": "vio-9-0090"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 4:\nA) A < B\nB) A > B\nC) A = B\nD) không so sánh được",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 4",
-      "id": "vio-9-0091"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 5: Cho hai\nsố a, b không âm, khẳng định nào sau đâu đúng\nA.\nB.\nC.\nD.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 5",
-      "id": "vio-9-0092"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 6: Tìm tất cả các giá trị của x thỏa\nmãn\nA) x ≥ 5\nB) x = 5\nC) x < 5\nD) x = 6",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 6",
-      "id": "vio-9-0093"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 7: Tìm x biết\nx - 4√x + 4 = 0. Vậy x =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 7",
-      "id": "vio-9-0094"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 8: Tính sin 2 35 o + sin 2 55 o =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 8",
-      "id": "vio-9-0095"
-    },
-    {
-      "q": "Vòng 14\nBài 2: Mười hai con giáp\nCâu 9: Rút gọn\nP = cos 2 α + cos 2 α.cot 2 α (với 0 o < α < 90 o ) ta được:\nA) P = 1 + cotα\nB) P = cot 2 α\nC) P = 1 - cotα\nD) P = tan 2 α",
-      "hint": "Gợi ý: Đưa các đại lượng về cùng dạng, rút gọn từng bước và kiểm tra điều kiện của đề.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 2: Mười hai con giáp - Câu 9",
-      "id": "vio-9-0096"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 1: Tính √0,04 + √0,25 =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 1",
-      "id": "vio-9-0097"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 10: Cho ΔABC\nvuông ở A, dựng đường tròn tâm I đi qua B và tiếp xúc với AC. Cho AB = 24cm, AC\n= 32cm. Tính bán kính đường tròn tâm I?",
-      "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 10",
-      "id": "vio-9-0098"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 2: Tìm m để\nA(1; 2) thuộc đồ thị hàm số y = x + m. Vậy m =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 2",
-      "id": "vio-9-0099"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 3: Tìm a để\nđồ thị hàm số y = ax + 2 song song với đồ thị hàm số y = 5x - 2. Vậy a =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 3",
-      "id": "vio-9-0100"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 4: Tìm x biết\n√x = 3. Vậy x =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 4",
-      "id": "vio-9-0101"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 7: Tìm x biết\n(2 + √x)(√x + 1) = x + 5. Vậy x =...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 7",
-      "id": "vio-9-0102"
-    },
-    {
-      "q": "Vòng 14\nBài 3: Đừng để điểm rơi\nCâu 8: Cho hàm\nsố y = (m 2 - 2m + 1)x.\nVới giá trị nào của m thì đồ thị hàm số là trục hoành?",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-14-nam-2016-2017.doc",
-      "topic": "Bài 3: Đừng để điểm rơi - Câu 8",
-      "id": "vio-9-0103"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 1: Điều kiện của x thỏa mãn là:\nA) Không tồn tại x B) x ≥ -1 C) x ≥ 0 D)\nx ≤ -1",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
+      "answer": "14",
+      "solution": "Đáp án trong đề gốc: 14.",
       "ch": "Vòng 2",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 1",
-      "id": "vio-9-0104"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Vượt chướng ngại vật - Câu 5"
     },
     {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 10: Tính A = √1 + √4 + √9 + ... + √81 + √100 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
+      "id": "vio-9-0012",
+      "q": "Câu 6: Giá trị đa thức A = x 7 - 80x 6 + 80x 5 - 80x 4 + 80x³ - 80x² + 80x + 15 với x = 79 ta được A =...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "94",
+      "solution": "Đáp án trong đề gốc: 94.",
       "ch": "Vòng 2",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 10",
-      "id": "vio-9-0105"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 3: Vượt chướng ngại vật - Câu 6"
     },
     {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\n16) với x = 3 ta được kết quả là:",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 16",
-      "id": "vio-9-0106"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 2: Biểu thức nào dưới đây có giá trị bằng căn bậc hai số học của 49?\nA) √72 B) √-72 C) -√(-7)2 D)\n-√72",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 2",
-      "id": "vio-9-0107"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 3: Căn bậc hai nào sau đây có giá trị là 0,9?\nA) √0,081 B) √0,81 C) √8,1 D)\n√81",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 3",
-      "id": "vio-9-0108"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 4: Tính với x = 0 ta\nđược kết quả là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 4",
-      "id": "vio-9-0109"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 5: Cho phân thức .\nNhân tử chung của tử và mẫu là:\nA) 4a B) 4b C) 12b D)\n12a",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 5",
-      "id": "vio-9-0110"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 6: Tính √2,89 + √0,09 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 6",
-      "id": "vio-9-0111"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 7: So sánh: 2 và √5 - 3 ta được kết quả là 2 ... √5 - 3.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 7",
-      "id": "vio-9-0112"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 8: Giá trị của biểu thức (x - 2).(x 4 + 2x³ + 4x² + 8x +",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 8",
-      "id": "vio-9-0113"
-    },
-    {
-      "q": "Vòng 2\nBài 1: Đỉnh núi trí tuệ\nCâu 9: Giá trị lớn nhất của biểu thức A = 6x - x² là ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 1: Đỉnh núi trí tuệ - Câu 9",
-      "id": "vio-9-0114"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 2: Nghiệm của phương trình là\nx = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 2",
-      "id": "vio-9-0115"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 3: Tính (√121 + √169 + √64) : 2 = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 3",
-      "id": "vio-9-0116"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 4: Xác định a sao cho: (6x³ - 7x² + x + a) chia hết cho (2x + 1).",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 4",
-      "id": "vio-9-0117"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 5: Trước đây 5 năm, tuổi của Na bằng nửa tuổi của Na sau 4 năm nữa.\nHãy cho biết tuổi hiện nay của Na.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 5",
-      "id": "vio-9-0118"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 6: Giá trị đa thức A = x 7 - 80x 6 + 80x 5\n- 80x 4 + 80x³ - 80x² + 80x + 15\nvới x = 79 ta được A = ...",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 6",
-      "id": "vio-9-0119"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Vượt chướng ngại vật\nCâu 7: Tìm x để biểu thức x² - 20x + 5 đạt giá trị nhỏ nhất.",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-2-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 7",
-      "id": "vio-9-0120"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 1: Cho tam giác vuông ABC có BC = 10, đường cao AH = 4. Tính AC.AB",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
+      "id": "vio-9-0013",
+      "q": "Câu 3: Đường cao của một tam giác vuông chia cạnh huyền thành hai đoạn có độ dài là 1 và 2. Tính tổng bình phương của hai cạnh góc vuông",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử kết quả vào chỗ trống để kiểm tra.",
+      "answer": "9",
+      "solution": "Đáp án trong đề gốc: 9.",
       "ch": "Vòng 3",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 1",
-      "id": "vio-9-0121"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 10: Rút gọn B = =",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 10",
-      "id": "vio-9-0122"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 2: Tính",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 2",
-      "id": "vio-9-0123"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 3: Đường cao của một tam giác vuông chia cạnh huyền thành hai đoạn có\nđộ dài là 1 và 2. Tính tổng bình phương của hai cạnh góc vuông",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 3",
-      "id": "vio-9-0124"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 4: Cho tam giác vuông có độ dài hai cạnh góc vuông là 3cm và 4cm.\nTính độ dài cạnh huyền.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 4",
-      "id": "vio-9-0125"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 5: Tính",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 5",
-      "id": "vio-9-0126"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 6: Cho tam giác ABC vuông có BC = 10, đường cao AH = 4. Hãy tính\nAC/AB biết AC > AB",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 6",
-      "id": "vio-9-0127"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 7: Tính",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 7",
-      "id": "vio-9-0128"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 8: Giải phương trình: .\nPhương trình có nghiệm là x = ......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 8",
-      "id": "vio-9-0129"
-    },
-    {
-      "q": "Vòng 3\nBài 1: Điền kết quả thích hợp vào chỗ (...)\nHãy viết số thích hợp vào chỗ chấm. Nếu đáp số là số thập phân thì phải\nviết là số thập phân gọn nhất và dùng dấu (,) trong bàn phím để đánh dấu phẩy\ntrong số thập phân\nCâu 9: Tính với 3a = 10b",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 9",
-      "id": "vio-9-0130"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Vượt chướng ngại vật\nCâu 1: Cho tam giác ABC vuông tại A, đường cao AH. Chọn hệ thức sai:\na) AH.BC = AB.BC\nb) AH 2 = HB.HC\nc) AC 2 + AB 2 = BC 2\nd) AH.AB = AC.BC",
-      "hint": "Gợi ý: Vẽ hình nháp, ghi các dữ kiện đã biết, rồi dùng công thức hoặc tính chất hình học phù hợp.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 1",
-      "id": "vio-9-0131"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Vượt chướng ngại vật\nCâu 2: Rút gọn biểu thức P = ta\nđược:\na) P= 2 √ 3 + 4 √ 2 b) P = 108 c)\nP = 118 d) P = 10",
-      "hint": "Gợi ý: Đưa các đại lượng về cùng dạng, rút gọn từng bước và kiểm tra điều kiện của đề.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 2",
-      "id": "vio-9-0132"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Vượt chướng ngại vật\nCâu 3: Hệ số của x2 trong biểu thức (2x - 3) (6x + 4) - (6x - 3) (4x - 2)\n+ 40x là ......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 3",
-      "id": "vio-9-0133"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Vượt chướng ngại vật\nCâu 4: Rút gọn biểu thức ta\nđược:\na) b) c) d)",
-      "hint": "Gợi ý: Đưa các đại lượng về cùng dạng, rút gọn từng bước và kiểm tra điều kiện của đề.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 4",
-      "id": "vio-9-0134"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Vượt chướng ngại vật\nCâu 5: Rút gọn: (2x + 3) (4x 2 - 6x + 9) + (x-1) (x 2\n+ x + 1) - 9x 2 = ......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc",
-      "topic": "Bài 3: Vượt chướng ngại vật - Câu 5",
-      "id": "vio-9-0135"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-9/Đề thi Violympic Toán lớp 9 2017 (thiếu 4-10)/de-thi-violympic-toan-lop-9-vong-3-nam-2016-2017.doc-cleaned-finalized",
+      "topic": "Bài 1: Điền kết quả thích hợp vào chỗ (...) - Câu 3"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "grade": 2,
   "title": "Học Toán Lớp 2",
-  "updatedAt": "2026-05-14",
+  "updatedAt": "2026-05-15",
   "questions": [
     {
       "id": "xl-q2-0001",
@@ -37297,734 +37297,100 @@
   ],
   "exams": [
     {
-      "q": "Vòng 1\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n98 95 41 33\n70 55 79\n87 50 51 75\n80 89 81 96\n7 27 94 83",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0001",
+      "q": "Câu 5: Nhà bác An nuôi tất cả 32 con gà và 45 con vịt.Vậy cả gà và vịt là bao nhiêu nhiêu con?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "77",
+      "solution": "Cộng số gà và vịt: 32 + 45 = 77.",
       "ch": "Vòng 1",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0001"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ ..... - Câu 5"
     },
     {
-      "q": "Vòng 1\nBài 2: Điền kết quả thích hợp vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 68 - 17 = ......\n2, Số lớn nhất có hai chữ số khác nhau là số...........\n3, Số bé nhất có hai chữ số mà hiệu hai chữ số bằng 2 ...........\n4, Điền số thích hợp vào chỗ trống: ...... - 36 = 63\n5, Nhà bác An nuôi tất cả 32 con gà và 45 con vịt.Vậy cả gà và vịt là bao nhiêu nhiêu\ncon?......\n6, Một cửa hàng buổi sáng bán được 20 chiếc quạt,buổi chiều bán được 15 chiếc quạt.Hỏi cả\nngày hôm đó cửa hàng bán được bao nhiêu chiếc quạt?.......\n7, Có tất cả ........ chữ số có hai chữ số mà tổng hai chữ số của mỗi số đó bằng 8.\n8, Người ta bỏ vào trong hộp 25 viên bi màu đỏ và 21 viên bi màu xanh.Hỏi cả hai màu xanh\nvà đỏ trong hộp có tất cả bao nhiêu viên bi ?..........\n9, Hãy cho biết có tất cả bao nhiêu số tự nhiên có 2 chữ số nhỏ hơn 68 ?.........\n10, Hãy cho biết từ số 35 đến 68 có tất cả bao nhiêu số tự nhiên?............",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
+      "id": "vio-2-0002",
+      "q": "Câu 6: Một cửa hàng buổi sáng bán được 20 chiếc quạt,buổi chiều bán được 15 chiếc quạt.Hỏi cả ngày hôm đó cửa hàng bán được bao nhiêu chiếc quạt?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "35",
+      "solution": "Cả ngày bán được 20 + 15 = 35.",
       "ch": "Vòng 1",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0002"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ ..... - Câu 6"
     },
     {
-      "q": "Vòng 1\nBài 3:Điền vào chỗ .....\n1, Sắp xếp các số sau theo thứ tự tăng dần:14,6,2.17..........................................\n2, 60 - ....... = 30\n3, Có .......... số có 1 chữ số\n4, Số lớn nhất có 1 chữ số...........\n5, Số lớn nhất có 2 chữ số............\n6, 58 - ........ = 36 + 10.\n7, 49 - ........ = 24.\n8, Một cửa hàng có 86 quyển vở.Bán 20 quyển .Hỏi cửa hàng còn lại bao nhiêu quyển\nvở?..........\n9, 1dm = ........ cm.\n10, ...... + 41 = 56 + 23.\n11, 4 dm + 20 cm = ........ dm.\n12, ........ cm + 1dm = ........ 40 cm\n13, 89 - 31 = .........\n14, Trong phép tính 16 + 3 = 19 chọn câu trả lời sai.\na,19 gọi là Tổng c,Biểu thức gọi là phép cộng\nb,16 gọi là Tổng d, 16 và 3 được gọi là số hạng.\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 2",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0003",
+      "q": "Câu 9: Hãy cho biết có tất cả bao nhiêu số tự nhiên có 2 chữ số nhỏ hơn 68?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "58",
+      "solution": "Các số có hai chữ số bắt đầu từ 10 đến 67, có 58 số.",
       "ch": "Vòng 1",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền vào chỗ .....",
-      "id": "vio-2-0003"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ ..... - Câu 9"
     },
     {
-      "q": "Vòng 10\nBài 1:Sắp xếp các ô có giá trị tăng dần:\n88 - 74 26 + 45 80 - 47 25 + 15 + 41\n34 17 + 40 28 - 19 28 + 35 + 35\n33 + 67 - 15 10 91 - 26 12 + 25\n49 - 32 99 - 51 43 + 57 - 23 25 + 28\n34 + 16 90 62 - 6 28",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 10",
+      "id": "vio-2-0004",
+      "q": "Câu 10: Hãy cho biết từ số 35 đến 68 có tất cả bao nhiêu số tự nhiên?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "34",
+      "solution": "Đếm cả hai đầu: 68 - 35 + 1 = 34.",
+      "ch": "Vòng 1",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Sắp xếp các ô có giá trị tăng dần:",
-      "id": "vio-2-0004"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ ..... - Câu 10"
     },
     {
-      "q": "Vòng 10\nBài 1:Sắp xếp các ô có giá trị tăng dần:\n34 25 + 28 55 - 13 55 + 45 - 24\n23 + 8 + 42 91 - 26 43 + 57 - 23 79\n10 62 - 6 17 + 40 46\n28 47 - 12 33 + 67 - 15 51\n99 - 51 45 - 22 18 + 43 49 - 32",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 10",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Sắp xếp các ô có giá trị tăng dần:",
-      "id": "vio-2-0005"
-    },
-    {
-      "q": "Vòng 10\nBài 2:Cóc vàng tài ba\n1,Điền số thích hợp vào chỗ chấm : 55 + 1 < ...... < 99 - 41 ( 57, 58, 59, 60 )\n2, Tổng của 46 và 22 là ( 18, 24, 64, 68 )\n3,Hiệu của số lớn nhất có 2 chữ số và số nhỏ nhất có 1 chữ số là ( 98, 99, 90, 0 )\n4,Số bị trừ là 42, hiệu là 18 thì số trừ là ( 26, 27, 25, 24 )\n5,Số hạng thứ nhất là 38, số hạng thứ hai là 45.Tổng của hai số hạng ( 48, 83, 84, 38 )\n6,T ìm X thỏa mãn: X - 12 = 42 ( 57, 54, 55, 56 )\n7, Tìm số thích hợp điền vào chỗ chấm: 55 + 42 - 17 = ...... ( 90, 80, 95, 85 )\n8, 28 kg + 13 kg = 74kg - ..... kg ( 36, 34, 33, 35 )\n9, Trong hộp có 100 viên kẹo. Hà lấy ra một số kẹo để cho em. Số kẹo còn lại trong hộp là 34\nviên. Hỏi Hà đã lấy ra bao nhiêu viên kẹo.( 88, 77, 66, 99 )\n10, cho dãy số 7, 12, 17 tìm ba số tiếp theo của dãy số trên là\n( 27, 22, 32 ) ( 22, 27, 32 ) ( 27, 32, 22, ) ( 22, 32, 27, )",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 10",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Cóc vàng tài ba",
-      "id": "vio-2-0006"
-    },
-    {
-      "q": "Vòng 10\nBài 2:Cóc vàng tài ba\n1,Điền số thích hợp vào chỗ chấm : 12 cm + 2dm = ...... cm ( 34, 32, 33, 22 )\n2, Cho phép tính 24 + ....... = 36 ( 13, 14, 15, 12 )\n3,Số lớn nhất có 1 chữ số là ( 9, 1, 0, 10 )\n4,Số bị trừ là 89, số trừ là 13 thì hiệu là ( 76, 78, 79, 77 )\n5,Tìm X thỏa mãn: 37 + X = 100 ( 63, 64, 65, 66 )\n6, Anh có 37 viên bi ,em có nhiều hơn Anh 28 viên bi. Hỏi em có bao nhiêu viên bi\n( 67, 65, 68, 66 )\n7,Một đàn gà có tất cả 50 con. Trong đó số gà mái là 27 con. Hỏi đàn gà có bao nhiêu con gà\ntrống. ( 26, 24, 25, 23 )\n8, Tìm số thích hợp điền vào chỗ chấm: 26 + ....= 100 - 34 ( 40, 56, 45, 42 )\n9,Hiện nay An 10 tuổi ,em của An kém An 4 tuổi. Số tuổi của mẹ An hơn tổng số tuổi của cả\nhai anh em An là 20 tuổi.Hỏi số tuổi của mẹ An hiện nay.( 28, 32, 26,36)\n10,Trong một phép trừ,số bị trừ là 85 và hiệu là số tự nhiên bé nhất có 2 chữ số mà tổng 2 chữ\nsố của nó là 9.Tìm số trừ ( 68, 69, 67, 70 )",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 10",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Cóc vàng tài ba",
-      "id": "vio-2-0007"
-    },
-    {
-      "q": "Vòng 10\nBài 3:Vượt chướng ngại vật\n1,Hiện nay tổng số tuổi của 2 mẹ con An là 51 tuổi,biết An 12 tuổi . Tính tuổi mẹ An hiện\nnay: .......\n2,Một cửa hàng có 50 kg đường. Cửa hàng đã bán được 29 kg đường.Hỏi cửa hàng đó còn lại\nbao nhiêu kg đường:........\n3,Hồng có nhiều hơn Hà 50 viên bi.Hỏi Hồng phải cho Hà bao nhiêu viên bi để số bi của hai\nbạn bằng nhau: ........\n4,Thứ sáu tuần này là ngày 17. Hỏi thứ sáu tuần sau là ngày bao nhiêu: ......\n5,Hòa có nhiều hơn Bình 25 viên bi. Nếu Hòa cho Bình 5 viên bi thì Hòa còn nhiều hơn Bình\nmấy viên bi: .....\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 10",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 10",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Vượt chướng ngại vật",
-      "id": "vio-2-0008"
-    },
-    {
-      "q": "Vòng 10\nBài 3:Vượt chướng ngại vật\n1,Hiện nay bố Mai 41 tuổi, Mai kém bố 28 tuổi .Tính tuổi Mai hiện nay: .......\n2,Mai có35 con tem,Lan có29 con tem.Hỏi 2 bạn có tất cả bao nhiêu con tem :........\n3,Hiện nay tổng số tuổi của 2 bố con là 41tuổi,biết bố 35 tuổi .Tính tuổi con : ........\n4,Thứ bảy tuần này là ngày 19. Hỏi thứ năm tuần sau là ngày bao nhiêu: ......\n5,An có nhiều hơn Bình 8 viên bi. Nếu An cho Bình 3 viên bi thì An còn nhiều hơn Bình mấy\nviên bi: .....\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 11",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 10",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Vượt chướng ngại vật",
-      "id": "vio-2-0009"
-    },
-    {
-      "q": "Vòng 11\nBài 1:Đi tìm kho báu\n1,Tính 26 + 45 = ......\n2, Số bé nhất có hai chữ số mà tổng các chữ số của nó bằng 13 là số:......\n3, Tính 32kg + 29kg - 47 kg = ..... kg\n4,Có hai can dầu,can bé đựng 18l,can to đựng 27l.Hỏi cả hai can đựng được tất cả\nbao nhiêu lít dầu?.....\n5,Cho dãy số 3,6,9,12,15,......,21,24,27,30. Điền số còn thiếu\n6,Số bé nhất có hai chữ số mà hiệu hai chữ số của nó bằng 4 là số:.......\n7,Băng giấy xanh dài 75 cm,băng giấy đỏ ngắn hơn băng giấy xanh 29 cm.Hỏi băng giấy đỏ\ndài bao nhiêu cm......\n8,Hai can dầu đựng tất cả 40l,can bé đựng 15l.Hỏi can to đựng bao nhiêu lít dầu.....\n9,An có 25 viên bi,nếu An cho Bình 4 viên bi thì số bi hai bạn bằng nhau.Hỏi trước khi cho\nBình có bao nhiêu viên bi. ......\n10,Trong một phép cộng có tổng bằng 32,biết rằng nếu giữ nguyên số hạng thứ nhất và tăng số\nhạng thứ hai thêm 8 đơn vị thì tổng mới là bao nhiêu?.....",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Đi tìm kho báu",
-      "id": "vio-2-0010"
-    },
-    {
-      "q": "Vòng 11\nBài 2:Điền số thích hợp vào chỗ ..... nhé.\n1,Cho dãy số 4,8,12,16,20,24,28,..... điền số tiếp theo\n2,Hai bao thóc nặng 100kg,bao thóc bé cân nặng 47kg.Hỏi bao thóc to nặng .....kg\n3,Cho dãy số 5,10,15,20,25,30,35,40,..... điền số tiếp theo\n4,Thùng hàng to cân nặng 65kg,thùng hàng bé nhẹ hơn thùng hàng to 38kg.Vậy cả hai thùng\ncân nặng......kg.\n5,Thứ 4 tuần trước là ngày 14 thì thứ 6 tuần này là ngày ......\n6,Hồng cho Hà 15 con tem thì số tem của Hồng và của Hà bằng nhau.Vậy trước khi cho thì\nHồng nhiều hơn Hà ........ con tem.\n7,Thứ 7 tuần trước là ngày 16 thì thứ 5 tuần này là ngày ......\n8,Số lớn nhất có hai chữ số mà hiệu hai chữ số của nó bằng 0 là số ......\n9,Số lớn nhất có hai chữ số mà tổng hai chữ số của nó bằng 15 là số .....\n10,Tính 37 + 45 = 59 + .......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền số thích hợp vào chỗ ..... nhé.",
-      "id": "vio-2-0011"
-    },
-    {
-      "q": "Vòng 11\nBài 3:Đỉnh núi trí tuệ\n1,Bình có 42 quyển vở.Minh có nhiều hơn Bình 15 quyển vở.Vậy Minh có .....\n2,Trong vườn cây ăn quả có 34 cây vải,số cây nhãn nhiều hơn số cây vải là18 cây.\nSố cây nhãn trong vườn là .....\n3,Hai bao gạo cân nặng 79kg ,bao bé cân nặng 39 kg.Hỏi bao lớn cân nặng .....kg.\n4,Lớp 2A có 18 học sinh Nam,số học sinh nữ ít hơn số học sinh Nam là 5 bạn .Hỏi số học sinh\ncủa lớp 2A là ...... bạn.\n5,Có ba thùng đựng dầu, trong đó có 2 thùng mỗi thùng đựng 24l.Còn một thùng đựng\n35l.Hỏi 3 thùng đựng tất cả bao nhiêu lít dầu........\n6,Có hai thùng đựng dầu,thùng thứ 1 đựng 56l dầu.Thùng thứ 2 đựng nhiều hơn thùng thứ\nnhất 19l. Hỏi thùng thứ 2 đựng bao nhiêu lít dầu.......\n7,Lớp 2A và 2B mỗi lớp có32 học sinh,lớp 2C có 33 học sinh.Hỏi 3lớp cótất cả bao nhiêu học\nsinh.\n8,An có nhiều hơn Bình 20 viên bi.Hỏi nếu An cho cho Bình 11 viên bi thì Bình nhiều hơn\nAn ......viên bi.\n9,Có tất cả .....số có 2 chữ số mà tổng các chữ số bằng 14.\n10,Có tất cả .....số có 2 chữ số mà hiệu 2 chữ số của mỗi số đó bằng 6 .\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 12",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 11",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Đỉnh núi trí tuệ",
-      "id": "vio-2-0012"
-    },
-    {
-      "q": "Vòng 12\nBài 1:Hoàn thành phép tính:điền số thích hợp vào ô trống để được phép tính đúng.\n8 6 9 5 3 3 7 5 3 3\n- 7 - 6 +2 - 8 + 8 - 2 + 4 - 4 + 4 - 5\n3 6 2 5 4 5 3 3 9 5 1 5 9 3 2 9 9 3 3 4",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hoàn thành phép tính:điền số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0013"
-    },
-    {
-      "q": "Vòng 12\nBài 2:Sắp xếp các ô có giá trị tăng dần:\n40 23 2 x 9 100 - 51\n22 47 2 x 7 19\n4 x 5 + 28 34 4 x 9 33\n31 5 x 7 + 4 4 x 8 4 x 9 + 14\n5 x 6 2 x 4 4 x 6 11",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Sắp xếp các ô có giá trị tăng dần:",
-      "id": "vio-2-0014"
-    },
-    {
-      "q": "Vòng 12\nBài 3:Điền số thích hợp vào chỗ ..... nhé.\n1, 5 x ..... = 45\n2, 3 x 9 + 73 = ......\n3, 3 x 8 + 47 = ......\n4, 5 x 6 + 67 = ......\n5, 5 x 8 - 23 = ......\n6, 4 x 3 + 49 = ......\n7, 5 x 7 - 29 = ......\n8, Có 9 túi gạo trong đó có 8 túi như nhau mỗi túi đựng 4kg còn 1 túi đựng 5kg.\nTính khối lượng của 9 túi gạo đó? .......\n9,Có 5 can dầu trong đó có 4 can như nhau mỗi can đựng 4 lít còn 1 can đựng 3 lít.\nTính số lượng dầu trong 5 can?........\n10,Trong một phòng họp người ta cắm tất cả 8 lọ hoa.Mỗi lọ hoa cắm 2 bông hồng đỏ và 3\nbông hồng vàng. Hỏi 8 lọ hoa đó cắm tất cả bao nhiêu bông hồng đỏ và vàng? .......\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 13",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 12",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền số thích hợp vào chỗ ..... nhé.",
-      "id": "vio-2-0015"
-    },
-    {
-      "q": "Vòng 13\nBài 1:Tìm cặp bằng nhau\n4 - 2 20 - 7 32 2 x 7 5 x 1\n8 + 6 7 - 2 91 - 28 5 x 7 38\n4 x 5 + 29 5 x 9 + 34 100 - 37 100 - 65 71 - 22\n13 85 - 47\n2\n95 - 63 100 - 21",
-      "hint": "Gợi ý: Tính hoặc rút gọn từng biểu thức, rồi ghép các biểu thức có cùng giá trị.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Tìm cặp bằng nhau",
-      "id": "vio-2-0016"
-    },
-    {
-      "q": "Vòng 13\nBài 2:Cóc vàng tài ba\n1,Tích của hai thừa số 5 và 8 có kết quả là ( 48, 30, 50, 40 )\n2, 4 x 9 + 60 = ........... ( 69, 96, 89, 79)\n3,Tìm y biết 82 - y = 49 ( 43, 23, 53, 33 )\n4,3 + 3 + 3 + 3 + 3 =..... ( 6 x 3, 3 x 6, 3 x 5, 3 x 9 )\n5, 5dm x 8= ....... ( 40, 30, 35, 20 )\n6, Số lớn nhất có hai chữ số mà chữ số hàng chục gấp ba lần chữ số hàng đơn vị là ( 93, 62,\n39, 82 )\n7,An có nhiều hơn Tùng 12 viên bi.An cho Bình 5 viên bi thì An còn nhiều hơn\nTùng ........viên bi. ( 10, 7, 2, 4 )\n8, An và Hồng viết thư cho 4 bạn Hồng,Huệ, Cúc ,Mai.Tổng số bức thư hai bạn viết được\nlà........ ( 16, 12, 8, 6 )\n9,Tích của 4 với số lớn nhất có 1 chữ số. ( 40, 24, 33, 36)\n10, 4 x 7 < ........ > 5 x 6 ( 29, 27, 30, 31 )",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Cóc vàng tài ba",
-      "id": "vio-2-0017"
-    },
-    {
-      "q": "Vòng 13\nBài 3:Vượt chướng ngại vật\n1,An mua 7 quyển vở như nhau,giá mỗi quyển là 4.000 đồng .Hỏi tất cả An phải trả bao nhiêu\nnghìn đồng?........\n2,Một con bò có 4 cái chân .Hỏi một đàn bò 9 con thì có tất cả bao nhiêu cái chân?\n........\n3,Có 3 bạn mỗi bạn mua 2 viên bi đỏ và 3 viên bi vàng. Hỏi ba bạn đã mua tất cả bao nhiêu\nviên bi ? ........\n4,Mai có nhiều hơn Lan 8 quyển truyện.Hỏi nếu Mai cho Lan 2 quyển truyện thì bây giờ Mai\ncòn nhiều hơn Lan bao nhiêu quyển truyện? ......\n5,Có một số lượng dầu ,nếu thêm vào mỗi can 3 lít thì được 9 can và còn thừa 2 lít\nHỏi số lượng dầu đó là bao nhiêu lít?........\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 14",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 13",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Vượt chướng ngại vật",
-      "id": "vio-2-0018"
-    },
-    {
-      "q": "Vòng 14\nBài 1:Đi tìm kho báu\n1,Mỗi chiếc can đựng được 4 lít dầu.Hỏi 9 chiếc can như thế đựng được bao nhiêu lít dầu?........\n2, Có một số lượng dầu,nếu thêm vào 1 lít nữa thì vừa đủ đựng vào 10 can mỗi can 3 lít.Hỏi số\nlượng dầu ban đầu là bao nhiêu lít? .......\n3, Lớp 2 B có 7 tổ học tập trong đó có 6 tổ mỗi tổ có 4 bạn còn 1 tổ có 3 bạn .Hỏi\nlớp 2B có bao nhiêu học sinh?........\n4,Nếu Mai cho Lan 7 bông hoa thì số hoa hai bạn bằng nhau .Vậy lúc đầu Lan ít hơn Mai bao\nnhiêu bông hoa? .......\n5,Có tất cả bao nhiêu số có hai chữ số mà tích hai chữ số bằng 4?.......\n6,Số bé nhất có hai chữ số mà tích hai chữ số của nó bằng 8 là số:.......\n7,Tích của số 4 với số liền sau của số 8 là số ......\n8,Tích của số 5 với số liền trước của số lớn nhất có 1 chữ số là số .....\n9,Số bé nhất khi đem nhân với 3 được kết quả lớn hơn 25 là số ........\n10,Số bé nhất khi đem nhân với 4 được kết quả lớn hơn 27 là số ........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Đi tìm kho báu",
-      "id": "vio-2-0019"
-    },
-    {
-      "q": "Vòng 14\nBài 2:Sắp xếp các ô có giá trị tăng dần:\n80 - 26 5 x 7 + 3 100 - 59 5 x 8 - 9\n2 x 10 11 3 x 3 6 : 3\n3 x 7 4 x 7 + 24 5 x 8 + 24 5 x 8 + 16\n3 x 5 + 27 80 - 47 37 2 x 5\n18 : 3 12 12 : 3 4 x 6 + 5",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Sắp xếp các ô có giá trị tăng dần:",
-      "id": "vio-2-0020"
-    },
-    {
-      "q": "Vòng 14\nBài 3:Đỉnh núi trí tuệ\n1,Bốn bạn An ,Bình, Cường và Dũng mỗi bạn đều có 4 viên bi. Tính tổng số bi của 4 bạn ?.....\n2,Mẹ chia đều 14 chiếc kẹo cho hai anh em .Vậy mỗi người được ......chiếc kẹo.\n3,Số lớn nhất khi đem nhân với 3 được kết quả là 27 là số .......\n4,Hòa có nhiều hơn Bình 19 viên bi.Hỏi nếu Hòa cho Bình 9 viên bi thì bây giờ Hòa nhiều\nhơn Bình mấy viên bi?......\n5,Một người mua 5 quyển vở như nhau,giá mỗi quyển vở là 4000 đồng.Hỏi người đó phải trả\nbao nhiêu nghìn đồng?........\n6,Mỗi túi gạo cân nặng 4 kg.Hỏi 6 túi gạo như thế cân nặng bao nhiêu kg? ......\n7,Mỗi con Bò có 6 cái chân.Hỏi đàn Bò có 7 con đếm được tất cả ....... cái chân.\n8,Có một số lượng dầu ,nếu đựng vào mỗi can 3 lít thì được 8 can và còn thừa 1lít. Hỏi số\nlượng dầu đó là bao nhiêu lít?.....\n9,Trong hình bên có ......... hình tam giác.\n10,Trong hình bên có ......... hình tứ giác.\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 15",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 14",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Đỉnh núi trí tuệ",
-      "id": "vio-2-0021"
-    },
-    {
-      "q": "Vòng 15\nBài 1:Cóc vàng tài ba\n1,Ba bạn Lan,Huệ,Hồng bằng tuổi nhau và hiện nay đều 7 tuổi .Tính tổng số tuổi của ba bạn sau 4 năm nữa?\n( 33, 32, 27, 30 )\n2, Tìm a biết a : 5 = 9 ( 30, 35, 45, 25)\n3,Tìm a biết a : 5 + 47 = 52 ( 30, 35, 28, 20 )\n4,Nếu đựng vào mỗi túi 4kg thì được tất cả 5 túi và vừa hết số gạo ?Hỏi số gạo đem chia là bao nhiêu kg?\n( 15, 20, 30, 25)\n5,Hiện nay anh 31 tuổi em 24 tuổi .Tính tổng số tuổi của hai anh em khi tuổi em bằng tuổi anh hiện nay?\n( 65, 72, 69, 87)\n6, Có một số lượng gạo ,nếu đem đựng vào mỗi túi 4kg thì được 6 túi.Hỏi số lượng gạo đó nếu đem đựng vào\nmỗi túi 3kg thì được bao nhiêu túi? ( 9, 6, 7, 8 )\n7,Bình có nhiều hơn An 12 viên bi.Nếu Bình cho An 3 viên bi thì bây giờ Bình nhiều hơn An ...........viên bi.\n( 12, 9, 3, 6 )\n8,Người ta đem đựng một số lít dầu vào các can nhỏ .Nếu đựng vào mỗi can 5 lít thì được tất cả 9 can và còn\nthừa lại 4 lít. Tính tổng số dầu đó? ( 49, 45, 52, 50)\n9,Tìm số bé nhất mà khi đem 3 nhân với số đó được kết quả vẫn lớn hơn 22. ( 7, 8, 9, 6)\n10,Tìm số lớn nhất mà khi đem 5 nhân với số đó được kết quả vẫn nhỏ hơn40.( 6, 7, 8, 9 )",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 15",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Cóc vàng tài ba",
-      "id": "vio-2-0022"
-    },
-    {
-      "q": "Vòng 15\nBài 2:Vượt chướng ngại vật\n1,Một người mua 7 bông hồng ,giá mỗi bông hồng là 4.000 đồng .Hỏi người đó phải trả bao nhiêu nghìn\nđồng?........\n2,Hồng và Hà mỗi người có một số con tem.Biết sau khi Hồng cho Hà 5 con tem thì Hồng vẫn nhiều hơn Hà\n10 con tem.Hỏi lúc đầu Hồng hơn Hà bao nhiêu con tem ?........\n3, 5 x ...... + 18 = 29 + 34\n4, 5 x 5 +....... = 4 x 7 + 43\n5,Hai anh em mỗi người có một số viên bi.Biết nếu anh cho em 12 viên bi thì số bi của anh sẽ ít hơn số bi của\nem 6 viên?Hỏi anh có nhiều hơn em bao nhiêu viên bi?.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 15",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Vượt chướng ngại vật",
-      "id": "vio-2-0023"
-    },
-    {
-      "q": "Vòng 15\nBài 3:Điền số thích hợp vào chỗ ..... nhé.\n1, An và Bình chia nhau 24 chiếc nhãn vở.An lấy số nhãn vở nhiều hơn Bình và số nhãn vở của An nhỏ hơn\n14.Vậy Bình đã lấy bao nhiêu cái nhãn vở? .......\n2,Có một túi kẹo ,sau khi chia cho 9 em mỗi em 4 cái thì còn lại 44 cái.Hỏi ban đầu túi kẹo có bao nhiêu\nchiếc? ........\n3,Dũng có 25 viên bi gồm các màu xanh,đỏ,tím,vàng .Trong đó bi xanh,bi đỏ,bi tím mỗi loại 5 viên?Hỏi Dũng\ncó bao nhiêu bi vàng ?.....\n4, Có một số gạo,nếu đem chia đều vào các túi ,mỗi túi 3kg thì được 6 túi và còn thừa 2kg ?Hỏi số gạo đó\nđem đựng vào các túi 4kg thì được bao nhiêu túi?....\n5,Tìm tổng của số lớn nhất và số bé nhất có hai chữ số khác nhau được lập từ các số 0,2,3,7?.......\n6,Tùng có 30 viên bi.Tùng cho Toàn 5 viên bi rồi Toàn lại cho Nam 3 viên bi thì lúc này số bi của 3 bạn bằng\nnhau.Vậy lúc đầu Toàn có ...... viên bi.\n7, Em hãy cho biết có tất cả bao nhiêu số có hai chữ số khác nhau lớn hơn 28 và nhỏ hơn 83?......\n8, Em hãy cho biết có tất cả bao nhiêu số có hai chữ số mà hiệu hai chữ số của mỗi số đó bằng3?\n9,Hiện nay bố Hà 45tuổi,còn ông nội Hà 72 tuổi .Tính tổng số tuổi của ông nội Hà và bố Hà khi tuổi ông nội\nHà bằng tuổi bố Hà hiện nay?..........\n10, 5 x ...... + 17 = 90 - 48.\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 16",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 15",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền số thích hợp vào chỗ ..... nhé.",
-      "id": "vio-2-0024"
-    },
-    {
-      "q": "Vòng 16\nBài 1:Đi tìm kho báu\n1,Thùng thứ nhất đựng 56 lít dầu thùng thứ hai đựng ít hơn thùng thứ nhất 12 lít dầu .Hỏi cả\nhai thùng đựng được bao nhiêu lít dầu?........\n2,Hiện nay An 6 tuổi ,Bố An gấp 5 lần tuổi An .Hỏi khi An 17 tuổi thì Bố An bao nhiêu\ntuổi?.......\n3, Sau khi An cho Bình 18 viên bi,Cường cho An 15 viên bi thì mỗi bạn cùng có 30 viên.Hỏi\nban đầu An có bao nhiêu viên bi?.......\n4,Hiện nay Anh 27 tuổi ,Em 19 tuổi.Tính tổng số tuổi của hai anh em khi Em bằng tuổi Anh\nhiện nay.? ....... A F B\n5,Cho hình vẽ.Biết AF = EF = DE = 4 cm.\nDE = AD = BC = 4cm, FB = EC = 2cm D E C\nTính tổng chu vi các hình tứ giác đó.\n6,Tùng có 38 viên bi.Nếu Tùng có thêm 15 viên nữa thì số bi của Tùng bằng số bi của\nNam.Hỏi hai bạn có bao nhiêu viên bi?.......... A B C D E\n7,9 x 5 + ..... = 81\n8,Trong hình vẽ bên có bao nhiêu hình chữ nhật?.....\n9,Có bao nhiêu số có 2 chữ số khác nhau lớn hơn 18?...... K I H G F\n10,Cho hình vẽ ?Có tất cả ....... hình tứ giác. A B\nF O C",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 16",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Đi tìm kho báu",
-      "id": "vio-2-0025"
-    },
-    {
-      "q": "Vòng 16\nBài 2:Sắp xếp các ô có giá trị tăng dần: E D\n23 15 : 3 4 x 9 + 16 61\n5 x 9 + 18 65 5 x 4 + 53 7\n5 x 9 + 25 35 + 40 2 x 4 90 - 36\n5 x 10 + 19 67 5 : 5 2 x 5\n17 5 x 9 +10 4 x 8 + 30 14",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 16",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Sắp xếp các ô có giá trị tăng dần: E D",
-      "id": "vio-2-0026"
-    },
-    {
-      "q": "Vòng 16\nBài 3:Vượt chướng ngại vật\n1,Sau khi An cho Bình và Minh mỗi bạn 17 viên bi thì An còn lại 48 viên bi.Hỏi trước khi cho\nAn có bao nhiêu viên bi?........\n2,An nghĩ ra một số nếu số đó nhân với chính nó rồi cộng với 16 thì được kết quả là 41?.......\n3,Có bao nhiêu số có 2 chữ số mà hiệu 2 chữ số của mỗi số đó bằng 2? ........\n4,Tìm số ab biết a5 + 3b = 92. ab = .......\n5,A = 1 + 3 + 5 + 7 + ......... + 11 + 13 + 15\nA = ........\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 17",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 16",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Vượt chướng ngại vật",
-      "id": "vio-2-0027"
-    },
-    {
-      "q": "Vòng 17\nBài 1:Đi tìm kho báu\n1,Số lớn nhất có 2 chữ số mà tổng 2 chữ số của số đó bằng 15?........\n2,Hiện nay bố Lan 38 tuổi còn ông nội Lan 64 tuổi.Hãy tính tổng số tuổi của ông nội Lan và\nbố Lan khi tuổi ông nội Lan bằng tuổi bố Lan hiện nay.?.......\n3, Có 10 can dầu, trong đó có 9 can mỗi can đựng 4 lít và 1 can đựng 3 lít.Tính số dầu đựng\ntrong 10 can đó. ?.......\n4,Cô giáo đem chia 42 cái kẹo cho học sinh .Hỏi nếu cô chia cho mỗi em 5 cái thì số bạn\nđược chia kẹo nhiều nhất là bao nhiêu bạn.? ........... A\n5,Cho hình vẽ.Nếu AB = 6 cm,AD = 5 cm\nAC = 8cm, BC = 10cm\nTính tổng độ dài các đoạn thẳng.?........ B D C\n6,Viết được bao nhiêu số có 2 chữ số khác nhau từ các số 0, 1, 2, 3 ,4 ?..........\n7,Số lớn nhất có 3 chữ số mà tổng 3 chữ số của số đó bằng 10?........\n8,Trong hộp có tất cả 35 viên bi đỏ,24 viên bi xanh ,28 viên bi vàng .Hỏi nếu không được nhìn\nvào hộp thì phải lấy trong hộp ra ít nhất bao nhiêu viên để chắc chắn số bi lấy được có cả 3\nmàu?.....\n9,Có tất cả bao nhiêu số có 3 chữ số được viết từ các số 1 , 2 ,5?......\n10,Tìm số lớn nhất có 2 chữ số biết tích 2 chữ số của số đó bằng 6 và hiệu 2 chữ số của số đó\nbằng 1.?...... . A\nH D",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 17",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Đi tìm kho báu",
-      "id": "vio-2-0028"
-    },
-    {
-      "q": "Vòng 17\nBài 2:Vượt chướng ngại vật\n1,Trong hình bên có bao nhiêu hình tam giác?........ B E F G C\n2,Hiện nay Nam 15 tuổi bố Nam 42 tuổi .Tuổi của ông nội Nam bằng tổng số tuổi của hai bố\ncon Nam sau 8 năm nữa?.......\n3,Hỏi cần ít nhất bao nhiêu chiếc túi loại 4 kg (mỗi túi chỉ đựng được 4 kg để đựng hết 37 kg\ngạo). ? ........ A\n4,5 x 9 - 4 x ...... = 90 - 73.\n5, Cho hình vẽ:Nếu AB = 6 cm, AC = 8 cm, AD = 5 cm\nBC = 10 cm.Tính tổng chu vi 2 tam giác ABD và ADC? ...... B D C",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 17",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Vượt chướng ngại vật",
-      "id": "vio-2-0029"
-    },
-    {
-      "q": "Vòng 17\nBài 3:Điền số thích hợp vào chỗ ..... nhé.\n1,Sau khi An tặng Bình 15 cái nhãn vở rồi Bình lại tặng An 4 cái nhãn vở thì mỗi bạn đều có 24 cái\nnhãn vở.Hỏi ban đầu An có bao nhiêu cái nhãn vở ?.......\n2,Năm nay Hoa 6 tuổi mẹ Hoa hơn Hoa 26 tuổi .Hỏi khi tuổi Hoa bằng tuổi mẹ Hoa hiện nay thì lúc\nđó tổng số tuổi của 2 mẹ con Hoa là bao nhiêu?....\n3,Chiến nghĩ ra một số nếu lấy số đó nhân với 9 rồi cộng với 18 thì được kết quả là 63?...\n4,Tìm số lớn nhất có 2 chữ số mà hiệu 2 chữ số của số đó bằng 2?.......\n5, Thứ hai tuần trước là ngày 8 vậy thứ sáu tuần sau là ngày?.....\n6,Tìm số lớn nhất có 2 chữ số,biết thương 2 chữ số của số đó bằng hiệu 2 chữ số của số đó và bằng\n2.?.....\n7,Số bé nhất có 3 chữ số mà tổng các chữ số của số đó bằng 15?.......\n8,Tìm số ab biết 8a - b9 = 25, ab = ......\n9,Có tất cả bao nhiêu số có 3 chữ số mà tổng 3 chữ số của số đó bằng 4?......\n10,Số bé nhất có 3 chữ số mà tích 3 chữ số của số đó bằng 18?.......\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 18",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 17",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền số thích hợp vào chỗ ..... nhé.",
-      "id": "vio-2-0030"
-    },
-    {
-      "q": "Vòng 18\nBài 1:Điền số thích hợp vào chỗ ..... nhé.\n1,Hãy cho biết có tất cả bao nhiêu số có 3 chữ số nhỏ hơn 215.?.......\n2,Sau khi Anh cho em 5 quyển vở thì Anh vẫn còn nhiều hơn em 3 quyển vở.Vậy trước khi\ncho Anh nhiều hơn em .......quyển vở.?\n3,Số bé nhất có 2 chữ số mà tổng 2 chữ số của số đó bằng 7?...\n4,Có tất cả bao nhiêu số có 2 chữ số mà hiệu 2 chữ số của số đó bằng 2?.......\n5,Hỏi cần ít nhất bao nhiêu chiếc túi,mỗi túi đựng được 4kg gạo để đựng hết 31kg gạo.?.....\n6,Có một số dầu nếu thêm 9 lít nữa thì vừa đủ đựng vào 10 chiếc can mỗi can 5 lít.Tính số dầu\nđó.?.....\n7,Tổng của số bé nhất có 3 chữ số với số lớn nhất có 2 chữ số khác nhau.?.......\n8,Tìm số ab biết a6 - 5b = 94, ab = ......\n9,Có tất cả bao nhiêu số có 3 chữ số mà tổng 3 chữ số của mỗi số đó bằng 3?......\n10,Cho hình vẽ :Biết đoạn AD = 15,BC = 6. A B C D\nTổng độ dài các đoạn thẳng trong hình vẽ?.......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 18",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Điền số thích hợp vào chỗ ..... nhé.",
-      "id": "vio-2-0031"
-    },
-    {
-      "q": "Vòng 18\nBài 2:Cóc vàng tài ba\n1,Tìm y biết y x 5 - 16 = 29 ( 4, 7, 5, 9 )\n2, 5 x 9 + 9 = 100 - ...... ( 47, 46, 56, 55)\n3,Trong hộp có tất cả 34 viên bi đỏ,48 viên bi xanh ,37 viên bi vàng .Hỏi nếu không được nhìn\nvào hộp thì phải lấy trong hộp ra ít nhất bao nhiêu viên để chắc chắn số bi lấy được có cả 3\nmàu. ( 48, 86, 82, 85 )\n4,Hiện nay con 8 tuổi ,Mẹ 33 tuổi.Hãy tính tổng số tuổi của hai mẹ con sau 4 năm nữa.?\n( 45, 49, 51, 37)\n5,Cho biết chủ nhật vừa qua là ngày 31.Hỏi thứ bẩy tuần sau là ngày bao nhiêu?\n(14, 13, 12, 6 )\n6, Số lớn nhất có 3 chữ số mà tổng 3 chữ số của số đó bằng 12.( 930, 921, 129, 813)\n7,Có tất cả bao nhiêu số có 3 chữ số mà tích 2 chữ số hàng trăm và hàng chục bằng 6\n( 40, 60, 20, 30 )\n8,Có tất cả bao nhiêu số có 3 chữ số khác nhau mà chữ số hàng đơn vị của mỗi số đó là 5.?\n( 64, 65, 66, 63 ) B\n9,Biết AB = 6 cm, BC = 10 cm, AC = 8 cm,AM = 5 cm. M\nTính tổng chu vi các hình tam giác trong hình vẽ.\n( 34cm, 58 cm, 48 cm, 29 cm) A C\n10, Chọn phép tính có kết quả là 84.( 534 - 424, 4 x 7 + 58, 100 - 45 + 28 , 5 x 9 + 39 )",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 18",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Cóc vàng tài ba",
-      "id": "vio-2-0032"
-    },
-    {
-      "q": "Vòng 18\nBài 3:Vượt chướng ngại vật\n1,Cho biết thứ 2 tuần này là ngày 15.Hỏi chủ nhật tuần sau là ngày bao nhiêu?........\n2,Hiện nay tổng số tuổi của bố An,mẹ An và An là 68 tuổi. Tính tổng số tuổi của bố An,mẹ\nAn và An sau 5 năm nữa.?.......\n3,Tìm số ab biết a1 - 3b = 44, ab = ......\n4,Số bé nhất có 3 chữ số khác nhau mà tổng 3 chữ số của số đó bằng 13.? ......\n5,Có tất cả bao nhiêu số có 2 chữ số mà hiệu 2 chữ số của mỗi số đó bằng 1?......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 18",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Vượt chướng ngại vật",
-      "id": "vio-2-0033"
-    },
-    {
-      "q": "Vòng 2\nBài 1:\n1, 9 + 2 = .......\n2, 9 dm + 3 dm = ....... dm.\n3, 9 + 7 = ........\n4, Cho các số 70,39,15,23,89.Xếp theo thứ tự từ lớn đến bé:..................................\n5, Số liền sau của số lớn nhất có một chữ số là số ........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1",
-      "id": "vio-2-0034"
-    },
-    {
-      "q": "Vòng 2\nBài 2:Chọn liên tiếp hai ô có giá trị bằng nhau hoặc đồng nhất với nhau..\n45 + 20 21 + 15 89 - 38 52 + 27\n51 + 35 21 + 16 88 - 23 25 + 12\n59 - 23 78 - 30 23 + 25 34 + 30\n68 - 17 12 + 15 89 89 - 25\n69 - 42 43 + 46 79 72 + 14\n.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Chọn liên tiếp hai ô có giá trị bằng nhau hoặc đồng nhất với nhau..",
-      "id": "vio-2-0035"
-    },
-    {
-      "q": "Vòng 2\nBài 3: Điền số thích hợp vào ô trống để được phép tính đúng.\n4 3 7 4 7\n+ 4 + 6 + 3 3 + 1\n8 9 6 8 9 8 9 9 6\n8 9 9 4 6 7\n- 4 - 1 8 - 1 4 - 2 - 4\n2 5 3 1 2 6 2 5\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 3",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 2",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0036"
-    },
-    {
-      "q": "Vòng 3\nBài 1:\n1, 19 + 7 = .......\n2, ..... - 26 = 13\n3, 64 + ........ = 70\n4, Có bao nhiêu số tự nhiên lớn hơn 26 và nhỏ hơn 79?: .............\n5, 8 dm 2 cm = ........dm.\n6, Cho a = 85 - 23 và b = 45 + 9. So sánh hai số a và b ( a ....... b )\n7, 6 + 4 + 8 = .........\n8, 7 .... + 6 = 85.\n9, Có bao nhiêu số tự nhiên nhỏ hơn 68?:..............\n10, Một cửa hàng ngày thứ nhất bán được 29 quyển vở, ngày thứ hai bán nhiều hơn ngày thứ\nnhất 15 quyển vở. Hỏi ngày thứ hai bán được bao nhiêu quyển vở. ................",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1",
-      "id": "vio-2-0037"
-    },
-    {
-      "q": "Vòng 3\nBài 2:Chọn liên tiếp hai ô có giá trị bằng nhau hoặc đồng nhất với nhau..\n52 + 34 51 + 32 43 47 + 13\n89 - 35 49 + 17 47 + 43 29 + 17\n31 + 23 28 + 7 69 - 34 78 + 5\n32 + 28 46 48 - 36 79 - 67\n78 + 8 56 + 34 66 89 - 46\n.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Chọn liên tiếp hai ô có giá trị bằng nhau hoặc đồng nhất với nhau..",
-      "id": "vio-2-0038"
-    },
-    {
-      "q": "Vòng 3\nBài 3: Điền số thích hợp vào ô trống để được phép tính đúng.\n9 9 9 4 3\n7 + 1 + 1 + 1 6 + 4\n4 2 9 2 5 7 5 7 0\n9 9 7 8 9 6\n- 1 + 3 3 - 6 - 2 - 3\n3 1 6 4 3 3 6 1 3\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 4",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 3",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0039"
-    },
-    {
-      "q": "Vòng 4\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n38 76 - 32 62 + 36 29 + 13\n37+28 47 + 23 28 45 + 52\n49 - 31 29 68 86\n57 + 15 37 + 15 35 24\n99 - 25 99 - 10 17 7",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0005",
+      "q": "Câu 3: Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 6?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "17",
+      "solution": "Liệt kê các số thỏa mãn điều kiện rồi chọn số bé nhất: 17.",
       "ch": "Vòng 4",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0040"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ ..... - Câu 3"
     },
     {
-      "q": "Vòng 4\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n57 - 34 28 + 12 29 + 24 36 + 34\n29 + 21 34 41 + 20 41\n12 + 15 25 67 57\n27 + 21 45 49 - 31 15\n35 - 23 47 - 27 18 + 12 64",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0006",
+      "q": "Câu 4: Số lớn nhất có hai chữ số mà hiệu hai chữ số bằng 4?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "95",
+      "solution": "Liệt kê các số thỏa mãn điều kiện rồi chọn số lớn nhất: 95.",
       "ch": "Vòng 4",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0041"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ ..... - Câu 4"
     },
     {
-      "q": "Vòng 4\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n45+17 20 + 22 13 80-20\n9 + 3 13 + 4 16 + 9 15\n20 +25 22+7 50 23+7\n36 +39 18 +31 30 +40 8\n19 99 - 10 90 -50 16 +6",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0007",
+      "q": "Câu 3: Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 5?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "16",
+      "solution": "Liệt kê các số thỏa mãn điều kiện rồi chọn số bé nhất: 16.",
       "ch": "Vòng 4",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0042"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ ..... - Câu 3"
     },
     {
-      "q": "Vòng 4\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n57 - 34 28 + 12 29 + 24 6 + 34\n29 + 21 34 41 + 20 41\n12 + 15 25 67 57\n27 + 21 45 49 - 31 15\n35 - 23 47 - 27 18 + 12 64",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
+      "id": "vio-2-0008",
+      "q": "Câu 3: Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 4?...",
+      "hint": "Gợi ý: Xác định đại lượng còn thiếu, lập phép tính ngược hoặc thay thử vào chỗ trống để kiểm tra.",
+      "answer": "15",
+      "solution": "Liệt kê các số thỏa mãn điều kiện rồi chọn số bé nhất: 15.",
       "ch": "Vòng 4",
       "chapter": 1,
       "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0043"
-    },
-    {
-      "q": "Vòng 4\nBài 2: Điền kết quả thích hợp vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 88 + 7 = ........\n2, Biết hai số hạng là 78 và 3.Tổng của hai số hạng là ........\n3, Điền số thích hợp vào chỗ trống: 68 + 6 = .........\n4, Điền số thích hợp vào chỗ trống ........+ 36 = 44\n5, Tuyến có 65 chiếc nhãn vở,Thảo có nhiều hơn Tuyến 8 chiếc nhãn vở. Hỏi Thảo có bao\nnhiêu chiếc nhãn vở............\n6, Việt có 39 viên bi,Việt cho Khánh 12 viên bi.Hỏi Việt còn bao nhiêu viên bi?.........\n7, Một cửa hàng có 96 kg gạo ,bán đi 15 kg gạo.Hỏi cửa hàng đó còn bao nhiêu kg\ngạo?...........\n8, Thảo có 18 nhãn vở ít hơn Hà 16 nhãn vở. Hỏi cả hai bạn có bao nhiêu chiếc nhãn\nvở.?..........\n9, Một cửa hàng bán 38 quả trứng vào buổi sáng, buổi chiều bán tiếp 7 quả .Hỏi cửa hàng đó\ntrong ngày bán được bao nhiêu quả trứng?............\n10, Điền số thích hợp : 89 dm - 30 cm + 8 dm = ..........dm.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0044"
-    },
-    {
-      "q": "Vòng 4\nBài 2: Điền kết quả thích hợp vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 33 + 8 = ........\n2, Biết số trừ là 17 và số bị trừ là 89. Hiệu của hai số ......\n3, Điền số thích hợp vào chỗ trống: 48 + 6 = ........\n4, Điền số thích hợp vào chỗ trống: ........ + 8 = 47\n5, Lan có 45 chiếc nhãn vở,Đào có nhiều hơn Lan 6 chiếc nhãn vở.Hỏi Đào có bao nhiêu\nchiếc nhãn vở?........\n6, Điền chữ số còn thiếu: 75 + ....... = 93\n7, Thực hiện dãy tính: 38 + 13 + 48 = .........\n8, Bình có 32 nhãn vở ít hơn Hải 13 nhãn vở. Hỏi cả hai bạn có bao nhiêu chiếc nhãn\nvở.?........\n9, Một cửa hàng bán 56 quả trứng vào buổi sáng, buổi chiều bán tiếp 6 quả .Hỏi cửa hàng đó\ntrong ngày bán được bao nhiêu quả trứng?............\n10, Số lớn nhất có hai chữ số mà tổng của nó là 15 ?...........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0045"
-    },
-    {
-      "q": "Vòng 4\nBài 2: Điền kết quả thích hợp vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 65 + 35 = ......\n2, Biết hai số hạng là 75 và 25.Tổng của hai số hạng là ......\n3, Điền số thích hợp vào chỗ trống: 45 + 55 = ......\n4, Điền số thích hợp vào chỗ trống: ...... + 35 = 100\n5, Tuyến có 85 chiếc nhãn vở,Thảo có nhiều hơn Tuyến 15 chiếc nhãn vở. Hỏi Thảo có bao\nnhiêu chiếc nhãn vở?........\n6, Việt có 99 viên bi,Việt cho Khánh 18 viên bi.Hỏi Việt có bao nhiêu viên bi?.........\n7, Một cửa hàng có 86 kg gạo ,bán đi 35 kg gạo.Hỏi cửa hàng đó còn bao nhiêu kg gạo?........\n8, Thảo có 28 nhãn vở ít hơn Hà 16 nhãn vở. Hỏi cả hai bạn có bao nhiêu chiếc nhãn\nvở.?........\n9, Một cửa hàng bán 68 quả trứng vào buổi sáng, buổi chiều bán tiếp 15 quả trứng .Hỏi cửa\nhàng đó trong ngày bán được bao nhiêu quả trứng?............\n10, Điền số thích hợp : 83 dm - 30 cm + 20 dm = .......dm.",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0046"
-    },
-    {
-      "q": "Vòng 4\nBài 2: Điền kết quả thích hợp vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 65 + 35 = ........\n2, Biết số trừ là 13 và số bị trừ là 99. Hiệu của hai số ......\n3, Điền số thích hợp vào chỗ trống: 48 + 42 = ........\n4, Điền số thích hợp vào chỗ trống: ........ + 9 = 100\n5, Lan có 35 chiếc nhãn vở,Đào có nhiều hơn Lan 8 chiếc nhãn vở.Hỏi Đào có bao nhiêu\nchiếc nhãn vở?........\n6, Điền chữ số còn thiếu: 72 + ....... = 93\n7, Thực hiện dãy tính: 38 + 13 + 48 = .........\n8, Bình có 42 nhãn vở ít hơn Hải 12 nhãn vở. Hỏi cả hai bạn có bao nhiêu chiếc nhãn\nvở.?........\n9, Một cửa hàng bán 58 quả trứng vào buổi sáng, buổi chiều bán tiếp 8 quả .Hỏi cửa hàng đó\ntrong ngày bán được bao nhiêu quả trứng?............\n10, Số lớn nhất có hai chữ số mà tổng của nó là 17 ...........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0047"
-    },
-    {
-      "q": "Vòng 4\nBài 3:Điền kết quả thích hợp vào chỗ .....\n1, Một lớp học có 17 học sinh nam và 13 học sinh nữ. Hỏi lớp học đó có bao nhiêu học\nsinh?.......\n2, Kết quả của dãy tính: 67 + 29 - 14 = .........\n3, Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 6 ?...........\n4, Số lớn nhất có hai chữ số mà hiệu hai chữ số bằng 4 ?..........\n5, Điền dấu: > , < , = vào chỗ ......: 18 dm + 12 dm ........ 80 dm - 50 dm.\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 4",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0048"
-    },
-    {
-      "q": "Vòng 4\nBài 3:Điền kết quả thích hợp vào chỗ .....\n1, Bao gạo nếp nặng 36 kg, bao gạo tẻ nặng hơn bao gạo nếp 12 kg.Hỏi cả hai bao nặng bao\nnhiêu kg?.........\n2, Kết quả của dãy tính: 67 + 29 - 14 = .........\n3, Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 5 ? ...........\n4, Số lớn nhất có hai chữ số mà tổng hai chữ số bằng 13 ? ...........\n5, Số tiếp theo cần điền vào dãy sau cho phù hợp với quy luật: 1, 3, 4, 7, 11, 18, 29, .............\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 4",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0049"
-    },
-    {
-      "q": "Vòng 4\nBài 3: Điền kết quả thích hợp vào chỗ .....\n1, Một lớp học có 27 học sinh nam và 15 học sinh nữ. Hỏi lớp học đó có bao nhiêu học\nsinh?.......\n2, Kết quả của dãy tính: 87 + 23 - 15 = .........\n3, Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 4? ...........\n4, Số lớn nhất có hai chữ số mà hiệu hai chữ số bằng 5 ...........\n5, Điền dấu: > , < , = vào chỗ ......: 18 dm + 12 dm ........ 80 dm - 50 dm.\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 4",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0050"
-    },
-    {
-      "q": "Vòng 4\nBài 3: Điền kết quả thích hợp vào chỗ .....\n1, Bao gạo nếp nặng 76 kg, bao gạo tẻ nặng hơn bao gạo nếp 24 kg.Hỏi cả hai bao nặng bao\nnhiêu kg.........\n2, Kết quả của dãy tính: 81 + 19 - 14 = .........\n3, Số nhỏ nhất có hai chữ số mà hiệu hai chữ số bằng 7 ...........\n4, Số lớn nhất có hai chữ số mà tổng hai chữ số bằng 16 ...........\n5, Số tiếp theo cần điền vào dãy sau cho phù hợp với quy luật: 1, 3, 4, 7, 11, 18, 29, .............\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 5",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 4",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ .....",
-      "id": "vio-2-0051"
-    },
-    {
-      "q": "Vòng 5\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n72+27 87 49 56+15\n37-12 6+7 56 13+7\n87-51 67 26+14 8+9\n12+14 59+33 90 46+17\n9+6 46 16 68+32",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0052"
-    },
-    {
-      "q": "Vòng 5\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n29+23 12+14 26+14 39\n58+17 56 90 9+6\n67+24 8+9 6+7 29\n48 49 48+32 15+56\n37-12 5 28+14 57+31",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0053"
-    },
-    {
-      "q": "Vòng 5\nBài 2: Điền vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: 81 - 37 = ........\n2, Điền số thích hợp vào chỗ trống: 71 - 43 = ........\n3, Điền số thích hợp vào chỗ trống: 46 + 27 = .........\n4, Điền số thích hợp vào chỗ trống: 12 + 18 + 7 = .........\n5, Điền số thích hợp vào chỗ trống ........+ 49 = 91\n6, Điền số thích hợp vào chỗ trống: 46 +...... = 81\n7, Điền số thích hợp vào chỗ trống: 57 +...... = 91\n8, Mảnh vải trắng dài 35dm. Mảnh vải hoa ngắn hơn mảnh vải trắng 12dm . Hỏi cả hai mảnh\nvải dài bao nhiêu dm ?.........\n9, Điền số thích hợp vào chỗ trống: 26 + 36 +....... = 81\n10, Điền số thích hợp vào chỗ trống: 19 + 25 +........ = 70",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền vào chỗ .....",
-      "id": "vio-2-0054"
-    },
-    {
-      "q": "Vòng 5\nBài 2: Điền vào chỗ .....\n1, Điền số thích hợp vào chỗ trống: ....... + 27 = 64\n2, Điền số thích hợp vào chỗ trống: 71 - 43 = ........\n3, Điền số thích hợp vào chỗ trống: 88 - 42 + 17 = ........\n4, Điền số thích hợp vào chỗ trống: 37 + 7 - 13 = .........\n5, Điền số thích hợp vào chỗ trống: 29 + 33 +........ = 71\n6, Điền số thích hợp vào chỗ trống :...... + 49 = 91\n7, Thực hiện dãy tính: 34 + 18 + ....... = 80\n8, Lan hái 38 quả cam, Bình hái nhiều hơn Lan 7 quả. Hỏi Bình hái được bao nhiêu quả\ncam.?........\n9, Hùng và Lan cân nặng 26kg. Minh cân nặng 37kg .Hỏi ba bạn cân nặng bao nhiêu\nkg?............\n10, Tổng của 2 số tròn chục nhỏ nhất có tổng là 10? ...........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền vào chỗ .....",
-      "id": "vio-2-0055"
-    },
-    {
-      "q": "Vòng 5\nBài 3:\n1, Có 2 thùng đựng dầu , thùng một đựng 86 lít dầu, thùng hai đựng ít hơn thùng một 15 lít .\nHỏi thùng hai đựng bao nhiêu lít?.......\n2, Tổng số điểm kiểm tra của Mai là 48 điểm, của Lan nhiều hơn Mai 5 điểm . Hỏi tổng số\nđiểm của Lan là bao nhiêu điểm?........\n3, Đoạn dây một dài 58dm. Đoạn hai ngắn hơn đoạn một là 25dm.Hỏi đoạn hai dài bao\nnhiêu dm? ...........\n4, Lớp 2a và 2b mỗi lớp có 32 học sinh, lớp 2c có 33 học sinh. Hỏi cả ba lớp có bao nhiêu\nhọc sinh?........\n5, Trong hình vẽ bên có ..........hình chữ nhật?\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 5",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3",
-      "id": "vio-2-0056"
-    },
-    {
-      "q": "Vòng 5\nBài 3:\n1, Nhà bác Hà vừa bán 2 con lợn , con bé cân nặng 78kg , con to cân nặng hơn con bé\n13kg.Hỏi con to cân nặng bao nhiêu kg?.........\n2, An cân nặng 29kg, Bình cân nặng hơn An 5kg . Hỏi Bình cân nặng bao nhiêu kg?...............\n3, Hồng cao 93cm , Hà cao hơn Hồng 6cm . Hỏi Hà cao bao nhiêu cm?...............\n4, Tìm tổng 2 số hạng biết số hạng thứ nhất là 35 và số liền sau của số hạng thứ nhất ?............\n5, Trong hình vẽ bên có ..........hình tứ giác.?\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 6",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 5",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3",
-      "id": "vio-2-0057"
-    },
-    {
-      "q": "Vòng 6\nBài 1: Chọn các ô có giá trị bằng nhau:\n92 - 30 81 95 - 42 69 - 51\n17 + 65 92 - 63 68 - 28 99 - 45\n38 + 24 76 + 14 99 - 81 46 + 19\n43 29 79 - 48 12 + 19\n89 - 36 65 - 43 81 -27 22",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 6",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Chọn các ô có giá trị bằng nhau:",
-      "id": "vio-2-0058"
-    },
-    {
-      "q": "Vòng 6\nBài 2:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự\ntăng dần.\n20 36 21 - 16 46 + 28\n41 + 28 18 + 12 46 + 24 18\n16 + 15 76 + 14 57 + 23 46 + 19\n76 + 17 6 + 9 27 94\n89 - 32 86 + 14 78 56 + 5",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 6",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0059"
-    },
-    {
-      "q": "Vòng 6\nBài 3:Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.\n4 5 7 3 9 3 7\n- 4 + 8 - 4 8 - 4 + 1 6\n3 8 9 5 5 5\n0 3 2 9 8\n- 2 1 - +3 + 5 8 - 2\n5 1 3 8 6 9 9 3 2\n.ĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 7",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 6",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0060"
-    },
-    {
-      "q": "Vòng 7\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự tăng dần.\n7 + 8 68 57 31\n46 29 + 16 14 17\n52 67 + 16 12 + 16 77 + 8\n96 91 - 53 6 28 + 13\n86 74 + 18 24+25 29",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0061"
-    },
-    {
-      "q": "Vòng 7\nBài 1:Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ tự tăng dần.\n5 + 8 18 + 9 26 - 15 48 + 23\n7 38 + 23 86 - 31 18 + 6\n58 - 24 9 + 7 29 + 15 86 - 5\n47 + 16 68 + 7 2 + 3 9\n16 + 5 38 + 14 39 + 27 45 - 14",
-      "hint": "Gợi ý: Tính giá trị từng ô hoặc từng biểu thức trước, sau đó mới sắp xếp theo thứ tự đề bài yêu cầu.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Hãy viết số thứ tự của các ô chứa số, phép tính trong bảng sau có kết quả theo thứ ",
-      "id": "vio-2-0062"
-    },
-    {
-      "q": "Vòng 7\nBài 2: Chọn đáp án trả lời thích hợp trong 4 đáp án cho sẵn.\n1. Tìm a biết a + 23 = 68 . ( A. a = 91, B. a = 44, C. a = 45, D. a = 46)\n2. 16kg + 9kg .....89dm - 20dm. ( A. = , B. > , C. < , D. không so sánh được)\n3. Tìm a biết a + 32 = 47 . ( A. a = 16, B. a = 15, C. a = 79, D. a = 17)\n4. 48kg - 10kg .....28kg + 10kg . ( A. = , B. > , C. < , D. không so sánh được)\n5. .... - 15 = 16 + 38. ( A. 54 , B. 67 , C. 68, D. 69 )\n6. x + 34 .... 43 + x. ( A. = , B. > , C. < , D. không so sánh được)\n7.46 + 6 - 5 = ..... ( A. 47, B. 43, C. 74, D. 44)\n8. Tìm a biết a - 26 = 48 . ( A. a = 73, B. a = 75, C. a = 74, D.a = 72)\n9.An có 6 viên bi,An cho Bình 3 viên bi thì Bình có 10 viên bi.Hỏi cả hai bạn có bao nhiêu viên bi.\nTrả lời: Cả An và Bình có số viên bi là:... . ( A. 13, B. 23, C. 14, D. 31)\n10.Tìm Tổng của hai số hạng,biết số hạng thứ nhất là 49,số hạng thứ hai ít hơn số hạng thứ nhất 17\nđơn vị.\nTrả lời: Tổng cần tìm là....... ( A. 82, B. 83, C. 80, D 81)",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Chọn đáp án trả lời thích hợp trong 4 đáp án cho sẵn.",
-      "id": "vio-2-0063"
-    },
-    {
-      "q": "Vòng 7\nBài 2: Chọn đáp án trả lời thích hợp trong 4 đáp án cho sẵn.\n1. Tìm a biết a + 32 = 47 . ( A.a = 15, B. a = 16, C. a = 17, D.a = 18)\n2. 56 - y ...... 46 - y ( A. = , B. > , C< , D. không so sánh được)\n3. Tìm a biết a + 24 = 40 . ( A. a = 64, B. a = 15, C. a = 16, D. a = 17)\n4. 48kg - 10kg .....28kg + 10kg . ( A. = , B. > , C. < , D.không so sánh được)\n5.Tìm a biết 13 + a = 90 . ( A. a = 77, B. a = 76, C.a = 78, D. a = 75)\n6. x + 76 .... 66 + x. ( A. = , B. > , C .< , D. không so sánh được)\n7. Tìm a biết a + 48 = 68 ( A. 19, B. 20, C. 21, D. 22)\n8. Tìm a biết a - 26 = 48 . ( A. a = 73, B. a = 75, C. a = 74, D. a = 72)\n9.Minh có 36 viên bi,Minh cho Hòa 11 viên bi thì Hòa có 25 viên bi.Hỏi cả hai bạn có bao nhiêu viên bi.\nTrả lời: Cả hai bạn có số viên bi là:... ( A. 50, B. 57, C. 58, D. 50)\n10.Tìm Tổng của hai số hạng,biết số hạng thứ nhất là 49,số hạng thứ hai ít hơn số hạng thứ nhất\n17đơn vị.\nTrả lời: Tổng cần tìm là....... ( A. 82, B. 83, C. 80, D. 81)",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Chọn đáp án trả lời thích hợp trong 4 đáp án cho sẵn.",
-      "id": "vio-2-0064"
-    },
-    {
-      "q": "Vòng 7\nBài 3:Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.\n9 4 6 7 8\n+ 6 2 + 3 7 + 2 5 + 6 - 7\n9 6 3 9 1 5 6\n7 9 0 8 6\n- 2 8 - 9 - 2 4 + 6 - 3\n5 5 2 2 6 0 0 5 2\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 7",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0065"
-    },
-    {
-      "q": "Vòng 7\nBài 3:Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.\n4 1 7 9 3\n+ 4 + 8 - 4 7 - 4 + 7\n7 3 5 4 3 7 5 1 0 0\n1 3 2 7 6\n- 2 8 - 1 + 5 8 - 3\n2 1 3 7 5 9 3 5 2\n.ĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 8",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 7",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0066"
-    },
-    {
-      "q": "Vòng 8\nBài 1:Khỉ con thông thái .Nối các ô có giá trị bằng nhau:\n86 18 26 57 34 + 58 49 + 18 69 + 25 a = 19 a = 45 a = 34\n82 - 25 90 - 64 57 +\n29\n57 + 37 67 + 25 72 - a\n= 38\n72 - 54 61 - a\n= 42\n93 - a\n= 48\n30 +37",
-      "hint": "Gợi ý: Đọc kỹ từng câu trong bài thi, gạch chân dữ kiện quan trọng và làm lần lượt từng bước; không cần làm tắt.",
-      "ch": "Vòng 8",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Khỉ con thông thái .Nối các ô có giá trị bằng nhau:",
-      "id": "vio-2-0067"
-    },
-    {
-      "q": "Vòng 8\nBài 2: Điền vào chỗ .....\n1. Tổng các chữ số có hai chữ số khác nhau viết bởi các chữ số 0, 1, 2 là: ......\n2. Bao gạo bé cân nặng 35 kg, bao gạo to cân nặng hơn bao gạo bé 17 kg.Hỏi bao gạo to cân\nnặng bao nhiêu kg: .......\n3. Hiện nay bố Lan 43 tuổi,mẹ Lan 38 tuổi .Tính tổng số tuổi của bố mẹ Lan hiện nay:............\n4. Hãy cho biết có tất cả bao nhiêu số có hai chữ số mà hai chữ số của mỗi số đó hơn kém nhau\n6 đơn vị:........\n5.Hãy cho biết có tất cả bao nhiêu số có hai chữ số mà tổng hai chữ số của mỗi số đó bằng 11:.....\n6.Số bé nhất có hai chữ số tổng bằng 13:.......\n7.Trong một phép trừ biết hiệu là số bé nhất có hai chữ số mà tổng hai chữ số của nó bằng 8,số\ntrừ bằng 75.Tìm số bị trừ :.....\n8. Hãy cho biết có tất cả bao nhiêu số có hai chữ số mà hai chữ số của mỗi số đó hơn kém nhau\n7 đơn vị:........\n9.Tổng các chữ số có hai chữ số khác nhau viết bởi các chữ số 0, 1, 3 là: ......\n10.Trong hình vẽ bên có bao nhiêu hình tam giác:\n.........",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 8",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Điền vào chỗ .....",
-      "id": "vio-2-0068"
-    },
-    {
-      "q": "Vòng 8\nBài 3:Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.\n4 3 3 4 9\n+ + 9 + 6 + 1 8 - 9\n7 2 7 4 8 5 8 5 4 6\n9 4 7 4 8\n- 5 7 - 9 + 2 - - 6\n3 4 7 4 9 3 5 6 4 5\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 8",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 8",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0069"
-    },
-    {
-      "q": "Vòng 8\nBài 3:Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.\n4 3 3 4 9\n+ + 9 + 6 + 1 8 - 9\n7 2 7 4 8 5 8 5 4 6\n9 4 7 4 8\n- 5 7 - 9 + 2 - - 6\n3 4 7 4 9 3 5 6 4 5\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 9",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 8",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền các số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0070"
-    },
-    {
-      "q": "Vòng 9\nBài 1:Tìm cặp bằng nhau\n29 100 - 37 giá trị của a thỏa mãn\n47+51<a<77+23\n100 - 25 43\n82 - 39 71 - 29 25 23 + 32 83 - 54\n42 92 - 37 63 - 38 93 - 18 19\n49 + 25 49 + 14 số tự nhiên lớn nhất\ncó hai số giống\nnhau\n73 - 54 91 - 17",
-      "hint": "Gợi ý: Tính hoặc rút gọn từng biểu thức, rồi ghép các biểu thức có cùng giá trị.",
-      "ch": "Vòng 9",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 1: Tìm cặp bằng nhau",
-      "id": "vio-2-0071"
-    },
-    {
-      "q": "Vòng 9\nBài 2: Đi tìm kho báu\n1. Giá trị của y thỏa mãn: y + 27 = 72 là y = .......\n2. Tính 100 - 57 = ......\n3. 78 - 29 = ......\n4. Tìm a biết 100 - a = 37 a = ......\n5. 93 - a = 58 a = ......\n6.Hà có 55 viên bi, Hà cho em một số bi là số tự nhiên nhỏ nhất có 2 chữ số mà tổng các chữ\nsố của nó là 8. Hỏi Hà còn lại bao nhiêu viên bi? ........\n7.Thứ bảy tuần này là ngày 15? Hỏi thứ năm tuần sau là ngày bao nhiêu. ........\n8.Thứ sáu tuần này là ngày 27 ? Hỏi thứ bảy tuần trước là ngày bao nhiêu. ........\n9.Thứ ba tuần này là ngày 17? Hỏi thứ sáu tuần sau là ngày bao nhiêu. ........\n10.Trong đợt thi đua,lớp 2B có số bạn đạt điểm 10 là 1 số tự nhiên lớn nhất có 2 chữ số mà\ntổng của 2 số đó là 3.Số bạn đạt điểm 9 nhiều hơn số bạn đạt điểm 10\nlà 12 bạn.Hỏi lớp 2B có bao nhiêu bạn đạt điểm 9. Số bạn đạt điểm 9 là ........\n11, Số học sinh của lớp 2A là số tự nhiên lớn nhất có 2 chữ số mà tổng của 2 chữ số của nó là\n5.Biết số bạn học sinh nam là 28.Hỏi lớp 2A có bao nhiêu bạn học sinh nữ.Lớp 2A có số học\nsinh nữ là ..... bạn.\n12, y + 45 = 91 y = ........\n13, 100 - a = 86 a = ......\n14,Giá trị của a thỏa mãn: a + 58 = 82 là a = .......\n15,Giá trị của y thỏa mãn: y + 29 = 92 là y = .......\n16, Thái có một số kẹo là số tự nhiên lớn nhất có 2 chữ số và tổng 2 chữ số của nó là 7. Thái\ncho em của Thái 13 cái. Hỏi Thái còn lại bao nhiêu cái kẹo: .......",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 9",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 2: Đi tìm kho báu",
-      "id": "vio-2-0072"
-    },
-    {
-      "q": "Vòng 9\nBài 3:Hoàn thành phép tính:điền số thích hợp vào ô trống để được phép tính đúng.\n5 8 1 0 0 1 0 0 8\n+ - 4 - 2 + 2 9 - 2 8\n0 0 2 3 1 0 0 4\n5 5 2 3 7\n- 1 - 9 - 4 - 3 9 - 2 8\n3 6 2 8 2 7 5 7\nĐỀ THI VIOLYMPIC TOÁN 2 : Vòng 10",
-      "hint": "Gợi ý: Xác định dữ kiện còn thiếu ở chỗ trống, thử thay lại vào đề để kiểm tra phép tính hoặc điều kiện.",
-      "ch": "Vòng 9",
-      "chapter": 1,
-      "lv": 3,
-      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf",
-      "topic": "Bài 3: Hoàn thành phép tính:điền số thích hợp vào ô trống để được phép tính đúng.",
-      "id": "vio-2-0073"
+      "source": "violympic/bo-de-luyen-thi-violympic-toan-lop-2.pdf-cleaned-finalized",
+      "topic": "Bài 3: Điền kết quả thích hợp vào chỗ ..... - Câu 3"
     }
   ]
 }
