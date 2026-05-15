@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.15.7",
-  "updatedAt": "2026-05-15T14:11:47.803Z",
-  "note": "?nh ?? thi c? ???c ??ng g?i trong app; d? li?u GitHub d?ng ???ng d?n local exam-assets, GitHub ch? c?n upload ?nh m?i n?u c?.",
+  "contentVersion": "2026.05.15.8",
+  "updatedAt": "2026-05-15T20:26:41.272Z",
+  "note": "Sua de thi bi vo font/cong thuc bang anh trang goc dong goi trong app.",
   "latestAppVersion": "1.4.1",
   "appUpdate": {
     "android": {
