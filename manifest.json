@@ -1,42 +1,30 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.20.1",
-  "updatedAt": "2026-05-20T15:41:28.460Z",
-  "note": "Đồng bộ ngân hàng câu hỏi đã lọc trùng, thêm mẫu đếm xuôi/ngược và bài toán đồ vật; đồng bộ đề thi đã lọc trùng.",
-  "latestAppVersion": "1.4.13",
+  "contentVersion": "bundled-in-app-2026.05.21.1",
+  "updatedAt": "2026-05-20T17:31:06.790Z",
+  "note": "D? li?u c?u h?i ?? ??ng g?i trong app; th? m?c GitHub kh?ng c?ng khai ng?n h?ng c?u h?i.",
+  "latestAppVersion": "1.4.12",
   "appUpdate": {
     "android": {
-      "minVersion": "1.4.13",
-      "latestVersion": "1.4.13",
+      "minVersion": "1.4.12",
+      "latestVersion": "1.4.12",
       "url": "https://drive.google.com/drive/folders/11lPsbr69q81-LfgoayOpmlZvUhEgEJVx?usp=drive_link",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     },
     "windows": {
-      "minVersion": "1.4.13",
-      "latestVersion": "1.4.13",
+      "minVersion": "1.4.12",
+      "latestVersion": "1.4.12",
       "url": "https://drive.google.com/drive/folders/1xUGNVvC-IMhoID8yy-mY1ahZKcRMAbYH?usp=drive_link",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     },
     "ios": {
-      "minVersion": "1.4.13",
-      "latestVersion": "1.4.13",
+      "minVersion": "1.4.12",
+      "latestVersion": "1.4.12",
       "url": "",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     }
   },
-  "grades": {
-    "1": "data/grade-1.json",
-    "2": "data/grade-2.json",
-    "3": "data/grade-3.json",
-    "4": "data/grade-4.json",
-    "5": "data/grade-5.json",
-    "6": "data/grade-6.json",
-    "7": "data/grade-7.json",
-    "8": "data/grade-8.json",
-    "9": "data/grade-9.json",
-    "10": "data/grade-10.json",
-    "11": "data/grade-11.json",
-    "12": "data/grade-12.json"
-  }
+  "grades": {},
+  "bundledContentOnly": true
 }
