@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
   "app": "Hoc Toan Vui",
-  "contentVersion": "2026.05.17.12",
-  "updatedAt": "2026-05-17T06:53:18.426Z",
-  "note": "Rebuild lop 9 de thi tu anh trang goc, tach cau bang moc Cau/Bai/so thu tu.",
-  "latestAppVersion": "1.4.12",
+  "contentVersion": "2026.05.20.1",
+  "updatedAt": "2026-05-20T15:41:28.460Z",
+  "note": "Đồng bộ ngân hàng câu hỏi đã lọc trùng, thêm mẫu đếm xuôi/ngược và bài toán đồ vật; đồng bộ đề thi đã lọc trùng.",
+  "latestAppVersion": "1.4.13",
   "appUpdate": {
     "android": {
-      "minVersion": "1.4.12",
-      "latestVersion": "1.4.12",
+      "minVersion": "1.4.13",
+      "latestVersion": "1.4.13",
       "url": "https://drive.google.com/drive/folders/11lPsbr69q81-LfgoayOpmlZvUhEgEJVx?usp=drive_link",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     },
     "windows": {
-      "minVersion": "1.4.12",
-      "latestVersion": "1.4.12",
+      "minVersion": "1.4.13",
+      "latestVersion": "1.4.13",
       "url": "https://drive.google.com/drive/folders/1xUGNVvC-IMhoID8yy-mY1ahZKcRMAbYH?usp=drive_link",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     },
     "ios": {
-      "minVersion": "1.4.12",
-      "latestVersion": "1.4.12",
+      "minVersion": "1.4.13",
+      "latestVersion": "1.4.13",
       "url": "",
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     }
