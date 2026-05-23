@@ -25,6 +25,14 @@
       "message": "Vui lòng cập nhật phiên bản mới để tiếp tục sử dụng."
     }
   },
+  "analytics": {
+    "enabled": true,
+    "provider": "googleSheets",
+    "googleSheets": {
+      "url": "https://script.google.com/macros/s/AKfycbzWKML-UldJEr8F0N6QJVzC8rQI3UVWyJovUS34Twal_1iIVRlpz_uSE4my4IAgc2pU/exec",
+      "secret": ""
+    }
+  },
   "grades": {},
   "bundledContentOnly": true
 }
