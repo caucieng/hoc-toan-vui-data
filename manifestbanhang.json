@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appKey": "ban_hang_nhanh",
+  "app": "Ban Hang Nhanh",
+  "updatedAt": "2026-06-05T16:40:00Z",
+  "appUpdate": {
+    "android": {
+      "minVersion": "1.0.2",
+      "latestVersion": "1.0.3",
+      "url": "https://www.facebook.com/caucieng",
+      "message": "Hãy cập nhật phiên bản mới."
+    },
+    "windows": {
+      "minVersion": "1.0.2",
+      "latestVersion": "1.0.3",
+      "url": "https://www.facebook.com/caucieng",
+      "message": "Hãy cập nhật phiên bản mới."
+    },
+    "ios": {
+      "minVersion": "1.0.2",
+      "latestVersion": "1.0.3",
+      "url": "https://www.facebook.com/caucieng",
+      "message": "Hãy cập nhật phiên bản mới."
+    }
+  }
+}
