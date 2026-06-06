@@ -6,19 +6,25 @@
   "appUpdate": {
     "android": {
       "minVersion": "1.0.3",
+      "minBuild": 19,
       "latestVersion": "1.0.3",
+      "latestBuild": 19,
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "windows": {
       "minVersion": "1.0.3",
+      "minBuild": 19,
       "latestVersion": "1.0.3",
+      "latestBuild": 19,
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "ios": {
       "minVersion": "1.0.3",
+      "minBuild": 19,
       "latestVersion": "1.0.3",
+      "latestBuild": 19,
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
     }
