@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
   "appKey": "ban_hang_nhanh",
-  "app": "Ban Hang Nhanh",
-  "updatedAt": "2026-06-05T16:40:00Z",
+  "app": "Bán hàng nhanh",
+  "updatedAt": "2026-06-06T00:00:00Z",
   "appUpdate": {
     "android": {
       "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
-      "url": "https://www.facebook.com/caucieng",
+      "url": "LINK_TAI_APK_THAT",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "windows": {
       "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
-      "url": "https://www.facebook.com/caucieng",
+      "url": "LINK_TAI_SETUP_WINDOWS_THAT",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "ios": {
       "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
-      "url": "https://www.facebook.com/caucieng",
+      "url": "LINK_TESTFLIGHT_HOAC_APP_STORE",
       "message": "Hãy cập nhật phiên bản mới."
     }
   }
