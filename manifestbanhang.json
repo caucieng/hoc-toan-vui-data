@@ -5,19 +5,19 @@
   "updatedAt": "2026-06-05T16:40:00Z",
   "appUpdate": {
     "android": {
-      "minVersion": "1.0.4",
+      "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "windows": {
-      "minVersion": "1.0.4",
+      "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
     },
     "ios": {
-      "minVersion": "1.0.4",
+      "minVersion": "1.0.3",
       "latestVersion": "1.0.3",
       "url": "https://www.facebook.com/caucieng",
       "message": "Hãy cập nhật phiên bản mới."
