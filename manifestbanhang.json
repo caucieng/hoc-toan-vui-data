@@ -2,7 +2,7 @@
     "schemaVersion":  1,
     "appKey":  "ban_hang_nhanh",
     "app":  "Bán hàng nhanh",
-    "updatedAt":  "2026-06-08T12:20:33Z",
+    "updatedAt":  "2026-06-08T15:47:24Z",
     "appUpdate":  {
                       "android":  {
                                       "minVersion":  "1.0.5",
@@ -33,7 +33,7 @@
                       "enabled":  true,
                       "provider":  "googleSheets",
                       "googleSheets":  {
-                                           "url":  "https://script.google.com/macros/s/AKfycbzWKML-UldJEr8F0N6QJVzC8rQI3UVWyJovUS34Twal_1iIVRlpz_uSE4my4IAgc2pU/exec",
+                                           "url":  "https://script.google.com/macros/s/AKfycbw13_xnkneeR5w5Owsnc62MStUJH2SRO880NUH0kwHJjrmfTLQWesLSWCP0Mi2GmVn2/exec",
                                            "secret":  ""
                                        }
                   }
