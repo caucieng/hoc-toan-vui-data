@@ -2,31 +2,31 @@
     "schemaVersion":  1,
     "appKey":  "ban_hang_nhanh",
     "app":  "Bán hàng nhanh",
-    "updatedAt":  "2026-06-08T15:47:24Z",
+    "updatedAt":  "2026-06-08T16:31:29Z",
     "appUpdate":  {
                       "android":  {
                                       "minVersion":  "1.0.5",
                                       "minBuild":  21,
-                                      "latestVersion":  "1.0.5",
-                                      "latestBuild":  21,
+                                      "latestVersion":  "1.0.7",
+                                      "latestBuild":  23,
                                       "url":  "https://www.facebook.com/caucieng",
-                                      "message":  "Hãy cập nhật phiên bản mới để sửa tự động đồng bộ Android/iPhone và lưu tên cửa hàng."
+                                      "message":  "Có bản mới cải thiện xử lý reset dữ liệu nhiều máy và đồng bộ an toàn hơn."
                                   },
                       "windows":  {
                                       "minVersion":  "1.0.5",
                                       "minBuild":  21,
-                                      "latestVersion":  "1.0.5",
-                                      "latestBuild":  21,
+                                      "latestVersion":  "1.0.7",
+                                      "latestBuild":  23,
                                       "url":  "https://www.facebook.com/caucieng",
-                                      "message":  "Hãy cập nhật phiên bản mới để sửa tự động đồng bộ Android/iPhone và lưu tên cửa hàng."
+                                      "message":  "Có bản mới cải thiện xử lý reset dữ liệu nhiều máy và đồng bộ an toàn hơn."
                                   },
                       "ios":  {
                                   "minVersion":  "1.0.5",
                                   "minBuild":  21,
-                                  "latestVersion":  "1.0.5",
-                                  "latestBuild":  21,
+                                  "latestVersion":  "1.0.7",
+                                  "latestBuild":  23,
                                   "url":  "https://www.facebook.com/caucieng",
-                                  "message":  "Hãy cập nhật phiên bản mới để sửa tự động đồng bộ Android/iPhone và lưu tên cửa hàng."
+                                  "message":  "Có bản mới cải thiện xử lý reset dữ liệu nhiều máy và đồng bộ an toàn hơn."
                               }
                   },
     "analytics":  {
