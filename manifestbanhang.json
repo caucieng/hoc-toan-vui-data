@@ -2,31 +2,31 @@
     "schemaVersion":  1,
     "appKey":  "ban_hang_nhanh",
     "app":  "Bán hàng nhanh",
-    "updatedAt":  "2026-06-08T17:20:58Z",
+    "updatedAt":  "2026-06-08T17:41:38Z",
     "appUpdate":  {
                       "android":  {
-                                      "minVersion":  "1.0.9",
-                                      "minBuild":  25,
-                                      "latestVersion":  "1.0.9",
-                                      "latestBuild":  25,
+                                      "minVersion":  "1.0.10",
+                                      "minBuild":  26,
+                                      "latestVersion":  "1.0.10",
+                                      "latestBuild":  26,
                                       "url":  "https://www.facebook.com/caucieng",
-                                      "message":  "Có bản mới ẩn popup đồng bộ tự động, app vẫn tự đồng bộ nền khi mở app, thoát app và mỗi 10 phút."
+                                      "message":  "Có bản mới sửa đồng bộ lệnh xóa dữ liệu giữa Windows, Android và iPhone."
                                   },
                       "windows":  {
-                                      "minVersion":  "1.0.9",
-                                      "minBuild":  25,
-                                      "latestVersion":  "1.0.9",
-                                      "latestBuild":  25,
+                                      "minVersion":  "1.0.10",
+                                      "minBuild":  26,
+                                      "latestVersion":  "1.0.10",
+                                      "latestBuild":  26,
                                       "url":  "https://www.facebook.com/caucieng",
-                                      "message":  "Có bản mới ẩn popup đồng bộ tự động, app vẫn tự đồng bộ nền khi mở app, thoát app và mỗi 10 phút."
+                                      "message":  "Có bản mới sửa đồng bộ lệnh xóa dữ liệu giữa Windows, Android và iPhone."
                                   },
                       "ios":  {
-                                  "minVersion":  "1.0.9",
-                                  "minBuild":  25,
-                                  "latestVersion":  "1.0.9",
-                                  "latestBuild":  25,
+                                  "minVersion":  "1.0.10",
+                                  "minBuild":  26,
+                                  "latestVersion":  "1.0.10",
+                                  "latestBuild":  26,
                                   "url":  "https://www.facebook.com/caucieng",
-                                  "message":  "Có bản mới ẩn popup đồng bộ tự động, app vẫn tự đồng bộ nền khi mở app, thoát app và mỗi 10 phút."
+                                  "message":  "Có bản mới sửa đồng bộ lệnh xóa dữ liệu giữa Windows, Android và iPhone."
                               }
                   },
     "analytics":  {
